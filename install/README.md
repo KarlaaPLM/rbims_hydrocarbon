@@ -24,8 +24,8 @@ conda install -c conda-forge ruby
 conda install -c conda-forge -c bioconda -c defaults kofamscan
 ```
 
-Get the database and configure it
-This instructions were taken from the official [site](https://github.com/takaram/kofam_scan)
+Get the database and configure it.
+(This instructions were taken from the official [site](https://github.com/takaram/kofam_scan))
 
 Download database
 
@@ -41,32 +41,62 @@ cd ../../
 Config inside the bin directory
 
 ```bash
-nano /axolote/diana/.conda/envs/rbimsenv/bin/config.yml
+nano /PATH to USER or SYSTEM/.conda/envs/rbimsenv/bin/config.yml
 ```
 
 ```bash
 # Path to your KO-HMM database
 # A database can be a .hmm file, a .hal file or a directory in which
 # .hmm files are. Omit the extension if it is .hal or .hmm file
-profile: /axolote/USER/rbims_hydrocarbon/install/DBs/kegg/profiles
+profile: /PATH to/USER/rbims_hydrocarbon/install/DBs/kegg/profiles
 
 # Path to the KO list file
-ko_list: /axolote/USER/rbims_hydrocarbon/install/DBs/kegg/ko_list
+ko_list: /PATH to/USER/rbims_hydrocarbon/install/DBs/kegg/ko_list
 
 # Path to an executable file of hmmsearch
 # You do not have to set this if it is in your $PATH
-hmmsearch: /axolote/USER/.conda/envs/rbimsenv/bin/hmmsearch
+hmmsearch: /PATH to/USER/.conda/envs/rbimsenv/bin/hmmsearch
 
 # Path to an executable file of GNU parallel
 # You do not have to set this if it is in your $PATH
-parallel: /axolote/USER/.conda/envs/rbimsenv/bin/parallel
+parallel: /PATH to/USER/.conda/envs/rbimsenv/bin/parallel
 
 # Number of hmmsearch processes to be run parallelly
 cpu: 8
 ```
 
+## Step 04. Install InterProScan
 
+Install Java v11
 
+```bash
+conda install -c conda-forge openjdk=11
+```
+
+Get the database and configure it.
+(This instructions were taken from the official [site](https://interproscan-docs.readthedocs.io/en/v5/HowToDownload.html))
+
+Download Database
+
+```bash
+cd DBs/iprscan/
+wget https://ftp.ebi.ac.uk/pub/software/unix/iprscan/5/5.73-104.0/interproscan-5.73-104.0-64-bit.tar.gz
+wget https://ftp.ebi.ac.uk/pub/software/unix/iprscan/5/5.73-104.0/interproscan-5.73-104.0-64-bit.tar.gz.md5
+# Recommended checksum to confirm the download was successful:
+md5sum -c interproscan-5.73-104.0-64-bit.tar.gz.md5
+# Must return *interproscan-5.73-104.0-64-bit.tar.gz: OK*
+# If not - try downloading the file again as it may be a corrupted copy.
+tar -pxvzf interproscan-5.73-104.0-*-bit.tar.gz
+```
+Create index models
+
+```python
+python3 setup.py -f interproscan.properties
+```
+
+## Step 05. Install MEROPS
+
+Install blast
 ```bash
 #merops blast
 conda install bioconda::blast
