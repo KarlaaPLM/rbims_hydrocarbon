@@ -94,6 +94,16 @@ Create index models
 python3 setup.py -f interproscan.properties
 ```
 
+Config IprScan inside environment, export PATH
+
+```bash
+# export iprscan to activate environment 
+echo 'export PATH=/PATH to USER Interpro binary directory/DBs/iprscan/interproscan-5.73-104.0:$PATH' > $CONDA_PREFIX/etc/conda/activate.d/interproscan_activate.sh
+
+# export iprscan to deactivate environment
+echo 'export PATH=${PATH//\/to\/USER interpro binary directory\/rbims_hydrocarbon\/install\/DBs\/iprscan\/interproscan-5.73-104.0:/}' > $CONDA_PREFIX/etc/conda/deactivate.d/interproscan_deactivate.sh
+```
+
 ## Step 05. Install MEROPS
 
 Install blast
