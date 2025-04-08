@@ -140,6 +140,12 @@ Install blast
 conda install bioconda::blast
 ```
 
+### Step 07. Install RBims
+
+```bash
+Rscript -e "devtools::install_github('mirnavazquez/RbiMs')"
+```
+
 ## Running
 
 ### InterProScan
@@ -148,11 +154,16 @@ conda install bioconda::blast
 Process all `.faa` protein files from the test dataset and save the results in the specified output directory.
 
 ```bash
+# Create output directory for InterProScan results
 mkdir -p test/results/01.iprscan
 
-for faa in $(ls test/data/faa/*.faa); do
-  interproscan.sh -i $faa -cpu 8 -d test/results/01.iprscan
+# Run InterProScan on each .faa file in the input directory
+for faa in test/data/faa/*.faa; do
+  echo "Processing $faa ..."
+  interproscan.sh -i "$faa" -cpu 28 -d test/results/01.iprscan
 done
+
+echo "InterProScan analysis completed. Results are in test/results/01.iprscan/"
 ```
 
 🔧 Parameters:
@@ -258,3 +269,95 @@ Output formats:
 
 - `.txt`: Annotation results per protein FASTA file
 - `.tmp/`: Temporary directory with intermediate KofamScan files
+
+### dbCAN
+
+🧩 Example: Run dbCAN (run_dbcan) on multiple .faa files
+
+```bash
+# Create output directory for dbCAN results
+mkdir -p test/results/03.dbcan
+
+# Define database directory
+db="DBs/cazy/run_dbcan/db"
+
+# Run dbCAN on each .faa file in the input directory
+for faa in test/data/faa/*.faa; do
+  locustag=$(basename "$faa" .faa)
+  echo "Processing $locustag ..."
+  
+  run_dbcan "$faa" protein \
+    --dia_cpu 20 --hmm_cpu 20 \
+    --tf_cpu 20 --stp_cpu 20 \
+    --out_pre "$locustag" \
+    --out_dir "test/results/03.dbcan/$locustag" \
+    --db_dir "$db" --tools all \
+    --use_signalP=TRUE
+done
+echo "dbCAN analysis completed. Results are in $out/"
+```
+
+🔧 Parameters:
+
+- `--dia_cpu`, `--hmm_cpu`, `--tf_cpu`, `--stp_cpu`: Number of CPU threads for each dbCAN module
+
+- `--out_pre`: Prefix for output files
+
+- `--out_dir`: Output directory
+
+- `--db_dir`: Path to the dbCAN database
+
+- `--tools all`: Run all available tools
+
+- `--use_signalP=TRUE`: Enable SignalP for signal peptide prediction
+
+Input:
+
+```bash
+test/data/faa/
+├── sample1.faa
+├── sample2.faa
+├── sample3.faa
+└── ...
+```
+
+Output:
+
+```bash
+test/results/03.dbcan/
+├── sample1/
+│   ├── sample1dbcan-sub.hmm.out
+│   ├── sample1diamond.out
+│   ├── sample1hmmer.out
+│   ├── sample1overview.txt
+│   ├── sample1signalp.out
+│   └── sample1uniInput
+├── sample2/
+│   ├── sample2dbcan-sub.hmm.out
+│   ├── sample2diamond.out
+│   ├── sample2hmmer.out
+│   ├── sample2overview.txt
+│   ├── sample2signalp.out
+│   └── sample2uniInput
+└── ...
+```
+
+Output formats:
+
+- `dbcan-sub.hmm.out`: Sub HMM output for CAZy families
+- `diamond.out`: DIAMOND alignment output
+- `hmmer.out`: HMMER output
+- `overview.txt`: Summary of annotations
+- `signalp.out`: SignalP prediction results
+- `uniInput`: Unified input file for dbCAN pipeline
+
+💡 Tip:
+The parameters used in this script are optional and provide a more complete annotation.
+However, for the purposes of rbims, the following simpler command is sufficient:
+|```bash
+|	run_dbcan <input.faa> protein --out_dir <output_directory> --use_signalP=TRUE
+|```
+
+Adjust the number of CPUs and paths according to your environment.
+Make sure to replace `DBs/cazy/run_dbcan/db` with the actual path to your dbCAN database.
+The script will automatically process all `.faa` files in the input folder.
