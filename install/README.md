@@ -138,6 +138,10 @@ Install blast
 ```bash
 #merops blast
 conda install bioconda::blast
+# download database
+cd DBs/merops/
+wget https://ftp.ebi.ac.uk/pub/databases/merops/current_release/protease.lib
+makeblastdb -in protease.lib -dbtype prot -out merops_db
 ```
 
 ### Step 07. Install RBims
@@ -147,6 +151,11 @@ Rscript -e "devtools::install_github('mirnavazquez/RbiMs')"
 ```
 
 ## Running
+
+⚠️ Important Note:
+The following scripts are practical examples to guide the usage of each tool in this workflow.
+They do not replace the official documentation or user manuals of each program.
+Please refer to the official manuals for advanced options, detailed explanations and cite these programs.
 
 ### InterProScan
 
@@ -354,10 +363,60 @@ Output formats:
 💡 Tip:
 The parameters used in this script are optional and provide a more complete annotation.
 However, for the purposes of rbims, the following simpler command is sufficient:
-|```bash
-|	run_dbcan <input.faa> protein --out_dir <output_directory> --use_signalP=TRUE
-|```
+```bash
+run_dbcan <input.faa> protein --out_dir <output_directory> --use_signalP=TRUE
+```
 
 Adjust the number of CPUs and paths according to your environment.
 Make sure to replace `DBs/cazy/run_dbcan/db` with the actual path to your dbCAN database.
 The script will automatically process all `.faa` files in the input folder.
+
+### MEROPS
+
+🧩 Example: Run MEROPS (BLASTp) on multiple .faa files
+This script runs BLASTp using the MEROPS protease database on all .faa protein files in your input directory, and outputs the results to a dedicated directory.
+
+```bash
+# Create output directory for MEROPS results
+mkdir -p test/results/04.merops
+
+# Define MEROPS database path (make sure it is prepared with makeblastdb)
+db="DBs/merops/merops_db"
+
+# Run BLASTp on each .faa file in the input directory
+for faa in test/data/faa/*.faa; do
+  locustag=$(basename "$faa" .faa)
+  echo "Processing $locustag ..."
+  
+  blastp -query "$faa" \
+    -db "$db" \
+    -num_threads 32 \
+    -out "test/results/04.merops/${locustag}.txt" \
+    -outfmt 6
+done
+
+echo "MEROPS BLASTp analysis completed. Results are in $out/"
+```
+🔧 Parameters:
+
+- `-query`: Input protein FASTA file
+
+- `-db`: Path to the prepared MEROPS BLAST database
+
+- `-num_threads`: Number of CPU threads
+
+- `-out`: Output file for results
+
+- `-outfmt 6`: Tabular output format for easy downstream parsing
+
+Output:
+
+```bash
+test/results/04.merops/
+├── sample1.txt
+├── sample2.txt
+├── sample3.txt
+└── ...
+```
+💡 Tip:Adjust the number of CPUs according to your available resources.
+The script will automatically process all .faa files in the input folder.
