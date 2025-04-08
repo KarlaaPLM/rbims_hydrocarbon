@@ -43,7 +43,7 @@ digraph workflow {
     label = 'Annotation Workflows'
     color = white
     style = invis;
-    node [fillcolor = lightgreen, fontcolor = black]
+    node [fillcolor = mediumpurple1, fontcolor = black]
     interpro [label = 'Run InterProScan']
     kofam [label = 'Run KofamScan']
     dbcan [label = 'Run dbCAN']
