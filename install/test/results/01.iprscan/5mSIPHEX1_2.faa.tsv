@@ -1,0 +1,193 @@
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Gene3D	G3DSA:3.40.50.300	-	343	545	2.6E-69	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	ProSitePatterns	PS00870	Chaperonins clpA/B signature 1.	293	305	-	T	08-04-2025	IPR018368	ClpA/B, conserved site 1	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	FunFam	G3DSA:3.40.50.300:FF:000025	ATP-dependent Clp protease subunit	551	764	2.6E-109	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Pfam	PF17871	AAA lid domain	341	443	2.3E-31	T	08-04-2025	IPR041546	ClpA/ClpB, AAA lid domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Gene3D	G3DSA:1.10.1780.10	-	1	147	1.4E-32	T	08-04-2025	IPR036628	Clp, N-terminal domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	FunFam	G3DSA:3.40.50.300:FF:000120	ATP-dependent chaperone ClpB	342	545	1.6E-79	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	SUPERFAMILY	SSF81923	Double Clp-N motif	4	155	1.08E-33	T	08-04-2025	IPR036628	Clp, N-terminal domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Gene3D	G3DSA:3.40.50.300	-	148	341	7.0E-82	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Pfam	PF07724	AAA domain (Cdc48 subfamily)	597	759	7.8E-66	T	08-04-2025	IPR003959	ATPase, AAA-type, core	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Coils	Coil	Coil	433	460	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	NCBIfam	TIGR03346	ATP-dependent chaperone ClpB	6	855	0.0	T	08-04-2025	IPR017730	Chaperonin ClpB	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	CDD	cd00009	AAA	180	340	7.34692E-18	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	158	546	1.49E-96	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	547	855	3.45E-81	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	FunFam	G3DSA:1.10.8.60:FF:000017	ATP-dependent chaperone ClpB	766	858	1.2E-29	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	ProSitePatterns	PS00871	Chaperonins clpA/B signature 2.	632	650	-	T	08-04-2025	IPR028299	ClpA/B, conserved site 2	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Gene3D	G3DSA:1.10.8.60	-	766	861	2.1E-28	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Gene3D	G3DSA:3.40.50.300	-	550	764	9.0E-90	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	ProSiteProfiles	PS51903	Clp repeat (R) domain profile.	3	145	37.758007	T	08-04-2025	IPR004176	Clp, repeat (R) domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Coils	Coil	Coil	468	491	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	FunFam	G3DSA:3.40.50.300:FF:000010	Chaperone clpB 1, putative	148	341	3.5E-101	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Pfam	PF00004	ATPase family associated with various cellular activities (AAA)	202	334	5.0E-9	T	08-04-2025	IPR003959	ATPase, AAA-type, core	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	SMART	SM00382	AAA_5	197	342	1.3E-11	T	08-04-2025	IPR003593	AAA+ ATPase domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	SMART	SM00382	AAA_5	598	741	1.1E-10	T	08-04-2025	IPR003593	AAA+ ATPase domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Coils	Coil	Coil	411	431	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Pfam	PF10431	C-terminal, D2-small domain, of ClpB protein	766	844	1.5E-22	T	08-04-2025	IPR019489	Clp ATPase, C-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	PANTHER	PTHR11638	ATP-DEPENDENT CLP PROTEASE	10	855	0.0	T	08-04-2025	IPR050130	ATP-dependent Clp protease/Chaperone ClpA/ClpB	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Coils	Coil	Coil	153	173	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	PRINTS	PR00300	ATP-dependent Clp protease ATP-binding subunit signature	602	620	3.0E-41	T	08-04-2025	IPR001270	ClpA/B family	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	PRINTS	PR00300	ATP-dependent Clp protease ATP-binding subunit signature	647	665	3.0E-41	T	08-04-2025	IPR001270	ClpA/B family	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	PRINTS	PR00300	ATP-dependent Clp protease ATP-binding subunit signature	676	694	3.0E-41	T	08-04-2025	IPR001270	ClpA/B family	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	PRINTS	PR00300	ATP-dependent Clp protease ATP-binding subunit signature	709	723	3.0E-41	T	08-04-2025	IPR001270	ClpA/B family	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	SMART	SM01086	ClpB_D2_small_2	766	855	6.8E-36	T	08-04-2025	IPR019489	Clp ATPase, C-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Pfam	PF02861	Clp amino terminal domain, pathogenicity island component	97	144	0.0017	T	08-04-2025	IPR004176	Clp, repeat (R) domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	Pfam	PF02861	Clp amino terminal domain, pathogenicity island component	17	67	6.0E-6	T	08-04-2025	IPR004176	Clp, repeat (R) domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_8	037be29d901cb4f074474389dabfe528	864	CDD	cd19499	RecA-like_ClpB_Hsp104-like	559	763	5.44299E-108	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_2	1ef6ee0b74e16dbbd795a7a8c0692b39	310	PANTHER	PTHR43245	BIFUNCTIONAL POLYMYXIN RESISTANCE PROTEIN ARNA	7	302	1.3E-27	T	08-04-2025	IPR050177	Bifunctional lipid A modification and metabolic enzymes	-	-
+5mSIPHEX1_2-scaffold_122_c1_2	1ef6ee0b74e16dbbd795a7a8c0692b39	310	SUPERFAMILY	SSF51735	NAD(P)-binding Rossmann-fold domains	6	306	1.9E-46	T	08-04-2025	IPR036291	NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_2	1ef6ee0b74e16dbbd795a7a8c0692b39	310	Pfam	PF01370	NAD dependent epimerase/dehydratase family	9	220	1.7E-25	T	08-04-2025	IPR001509	NAD-dependent epimerase/dehydratase	-	-
+5mSIPHEX1_2-scaffold_122_c1_2	1ef6ee0b74e16dbbd795a7a8c0692b39	310	Gene3D	G3DSA:3.40.50.720	-	8	304	1.5E-48	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_1	a5cb4d7e4e20be3aa49c3b9f2f48451f	183	Pfam	PF02397	Bacterial sugar transferase	3	172	2.4E-43	T	08-04-2025	IPR003362	Bacterial sugar transferase	-	-
+5mSIPHEX1_2-scaffold_122_c1_1	a5cb4d7e4e20be3aa49c3b9f2f48451f	183	PANTHER	PTHR30576	COLANIC BIOSYNTHESIS UDP-GLUCOSE LIPID CARRIER TRANSFERASE	2	173	8.7E-50	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_17	c38b8f8c5f460bef2037ff64c6013e7d	231	CDD	cd18722	PIN_NicB-like	8	176	1.5821E-22	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_17	c38b8f8c5f460bef2037ff64c6013e7d	231	MobiDBLite	mobidb-lite	consensus disorder prediction	174	194	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_17	c38b8f8c5f460bef2037ff64c6013e7d	231	Gene3D	G3DSA:3.40.50.1010	-	7	197	3.6E-17	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	PANTHER	PTHR18968	THIAMINE PYROPHOSPHATE ENZYMES	46	607	9.2E-199	T	08-04-2025	IPR045229	Thiamine pyrophosphate enzyme	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	Pfam	PF00205	Thiamine pyrophosphate enzyme, central domain	238	371	1.1E-45	T	08-04-2025	IPR012000	Thiamine pyrophosphate enzyme, central domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	SUPERFAMILY	SSF52518	Thiamin diphosphate-binding fold (THDP-binding)	44	224	1.4E-65	T	08-04-2025	IPR029061	Thiamin diphosphate-binding fold	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	SUPERFAMILY	SSF52518	Thiamin diphosphate-binding fold (THDP-binding)	415	603	9.13E-69	T	08-04-2025	IPR029061	Thiamin diphosphate-binding fold	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	CDD	cd07035	TPP_PYR_POX_like	50	205	1.67186E-74	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	Pfam	PF02776	Thiamine pyrophosphate enzyme, N-terminal TPP binding domain	47	160	3.4E-39	T	08-04-2025	IPR012001	Thiamine pyrophosphate enzyme, N-terminal TPP-binding domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	FunFam	G3DSA:3.40.50.970:FF:000007	Acetolactate synthase	41	225	4.1E-74	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	NCBIfam	NF005058	acetolactate synthase 3 large subunit	43	619	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	FunFam	G3DSA:3.40.50.970:FF:000016	Acetolactate synthase	404	599	3.5E-73	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	CDD	cd02015	TPP_AHAS	417	606	2.41398E-107	T	08-04-2025	IPR039368	Acetolactate synthase large subunit, TPP binding domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	NCBIfam	TIGR00118	biosynthetic-type acetolactate synthase large subunit	46	613	2.4E-248	T	08-04-2025	IPR012846	Acetolactate synthase, large subunit, biosynthetic	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	Gene3D	G3DSA:3.40.50.970	-	404	589	1.6E-127	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	FunFam	G3DSA:3.40.50.1220:FF:000008	Acetolactate synthase	232	403	2.5E-61	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	Pfam	PF02775	Thiamine pyrophosphate enzyme, C-terminal TPP binding domain	439	589	2.0E-49	T	08-04-2025	IPR011766	Thiamine pyrophosphate enzyme, TPP-binding	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	Gene3D	G3DSA:3.40.50.970	-	39	224	7.2E-64	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	SUPERFAMILY	SSF52467	DHS-like NAD/FAD-binding domain	231	402	3.47E-64	T	08-04-2025	IPR029035	DHS-like NAD/FAD-binding domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_6	ae5b0e96af2075246f4357a9fac81eb5	619	Gene3D	G3DSA:3.40.50.1220	-	238	403	1.6E-127	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c2_1	21f1da30716308e52480012ce4787d45	81	MobiDBLite	mobidb-lite	consensus disorder prediction	48	81	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c2_1	21f1da30716308e52480012ce4787d45	81	MobiDBLite	mobidb-lite	consensus disorder prediction	51	81	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_19	69834956b82ca852e7baa49df01bdce5	230	MobiDBLite	mobidb-lite	consensus disorder prediction	109	131	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_19	69834956b82ca852e7baa49df01bdce5	230	MobiDBLite	mobidb-lite	consensus disorder prediction	1	34	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_19	69834956b82ca852e7baa49df01bdce5	230	MobiDBLite	mobidb-lite	consensus disorder prediction	1	38	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	ProSiteProfiles	PS50889	S4 RNA-binding domain profile.	18	90	10.359906	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	SUPERFAMILY	SSF55120	Pseudouridine synthase	75	312	4.32E-74	T	08-04-2025	IPR020103	Pseudouridine synthase, catalytic domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	Pfam	PF00849	RNA pseudouridylate synthase	91	242	6.1E-29	T	08-04-2025	IPR006145	Pseudouridine synthase, RsuA/RluA-like	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	NCBIfam	TIGR00005	RluA family pseudouridine synthase	15	311	9.1E-89	T	08-04-2025	IPR006225	Pseudouridine synthase, RluC/RluD	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	CDD	cd00165	S4	18	96	4.57467E-5	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	CDD	cd02869	PseudoU_synth_RluA_like	92	286	7.09352E-70	T	08-04-2025	IPR006145	Pseudouridine synthase, RsuA/RluA-like	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	ProSitePatterns	PS01129	Rlu family of pseudouridine synthase signature.	134	148	-	T	08-04-2025	IPR006224	Pseudouridine synthase, RluA-like, conserved site	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	Gene3D	G3DSA:3.10.290.10	-	3	74	1.0E-15	T	08-04-2025	IPR036986	RNA-binding S4 domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	FunFam	G3DSA:3.30.2350.10:FF:000006	Pseudouridine synthase	84	315	9.8E-96	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	NCBIfam	NF008385	23S rRNA pseudouridine(1911/1915/1917) synthase RluD	1	315	1.2E-123	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	PANTHER	PTHR21600	MITOCHONDRIAL RNA PSEUDOURIDINE SYNTHASE	16	309	8.6E-56	T	08-04-2025	IPR050188	RluA Pseudouridine Synthase	-	-
+5mSIPHEX1_2-scaffold_122_c1_10	8ba1de458e7d1a79f761084620b1a313	318	Gene3D	G3DSA:3.30.2350.10	Pseudouridine synthase	84	315	1.4E-72	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_12	ebbabdc49db944582dae90494a66a710	178	Gene3D	G3DSA:3.40.630.30	-	6	173	1.9E-24	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_12	ebbabdc49db944582dae90494a66a710	178	ProSiteProfiles	PS51186	Gcn5-related N-acetyltransferase (GNAT) domain profile.	1	148	14.0975	T	08-04-2025	IPR000182	GNAT domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_12	ebbabdc49db944582dae90494a66a710	178	SUPERFAMILY	SSF55729	Acyl-CoA N-acyltransferases (Nat)	1	137	6.1E-21	T	08-04-2025	IPR016181	Acyl-CoA N-acyltransferase	-	-
+5mSIPHEX1_2-scaffold_122_c1_12	ebbabdc49db944582dae90494a66a710	178	CDD	cd04301	NAT_SF	53	109	1.23275E-7	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_12	ebbabdc49db944582dae90494a66a710	178	Pfam	PF13527	Acetyltransferase (GNAT) domain	3	131	8.9E-5	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_11	e03a02fd0ddaad8ca78c20982f16ee82	300	Gene3D	G3DSA:1.25.40.10	Tetratricopeptide repeat domain	16	253	1.1E-61	T	08-04-2025	IPR011990	Tetratricopeptide-like helical domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_11	e03a02fd0ddaad8ca78c20982f16ee82	300	Hamap	MF_00922	Outer membrane protein assembly factor BamD [bamD].	1	238	35.90041	T	08-04-2025	IPR017689	Outer membrane protein assembly factor BamD	-	-
+5mSIPHEX1_2-scaffold_122_c1_11	e03a02fd0ddaad8ca78c20982f16ee82	300	CDD	cd15830	BamD	27	238	3.68078E-91	T	08-04-2025	IPR017689	Outer membrane protein assembly factor BamD	-	-
+5mSIPHEX1_2-scaffold_122_c1_11	e03a02fd0ddaad8ca78c20982f16ee82	300	SUPERFAMILY	SSF48452	TPR-like	39	115	3.38E-8	T	08-04-2025	IPR011990	Tetratricopeptide-like helical domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_11	e03a02fd0ddaad8ca78c20982f16ee82	300	Pfam	PF13525	Outer membrane lipoprotein	25	230	9.8E-64	T	08-04-2025	IPR039565	Outer membrane lipoprotein BamD-like	-	-
+5mSIPHEX1_2-scaffold_122_c1_11	e03a02fd0ddaad8ca78c20982f16ee82	300	PANTHER	PTHR37423	SOLUBLE LYTIC MUREIN TRANSGLYCOSYLASE-RELATED	9	213	2.8E-12	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_11	e03a02fd0ddaad8ca78c20982f16ee82	300	MobiDBLite	mobidb-lite	consensus disorder prediction	275	300	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_11	e03a02fd0ddaad8ca78c20982f16ee82	300	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	18	5.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_11	e03a02fd0ddaad8ca78c20982f16ee82	300	NCBIfam	TIGR03302	outer membrane protein assembly factor BamD	5	241	1.1E-73	T	08-04-2025	IPR017689	Outer membrane protein assembly factor BamD	-	-
+5mSIPHEX1_2-scaffold_122_c1_3	c55d1981d6362d11588de9a62c3d4052	272	NCBIfam	TIGR00473	CDP-diacylglycerol--serine O-phosphatidyltransferase	57	217	6.9E-33	T	08-04-2025	IPR004533	CDP-diacylglycerol--serine O-phosphatidyltransferase	-	-
+5mSIPHEX1_2-scaffold_122_c1_3	c55d1981d6362d11588de9a62c3d4052	272	ProSitePatterns	PS00379	CDP-alcohol phosphatidyltransferases signature.	92	114	-	T	08-04-2025	IPR048254	CDP-alcohol phosphatidyltransferase, conserved site	-	-
+5mSIPHEX1_2-scaffold_122_c1_3	c55d1981d6362d11588de9a62c3d4052	272	Pfam	PF01066	CDP-alcohol phosphatidyltransferase	50	204	1.6E-18	T	08-04-2025	IPR000462	CDP-alcohol phosphatidyltransferase	-	-
+5mSIPHEX1_2-scaffold_122_c1_3	c55d1981d6362d11588de9a62c3d4052	272	Gene3D	G3DSA:1.20.120.1760	-	44	217	5.6E-24	T	08-04-2025	IPR043130	CDP-alcohol phosphatidyltransferase, transmembrane domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_3	c55d1981d6362d11588de9a62c3d4052	272	PANTHER	PTHR14269	CDP-DIACYLGLYCEROL--GLYCEROL-3-PHOSPHATE 3-PHOSPHATIDYLTRANSFERASE-RELATED	43	246	4.3E-13	T	08-04-2025	IPR050324	CDP-alcohol phosphatidyltransferase class-I	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	Gene3D	G3DSA:3.30.70.260	-	1	79	9.9E-33	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	Pfam	PF10369	Small subunit of acetolactate synthase	84	157	3.8E-23	T	08-04-2025	IPR019455	Acetolactate synthase, small subunit, C-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	NCBIfam	NF008864	acetolactate synthase small subunit	1	161	2.1E-61	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	NCBIfam	TIGR00119	acetolactate synthase small subunit	1	158	7.9E-57	T	08-04-2025	IPR004789	Acetolactate synthase, small subunit	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	ProSiteProfiles	PS51671	ACT domain profile.	4	78	16.100193	T	08-04-2025	IPR002912	ACT domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	SUPERFAMILY	SSF55021	ACT-like	2	76	4.81E-21	T	08-04-2025	IPR045865	ACT-like domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	CDD	cd04878	ACT_AHAS	3	72	2.25528E-26	T	08-04-2025	IPR039557	AHAS, ACT domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	FunFam	G3DSA:3.30.70.260:FF:000001	Acetolactate synthase, small subunit	1	79	4.1E-31	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	PANTHER	PTHR30239	ACETOLACTATE SYNTHASE SMALL SUBUNIT	2	158	1.4E-47	T	08-04-2025	IPR004789	Acetolactate synthase, small subunit	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	Pfam	PF22629	AHAS small subunit-like ACT domain	6	72	8.3E-17	T	08-04-2025	IPR054480	Acetolactate synthase small subunit-like, ACT domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	SUPERFAMILY	SSF55021	ACT-like	79	162	1.98E-25	T	08-04-2025	IPR045865	ACT-like domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	Gene3D	G3DSA:3.30.70.1150	-	83	163	8.7E-30	T	08-04-2025	IPR027271	Acetolactate synthase/Transcription factor NikR, C-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_5	a4b6f228f279d8d2cd80107c6632660a	163	FunFam	G3DSA:3.30.70.1150:FF:000001	Acetolactate synthase small subunit	83	159	2.8E-27	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	Pfam	PF00072	Response regulator receiver domain	6	115	5.5E-26	T	08-04-2025	IPR001789	Signal transduction response regulator, receiver domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	Gene3D	G3DSA:1.10.8.60	-	304	379	1.3E-23	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	Gene3D	G3DSA:1.10.10.60	-	381	443	2.9E-14	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	PRINTS	PR01590	FIS bacterial regulatory protein HTH signature	403	420	2.4E-11	T	08-04-2025	IPR002197	DNA binding HTH domain, Fis-type	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	PRINTS	PR01590	FIS bacterial regulatory protein HTH signature	420	440	2.4E-11	T	08-04-2025	IPR002197	DNA binding HTH domain, Fis-type	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	SUPERFAMILY	SSF46689	Homeodomain-like	347	440	1.79E-16	T	08-04-2025	IPR009057	Homedomain-like superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	CDD	cd00009	AAA	152	297	1.23552E-19	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	SUPERFAMILY	SSF52172	CheY-like	1	176	1.1E-41	T	08-04-2025	IPR011006	CheY-like superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	ProSitePatterns	PS00676	Sigma-54 interaction domain ATP-binding region B signature.	219	234	-	T	08-04-2025	IPR025943	Sigma-54 interaction domain, ATP-binding site 2	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	FunFam	G3DSA:3.40.50.300:FF:000006	DNA-binding transcriptional regulator NtrC	126	303	1.5E-71	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	Pfam	PF00158	Sigma-54 interaction domain	133	299	2.1E-64	T	08-04-2025	IPR002078	RNA polymerase sigma factor 54 interaction domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	SMART	SM00382	AAA_5	153	296	7.6E-7	T	08-04-2025	IPR003593	AAA+ ATPase domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	SMART	SM00448	REC_2	4	115	1.8E-36	T	08-04-2025	IPR001789	Signal transduction response regulator, receiver domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	ProSitePatterns	PS00675	Sigma-54 interaction domain ATP-binding region A signature.	157	170	-	T	08-04-2025	IPR025662	Sigma-54 interaction domain, ATP-binding site 1	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	Gene3D	G3DSA:3.40.50.2300	-	3	134	2.5E-34	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	ProSiteProfiles	PS50045	Sigma-54 interaction domain profile.	133	362	62.718346	T	08-04-2025	IPR002078	RNA polymerase sigma factor 54 interaction domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	133	374	7.26E-66	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	Gene3D	G3DSA:3.40.50.300	-	135	303	1.5E-58	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	ProSiteProfiles	PS50110	Response regulatory domain profile.	5	119	40.439888	T	08-04-2025	IPR001789	Signal transduction response regulator, receiver domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	PANTHER	PTHR32071	TRANSCRIPTIONAL REGULATORY PROTEIN	1	440	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	Pfam	PF02954	Bacterial regulatory protein, Fis family	397	436	2.6E-9	T	08-04-2025	IPR002197	DNA binding HTH domain, Fis-type	-	-
+5mSIPHEX1_2-scaffold_122_c1_15	3e191e2604c0f7ee32b0925ba3eeb307	447	ProSitePatterns	PS00688	Sigma-54 interaction domain C-terminal part signature.	346	355	-	T	08-04-2025	IPR025944	Sigma-54 interaction domain, conserved site	-	-
+5mSIPHEX1_2-scaffold_122_c1_18	23c1b3ed3c84c3c06bff878c0226abb7	118	ProSitePatterns	PS00409	Prokaryotic N-terminal methylation site.	4	24	-	T	08-04-2025	IPR012902	Prokaryotic N-terminal methylation site	-	-
+5mSIPHEX1_2-scaffold_122_c1_18	23c1b3ed3c84c3c06bff878c0226abb7	118	Pfam	PF07963	Prokaryotic N-terminal methylation motif	2	26	5.5E-4	T	08-04-2025	IPR012902	Prokaryotic N-terminal methylation site	-	-
+5mSIPHEX1_2-scaffold_122_c1_18	23c1b3ed3c84c3c06bff878c0226abb7	118	NCBIfam	TIGR02532	prepilin-type N-terminal cleavage/methylation domain	4	26	2.4E-4	T	08-04-2025	IPR012902	Prokaryotic N-terminal methylation site	-	-
+5mSIPHEX1_2-scaffold_122_c1_18	23c1b3ed3c84c3c06bff878c0226abb7	118	Gene3D	G3DSA:3.30.700.10	Glycoprotein, Type 4 Pilin	6	111	1.1E-14	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_18	23c1b3ed3c84c3c06bff878c0226abb7	118	SUPERFAMILY	SSF54523	Pili subunits	6	64	1.8E-14	T	08-04-2025	IPR045584	Pilin-like	-	-
+5mSIPHEX1_2-scaffold_122_c1_16	84ba82c8dd41107931d742bd1e470a1a	136	SUPERFAMILY	SSF54523	Pili subunits	2	105	2.43E-6	T	08-04-2025	IPR045584	Pilin-like	-	-
+5mSIPHEX1_2-scaffold_122_c1_16	84ba82c8dd41107931d742bd1e470a1a	136	Gene3D	G3DSA:3.55.40.10	minor pseudopilin epsh domain	5	134	4.3E-9	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_16	84ba82c8dd41107931d742bd1e470a1a	136	Pfam	PF12019	Type II transport protein GspH	16	123	6.6E-4	T	08-04-2025	IPR022346	General secretion pathway, GspH	-	-
+5mSIPHEX1_2-scaffold_122_c1_9	85100c3015d8ac441926e4f99e370085	253	PANTHER	PTHR30616	UNCHARACTERIZED PROTEIN YFIH	23	240	2.7E-28	T	08-04-2025	IPR003730	Multi-copper polyphenol oxidoreductase	-	-
+5mSIPHEX1_2-scaffold_122_c1_9	85100c3015d8ac441926e4f99e370085	253	Pfam	PF02578	Multi-copper polyphenol oxidoreductase laccase	19	248	4.1E-42	T	08-04-2025	IPR003730	Multi-copper polyphenol oxidoreductase	-	-
+5mSIPHEX1_2-scaffold_122_c1_9	85100c3015d8ac441926e4f99e370085	253	SUPERFAMILY	SSF64438	CNF1/YfiH-like putative cysteine hydrolases	18	249	2.56E-48	T	08-04-2025	IPR011324	Cytotoxic necrotizing factor-like, catalytic	-	-
+5mSIPHEX1_2-scaffold_122_c1_9	85100c3015d8ac441926e4f99e370085	253	CDD	cd16833	YfiH	49	249	9.59976E-47	T	08-04-2025	IPR003730	Multi-copper polyphenol oxidoreductase	-	-
+5mSIPHEX1_2-scaffold_122_c1_9	85100c3015d8ac441926e4f99e370085	253	Gene3D	G3DSA:3.60.140.10	-	8	250	1.3E-56	T	08-04-2025	IPR038371	Multi-copper polyphenol oxidoreductase superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	PIRSF	PIRSF006630	NADS_GAT	1	536	0.0	T	08-04-2025	IPR014445	Glutamine-dependent NAD(+) synthetase	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	NCBIfam	TIGR00552	NAD(+) synthase	269	512	2.4E-55	T	08-04-2025	IPR003694	NAD(+) synthetase	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	CDD	cd00553	NAD_synthase	262	507	2.84929E-98	T	08-04-2025	IPR003694	NAD(+) synthetase	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	CDD	cd07570	GAT_Gln-NAD-synth	2	260	6.18151E-117	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	ProSiteProfiles	PS50263	Carbon-nitrogen hydrolase domain profile.	1	240	42.425198	T	08-04-2025	IPR003010	Carbon-nitrogen hydrolase	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	Gene3D	G3DSA:3.60.110.10	-	1	261	3.3E-82	T	08-04-2025	IPR036526	Carbon-nitrogen hydrolase superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	Pfam	PF02540	NAD synthase	262	510	1.9E-68	T	08-04-2025	IPR022310	NAD/GMP synthase	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	SUPERFAMILY	SSF52402	Adenine nucleotide alpha hydrolases-like	257	519	2.65E-76	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	FunFam	G3DSA:3.40.50.620:FF:000106	Glutamine-dependent NAD(+) synthetase	259	517	4.9E-100	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	PANTHER	PTHR23090	NH 3 /GLUTAMINE-DEPENDENT NAD +  SYNTHETASE	2	531	5.9E-91	T	08-04-2025	IPR003694	NAD(+) synthetase	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	NCBIfam	NF010588	NAD+ synthase	1	534	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	Hamap	MF_02090	Glutamine-dependent NAD(+) synthetase [nadE].	1	535	29.313086	T	08-04-2025	IPR014445	Glutamine-dependent NAD(+) synthetase	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	ProSitePatterns	PS00920	Nitrilases / cyanide hydratase signature 1.	33	48	-	T	08-04-2025	IPR000132	Nitrilase/cyanide hydratase, conserved site	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	Pfam	PF00795	Carbon-nitrogen hydrolase	2	242	8.3E-33	T	08-04-2025	IPR003010	Carbon-nitrogen hydrolase	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	Gene3D	G3DSA:3.40.50.620	HUPs	262	536	4.5E-116	T	08-04-2025	IPR014729	Rossmann-like alpha/beta/alpha sandwich fold	-	-
+5mSIPHEX1_2-scaffold_122_c1_13	eb63c99599940c0daa8d8fdf55e4000a	537	SUPERFAMILY	SSF56317	Carbon-nitrogen hydrolase	1	242	4.71E-65	T	08-04-2025	IPR036526	Carbon-nitrogen hydrolase superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	FunFam	G3DSA:3.40.50.720:FF:000023	Ketol-acid reductoisomerase (NADP(+))	1	182	3.7E-85	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	SUPERFAMILY	SSF48179	6-phosphogluconate dehydrogenase C-terminal domain-like	184	333	1.14E-71	T	08-04-2025	IPR008927	6-phosphogluconate dehydrogenase-like, C-terminal domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	Pfam	PF01450	Ketol-acid reductoisomerase, C-terminal domain	184	327	4.7E-62	T	08-04-2025	IPR000506	Ketol-acid reductoisomerase, C-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	ProSiteProfiles	PS51850	KARI N-terminal domain profile.	1	182	57.24387	T	08-04-2025	IPR013116	Ketol-acid reductoisomerase, N-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	PIRSF	PIRSF000116	IlvC_gammaproteo	202	334	5.7E-14	T	08-04-2025	IPR014359	Ketol-acid reductoisomerase, prokaryotic	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	PIRSF	PIRSF000116	IlvC_gammaproteo	3	208	3.2E-48	T	08-04-2025	IPR014359	Ketol-acid reductoisomerase, prokaryotic	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	Gene3D	G3DSA:3.40.50.720	-	1	182	2.0E-81	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	Hamap	MF_00435	Ketol-acid reductoisomerase (NADP(+)) [ilvC].	1	329	46.037693	T	08-04-2025	IPR013023	Ketol-acid reductoisomerase	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	SUPERFAMILY	SSF51735	NAD(P)-binding Rossmann-fold domains	1	183	2.21E-75	T	08-04-2025	IPR036291	NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	ProSiteProfiles	PS51851	KARI C-terminal domain profile.	183	328	74.26519	T	08-04-2025	IPR000506	Ketol-acid reductoisomerase, C-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	PANTHER	PTHR21371	KETOL-ACID REDUCTOISOMERASE, MITOCHONDRIAL	11	330	3.9E-106	T	08-04-2025	IPR013023	Ketol-acid reductoisomerase	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	NCBIfam	NF009940	ketol-acid reductoisomerase	1	334	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	NCBIfam	NF004017	ketol-acid reductoisomerase	1	336	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	NCBIfam	TIGR00465	ketol-acid reductoisomerase	14	327	0.0	T	08-04-2025	IPR013023	Ketol-acid reductoisomerase	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	Pfam	PF07991	Acetohydroxy acid isomeroreductase, NADPH-binding domain	14	178	5.0E-73	T	08-04-2025	IPR013116	Ketol-acid reductoisomerase, N-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_4	206878174c83f9d13301c5330ebddc4e	339	Gene3D	G3DSA:6.10.240.10	-	183	339	3.8E-72	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	Gene3D	G3DSA:3.30.450.20	PAS domain	185	298	8.9E-6	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	ProSiteProfiles	PS50109	Histidine kinase domain profile.	313	517	34.901844	T	08-04-2025	IPR005467	Histidine kinase domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	PANTHER	PTHR42878	TWO-COMPONENT HISTIDINE KINASE	156	494	7.9E-34	T	08-04-2025	IPR052545	Light-responsive regulatory protein	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	Pfam	PF02518	Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase	415	511	1.5E-10	T	08-04-2025	IPR003594	Histidine kinase/HSP90-like ATPase domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	Gene3D	G3DSA:3.30.565.10	-	372	515	1.4E-24	T	08-04-2025	IPR036890	Histidine kinase/HSP90-like ATPase superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	Pfam	PF00512	His Kinase A (phospho-acceptor) domain	307	371	2.3E-12	T	08-04-2025	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	Gene3D	G3DSA:1.10.287.130	-	299	371	1.2E-15	T	08-04-2025	-	-	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	SMART	SM00387	HKATPase_4	414	517	7.0E-17	T	08-04-2025	IPR003594	Histidine kinase/HSP90-like ATPase domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	PRINTS	PR00344	Bacterial sensor protein C-terminal signature	449	463	3.0E-6	T	08-04-2025	IPR004358	Signal transduction histidine kinase-related protein, C-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	PRINTS	PR00344	Bacterial sensor protein C-terminal signature	467	477	3.0E-6	T	08-04-2025	IPR004358	Signal transduction histidine kinase-related protein, C-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	PRINTS	PR00344	Bacterial sensor protein C-terminal signature	478	496	3.0E-6	T	08-04-2025	IPR004358	Signal transduction histidine kinase-related protein, C-terminal	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	SUPERFAMILY	SSF47384	Homodimeric domain of signal transducing histidine kinase	301	370	7.06E-13	T	08-04-2025	IPR036097	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	SUPERFAMILY	SSF55874	ATPase domain of HSP90 chaperone/DNA topoisomerase II/histidine kinase	373	516	1.83E-24	T	08-04-2025	IPR036890	Histidine kinase/HSP90-like ATPase superfamily	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	SMART	SM00388	HisKA_10	306	372	2.5E-15	T	08-04-2025	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain	-	-
+5mSIPHEX1_2-scaffold_122_c1_14	94c6690884738a3befc39375b39296b0	524	CDD	cd00082	HisKA	304	368	1.05145E-12	T	08-04-2025	IPR003661	Signal transduction histidine kinase, dimerisation/phosphoacceptor domain	-	-

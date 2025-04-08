@@ -1,0 +1,5833 @@
+{
+ "interproscan-version": "5.73-104.0",
+"results": [ {
+  "sequence" : "LAEGANAKVLYGAGWVGVTKDNMADYDF",
+  "md5" : "90289d79f61f1213e52f4ef987b86a20",
+  "matches" : [ ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_1104_c1_1 # 1 # 87 # 1 # ID=11_1;partial=10;start_type=Edge;rbs_motif=None;rbs_spacer=None;gc_cont=0.575",
+    "id" : "5mSIPHEX1_0-scaffold_1104_c1_1"
+  } ]
+},{
+  "sequence" : "MTRNFTNQMRGGMALLLLGSTTLTASQALAQQQRPDLVIAVADNPATLEPAKELSNVGTRVNYSIFDTLIRRDFLSQPGGGGSELVPGLATSWERIDDVTFEVKLREGVTFHNGADFTAEDVVFTFSPERMLGEGTQLPEGKAYFSVLERVEAIDDYTVRFTTTAPDPLFEQRLASWASWI",
+  "md5" : "fdda294d5678a7217f0c7378a15d121a",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "G3DSA:3.90.76.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 68,
+      "end" : 179,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 136,
+      "hmmLength" : 118,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.3E-43,
+      "score" : 150.6,
+      "envelopeStart" : 40,
+      "envelopeEnd" : 181,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 68,
+        "end" : 179,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.0E-43,
+    "score" : 150.8,
+    "model-ac" : "4ze8A02"
+  }, {
+    "signature" : {
+      "accession" : "SSF53850",
+      "name" : "Periplasmic binding protein-like II",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 33,
+      "end" : 179,
+      "representative" : false,
+      "hmmLength" : 535,
+      "location-fragments" : [ {
+        "start" : 33,
+        "end" : 179,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.27E-36,
+    "model-ac" : "0050299"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.190.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 41,
+      "end" : 67,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 136,
+      "hmmLength" : 171,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.3E-43,
+      "score" : 150.6,
+      "envelopeStart" : 40,
+      "envelopeEnd" : 181,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 41,
+        "end" : 67,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.0E-43,
+    "score" : 150.8,
+    "model-ac" : "4ze8A01"
+  }, {
+    "signature" : {
+      "accession" : "PF00496",
+      "name" : "SBP_bac_5",
+      "description" : "Bacterial extracellular solute-binding proteins, family 5 Middle",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR000914",
+        "name" : "SBP_5_dom",
+        "description" : "Solute-binding protein family 5 domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 84,
+      "end" : 179,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 96,
+      "hmmLength" : 368,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 6.1E-21,
+      "score" : 86.5,
+      "envelopeStart" : 84,
+      "envelopeEnd" : 181,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 84,
+        "end" : 179,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.7E-21,
+    "score" : 86.9,
+    "model-ac" : "PF00496"
+  }, {
+    "signature" : {
+      "accession" : "PTHR30290",
+      "name" : "PERIPLASMIC BINDING COMPONENT OF ABC TRANSPORTER",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR039424",
+        "name" : "SBP_5",
+        "description" : "Solute-binding protein family 5",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 14,
+      "end" : 177,
+      "representative" : false,
+      "hmmStart" : 14,
+      "hmmEnd" : 157,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 181,
+      "location-fragments" : [ {
+        "start" : 14,
+        "end" : 177,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR30290:SF38",
+    "name" : "D,D-DIPEPTIDE-BINDING PERIPLASMIC PROTEIN DDPA-RELATED",
+    "evalue" : 5.0E-25,
+    "score" : 100.4,
+    "proteinClass" : null,
+    "graftPoint" : "PTN001250578",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR30290:SF38"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_1104_c1_9 # 9719 # 10261 # 1 # ID=11_9;partial=01;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.624",
+    "id" : "5mSIPHEX1_0-scaffold_1104_c1_9"
+  } ]
+},{
+  "sequence" : "MADASQPANIAVIGSNMMDLITYIDRMPDRGETVEAPDFAMGFGGKGANQAVAAARLGSKVMMVTCVGDDAFGPQVIDNLARNGIDTTHVRQVAGKASGVAPIFVEKDGENAILIVKGANADLGPDDIDKAADALRGTSAILLQLEVEPETVYHAVAFGAREGIATILNPAPARRDLDVARLAGLDWFCPNESELALLSGLPTGTDAEVTEAARSLIARGIGNVVVTLGGRGARWITADAVTEIAPVQVTPVDTTGAGDAFIGSFAHFLGTGADPAQALGQAARFAALSITRRGTQSSYATAEDFSAFAPG",
+  "md5" : "da43e66d9d82e03e5682071471bee0d4",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "MF_01987",
+      "name" : "Ribokinase",
+      "description" : "Ribokinase [rbsK].",
+      "signatureLibraryRelease" : {
+        "library" : "HAMAP",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR011877",
+        "name" : "D_ribokin",
+        "description" : "Ribokinase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 8,
+      "end" : 307,
+      "representative" : false,
+      "score" : 25.855709,
+      "alignment" : "ANIAVIGSNMMDLITYIDRMPDRGETVEAPDF-AMGFGGKGANQAVAAARLGSKVMMVTCVGDDAFGPQVIDNLARN-GIDTTHVRQVAGKASGVAPIFVEKDGENAILIVKGANADLGPDDIDKAADA-LRGTSAILLQLEVEPETVYHAVAFGAREGIATILNPAPARRDLDVARLAGLDWFCPNESELALLSGLPtgT----DAEvtEAARSLIARGIGNVVVTLGGRGARWITADAVTEIAPVQVTPVDTTGAGDAFIGSFAHFLG-TGADPAQALGQAARFAALSITRRGTQSSYATAEDFSA",
+      "location-fragments" : [ {
+        "start" : 8,
+        "end" : 307,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "MF_01987"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.1190.20:FF:000010",
+      "name" : null,
+      "description" : "Ribokinase",
+      "signatureLibraryRelease" : {
+        "library" : "FUNFAM",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 310,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 305,
+      "hmmLength" : 308,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 5.0E-116,
+      "score" : 389.4,
+      "envelopeStart" : 4,
+      "envelopeEnd" : 310,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 310,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.0E-116,
+    "score" : 389.7,
+    "model-ac" : "3.40.1190.20-FF-000010"
+  }, {
+    "signature" : {
+      "accession" : "TIGR02152",
+      "name" : "D_ribokin_bact",
+      "description" : "ribokinase",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : {
+        "accession" : "IPR011877",
+        "name" : "D_ribokin",
+        "description" : "Ribokinase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 305,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 296,
+      "hmmLength" : 298,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 2.6E-99,
+      "score" : 343.9,
+      "envelopeStart" : 10,
+      "envelopeEnd" : 307,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 305,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.3E-99,
+    "score" : 344.0,
+    "model-ac" : "TIGR02152"
+  }, {
+    "signature" : {
+      "accession" : "SSF53613",
+      "name" : "Ribokinase-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR029056",
+        "name" : "Ribokinase-like",
+        "description" : "Ribokinase-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 8,
+      "end" : 307,
+      "representative" : false,
+      "hmmLength" : 308,
+      "location-fragments" : [ {
+        "start" : 8,
+        "end" : 307,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.46E-78,
+    "model-ac" : "0052784"
+  }, {
+    "signature" : {
+      "accession" : "PR00990",
+      "name" : "RIBOKINASE",
+      "description" : "Ribokinase signature",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR002139",
+        "name" : "Ribo/fructo_kinase",
+        "description" : "Ribokinase/fructokinase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 12,
+      "end" : 33,
+      "representative" : false,
+      "pvalue" : 6.55E-10,
+      "score" : 47.98,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 12,
+        "end" : 33,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 39,
+      "end" : 58,
+      "representative" : false,
+      "pvalue" : 8.0E-14,
+      "score" : 72.22,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 39,
+        "end" : 58,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 111,
+      "end" : 124,
+      "representative" : false,
+      "pvalue" : 2.42E-6,
+      "score" : 49.21,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 111,
+        "end" : 124,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 180,
+      "end" : 195,
+      "representative" : false,
+      "pvalue" : 0.00854,
+      "score" : 32.64,
+      "motifNumber" : 4,
+      "location-fragments" : [ {
+        "start" : 180,
+        "end" : 195,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 224,
+      "end" : 235,
+      "representative" : false,
+      "pvalue" : 2.38E-6,
+      "score" : 49.07,
+      "motifNumber" : 5,
+      "location-fragments" : [ {
+        "start" : 224,
+        "end" : 235,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.6E-30,
+    "graphscan" : "IIIII",
+    "model-ac" : "PR00990"
+  }, {
+    "signature" : {
+      "accession" : "PF00294",
+      "name" : "PfkB",
+      "description" : "pfkB family carbohydrate kinase",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR011611",
+        "name" : "PfkB_dom",
+        "description" : "Carbohydrate kinase PfkB",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 9,
+      "end" : 299,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 299,
+      "hmmLength" : 302,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 6.0E-63,
+      "score" : 224.5,
+      "envelopeStart" : 7,
+      "envelopeEnd" : 302,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 9,
+        "end" : 299,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.2E-63,
+    "score" : 224.7,
+    "model-ac" : "PF00294"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.1190.20",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR029056",
+        "name" : "Ribokinase-like",
+        "description" : "Ribokinase-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 309,
+      "representative" : false,
+      "hmmStart" : 14,
+      "hmmEnd" : 317,
+      "hmmLength" : 330,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 5.8E-102,
+      "score" : 343.2,
+      "envelopeStart" : 2,
+      "envelopeEnd" : 309,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 309,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.6E-102,
+    "score" : 343.5,
+    "model-ac" : "5c40B00"
+  }, {
+    "signature" : {
+      "accession" : "cd01174",
+      "name" : "ribokinase",
+      "description" : "ribokinase",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : {
+        "accession" : "IPR011877",
+        "name" : "D_ribokin",
+        "description" : "Ribokinase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 9,
+      "end" : 301,
+      "representative" : true,
+      "sites" : [ {
+        "description" : "substrate binding site",
+        "numLocations" : 15,
+        "siteLocations" : [ {
+          "start" : 44,
+          "end" : 44,
+          "residue" : "G"
+        }, {
+          "start" : 103,
+          "end" : 103,
+          "residue" : "I"
+        }, {
+          "start" : 19,
+          "end" : 19,
+          "residue" : "D"
+        }, {
+          "start" : 259,
+          "end" : 259,
+          "residue" : "D"
+        }, {
+          "start" : 255,
+          "end" : 255,
+          "residue" : "T"
+        }, {
+          "start" : 256,
+          "end" : 256,
+          "residue" : "G"
+        }, {
+          "start" : 17,
+          "end" : 17,
+          "residue" : "M"
+        }, {
+          "start" : 101,
+          "end" : 101,
+          "residue" : "A"
+        }, {
+          "start" : 113,
+          "end" : 113,
+          "residue" : "I"
+        }, {
+          "start" : 49,
+          "end" : 49,
+          "residue" : "N"
+        }, {
+          "start" : 295,
+          "end" : 295,
+          "residue" : "T"
+        }, {
+          "start" : 46,
+          "end" : 46,
+          "residue" : "K"
+        }, {
+          "start" : 115,
+          "end" : 115,
+          "residue" : "I"
+        }, {
+          "start" : 146,
+          "end" : 146,
+          "residue" : "E"
+        }, {
+          "start" : 45,
+          "end" : 45,
+          "residue" : "G"
+        } ]
+      }, {
+        "description" : "ATP binding site",
+        "numLocations" : 15,
+        "siteLocations" : [ {
+          "start" : 283,
+          "end" : 283,
+          "residue" : "A"
+        }, {
+          "start" : 251,
+          "end" : 251,
+          "residue" : "P"
+        }, {
+          "start" : 257,
+          "end" : 257,
+          "residue" : "A"
+        }, {
+          "start" : 258,
+          "end" : 258,
+          "residue" : "G"
+        }, {
+          "start" : 290,
+          "end" : 290,
+          "residue" : "I"
+        }, {
+          "start" : 287,
+          "end" : 287,
+          "residue" : "A"
+        }, {
+          "start" : 229,
+          "end" : 229,
+          "residue" : "G"
+        }, {
+          "start" : 228,
+          "end" : 228,
+          "residue" : "L"
+        }, {
+          "start" : 191,
+          "end" : 191,
+          "residue" : "N"
+        }, {
+          "start" : 245,
+          "end" : 245,
+          "residue" : "A"
+        }, {
+          "start" : 227,
+          "end" : 227,
+          "residue" : "T"
+        }, {
+          "start" : 254,
+          "end" : 254,
+          "residue" : "T"
+        }, {
+          "start" : 286,
+          "end" : 286,
+          "residue" : "A"
+        }, {
+          "start" : 261,
+          "end" : 261,
+          "residue" : "F"
+        }, {
+          "start" : 232,
+          "end" : 232,
+          "residue" : "G"
+        } ]
+      }, {
+        "description" : "dimer interface",
+        "numLocations" : 23,
+        "siteLocations" : [ {
+          "start" : 103,
+          "end" : 103,
+          "residue" : "I"
+        }, {
+          "start" : 112,
+          "end" : 112,
+          "residue" : "A"
+        }, {
+          "start" : 22,
+          "end" : 22,
+          "residue" : "T"
+        }, {
+          "start" : 33,
+          "end" : 33,
+          "residue" : "T"
+        }, {
+          "start" : 102,
+          "end" : 102,
+          "residue" : "P"
+        }, {
+          "start" : 111,
+          "end" : 111,
+          "residue" : "N"
+        }, {
+          "start" : 20,
+          "end" : 20,
+          "residue" : "L"
+        }, {
+          "start" : 113,
+          "end" : 113,
+          "residue" : "I"
+        }, {
+          "start" : 104,
+          "end" : 104,
+          "residue" : "F"
+        }, {
+          "start" : 29,
+          "end" : 29,
+          "residue" : "D"
+        }, {
+          "start" : 32,
+          "end" : 32,
+          "residue" : "E"
+        }, {
+          "start" : 114,
+          "end" : 114,
+          "residue" : "L"
+        }, {
+          "start" : 110,
+          "end" : 110,
+          "residue" : "E"
+        }, {
+          "start" : 100,
+          "end" : 100,
+          "residue" : "V"
+        }, {
+          "start" : 30,
+          "end" : 30,
+          "residue" : "R"
+        }, {
+          "start" : 27,
+          "end" : 27,
+          "residue" : "M"
+        }, {
+          "start" : 116,
+          "end" : 116,
+          "residue" : "V"
+        }, {
+          "start" : 117,
+          "end" : 117,
+          "residue" : "K"
+        }, {
+          "start" : 31,
+          "end" : 31,
+          "residue" : "G"
+        }, {
+          "start" : 28,
+          "end" : 28,
+          "residue" : "P"
+        }, {
+          "start" : 115,
+          "end" : 115,
+          "residue" : "I"
+        }, {
+          "start" : 46,
+          "end" : 46,
+          "residue" : "K"
+        }, {
+          "start" : 172,
+          "end" : 172,
+          "residue" : "P"
+        } ]
+      } ],
+      "evalue" : 4.85381E-124,
+      "score" : 354.934,
+      "location-fragments" : [ {
+        "start" : 9,
+        "end" : 301,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd01174"
+  }, {
+    "signature" : {
+      "accession" : "PTHR10584",
+      "name" : "SUGAR KINASE",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 308,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 303,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 310,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 308,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR10584:SF166",
+    "name" : "RIBOKINASE",
+    "evalue" : 9.1E-89,
+    "score" : 309.5,
+    "proteinClass" : null,
+    "graftPoint" : "PTN008501725",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR10584:SF166"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_1104_c1_6 # 4852 # 5787 # 1 # ID=11_6;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.662",
+    "id" : "5mSIPHEX1_0-scaffold_1104_c1_6"
+  } ]
+},{
+  "sequence" : "MADFAKWVSAAEPALGWTHGAFMDAYTANRASGDRATVEGNPVGLAILKLVLDEGRWSGTMTDLKATLRNRYPLLTDDPYSFPRQENKLSAAIRRIVPPLRRLGVEISFDRRGHTGERIFNIQRS",
+  "md5" : "0b6eab1fc2b40426680f1f517e605615",
+  "matches" : [ ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_1 # 295 # 672 # -1 # ID=4_1;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.624",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_1"
+  } ]
+},{
+  "sequence" : "MTTKTDLKTGLEAAQVPALSTPEEPHRNPVMPLDTAMFEGHSVNRSAAERRCATLAGRRSVKKDYQAAWLVNAIRCIDLTTLAGDDTRARVRRLCAKARQPLAGHILDGLGLRDQGVQVGAVCVYPTMVGHAVAALDGSGIPVASVATGFPAGLMPLHLRLEEIRWAVAEGAEEIDIVISRELALTRNWQALHDEIAAMREACGAAHMKAILATGELETLSNVYAASMVAMQAGADFIKTSTGKEGVNATLPVSLTMLRALRDYGQITGHRIGFKPAGGMKHAKEAIAWQVLMKEELGRDWLNPDLFRFGASSMLADIERQLDHHVTGRYAASSRHAIA",
+  "md5" : "31a3b3c848bc4a9a0de2c495686ba279",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "SM01133",
+      "name" : "DeoC_2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "9.0"
+      },
+      "entry" : {
+        "accession" : "IPR002915",
+        "name" : "DeoC/FbaB/LacD_aldolase",
+        "description" : "DeoC/FbaB/LacD aldolase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 72,
+      "end" : 320,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 291,
+      "hmmLength" : 291,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.1E-72,
+      "score" : 257.4,
+      "location-fragments" : [ {
+        "start" : 72,
+        "end" : 320,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.1E-72,
+    "score" : 257.4,
+    "model-ac" : "SM01133"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 29,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 29,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "cd00959",
+      "name" : "DeoC",
+      "description" : "DeoC",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : {
+        "accession" : "IPR011343",
+        "name" : "DeoC",
+        "description" : "Deoxyribose-phosphate aldolase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 73,
+      "end" : 298,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "intersubunit interface",
+        "numLocations" : 18,
+        "siteLocations" : [ {
+          "start" : 182,
+          "end" : 182,
+          "residue" : "E"
+        }, {
+          "start" : 180,
+          "end" : 180,
+          "residue" : "S"
+        }, {
+          "start" : 127,
+          "end" : 127,
+          "residue" : "T"
+        }, {
+          "start" : 170,
+          "end" : 170,
+          "residue" : "E"
+        }, {
+          "start" : 158,
+          "end" : 158,
+          "residue" : "H"
+        }, {
+          "start" : 171,
+          "end" : 171,
+          "residue" : "G"
+        }, {
+          "start" : 202,
+          "end" : 202,
+          "residue" : "A"
+        }, {
+          "start" : 82,
+          "end" : 82,
+          "residue" : "L"
+        }, {
+          "start" : 86,
+          "end" : 86,
+          "residue" : "D"
+        }, {
+          "start" : 84,
+          "end" : 84,
+          "residue" : "G"
+        }, {
+          "start" : 201,
+          "end" : 201,
+          "residue" : "E"
+        }, {
+          "start" : 150,
+          "end" : 150,
+          "residue" : "F"
+        }, {
+          "start" : 169,
+          "end" : 169,
+          "residue" : "A"
+        }, {
+          "start" : 126,
+          "end" : 126,
+          "residue" : "P"
+        }, {
+          "start" : 128,
+          "end" : 128,
+          "residue" : "M"
+        }, {
+          "start" : 163,
+          "end" : 163,
+          "residue" : "E"
+        }, {
+          "start" : 168,
+          "end" : 168,
+          "residue" : "V"
+        }, {
+          "start" : 216,
+          "end" : 216,
+          "residue" : "E"
+        } ]
+      }, {
+        "description" : "catalytic residue",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 239,
+          "end" : 239,
+          "residue" : "K"
+        } ]
+      } ],
+      "evalue" : 2.47301E-75,
+      "score" : 228.955,
+      "location-fragments" : [ {
+        "start" : 73,
+        "end" : 298,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00959"
+  }, {
+    "signature" : {
+      "accession" : "PF01791",
+      "name" : "DeoC",
+      "description" : "DeoC/LacD family aldolase",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR002915",
+        "name" : "DeoC/FbaB/LacD_aldolase",
+        "description" : "DeoC/FbaB/LacD aldolase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 74,
+      "end" : 286,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 203,
+      "hmmLength" : 229,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 3.6E-17,
+      "score" : 74.3,
+      "envelopeStart" : 72,
+      "envelopeEnd" : 317,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 74,
+        "end" : 286,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.5E-17,
+    "score" : 74.8,
+    "model-ac" : "PF01791"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR001357-50",
+      "name" : "PIRSR001357-50",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 72,
+      "end" : 325,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Schiff-base intermediate with acetaldehyde.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 239,
+          "end" : 239,
+          "residue" : "K"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 156,
+        "hmmEnd" : 156
+      }, {
+        "description" : "",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 275,
+          "end" : 275,
+          "residue" : "K"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 192,
+        "hmmEnd" : 192
+      } ],
+      "hmmStart" : 5,
+      "hmmEnd" : 237,
+      "hmmLength" : 238,
+      "evalue" : 2.7E-74,
+      "score" : 239.8,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 72,
+        "end" : 325,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.7E-74,
+    "score" : 239.8,
+    "scope" : null,
+    "model-ac" : "PIRSR001357-50"
+  }, {
+    "signature" : {
+      "accession" : "TIGR00126",
+      "name" : "deoC",
+      "description" : "deoxyribose-phosphate aldolase",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : {
+        "accession" : "IPR011343",
+        "name" : "DeoC",
+        "description" : "Deoxyribose-phosphate aldolase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 74,
+      "end" : 300,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 204,
+      "hmmLength" : 211,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.9E-37,
+      "score" : 139.7,
+      "envelopeStart" : 72,
+      "envelopeEnd" : 303,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 74,
+        "end" : 300,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 8.1E-38,
+    "score" : 141.4,
+    "model-ac" : "TIGR00126"
+  }, {
+    "signature" : {
+      "accession" : "SSF51569",
+      "name" : "Aldolase",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 65,
+      "end" : 322,
+      "representative" : false,
+      "hmmLength" : 256,
+      "location-fragments" : [ {
+        "start" : 65,
+        "end" : 322,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.67E-73,
+    "model-ac" : "0051699"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.20.20.70",
+      "name" : "Aldolase class I",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR013785",
+        "name" : "Aldolase_TIM",
+        "description" : "Aldolase-type TIM barrel",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 65,
+      "end" : 339,
+      "representative" : false,
+      "hmmStart" : 9,
+      "hmmEnd" : 260,
+      "hmmLength" : 263,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.7E-85,
+      "score" : 287.7,
+      "envelopeStart" : 65,
+      "envelopeEnd" : 339,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 65,
+        "end" : 339,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.2E-85,
+    "score" : 288.0,
+    "model-ac" : "5c5yA00"
+  }, {
+    "signature" : {
+      "accession" : "PTHR10889",
+      "name" : "DEOXYRIBOSE-PHOSPHATE ALDOLASE",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR011343",
+        "name" : "DeoC",
+        "description" : "Deoxyribose-phosphate aldolase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 28,
+      "end" : 326,
+      "representative" : false,
+      "hmmStart" : 5,
+      "hmmEnd" : 271,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 24,
+      "envelopeEnd" : 337,
+      "location-fragments" : [ {
+        "start" : 28,
+        "end" : 326,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR10889:SF3",
+    "name" : "DEOXYRIBOSE-PHOSPHATE ALDOLASE",
+    "evalue" : 3.1E-90,
+    "score" : 314.0,
+    "proteinClass" : null,
+    "graftPoint" : "PTN000854675",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR10889:SF3"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_1104_c1_7 # 5943 # 6962 # 1 # ID=11_7;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.670",
+    "id" : "5mSIPHEX1_0-scaffold_1104_c1_7"
+  } ]
+},{
+  "sequence" : "MATESYTTTWDVTIWFDISYRRAVGDGDMDGANDACADTKHDEDDLEFSHEAASLVR",
+  "md5" : "240f8f0f7a67fd51d3da8aca93564fbc",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 35,
+      "end" : 57,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 35,
+        "end" : 57,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    }, {
+      "start" : 37,
+      "end" : 50,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 37,
+        "end" : 50,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Polyampholyte"
+    } ],
+    "model-ac" : "mobidb-lite"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_10 # 7200 # 7373 # -1 # ID=4_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.557",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_10"
+  } ]
+},{
+  "sequence" : "MTHAAPLPDTGSRSPAETDRIASITALFDATRARSRALVAPLSSEDMMLQPMQDASPAKWHLAHTTWFFEEFILKPRDTDYRSPDDRFAFLFNSYYVQAGPRHARDKRGLISRPDVDDVMAYRSHVEQALAALLRAGRNDAGEIADLVELGCHHEMQHQELLVTDLLNGLSYNPLMPVYHAQDGGAPQGENRPVTYTAHAGGLVEMGFDGAAPQAGFAYDCEMPRHKTYLAPYQIADRPVSNGDWIAFMEAGGYADQTLWLMDGWACAQREGWDAPLYWWQQDGTWWSYTLRGPMPVDPAAPVVHVSYYEADAFARWSDARLPTEAEWETAAGDMPIEGNFLDACDGEGALGAMIPRAGGGMYGDVWEWTQSPFTPYPGFRPPEGAIGEYNGKFMVNQFVLRGGSCATPRAQMRPSYRTFFYPHQRWQMLGLRLARDGN",
+  "md5" : "16400956ddd092d0b4f594bbedb08c2c",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "G3DSA:3.90.1580.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR042095",
+        "name" : "SUMF_sf",
+        "description" : "Sulfatase-modifying factor enzyme superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 196,
+      "end" : 346,
+      "representative" : false,
+      "hmmStart" : 12,
+      "hmmEnd" : 152,
+      "hmmLength" : 295,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.5E-27,
+      "score" : 96.9,
+      "envelopeStart" : 196,
+      "envelopeEnd" : 346,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 196,
+        "end" : 346,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.1E-40,
+    "score" : 142.1,
+    "model-ac" : "2q17D00"
+  }, {
+    "signature" : {
+      "accession" : "TIGR03440",
+      "name" : "egtB_TIGR03440",
+      "description" : "ergothioneine biosynthesis protein EgtB",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : {
+        "accession" : "IPR017806",
+        "name" : "EgtB",
+        "description" : "Ergothioneine biosynthesis protein EgtB",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 26,
+      "end" : 435,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 413,
+      "hmmLength" : 413,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 0.0,
+      "score" : 551.3,
+      "envelopeStart" : 24,
+      "envelopeEnd" : 435,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 26,
+        "end" : 435,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 551.5,
+    "model-ac" : "TIGR03440"
+  }, {
+    "signature" : {
+      "accession" : "SSF56436",
+      "name" : "C-type lectin-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016187",
+        "name" : "CTDL_fold",
+        "description" : "C-type lectin fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 196,
+      "end" : 437,
+      "representative" : false,
+      "hmmLength" : 286,
+      "location-fragments" : [ {
+        "start" : 196,
+        "end" : 437,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.47E-64,
+    "model-ac" : "0051512"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.90.1580.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR042095",
+        "name" : "SUMF_sf",
+        "description" : "Sulfatase-modifying factor enzyme superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 360,
+      "end" : 438,
+      "representative" : false,
+      "hmmStart" : 222,
+      "hmmEnd" : 296,
+      "hmmLength" : 311,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.3E-14,
+      "score" : 55.6,
+      "envelopeStart" : 360,
+      "envelopeEnd" : 438,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 360,
+        "end" : 438,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.4E-41,
+    "score" : 145.1,
+    "model-ac" : "1z70X00"
+  }, {
+    "signature" : {
+      "accession" : "PF03781",
+      "name" : "FGE-sulfatase",
+      "description" : "Sulfatase-modifying factor enzyme 1",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR005532",
+        "name" : "SUMF_dom",
+        "description" : "Sulfatase-modifying factor enzyme-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 362,
+      "end" : 436,
+      "representative" : true,
+      "hmmStart" : 181,
+      "hmmEnd" : 255,
+      "hmmLength" : 255,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 6.5E-5,
+      "score" : 34.3,
+      "envelopeStart" : 360,
+      "envelopeEnd" : 436,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 362,
+        "end" : 436,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 200,
+      "end" : 333,
+      "representative" : true,
+      "hmmStart" : 9,
+      "hmmEnd" : 124,
+      "hmmLength" : 255,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 4.7E-20,
+      "score" : 83.9,
+      "envelopeStart" : 195,
+      "envelopeEnd" : 346,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 200,
+        "end" : 333,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.0E-30,
+    "score" : 117.9,
+    "model-ac" : "PF03781"
+  }, {
+    "signature" : {
+      "accession" : "PF12867",
+      "name" : "DinB_2",
+      "description" : "DinB superfamily",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR024775",
+        "name" : "DinB-like",
+        "description" : "DinB-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 28,
+      "end" : 160,
+      "representative" : true,
+      "hmmStart" : 2,
+      "hmmEnd" : 126,
+      "hmmLength" : 128,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.0E-6,
+      "score" : 39.7,
+      "envelopeStart" : 27,
+      "envelopeEnd" : 162,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 28,
+        "end" : 160,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.3E-6,
+    "score" : 40.3,
+    "model-ac" : "PF12867"
+  }, {
+    "signature" : {
+      "accession" : "PTHR23150",
+      "name" : "SULFATASE MODIFYING FACTOR 1, 2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR051043",
+        "name" : "Sulfatase_Mod_Factor_Kinase",
+        "description" : "Sulfatase Modifying Factor and Kinase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 37,
+      "end" : 437,
+      "representative" : false,
+      "hmmStart" : 26,
+      "hmmEnd" : 423,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 22,
+      "envelopeEnd" : 439,
+      "location-fragments" : [ {
+        "start" : 37,
+        "end" : 437,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR23150:SF36",
+    "name" : "HERCYNINE OXYGENASE",
+    "evalue" : 2.0E-55,
+    "score" : 200.6,
+    "proteinClass" : null,
+    "graftPoint" : "PTN001899603",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR23150:SF36"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_101 # 121378 # 122697 # 1 # ID=4_101;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.631",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_101"
+  } ]
+},{
+  "sequence" : "MTSQTNPKAQRSFLTTMLSDETARTNLLLGGICVLVLVAMTAMRPNMFLSSYNFESMAFFMPELGILSIAMMIAMLTGGIDLSIVGVANLAGITAGTLFGMMAGENGSSVLGLGPVALGVCAALIVGLLAGLLNGFLISVLKITPILATLGTGQVFIGMCLVLTGGPAIVGFPAGWNAIGNGKIAGLPVPLLLFVAICIGLSLLLARTSFGLRLKMIGTNPKAAVYAGVRRGQMIVWSYMLTGGLAAMAGILLSARTNAAKSDYGSSYLLQAVLIAVLGGTNPAGGRGNVIGVALALISLTLLSSGFQMMRMSNHLIDFVWGGFLILVIALNSWRRHRRS",
+  "md5" : "1bb2f37f1cf332ca88aea8059759b15a",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PF02653",
+      "name" : "BPD_transp_2",
+      "description" : "Branched-chain amino acid transport system / permease component",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR001851",
+        "name" : "ABC_transp_permease",
+        "description" : "ABC transporter, permease",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 57,
+      "end" : 328,
+      "representative" : false,
+      "hmmStart" : 5,
+      "hmmEnd" : 268,
+      "hmmLength" : 269,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 7.8E-27,
+      "score" : 105.6,
+      "envelopeStart" : 53,
+      "envelopeEnd" : 329,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 57,
+        "end" : 328,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.9E-27,
+    "score" : 106.3,
+    "model-ac" : "PF02653"
+  }, {
+    "signature" : {
+      "accession" : "PTHR32196",
+      "name" : "ABC TRANSPORTER PERMEASE PROTEIN YPHD-RELATED-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 26,
+      "end" : 339,
+      "representative" : false,
+      "hmmStart" : 14,
+      "hmmEnd" : 316,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 5,
+      "envelopeEnd" : 340,
+      "location-fragments" : [ {
+        "start" : 26,
+        "end" : 339,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR32196:SF21",
+    "name" : "ABC TRANSPORTER PERMEASE PROTEIN YPHD-RELATED",
+    "evalue" : 3.8E-68,
+    "score" : 241.4,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002083595",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR32196:SF21"
+  }, {
+    "signature" : {
+      "accession" : "cd06579",
+      "name" : "TM_PBP1_transp_AraH_like",
+      "description" : "TM_PBP1_transp_AraH_like",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 61,
+      "end" : 332,
+      "representative" : true,
+      "sites" : [ {
+        "description" : "TM-ABC transporter signature motif",
+        "numLocations" : 19,
+        "siteLocations" : [ {
+          "start" : 239,
+          "end" : 239,
+          "residue" : "Y"
+        }, {
+          "start" : 238,
+          "end" : 238,
+          "residue" : "S"
+        }, {
+          "start" : 225,
+          "end" : 225,
+          "residue" : "V"
+        }, {
+          "start" : 224,
+          "end" : 224,
+          "residue" : "A"
+        }, {
+          "start" : 236,
+          "end" : 236,
+          "residue" : "V"
+        }, {
+          "start" : 230,
+          "end" : 230,
+          "residue" : "R"
+        }, {
+          "start" : 233,
+          "end" : 233,
+          "residue" : "Q"
+        }, {
+          "start" : 237,
+          "end" : 237,
+          "residue" : "W"
+        }, {
+          "start" : 223,
+          "end" : 223,
+          "residue" : "A"
+        }, {
+          "start" : 235,
+          "end" : 235,
+          "residue" : "I"
+        }, {
+          "start" : 229,
+          "end" : 229,
+          "residue" : "V"
+        }, {
+          "start" : 228,
+          "end" : 228,
+          "residue" : "G"
+        }, {
+          "start" : 227,
+          "end" : 227,
+          "residue" : "A"
+        }, {
+          "start" : 234,
+          "end" : 234,
+          "residue" : "M"
+        }, {
+          "start" : 226,
+          "end" : 226,
+          "residue" : "Y"
+        }, {
+          "start" : 240,
+          "end" : 240,
+          "residue" : "M"
+        }, {
+          "start" : 222,
+          "end" : 222,
+          "residue" : "K"
+        }, {
+          "start" : 232,
+          "end" : 232,
+          "residue" : "G"
+        }, {
+          "start" : 231,
+          "end" : 231,
+          "residue" : "R"
+        } ]
+      } ],
+      "evalue" : 2.28177E-67,
+      "score" : 210.728,
+      "location-fragments" : [ {
+        "start" : 61,
+        "end" : 332,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd06579"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_1104_c1_4 # 2735 # 3757 # 1 # ID=11_4;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.624",
+    "id" : "5mSIPHEX1_0-scaffold_1104_c1_4"
+  } ]
+},{
+  "sequence" : "MPLFMRQPITLAAALAVSLAAPLGTLHAQQAAPVTIPTATGEAQITATPETVAIFDLAAVDTVHALGVDIAGIPNSLFLERLDAVADDATVVGTLFEPDFEALANLNPDLIIAGGRSSAQVEALSRLAPTLDMTITPEGFFDQVRARTAAYGEIFGKQAEADALLTQLDDKLATARAAVDGKGDALIILTNGGNISTYGQGTRFGWLHTALDLPQAVETLDATQTHGESVSFEFIAEADPDWLLVIDRGAAIGQAGEAARATLDNQLIAGTSAAKNDRIVYLDPAELYVAGGGVAAAMHTLDQITDAFGS",
+  "md5" : "23818b06e369e52a2988efa73037b66f",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "SSF53807",
+      "name" : "\"Helical backbone\" metal receptor",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 30,
+      "end" : 301,
+      "representative" : false,
+      "hmmLength" : 287,
+      "location-fragments" : [ {
+        "start" : 30,
+        "end" : 301,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.83E-60,
+    "model-ac" : "0052172"
+  }, {
+    "signature" : {
+      "accession" : "PF01497",
+      "name" : "Peripla_BP_2",
+      "description" : "Periplasmic binding protein",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR002491",
+        "name" : "ABC_transptr_periplasmic_BD",
+        "description" : "ABC transporter periplasmic binding domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 54,
+      "end" : 284,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 233,
+      "hmmLength" : 235,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.8E-26,
+      "score" : 103.9,
+      "envelopeStart" : 52,
+      "envelopeEnd" : 286,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 54,
+        "end" : 284,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.3E-26,
+    "score" : 104.2,
+    "model-ac" : "PF01497"
+  }, {
+    "signature" : {
+      "accession" : "cd01140",
+      "name" : "FatB",
+      "description" : "FatB",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : {
+        "accession" : "IPR033870",
+        "name" : "FatB",
+        "description" : "FatB domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 38,
+      "end" : 306,
+      "representative" : true,
+      "sites" : [ {
+        "description" : "putative ligand binding residues",
+        "numLocations" : 8,
+        "siteLocations" : [ {
+          "start" : 95,
+          "end" : 95,
+          "residue" : "L"
+        }, {
+          "start" : 114,
+          "end" : 114,
+          "residue" : "G"
+        }, {
+          "start" : 196,
+          "end" : 196,
+          "residue" : "S"
+        }, {
+          "start" : 76,
+          "end" : 76,
+          "residue" : "S"
+        }, {
+          "start" : 116,
+          "end" : 116,
+          "residue" : "R"
+        }, {
+          "start" : 57,
+          "end" : 57,
+          "residue" : "L"
+        }, {
+          "start" : 227,
+          "end" : 227,
+          "residue" : "G"
+        }, {
+          "start" : 58,
+          "end" : 58,
+          "residue" : "A"
+        } ]
+      } ],
+      "evalue" : 1.81739E-105,
+      "score" : 307.262,
+      "location-fragments" : [ {
+        "start" : 38,
+        "end" : 306,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd01140"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.1980",
+      "name" : "Nitrogenase molybdenum iron protein domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 35,
+      "end" : 288,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 257,
+      "hmmLength" : 188,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 9.6E-78,
+      "score" : 263.2,
+      "envelopeStart" : 35,
+      "envelopeEnd" : 288,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 283,
+        "end" : 288,
+        "dc-status" : "N_TERMINAL_DISC"
+      }, {
+        "start" : 35,
+        "end" : 178,
+        "dc-status" : "C_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 8.3E-78,
+    "score" : 263.4,
+    "model-ac" : "3tefA01"
+  }, {
+    "signature" : {
+      "accession" : "PS50983",
+      "name" : "FE_B12_PBP",
+      "description" : "Iron siderophore/cobalamin periplasmic-binding domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR002491",
+        "name" : "ABC_transptr_periplasmic_BD",
+        "description" : "ABC transporter periplasmic binding domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 51,
+      "end" : 310,
+      "representative" : false,
+      "score" : 36.254742,
+      "alignment" : "TVAIFDLAAVDTVHALGVD--IAGIPNSLFLER---LDAVADDATVVGTLFEPDFEALANLNPDLIIAGGRSSAQVEALSRLAP-TLDMTITPEGFFDQVRARTAAYGEIFGKQAEADALLTQLDDKLATARAAVDG---KGDALIILTNGGNISTYGQGTRFGWLHT-ALDLPQAVETLDATqTHGESVSFEFIAEADPDWLLVIDRgAAIGQagEAARATLDNQLIAGTSAAKNDRIVYLDPAeLYVAGGGVAAAMhTLDQITDAFGS--",
+      "location-fragments" : [ {
+        "start" : 51,
+        "end" : 310,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50983"
+  }, {
+    "signature" : {
+      "accession" : "PTHR30532",
+      "name" : "IRON III  DICITRATE-BINDING PERIPLASMIC PROTEIN",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR051313",
+        "name" : "Bact_iron-sidero_bind",
+        "description" : "Bacterial iron-siderophore binding",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 309,
+      "representative" : false,
+      "hmmStart" : 8,
+      "hmmEnd" : 317,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 5,
+      "envelopeEnd" : 310,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 309,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR30532:SF28",
+    "name" : "PETROBACTIN-BINDING PROTEIN YCLQ",
+    "evalue" : 4.5E-59,
+    "score" : 211.9,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002825852",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR30532:SF28"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.1980",
+      "name" : "Nitrogenase molybdenum iron protein domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 179,
+      "end" : 282,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 257,
+      "hmmLength" : 104,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 9.6E-78,
+      "score" : 263.2,
+      "envelopeStart" : 35,
+      "envelopeEnd" : 288,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 179,
+        "end" : 282,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 8.3E-78,
+    "score" : 263.4,
+    "model-ac" : "3tefA02"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_106 # 126444 # 127376 # -1 # ID=4_106;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.637",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_106"
+  } ]
+},{
+  "sequence" : "MPSAPLIELRNVSKRFGGVRALDDVSLTLDTARIHCLAGENGSGKSTLIKIVSGVYQPDEGEILIDGKPVGKLDPATSIAHGVQVIYQDFSLFPTLSVVENLALNSFLREGRQRIDWRRARKMAREVLARLDVKLDLDATVETLPAAGRQIVAIARAMLADARLIIMDEPTTTLTGREVERLFRIVRDLQDQGIATLFVSHKMREMLEISEHLTVFRNGKKVTEGPIADFDERAITRAMTGRDLHQGKFTAPDTTGKTPRLELRNVSVGDKAQNIDLTLMPGEIVGLSGLIGAGRKAIAQAIFGLRQDMTGEMRLDGQPIAPSSVPEAIAAGLAYVPEDRLSEGLFLTRSIRDNSIVSSLERFAPRLWLNSEKAAAQTRKMFEEMAISAPGIDAPVGTLSGGNAQRVMIGRWLMTHARVLILNGPTVGVDVGSKEQIHGIIQDLTRKNDLAVLMISDDMPELAANCNRVLCMREGRITGELSGATLTEEALDAALSNETQGEPA",
+  "md5" : "608c2d9eb51012aa8ed7df4251e64eca",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PS00211",
+      "name" : "ABC_TRANSPORTER_1",
+      "description" : "ABC transporters family signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR017871",
+        "name" : "ABC_transporter-like_CS",
+        "description" : "ABC transporter-like, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 399,
+      "end" : 413,
+      "representative" : false,
+      "level" : "STRONG",
+      "cigarAlignment" : "15M",
+      "alignment" : "LSGGNAQRVMIGRWL",
+      "location-fragments" : [ {
+        "start" : 399,
+        "end" : 413,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00211"
+  }, {
+    "signature" : {
+      "accession" : "PS50893",
+      "name" : "ABC_TRANSPORTER_2",
+      "description" : "ATP-binding cassette, ABC transporter-type domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR003439",
+        "name" : "ABC_transporter-like_ATP-bd",
+        "description" : "ABC transporter-like, ATP-binding domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 256,
+      "end" : 499,
+      "representative" : true,
+      "score" : 15.439653,
+      "alignment" : "GKTPRLELRnVSVGDKAQNIDLTLMPGEIVGLSGLIGAGRKAIAQAIFGLRQDMTGEMRLDGQ-PIAPSSVPEAIAAGLAYVPEDrlsEGLFLTRSIRDNSIVSSLERFAPRLWlnsEKAAAQTRKMFEEMAI--SAPGIDAPVGTLSGGNAQRVMIGRWLMTHARVLILNGPTVGVDVGSKEQIHGIIQDLTRKNDLAVLMISDDMPELAANCNRVLCMREGRITGELSGATLTEEALDAALSNET",
+      "location-fragments" : [ {
+        "start" : 256,
+        "end" : 499,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50893"
+  }, {
+    "signature" : {
+      "accession" : "PTHR43790",
+      "name" : "CARBOHYDRATE TRANSPORT ATP-BINDING PROTEIN MG119-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR050107",
+        "name" : "ABC_carbohydrate_import_ATPase",
+        "description" : "ABC transporter carbohydrate import ATP-binding proteins",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 498,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 495,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 502,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 498,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR43790:SF1",
+    "name" : "XYLOSE IMPORT ATP-BINDING PROTEIN XYLG",
+    "evalue" : 0.0,
+    "score" : 559.7,
+    "proteinClass" : null,
+    "graftPoint" : "PTN008120152",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR43790:SF1"
+  }, {
+    "signature" : {
+      "accession" : "PS50893",
+      "name" : "ABC_TRANSPORTER_2",
+      "description" : "ATP-binding cassette, ABC transporter-type domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR003439",
+        "name" : "ABC_transporter-like_ATP-bd",
+        "description" : "ABC transporter-like, ATP-binding domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 7,
+      "end" : 243,
+      "representative" : true,
+      "score" : 23.249405,
+      "alignment" : "IELRNVSKRFGGVRALDDVSLTLDTARIHCLAGENGSGKSTLIKIVSGVYQPDEGEILIDGK-PVGKLDPATSIAHGVQVIYQDFSLFPTLSVVENLALNSFLREGRQRIdwRRARKMAREVLARLDV---KLDLDATVETLPAAGRQIVAIARAMLADARLIIMDEPTTTLTGREVERLFRIVRDLQD-QGIATLFVSHKMREMLEISEHLTVFRNGKKVTEGPIADFDERAITRAMTGRD",
+      "location-fragments" : [ {
+        "start" : 7,
+        "end" : 243,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50893"
+  }, {
+    "signature" : {
+      "accession" : "SSF52540",
+      "name" : "P-loop containing nucleoside triphosphate hydrolases",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR027417",
+        "name" : "P-loop_NTPase",
+        "description" : "P-loop containing nucleoside triphosphate hydrolase",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 260,
+      "end" : 485,
+      "representative" : false,
+      "hmmLength" : 254,
+      "location-fragments" : [ {
+        "start" : 260,
+        "end" : 485,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.18E-39,
+    "model-ac" : "0037958"
+  }, {
+    "signature" : {
+      "accession" : "SM00382",
+      "name" : "AAA_5",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "9.0"
+      },
+      "entry" : {
+        "accession" : "IPR003593",
+        "name" : "AAA+_ATPase",
+        "description" : "AAA+ ATPase domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 281,
+      "end" : 478,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 92,
+      "hmmLength" : 92,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.0,
+      "score" : 10.7,
+      "location-fragments" : [ {
+        "start" : 281,
+        "end" : 478,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 31,
+      "end" : 250,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 92,
+      "hmmLength" : 92,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 7.4E-8,
+      "score" : 42.1,
+      "location-fragments" : [ {
+        "start" : 31,
+        "end" : 250,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.4E-11,
+    "score" : 52.8,
+    "model-ac" : "SM00382"
+  }, {
+    "signature" : {
+      "accession" : "SSF52540",
+      "name" : "P-loop containing nucleoside triphosphate hydrolases",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR027417",
+        "name" : "P-loop_NTPase",
+        "description" : "P-loop containing nucleoside triphosphate hydrolase",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 5,
+      "end" : 230,
+      "representative" : false,
+      "hmmLength" : 254,
+      "location-fragments" : [ {
+        "start" : 5,
+        "end" : 230,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.25E-56,
+    "model-ac" : "0037958"
+  }, {
+    "signature" : {
+      "accession" : "cd03215",
+      "name" : "ABC_Carb_Monos_II",
+      "description" : "ABC_Carb_Monos_II",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 259,
+      "end" : 477,
+      "representative" : false,
+      "sites" : [ ],
+      "evalue" : 2.62881E-74,
+      "score" : 230.782,
+      "location-fragments" : [ {
+        "start" : 259,
+        "end" : 477,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd03215"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.300",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR027417",
+        "name" : "P-loop_NTPase",
+        "description" : "P-loop containing nucleoside triphosphate hydrolase",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 246,
+      "end" : 499,
+      "representative" : false,
+      "hmmStart" : 15,
+      "hmmEnd" : 252,
+      "hmmLength" : 279,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 5.0E-41,
+      "score" : 142.8,
+      "envelopeStart" : 242,
+      "envelopeEnd" : 499,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 246,
+        "end" : 499,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 2,
+      "end" : 245,
+      "representative" : false,
+      "hmmStart" : 19,
+      "hmmEnd" : 252,
+      "hmmLength" : 279,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 3.1E-57,
+      "score" : 196.0,
+      "envelopeStart" : 2,
+      "envelopeEnd" : 248,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 245,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.9E-101,
+    "score" : 339.4,
+    "model-ac" : "2ihyA00"
+  }, {
+    "signature" : {
+      "accession" : "cd03216",
+      "name" : "ABC_Carb_Monos_I",
+      "description" : "ABC_Carb_Monos_I",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 7,
+      "end" : 224,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "H-loop/switch region",
+        "numLocations" : 7,
+        "siteLocations" : [ {
+          "start" : 202,
+          "end" : 202,
+          "residue" : "K"
+        }, {
+          "start" : 201,
+          "end" : 201,
+          "residue" : "H"
+        }, {
+          "start" : 198,
+          "end" : 198,
+          "residue" : "F"
+        }, {
+          "start" : 203,
+          "end" : 203,
+          "residue" : "M"
+        }, {
+          "start" : 197,
+          "end" : 197,
+          "residue" : "L"
+        }, {
+          "start" : 199,
+          "end" : 199,
+          "residue" : "V"
+        }, {
+          "start" : 200,
+          "end" : 200,
+          "residue" : "S"
+        } ]
+      }, {
+        "description" : "Walker B",
+        "numLocations" : 6,
+        "siteLocations" : [ {
+          "start" : 169,
+          "end" : 169,
+          "residue" : "E"
+        }, {
+          "start" : 165,
+          "end" : 165,
+          "residue" : "I"
+        }, {
+          "start" : 164,
+          "end" : 164,
+          "residue" : "L"
+        }, {
+          "start" : 168,
+          "end" : 168,
+          "residue" : "D"
+        }, {
+          "start" : 167,
+          "end" : 167,
+          "residue" : "M"
+        }, {
+          "start" : 166,
+          "end" : 166,
+          "residue" : "I"
+        } ]
+      }, {
+        "description" : "D-loop",
+        "numLocations" : 4,
+        "siteLocations" : [ {
+          "start" : 172,
+          "end" : 172,
+          "residue" : "T"
+        }, {
+          "start" : 174,
+          "end" : 174,
+          "residue" : "L"
+        }, {
+          "start" : 175,
+          "end" : 175,
+          "residue" : "T"
+        }, {
+          "start" : 173,
+          "end" : 173,
+          "residue" : "T"
+        } ]
+      }, {
+        "description" : "Q-loop/lid",
+        "numLocations" : 4,
+        "siteLocations" : [ {
+          "start" : 88,
+          "end" : 88,
+          "residue" : "Q"
+        }, {
+          "start" : 87,
+          "end" : 87,
+          "residue" : "Y"
+        }, {
+          "start" : 85,
+          "end" : 85,
+          "residue" : "V"
+        }, {
+          "start" : 86,
+          "end" : 86,
+          "residue" : "I"
+        } ]
+      }, {
+        "description" : "ABC transporter signature motif",
+        "numLocations" : 10,
+        "siteLocations" : [ {
+          "start" : 151,
+          "end" : 151,
+          "residue" : "I"
+        }, {
+          "start" : 147,
+          "end" : 147,
+          "residue" : "A"
+        }, {
+          "start" : 148,
+          "end" : 148,
+          "residue" : "G"
+        }, {
+          "start" : 150,
+          "end" : 150,
+          "residue" : "Q"
+        }, {
+          "start" : 144,
+          "end" : 144,
+          "residue" : "L"
+        }, {
+          "start" : 153,
+          "end" : 153,
+          "residue" : "A"
+        }, {
+          "start" : 145,
+          "end" : 145,
+          "residue" : "P"
+        }, {
+          "start" : 152,
+          "end" : 152,
+          "residue" : "V"
+        }, {
+          "start" : 146,
+          "end" : 146,
+          "residue" : "A"
+        }, {
+          "start" : 149,
+          "end" : 149,
+          "residue" : "R"
+        } ]
+      }, {
+        "description" : "ATP binding site",
+        "numLocations" : 9,
+        "siteLocations" : [ {
+          "start" : 88,
+          "end" : 88,
+          "residue" : "Q"
+        }, {
+          "start" : 43,
+          "end" : 43,
+          "residue" : "S"
+        }, {
+          "start" : 169,
+          "end" : 169,
+          "residue" : "E"
+        }, {
+          "start" : 201,
+          "end" : 201,
+          "residue" : "H"
+        }, {
+          "start" : 46,
+          "end" : 46,
+          "residue" : "S"
+        }, {
+          "start" : 42,
+          "end" : 42,
+          "residue" : "G"
+        }, {
+          "start" : 45,
+          "end" : 45,
+          "residue" : "K"
+        }, {
+          "start" : 47,
+          "end" : 47,
+          "residue" : "T"
+        }, {
+          "start" : 168,
+          "end" : 168,
+          "residue" : "D"
+        } ]
+      }, {
+        "description" : "Walker A/P-loop",
+        "numLocations" : 8,
+        "siteLocations" : [ {
+          "start" : 43,
+          "end" : 43,
+          "residue" : "S"
+        }, {
+          "start" : 44,
+          "end" : 44,
+          "residue" : "G"
+        }, {
+          "start" : 46,
+          "end" : 46,
+          "residue" : "S"
+        }, {
+          "start" : 42,
+          "end" : 42,
+          "residue" : "G"
+        }, {
+          "start" : 45,
+          "end" : 45,
+          "residue" : "K"
+        }, {
+          "start" : 39,
+          "end" : 39,
+          "residue" : "G"
+        }, {
+          "start" : 41,
+          "end" : 41,
+          "residue" : "N"
+        }, {
+          "start" : 40,
+          "end" : 40,
+          "residue" : "E"
+        } ]
+      } ],
+      "evalue" : 3.1168E-73,
+      "score" : 227.312,
+      "location-fragments" : [ {
+        "start" : 7,
+        "end" : 224,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd03216"
+  }, {
+    "signature" : {
+      "accession" : "PF00005",
+      "name" : "ABC_tran",
+      "description" : "ABC transporter",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR003439",
+        "name" : "ABC_transporter-like_ATP-bd",
+        "description" : "ABC transporter-like, ATP-binding domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 22,
+      "end" : 172,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 137,
+      "hmmLength" : 137,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.3E-26,
+      "score" : 104.5,
+      "envelopeStart" : 22,
+      "envelopeEnd" : 172,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 22,
+        "end" : 172,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 273,
+      "end" : 426,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 136,
+      "hmmLength" : 137,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 7.4E-14,
+      "score" : 63.9,
+      "envelopeStart" : 272,
+      "envelopeEnd" : 427,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 273,
+        "end" : 426,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 8.7E-47,
+    "score" : 170.6,
+    "model-ac" : "PF00005"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_1104_c1_2 # 235 # 1749 # 1 # ID=11_2;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.637",
+    "id" : "5mSIPHEX1_0-scaffold_1104_c1_2"
+  } ]
+},{
+  "sequence" : "MFVHVPLPRASFTDAETEVARGAGFTVTAWRNPLGVEMLAVETPRGRVVMLPYMGQMLWDATFDGVRLTMDSAFAAPRPAQSIVETYGCLAFHSGLLRNGCPGPEDDHPLHGEMACATMDAAWLEIGEDAEGALLRLGGHVDYIRGFGPHYRARPSIVLRHDTRIEMGMEVENRSALPMDLMYMCHVNFAFVADGRIHQAAPYTPDRTRVRHEIPAHVQPTPSYRAFLDRLADDPRESATLGQPDLWNPEQVLYIDSPACDAAGDSHALLERPQGDGFVMTWKPEEFGHLVRWVLNGEDASVAAFALPSTCEPEGYTAEKAKGNLRSVAPGATARFTTRFGYAGQAETAALGRAIATLNEEEASDG",
+  "md5" : "3ab8bbb6d8119d2b9c4b45df6cc80333",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "cd09269",
+      "name" : "deoxyribose_mutarotase",
+      "description" : "deoxyribose_mutarotase",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 48,
+      "end" : 341,
+      "representative" : true,
+      "sites" : [ {
+        "description" : "active site",
+        "numLocations" : 6,
+        "siteLocations" : [ {
+          "start" : 186,
+          "end" : 186,
+          "residue" : "H"
+        }, {
+          "start" : 296,
+          "end" : 296,
+          "residue" : "N"
+        }, {
+          "start" : 248,
+          "end" : 248,
+          "residue" : "N"
+        }, {
+          "start" : 111,
+          "end" : 111,
+          "residue" : "H"
+        }, {
+          "start" : 307,
+          "end" : 307,
+          "residue" : "L"
+        }, {
+          "start" : 188,
+          "end" : 188,
+          "residue" : "N"
+        } ]
+      }, {
+        "description" : "catalytic residues",
+        "numLocations" : 2,
+        "siteLocations" : [ {
+          "start" : 186,
+          "end" : 186,
+          "residue" : "H"
+        }, {
+          "start" : 314,
+          "end" : 314,
+          "residue" : "E"
+        } ]
+      } ],
+      "evalue" : 0.0,
+      "score" : 436.346,
+      "location-fragments" : [ {
+        "start" : 48,
+        "end" : 341,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd09269"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.70.98.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR014718",
+        "name" : "GH-type_carb-bd",
+        "description" : "Glycoside hydrolase-type carbohydrate-binding",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 24,
+      "end" : 365,
+      "representative" : false,
+      "hmmStart" : 47,
+      "hmmEnd" : 372,
+      "hmmLength" : 384,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.8E-63,
+      "score" : 215.7,
+      "envelopeStart" : 24,
+      "envelopeEnd" : 365,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 24,
+        "end" : 365,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.2E-63,
+    "score" : 216.0,
+    "model-ac" : "3ty1A00"
+  }, {
+    "signature" : {
+      "accession" : "SSF74650",
+      "name" : "Galactose mutarotase-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR011013",
+        "name" : "Gal_mutarotase_sf_dom",
+        "description" : "Galactose mutarotase-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 41,
+      "end" : 342,
+      "representative" : false,
+      "hmmLength" : 329,
+      "location-fragments" : [ {
+        "start" : 41,
+        "end" : 342,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.91E-8,
+    "model-ac" : "0048040"
+  }, {
+    "signature" : {
+      "accession" : "PF14486",
+      "name" : "DUF4432",
+      "description" : "Domain of unknown function (DUF4432)",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR027839",
+        "name" : "DUF4432",
+        "description" : "Protein of unknown function DUF4432",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 35,
+      "end" : 339,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 301,
+      "hmmLength" : 304,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 8.8E-15,
+      "score" : 65.8,
+      "envelopeStart" : 34,
+      "envelopeEnd" : 341,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 35,
+        "end" : 339,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.6E-16,
+    "score" : 70.4,
+    "model-ac" : "PF14486"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_1104_c1_5 # 3759 # 4859 # 1 # ID=11_5;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.668",
+    "id" : "5mSIPHEX1_0-scaffold_1104_c1_5"
+  } ]
+},{
+  "sequence" : "MSFLRSSDAIILVILAVAMVLIGLVNPAFWQMSNLFSLLKSNVVIGIMALGVLLVMISGGIDVSFTAFAVAGMYLVVKVMVALDYNGVILPFMSATLIGGLLGLMNAGIIHRFSMIPLIVTLGTASVVRGLVLGLVGTSNVNINKMPTALIEFGKTDLLVLERANGSTYGLTAMVAVYLGLALLLHLVLKHTMIGRSVYAYGADPEAAKRVGFSTGRTMIFVYVTAGALAGFSGLLHSSMIWLANPRDFVGLELDVIAAVVLGGASIFGGRGTVLGTVLGVFILVMIQNSLILMGIDTTWQRVVVGAMLIAAVTVTALRDRRALV",
+  "md5" : "e909578e67d6c238cfb612bde9d06cba",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PTHR32196",
+      "name" : "ABC TRANSPORTER PERMEASE PROTEIN YPHD-RELATED-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 6,
+      "end" : 322,
+      "representative" : false,
+      "hmmStart" : 12,
+      "hmmEnd" : 315,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 324,
+      "location-fragments" : [ {
+        "start" : 6,
+        "end" : 322,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR32196:SF21",
+    "name" : "ABC TRANSPORTER PERMEASE PROTEIN YPHD-RELATED",
+    "evalue" : 2.6E-67,
+    "score" : 238.7,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002083652",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR32196:SF21"
+  }, {
+    "signature" : {
+      "accession" : "PF02653",
+      "name" : "BPD_transp_2",
+      "description" : "Branched-chain amino acid transport system / permease component",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR001851",
+        "name" : "ABC_transp_permease",
+        "description" : "ABC transporter, permease",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 35,
+      "end" : 313,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 269,
+      "hmmLength" : 269,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 2.5E-33,
+      "score" : 126.9,
+      "envelopeStart" : 34,
+      "envelopeEnd" : 313,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 35,
+        "end" : 313,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.5E-33,
+    "score" : 126.9,
+    "model-ac" : "PF02653"
+  }, {
+    "signature" : {
+      "accession" : "cd06579",
+      "name" : "TM_PBP1_transp_AraH_like",
+      "description" : "TM_PBP1_transp_AraH_like",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 42,
+      "end" : 316,
+      "representative" : true,
+      "sites" : [ {
+        "description" : "TM-ABC transporter signature motif",
+        "numLocations" : 19,
+        "siteLocations" : [ {
+          "start" : 223,
+          "end" : 223,
+          "residue" : "Y"
+        }, {
+          "start" : 220,
+          "end" : 220,
+          "residue" : "I"
+        }, {
+          "start" : 208,
+          "end" : 208,
+          "residue" : "A"
+        }, {
+          "start" : 221,
+          "end" : 221,
+          "residue" : "F"
+        }, {
+          "start" : 207,
+          "end" : 207,
+          "residue" : "A"
+        }, {
+          "start" : 218,
+          "end" : 218,
+          "residue" : "T"
+        }, {
+          "start" : 224,
+          "end" : 224,
+          "residue" : "V"
+        }, {
+          "start" : 209,
+          "end" : 209,
+          "residue" : "K"
+        }, {
+          "start" : 222,
+          "end" : 222,
+          "residue" : "V"
+        }, {
+          "start" : 212,
+          "end" : 212,
+          "residue" : "G"
+        }, {
+          "start" : 214,
+          "end" : 214,
+          "residue" : "S"
+        }, {
+          "start" : 206,
+          "end" : 206,
+          "residue" : "E"
+        }, {
+          "start" : 219,
+          "end" : 219,
+          "residue" : "M"
+        }, {
+          "start" : 217,
+          "end" : 217,
+          "residue" : "R"
+        }, {
+          "start" : 213,
+          "end" : 213,
+          "residue" : "F"
+        }, {
+          "start" : 215,
+          "end" : 215,
+          "residue" : "T"
+        }, {
+          "start" : 216,
+          "end" : 216,
+          "residue" : "G"
+        }, {
+          "start" : 210,
+          "end" : 210,
+          "residue" : "R"
+        }, {
+          "start" : 211,
+          "end" : 211,
+          "residue" : "V"
+        } ]
+      } ],
+      "evalue" : 1.33548E-54,
+      "score" : 177.601,
+      "location-fragments" : [ {
+        "start" : 42,
+        "end" : 316,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd06579"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_1104_c1_3 # 1746 # 2723 # 1 # ID=11_3;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.627",
+    "id" : "5mSIPHEX1_0-scaffold_1104_c1_3"
+  } ]
+},{
+  "sequence" : "MPDFITNMRAVNRGGDLKRCRNFHLRMGLVQSQLPLNGVPPSHARHAVFGEMRGRER",
+  "md5" : "c1ee30a1c7be3c02c9ff33be046d62b0",
+  "matches" : [ ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_107 # 127543 # 127716 # 1 # ID=4_107;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.557",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_107"
+  } ]
+},{
+  "sequence" : "MNIARAAIDKGLITWILMLGCLLGGIWGFATMGRLEDPAFTIKTAVVFTSYPGASADQVAREVTEPLESAIQQMSEIDHITSSNKPGISRITVEIESTYDGTELPAIWNKLRNRVTDAQPALPEGAGTSVVNDSFGDVFGVFYGITAPGFTDGEVHDLAEFLRREVLAVEGVADVTLAGLPEEAIFVEPETAILTNLGLPPTAIASAIANSNAVASAGSVTQQGQKIRIEAPSGSDSVEEIRGLTIGVGGEVIEVTDIAEVFRSRITDPSMIIRFDGEEAFTMGVAGKAGLNIVDVGKRVDARLDQLMPDIPVGVELHPIYQQHVVVEEASNAFLINLALSVAIVVIVLALFMGWRAAIVVGTTLLLTVVGTLFFMALFGIEMERISLGALIIAMGMLVDNAIVVAEGMQGDMAQGKSSRDAAQDIAGKTQIPLLGATVIGIMAFAGIGLSPDATGEFLFSLFAVIGISLLLSWVLAITATPLLAHYFFKRGAGGGAGQYDGPIFRAYAATLRLALKLRWLVVVALIAITVVCYIGFGMVKQQFFPDSNTPLIYVHYKLPQGGSIHSTSDDMRVIEDWLAERDDIVSVATFVGGGASRFMLTYAPEESLATYGHLIIRTEVLEQIAPLQTDLEAFGRAQLPQGEFRTERLAFGPGGGAPIAVRFSGSDPDMLRQLAQEASLRLREASDQLIDLRTNWRERELVLKPIYAAERAQTAGVAREDIAAALATATDGSQAGVYREEDRLIPIIVRLPAGRSDNADTSTGVTASHLIDQPVYSDSASAFIPIEQLIDGFTYEVQDTLIQRRDRLFTITVMAGVQNGVNAAAVFTDIRSDIEAMTLPEGYAMAWGGEYENSTEAQESLGKQLPLSLLSMVLISVLLFGRLRQPLIIWLLVPMAVNGAALGLLGTGLPFSFTALLGLLSLSGMLIKNGIVLVEEIDLTRAEGVPFTRAVVEASTSRLRPVVLAAATTILGMIPLLGDAFFASMAVTIMGGLGFASILTLIAAPVFYYLMFPKARREEKAALAG",
+  "md5" : "4813a54256883e01fdb529064c798ba1",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PF00873",
+      "name" : "ACR_tran",
+      "description" : "AcrB/AcrD/AcrF family",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR001036",
+        "name" : "Acrflvin-R",
+        "description" : "Acriflavin resistance protein",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 1012,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 1020,
+      "hmmLength" : 1021,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 512.9,
+      "envelopeStart" : 3,
+      "envelopeEnd" : 1013,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 1012,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 513.2,
+    "model-ac" : "PF00873"
+  }, {
+    "signature" : {
+      "accession" : "SSF82693",
+      "name" : "Multidrug efflux transporter AcrB pore domain; PN1, PN2, PC1 and PC2 subdomains",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 136,
+      "end" : 321,
+      "representative" : false,
+      "hmmLength" : 105,
+      "location-fragments" : [ {
+        "start" : 268,
+        "end" : 321,
+        "dc-status" : "N_TERMINAL_DISC"
+      }, {
+        "start" : 136,
+        "end" : 182,
+        "dc-status" : "C_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 1.03E-16,
+    "model-ac" : "0047457"
+  }, {
+    "signature" : {
+      "accession" : "SSF82693",
+      "name" : "Multidrug efflux transporter AcrB pore domain; PN1, PN2, PC1 and PC2 subdomains",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 40,
+      "end" : 135,
+      "representative" : false,
+      "hmmLength" : 97,
+      "location-fragments" : [ {
+        "start" : 40,
+        "end" : 135,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.44E-20,
+    "model-ac" : "0047456"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.2090.10",
+      "name" : "Multidrug efflux transporter AcrB TolC docking domain; DN and DC subdomains",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR027463",
+        "name" : "AcrB_DN_DC_subdom",
+        "description" : "Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 180,
+      "end" : 272,
+      "representative" : false,
+      "hmmStart" : 4,
+      "hmmEnd" : 1004,
+      "hmmLength" : 96,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 735.6,
+      "envelopeStart" : 9,
+      "envelopeEnd" : 1010,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 180,
+        "end" : 272,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 735.7,
+    "model-ac" : "4mt1A04"
+  }, {
+    "signature" : {
+      "accession" : "SSF82714",
+      "name" : "Multidrug efflux transporter AcrB TolC docking domain; DN and DC subdomains",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR027463",
+        "name" : "AcrB_DN_DC_subdom",
+        "description" : "Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 185,
+      "end" : 262,
+      "representative" : false,
+      "hmmLength" : 92,
+      "location-fragments" : [ {
+        "start" : 185,
+        "end" : 262,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.01E-6,
+    "model-ac" : "0039246"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:1.20.1640.10",
+      "name" : "Multidrug efflux transporter AcrB transmembrane domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 499,
+      "end" : 1010,
+      "representative" : false,
+      "hmmStart" : 4,
+      "hmmEnd" : 1004,
+      "hmmLength" : 227,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 0.0,
+      "score" : 735.6,
+      "envelopeStart" : 9,
+      "envelopeEnd" : 1010,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 499,
+        "end" : 552,
+        "dc-status" : "C_TERMINAL_DISC"
+      }, {
+        "start" : 863,
+        "end" : 1010,
+        "dc-status" : "N_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 735.7,
+    "model-ac" : "4mt1A05"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.70.1430",
+      "name" : "Multidrug efflux transporter AcrB pore domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 40,
+      "end" : 810,
+      "representative" : false,
+      "hmmStart" : 4,
+      "hmmEnd" : 1004,
+      "hmmLength" : 103,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 735.6,
+      "envelopeStart" : 9,
+      "envelopeEnd" : 1010,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 803,
+        "end" : 810,
+        "dc-status" : "N_TERMINAL_DISC"
+      }, {
+        "start" : 40,
+        "end" : 135,
+        "dc-status" : "C_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 735.7,
+    "model-ac" : "4mt1A02"
+  }, {
+    "signature" : {
+      "accession" : "PTHR32063",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR001036",
+        "name" : "Acrflvin-R",
+        "description" : "Acriflavin resistance protein",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 1014,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 1012,
+      "hmmLength" : 0,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 1023,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 1014,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR32063:SF18",
+    "name" : "CATION EFFLUX SYSTEM PROTEIN",
+    "evalue" : 0.0,
+    "score" : 779.2,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002424665",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR32063:SF18"
+  }, {
+    "signature" : {
+      "accession" : "SSF82866",
+      "name" : "Multidrug efflux transporter AcrB transmembrane domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 797,
+      "end" : 1017,
+      "representative" : false,
+      "hmmLength" : 223,
+      "location-fragments" : [ {
+        "start" : 797,
+        "end" : 1017,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.02E-42,
+    "model-ac" : "0039249"
+  }, {
+    "signature" : {
+      "accession" : "PR00702",
+      "name" : "ACRIFLAVINRP",
+      "description" : "Acriflavin resistance protein family signature",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR001036",
+        "name" : "Acrflvin-R",
+        "description" : "Acriflavin resistance protein",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 34,
+      "representative" : false,
+      "pvalue" : 0.00747,
+      "score" : 18.0,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 34,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 38,
+      "end" : 56,
+      "representative" : false,
+      "pvalue" : 3.02E-6,
+      "score" : 41.05,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 38,
+        "end" : 56,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 330,
+      "end" : 353,
+      "representative" : false,
+      "pvalue" : 1.26E-4,
+      "score" : 22.92,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 330,
+        "end" : 353,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 384,
+      "end" : 408,
+      "representative" : false,
+      "pvalue" : 2.11E-9,
+      "score" : 43.4,
+      "motifNumber" : 5,
+      "location-fragments" : [ {
+        "start" : 384,
+        "end" : 408,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 462,
+      "end" : 485,
+      "representative" : false,
+      "pvalue" : 1.36E-5,
+      "score" : 28.54,
+      "motifNumber" : 7,
+      "location-fragments" : [ {
+        "start" : 462,
+        "end" : 485,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.9E-20,
+    "graphscan" : "iIi.I.i..",
+    "model-ac" : "PR00702"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.2090.10",
+      "name" : "Multidrug efflux transporter AcrB TolC docking domain; DN and DC subdomains",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR027463",
+        "name" : "AcrB_DN_DC_subdom",
+        "description" : "Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 704,
+      "end" : 802,
+      "representative" : false,
+      "hmmStart" : 4,
+      "hmmEnd" : 1004,
+      "hmmLength" : 89,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 735.6,
+      "envelopeStart" : 9,
+      "envelopeEnd" : 1010,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 704,
+        "end" : 802,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 735.7,
+    "model-ac" : "4mt1A08"
+  }, {
+    "signature" : {
+      "accession" : "SSF82866",
+      "name" : "Multidrug efflux transporter AcrB transmembrane domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 290,
+      "end" : 489,
+      "representative" : false,
+      "hmmLength" : 200,
+      "location-fragments" : [ {
+        "start" : 290,
+        "end" : 489,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.62E-36,
+    "model-ac" : "0039248"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.70.1430",
+      "name" : "Multidrug efflux transporter AcrB pore domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 553,
+      "end" : 651,
+      "representative" : false,
+      "hmmStart" : 4,
+      "hmmEnd" : 1004,
+      "hmmLength" : 101,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 735.6,
+      "envelopeStart" : 9,
+      "envelopeEnd" : 1010,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 553,
+        "end" : 651,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 735.7,
+    "model-ac" : "4mt1A06"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 676,
+      "end" : 696,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 676,
+        "end" : 696,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:1.20.1640.10",
+      "name" : "Multidrug efflux transporter AcrB transmembrane domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 12,
+      "end" : 494,
+      "representative" : false,
+      "hmmStart" : 4,
+      "hmmEnd" : 1004,
+      "hmmLength" : 222,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 735.6,
+      "envelopeStart" : 9,
+      "envelopeEnd" : 1010,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 326,
+        "end" : 494,
+        "dc-status" : "N_TERMINAL_DISC"
+      }, {
+        "start" : 12,
+        "end" : 39,
+        "dc-status" : "C_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 735.7,
+    "model-ac" : "4mt1A01"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.70.1320",
+      "name" : "Multidrug efflux transporter AcrB pore domain like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 136,
+      "end" : 325,
+      "representative" : false,
+      "hmmStart" : 4,
+      "hmmEnd" : 1004,
+      "hmmLength" : 98,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 735.6,
+      "envelopeStart" : 9,
+      "envelopeEnd" : 1010,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 273,
+        "end" : 325,
+        "dc-status" : "N_TERMINAL_DISC"
+      }, {
+        "start" : 136,
+        "end" : 179,
+        "dc-status" : "C_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 735.7,
+    "model-ac" : "4mt1A03"
+  }, {
+    "signature" : {
+      "accession" : "PS51257",
+      "name" : "PROKAR_LIPOPROTEIN",
+      "description" : "Prokaryotic membrane lipoprotein lipid attachment site profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 21,
+      "representative" : true,
+      "score" : 5.0,
+      "alignment" : "MNIARAAIDK--------------GLITWILMLGC",
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 21,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS51257"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.70.1440",
+      "name" : "Multidrug efflux transporter AcrB pore domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 652,
+      "end" : 862,
+      "representative" : false,
+      "hmmStart" : 4,
+      "hmmEnd" : 1004,
+      "hmmLength" : 104,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 735.6,
+      "envelopeStart" : 9,
+      "envelopeEnd" : 1010,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 652,
+        "end" : 703,
+        "dc-status" : "C_TERMINAL_DISC"
+      }, {
+        "start" : 811,
+        "end" : 862,
+        "dc-status" : "N_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 735.7,
+    "model-ac" : "4mt1A07"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_108 # 127959 # 131039 # -1 # ID=4_108;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.631",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_108"
+  } ]
+},{
+  "sequence" : "MNQHVTPMNAFTRSLLDGLTATPKTAEAKWFYDAEGSALFERITELPEYYPTRTEIGILRDRLADIAMHVPDGAALIELGSGASVKTRVLLDGLDRLAAYVPIDISAEFLAQTARGLRRDYPALTIHPVTGDFMAELSLPDALEGQPKIGFFPGSTIGNLDRDAAVALLAQARRWPEVAGFVLGADLVKAPDVLRAAYDDAQGVTAAFNRNLLHRANREAGADFDPDTFAHEARWNEAEARVEMHLVSRTEQQVRVAGRQVSFAPGETIHTENSRKYTAESLSDMAQAAGWQVAELLTDARDYFAVAVLKPV",
+  "md5" : "dda950d4a4e9d93f084343d4bab74d31",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "SSF53335",
+      "name" : "S-adenosyl-L-methionine-dependent methyltransferases",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR029063",
+        "name" : "SAM-dependent_MTases_sf",
+        "description" : "S-adenosyl-L-methionine-dependent methyltransferase superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 20,
+      "end" : 308,
+      "representative" : false,
+      "hmmLength" : 244,
+      "location-fragments" : [ {
+        "start" : 20,
+        "end" : 217,
+        "dc-status" : "C_TERMINAL_DISC"
+      }, {
+        "start" : 274,
+        "end" : 308,
+        "dc-status" : "N_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 1.35E-7,
+    "model-ac" : "0046838"
+  }, {
+    "signature" : {
+      "accession" : "PTHR43397",
+      "name" : "ERGOTHIONEINE BIOSYNTHESIS PROTEIN 1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR051128",
+        "name" : "EgtD_Methyltrsf_superfamily",
+        "description" : "EgtD Methyltransferase Superfamily",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 302,
+      "representative" : false,
+      "hmmStart" : 18,
+      "hmmEnd" : 323,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 2,
+      "envelopeEnd" : 310,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 302,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR43397:SF1",
+    "name" : "ERGOTHIONEINE BIOSYNTHESIS PROTEIN 1",
+    "evalue" : 3.5E-68,
+    "score" : 242.2,
+    "proteinClass" : null,
+    "graftPoint" : "PTN000765946",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR43397:SF1"
+  }, {
+    "signature" : {
+      "accession" : "TIGR03438",
+      "name" : "egtD_ergothio",
+      "description" : "L-histidine N(alpha)-methyltransferase",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : {
+        "accession" : "IPR035094",
+        "name" : "EgtD",
+        "description" : "Histidine N-alpha-methyltransferase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 11,
+      "end" : 308,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 300,
+      "hmmLength" : 301,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 1.9E-113,
+      "score" : 390.2,
+      "envelopeStart" : 10,
+      "envelopeEnd" : 309,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 11,
+        "end" : 308,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.7E-113,
+    "score" : 390.3,
+    "model-ac" : "TIGR03438"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.150",
+      "name" : "Vaccinia Virus protein VP39",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR029063",
+        "name" : "SAM-dependent_MTases_sf",
+        "description" : "S-adenosyl-L-methionine-dependent methyltransferase superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 38,
+      "end" : 215,
+      "representative" : false,
+      "hmmStart" : 5,
+      "hmmEnd" : 171,
+      "hmmLength" : 189,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.3E-46,
+      "score" : 160.5,
+      "envelopeStart" : 38,
+      "envelopeEnd" : 215,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 38,
+        "end" : 215,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.1E-49,
+    "score" : 168.0,
+    "model-ac" : "4pioB01"
+  }, {
+    "signature" : {
+      "accession" : "PF10017",
+      "name" : "Methyltransf_33",
+      "description" : "Histidine-specific methyltransferase, SAM-dependent",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR019257",
+        "name" : "MeTrfase_dom",
+        "description" : "Histidine-specific methyltransferase, SAM-dependent",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 12,
+      "end" : 310,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 303,
+      "hmmLength" : 304,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 9.4E-106,
+      "score" : 364.9,
+      "envelopeStart" : 11,
+      "envelopeEnd" : 311,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 12,
+        "end" : 310,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 8.3E-106,
+    "score" : 365.0,
+    "model-ac" : "PF10017"
+  }, {
+    "signature" : {
+      "accession" : "PIRSF018005",
+      "name" : "UCP018005",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSF",
+        "version" : "3.10"
+      },
+      "entry" : {
+        "accession" : "IPR017804",
+        "name" : "MeTrfase_EgtD-like",
+        "description" : "Methyltransferase EgtD-like",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 312,
+      "representative" : false,
+      "hmmStart" : 9,
+      "hmmEnd" : 309,
+      "hmmLength" : 331,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 1.2E-114,
+      "score" : 371.0,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 312,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 312,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.1E-114,
+    "score" : 371.1,
+    "model-ac" : "PIRSF018005"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_102 # 122697 # 123635 # 1 # ID=4_102;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.629",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_102"
+  } ]
+},{
+  "sequence" : "MIEITGLNHVIGDAPVLHDINLSVPGGGITALIGPNGAGKSTLLHLIAGLEQRRHGRMRIDGAPAETLSRRDFACKLAILTQDTGVASRLTVADLVAFGRWPHCRGRMQGEDHTAVARALEMFDLTELSHRYIDELSGGQRQRAHVAMAYAQETDWLLLDEPLNNLDPRHAQALMARLHRMSRPGPDQRSVVIVIHEVNYAAAWADHVIAMKHGRVQTEGPAETVLTSAALSALYETPIRVTELDGRPVVLHHRADPGMTQWDGSPLRRVI",
+  "md5" : "76947f742c2c8ed193f085f6ae82693b",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.300:FF:000134",
+      "name" : null,
+      "description" : "Iron-enterobactin ABC transporter ATP-binding protein",
+      "signatureLibraryRelease" : {
+        "library" : "FUNFAM",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 249,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 243,
+      "hmmLength" : 251,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.8E-66,
+      "score" : 224.1,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 249,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 249,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.0E-66,
+    "score" : 224.3,
+    "model-ac" : "3.40.50.300-FF-000134"
+  }, {
+    "signature" : {
+      "accession" : "SM00382",
+      "name" : "AAA_5",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "9.0"
+      },
+      "entry" : {
+        "accession" : "IPR003593",
+        "name" : "AAA+_ATPase",
+        "description" : "AAA+ ATPase domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 26,
+      "end" : 215,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 92,
+      "hmmLength" : 92,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.5E-12,
+      "score" : 57.7,
+      "location-fragments" : [ {
+        "start" : 26,
+        "end" : 215,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.5E-12,
+    "score" : 57.7,
+    "model-ac" : "SM00382"
+  }, {
+    "signature" : {
+      "accession" : "PS50893",
+      "name" : "ABC_TRANSPORTER_2",
+      "description" : "ATP-binding cassette, ABC transporter-type domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR003439",
+        "name" : "ABC_transporter-like_ATP-bd",
+        "description" : "ABC transporter-like, ATP-binding domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 238,
+      "representative" : true,
+      "score" : 21.895536,
+      "alignment" : "IEITGLNHVIGDAPVLHDINLSVPGGGITALIGPNGAGKSTLLHLIAGLEQRRHGRMRIDGA--PAETLSRRDFACKLAILTQDTGVASRLTVADLVAFGRWPHCRGRMQgedHTAVARALEMFDL------TELSHRYIDELSGGQRQRAHVAMAYAQETDWLLLDEPLNNLDPRHAQALMARLHRMSRPgpDQRSVVIVIHEVNYAAAWADHVIAMKHGRVQTEGPAETVLTSAALSALYETP",
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 238,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50893"
+  }, {
+    "signature" : {
+      "accession" : "SSF52540",
+      "name" : "P-loop containing nucleoside triphosphate hydrolases",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR027417",
+        "name" : "P-loop_NTPase",
+        "description" : "P-loop containing nucleoside triphosphate hydrolase",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 229,
+      "representative" : false,
+      "hmmLength" : 254,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 229,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.32E-57,
+    "model-ac" : "0037958"
+  }, {
+    "signature" : {
+      "accession" : "cd03214",
+      "name" : "ABC_Iron-Siderophores_B12_Hemin",
+      "description" : "ABC_Iron-Siderophores_B12_Hemin",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 220,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Walker B",
+        "numLocations" : 6,
+        "siteLocations" : [ {
+          "start" : 161,
+          "end" : 161,
+          "residue" : "E"
+        }, {
+          "start" : 159,
+          "end" : 159,
+          "residue" : "L"
+        }, {
+          "start" : 156,
+          "end" : 156,
+          "residue" : "W"
+        }, {
+          "start" : 157,
+          "end" : 157,
+          "residue" : "L"
+        }, {
+          "start" : 158,
+          "end" : 158,
+          "residue" : "L"
+        }, {
+          "start" : 160,
+          "end" : 160,
+          "residue" : "D"
+        } ]
+      }, {
+        "description" : "H-loop/switch region",
+        "numLocations" : 7,
+        "siteLocations" : [ {
+          "start" : 196,
+          "end" : 196,
+          "residue" : "H"
+        }, {
+          "start" : 198,
+          "end" : 198,
+          "residue" : "V"
+        }, {
+          "start" : 195,
+          "end" : 195,
+          "residue" : "I"
+        }, {
+          "start" : 197,
+          "end" : 197,
+          "residue" : "E"
+        }, {
+          "start" : 194,
+          "end" : 194,
+          "residue" : "V"
+        }, {
+          "start" : 193,
+          "end" : 193,
+          "residue" : "I"
+        }, {
+          "start" : 192,
+          "end" : 192,
+          "residue" : "V"
+        } ]
+      }, {
+        "description" : "Walker A/P-loop",
+        "numLocations" : 8,
+        "siteLocations" : [ {
+          "start" : 41,
+          "end" : 41,
+          "residue" : "S"
+        }, {
+          "start" : 34,
+          "end" : 34,
+          "residue" : "G"
+        }, {
+          "start" : 40,
+          "end" : 40,
+          "residue" : "K"
+        }, {
+          "start" : 35,
+          "end" : 35,
+          "residue" : "P"
+        }, {
+          "start" : 38,
+          "end" : 38,
+          "residue" : "A"
+        }, {
+          "start" : 39,
+          "end" : 39,
+          "residue" : "G"
+        }, {
+          "start" : 37,
+          "end" : 37,
+          "residue" : "G"
+        }, {
+          "start" : 36,
+          "end" : 36,
+          "residue" : "N"
+        } ]
+      }, {
+        "description" : "ABC transporter signature motif",
+        "numLocations" : 10,
+        "siteLocations" : [ {
+          "start" : 145,
+          "end" : 145,
+          "residue" : "H"
+        }, {
+          "start" : 144,
+          "end" : 144,
+          "residue" : "A"
+        }, {
+          "start" : 137,
+          "end" : 137,
+          "residue" : "S"
+        }, {
+          "start" : 136,
+          "end" : 136,
+          "residue" : "L"
+        }, {
+          "start" : 142,
+          "end" : 142,
+          "residue" : "Q"
+        }, {
+          "start" : 138,
+          "end" : 138,
+          "residue" : "G"
+        }, {
+          "start" : 140,
+          "end" : 140,
+          "residue" : "Q"
+        }, {
+          "start" : 143,
+          "end" : 143,
+          "residue" : "R"
+        }, {
+          "start" : 141,
+          "end" : 141,
+          "residue" : "R"
+        }, {
+          "start" : 139,
+          "end" : 139,
+          "residue" : "G"
+        } ]
+      }, {
+        "description" : "ATP binding site",
+        "numLocations" : 9,
+        "siteLocations" : [ {
+          "start" : 196,
+          "end" : 196,
+          "residue" : "H"
+        }, {
+          "start" : 161,
+          "end" : 161,
+          "residue" : "E"
+        }, {
+          "start" : 41,
+          "end" : 41,
+          "residue" : "S"
+        }, {
+          "start" : 40,
+          "end" : 40,
+          "residue" : "K"
+        }, {
+          "start" : 38,
+          "end" : 38,
+          "residue" : "A"
+        }, {
+          "start" : 42,
+          "end" : 42,
+          "residue" : "T"
+        }, {
+          "start" : 37,
+          "end" : 37,
+          "residue" : "G"
+        }, {
+          "start" : 160,
+          "end" : 160,
+          "residue" : "D"
+        }, {
+          "start" : 82,
+          "end" : 82,
+          "residue" : "Q"
+        } ]
+      }, {
+        "description" : "Q-loop/lid",
+        "numLocations" : 4,
+        "siteLocations" : [ {
+          "start" : 79,
+          "end" : 79,
+          "residue" : "I"
+        }, {
+          "start" : 80,
+          "end" : 80,
+          "residue" : "L"
+        }, {
+          "start" : 81,
+          "end" : 81,
+          "residue" : "T"
+        }, {
+          "start" : 82,
+          "end" : 82,
+          "residue" : "Q"
+        } ]
+      }, {
+        "description" : "D-loop",
+        "numLocations" : 4,
+        "siteLocations" : [ {
+          "start" : 165,
+          "end" : 165,
+          "residue" : "N"
+        }, {
+          "start" : 166,
+          "end" : 166,
+          "residue" : "L"
+        }, {
+          "start" : 167,
+          "end" : 167,
+          "residue" : "D"
+        }, {
+          "start" : 164,
+          "end" : 164,
+          "residue" : "N"
+        } ]
+      } ],
+      "evalue" : 4.59373E-67,
+      "score" : 204.591,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 220,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd03214"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.300",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR027417",
+        "name" : "P-loop_NTPase",
+        "description" : "P-loop containing nucleoside triphosphate hydrolase",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 249,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 261,
+      "hmmLength" : 273,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.2E-62,
+      "score" : 213.8,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 249,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 249,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.6E-63,
+    "score" : 214.0,
+    "model-ac" : "5b57D00"
+  }, {
+    "signature" : {
+      "accession" : "PTHR42771",
+      "name" : "IRON(3+)-HYDROXAMATE IMPORT ATP-BINDING PROTEIN FHUC",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR051535",
+        "name" : "Siderophore_ABC-ATPase",
+        "description" : "Bacterial siderophore ABC transporter ATP-binding",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 253,
+      "representative" : false,
+      "hmmStart" : 4,
+      "hmmEnd" : 257,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 256,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 253,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR42771:SF3",
+    "name" : "PETROBACTIN IMPORT ATP-BINDING PROTEIN YCLP",
+    "evalue" : 1.3E-72,
+    "score" : 255.7,
+    "proteinClass" : null,
+    "graftPoint" : "PTN001953457",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR42771:SF3"
+  }, {
+    "signature" : {
+      "accession" : "PF00005",
+      "name" : "ABC_tran",
+      "description" : "ABC transporter",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR003439",
+        "name" : "ABC_transporter-like_ATP-bd",
+        "description" : "ABC transporter-like, ATP-binding domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 17,
+      "end" : 164,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 137,
+      "hmmLength" : 137,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.3E-27,
+      "score" : 107.7,
+      "envelopeStart" : 17,
+      "envelopeEnd" : 164,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 17,
+        "end" : 164,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.6E-27,
+    "score" : 108.2,
+    "model-ac" : "PF00005"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_103 # 123645 # 124460 # -1 # ID=4_103;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.634",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_103"
+  } ]
+},{
+  "sequence" : "MQADILASPLRMTMTPTRATWLIATVLALACTAFMTVGLSGRIGFILELRAVKLAALLVVGGGIGAATVLFQTVAANRILTPGILGFDALFLFIQTTLVMSLGGLGFATLNTGPKFLIETGVMMVAASALFGLLFRTRRADLSRMLLTGVIIGVLLRSLAGLMQRLMDPSEFAVVQSAMFASFNGVERTNLAIAAVLFAVILPLAQAMAGRLDVMALGRRNALGLGLDHDRAVLGVLALVAALTACATALVGPISFLGLLAASLAHHLTGTHRHAVLIPASALLGAAILVIGQTVFERVLGQQSSLAVIIEFGGGLLFLTLVLKGMLK",
+  "md5" : "c200b9b36aa1de3fa4723868f4d0982e",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PTHR30472",
+      "name" : "FERRIC ENTEROBACTIN TRANSPORT SYSTEM PERMEASE PROTEIN",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR000522",
+        "name" : "ABC_transptr_permease_BtuC",
+        "description" : "ABC transporter, permease protein, BtuC-like",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 42,
+      "end" : 325,
+      "representative" : false,
+      "hmmStart" : 55,
+      "hmmEnd" : 332,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 5,
+      "envelopeEnd" : 327,
+      "location-fragments" : [ {
+        "start" : 42,
+        "end" : 325,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR30472:SF19",
+    "name" : "PETROBACTIN IMPORT SYSTEM PERMEASE PROTEIN YCLO",
+    "evalue" : 2.0E-38,
+    "score" : 143.9,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002825618",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR30472:SF19"
+  }, {
+    "signature" : {
+      "accession" : "PF01032",
+      "name" : "FecCD",
+      "description" : "FecCD transport family",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR000522",
+        "name" : "ABC_transptr_permease_BtuC",
+        "description" : "ABC transporter, permease protein, BtuC-like",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 45,
+      "end" : 324,
+      "representative" : false,
+      "hmmStart" : 37,
+      "hmmEnd" : 311,
+      "hmmLength" : 311,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 4.7E-42,
+      "score" : 155.7,
+      "envelopeStart" : 22,
+      "envelopeEnd" : 324,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 45,
+        "end" : 324,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.0E-42,
+    "score" : 156.9,
+    "model-ac" : "PF01032"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:1.10.3470.10",
+      "name" : "ABC transporter involved in vitamin B12 uptake, BtuC",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR037294",
+        "name" : "ABC_BtuC-like",
+        "description" : "ABC transporter, BtuC-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 14,
+      "end" : 326,
+      "representative" : false,
+      "hmmStart" : 13,
+      "hmmEnd" : 325,
+      "hmmLength" : 331,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 5.5E-49,
+      "score" : 168.6,
+      "envelopeStart" : 14,
+      "envelopeEnd" : 326,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 14,
+        "end" : 326,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.5E-49,
+    "score" : 169.3,
+    "model-ac" : "4g1uA00"
+  }, {
+    "signature" : {
+      "accession" : "SSF81345",
+      "name" : "ABC transporter involved in vitamin B12 uptake, BtuC",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR037294",
+        "name" : "ABC_BtuC-like",
+        "description" : "ABC transporter, BtuC-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 14,
+      "end" : 324,
+      "representative" : false,
+      "hmmLength" : 324,
+      "location-fragments" : [ {
+        "start" : 14,
+        "end" : 324,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.05E-47,
+    "model-ac" : "0040409"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_104 # 124457 # 125443 # -1 # ID=4_104;partial=00;start_type=ATG;rbs_motif=GGxGG;rbs_spacer=5-10bp;gc_cont=0.639",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_104"
+  } ]
+},{
+  "sequence" : "MTRPFIIAVIVLTCLSVLSLLIGASRLDGNALHLLTISRAPRTLAALLCGAAMAVAGVIMQQLVRNRFVEPSTTGTTEGAMLGLLIITLIAPGAPVIVKMSAAALAALGGVAGFLALIHRLSPRDPFMVPLIGLIWSGILGAGATWFAWHADLVQYLGNWMTGDFSGVLAGRYELLWLAGGIAALAYISADALTVTGLGAARARALGLDHRRAMQLGLGAVALVTALVVVTVGAVPFVGLVVPNLVSRLMGDNLRRTLPVVALGGAALVLGADIVGRLIRWPYEIPVGTVVGVAGAAIFLWILNTRGGHSHAG",
+  "md5" : "8800ad2cb2db1cca9e5e71dccf088763",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "G3DSA:1.10.3470.10",
+      "name" : "ABC transporter involved in vitamin B12 uptake, BtuC",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR037294",
+        "name" : "ABC_BtuC-like",
+        "description" : "ABC transporter, BtuC-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 307,
+      "representative" : false,
+      "hmmStart" : 16,
+      "hmmEnd" : 322,
+      "hmmLength" : 326,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.0E-59,
+      "score" : 202.4,
+      "envelopeStart" : 2,
+      "envelopeEnd" : 307,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 307,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.4E-59,
+    "score" : 202.7,
+    "model-ac" : "2qi9A00"
+  }, {
+    "signature" : {
+      "accession" : "PF01032",
+      "name" : "FecCD",
+      "description" : "FecCD transport family",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR000522",
+        "name" : "ABC_transptr_permease_BtuC",
+        "description" : "ABC transporter, permease protein, BtuC-like",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 17,
+      "end" : 303,
+      "representative" : false,
+      "hmmStart" : 22,
+      "hmmEnd" : 309,
+      "hmmLength" : 311,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 6.9E-54,
+      "score" : 194.6,
+      "envelopeStart" : 5,
+      "envelopeEnd" : 305,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 17,
+        "end" : 303,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.6E-54,
+    "score" : 194.9,
+    "model-ac" : "PF01032"
+  }, {
+    "signature" : {
+      "accession" : "SSF81345",
+      "name" : "ABC transporter involved in vitamin B12 uptake, BtuC",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR037294",
+        "name" : "ABC_BtuC-like",
+        "description" : "ABC transporter, BtuC-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 303,
+      "representative" : false,
+      "hmmLength" : 324,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 303,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.55E-61,
+    "model-ac" : "0040409"
+  }, {
+    "signature" : {
+      "accession" : "cd06550",
+      "name" : "TM_ABC_iron-siderophores_like",
+      "description" : "TM_ABC_iron-siderophores_like",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 43,
+      "end" : 303,
+      "representative" : true,
+      "sites" : [ {
+        "description" : "putative PBP binding regions",
+        "numLocations" : 6,
+        "siteLocations" : [ {
+          "start" : 233,
+          "end" : 233,
+          "residue" : "G"
+        }, {
+          "start" : 286,
+          "end" : 286,
+          "residue" : "P"
+        }, {
+          "start" : 148,
+          "end" : 148,
+          "residue" : "A"
+        }, {
+          "start" : 229,
+          "end" : 229,
+          "residue" : "V"
+        }, {
+          "start" : 171,
+          "end" : 171,
+          "residue" : "G"
+        }, {
+          "start" : 277,
+          "end" : 277,
+          "residue" : "R"
+        } ]
+      }, {
+        "description" : "ABC-ATPase subunit  interface",
+        "numLocations" : 22,
+        "siteLocations" : [ {
+          "start" : 188,
+          "end" : 188,
+          "residue" : "I"
+        }, {
+          "start" : 192,
+          "end" : 192,
+          "residue" : "A"
+        }, {
+          "start" : 199,
+          "end" : 199,
+          "residue" : "G"
+        }, {
+          "start" : 65,
+          "end" : 65,
+          "residue" : "R"
+        }, {
+          "start" : 254,
+          "end" : 254,
+          "residue" : "L"
+        }, {
+          "start" : 206,
+          "end" : 206,
+          "residue" : "L"
+        }, {
+          "start" : 247,
+          "end" : 247,
+          "residue" : "S"
+        }, {
+          "start" : 197,
+          "end" : 197,
+          "residue" : "G"
+        }, {
+          "start" : 202,
+          "end" : 202,
+          "residue" : "R"
+        }, {
+          "start" : 61,
+          "end" : 61,
+          "residue" : "Q"
+        }, {
+          "start" : 66,
+          "end" : 66,
+          "residue" : "N"
+        }, {
+          "start" : 67,
+          "end" : 67,
+          "residue" : "R"
+        }, {
+          "start" : 200,
+          "end" : 200,
+          "residue" : "A"
+        }, {
+          "start" : 201,
+          "end" : 201,
+          "residue" : "A"
+        }, {
+          "start" : 190,
+          "end" : 190,
+          "residue" : "A"
+        }, {
+          "start" : 198,
+          "end" : 198,
+          "residue" : "L"
+        }, {
+          "start" : 204,
+          "end" : 204,
+          "residue" : "R"
+        }, {
+          "start" : 187,
+          "end" : 187,
+          "residue" : "Y"
+        }, {
+          "start" : 191,
+          "end" : 191,
+          "residue" : "D"
+        }, {
+          "start" : 194,
+          "end" : 194,
+          "residue" : "T"
+        }, {
+          "start" : 205,
+          "end" : 205,
+          "residue" : "A"
+        }, {
+          "start" : 195,
+          "end" : 195,
+          "residue" : "V"
+        } ]
+      }, {
+        "description" : "dimer interface",
+        "numLocations" : 25,
+        "siteLocations" : [ {
+          "start" : 303,
+          "end" : 303,
+          "residue" : "L"
+        }, {
+          "start" : 145,
+          "end" : 145,
+          "residue" : "T"
+        }, {
+          "start" : 139,
+          "end" : 139,
+          "residue" : "I"
+        }, {
+          "start" : 131,
+          "end" : 131,
+          "residue" : "L"
+        }, {
+          "start" : 148,
+          "end" : 148,
+          "residue" : "A"
+        }, {
+          "start" : 159,
+          "end" : 159,
+          "residue" : "N"
+        }, {
+          "start" : 66,
+          "end" : 66,
+          "residue" : "N"
+        }, {
+          "start" : 138,
+          "end" : 138,
+          "residue" : "G"
+        }, {
+          "start" : 73,
+          "end" : 73,
+          "residue" : "T"
+        }, {
+          "start" : 142,
+          "end" : 142,
+          "residue" : "A"
+        }, {
+          "start" : 134,
+          "end" : 134,
+          "residue" : "L"
+        }, {
+          "start" : 299,
+          "end" : 299,
+          "residue" : "F"
+        }, {
+          "start" : 158,
+          "end" : 158,
+          "residue" : "G"
+        }, {
+          "start" : 135,
+          "end" : 135,
+          "residue" : "I"
+        }, {
+          "start" : 289,
+          "end" : 289,
+          "residue" : "T"
+        }, {
+          "start" : 68,
+          "end" : 68,
+          "residue" : "F"
+        }, {
+          "start" : 237,
+          "end" : 237,
+          "residue" : "F"
+        }, {
+          "start" : 293,
+          "end" : 293,
+          "residue" : "V"
+        }, {
+          "start" : 292,
+          "end" : 292,
+          "residue" : "G"
+        }, {
+          "start" : 296,
+          "end" : 296,
+          "residue" : "A"
+        }, {
+          "start" : 146,
+          "end" : 146,
+          "residue" : "W"
+        }, {
+          "start" : 128,
+          "end" : 128,
+          "residue" : "M"
+        }, {
+          "start" : 162,
+          "end" : 162,
+          "residue" : "T"
+        }, {
+          "start" : 300,
+          "end" : 300,
+          "residue" : "L"
+        }, {
+          "start" : 130,
+          "end" : 130,
+          "residue" : "P"
+        } ]
+      } ],
+      "evalue" : 2.09099E-31,
+      "score" : 116.502,
+      "location-fragments" : [ {
+        "start" : 43,
+        "end" : 303,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd06550"
+  }, {
+    "signature" : {
+      "accession" : "PTHR30472",
+      "name" : "FERRIC ENTEROBACTIN TRANSPORT SYSTEM PERMEASE PROTEIN",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR000522",
+        "name" : "ABC_transptr_permease_BtuC",
+        "description" : "ABC transporter, permease protein, BtuC-like",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 13,
+      "end" : 304,
+      "representative" : false,
+      "hmmStart" : 21,
+      "hmmEnd" : 330,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 3,
+      "envelopeEnd" : 309,
+      "location-fragments" : [ {
+        "start" : 13,
+        "end" : 304,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR30472:SF27",
+    "name" : "PETROBACTIN IMPORT SYSTEM PERMEASE PROTEIN YCLN",
+    "evalue" : 4.4E-51,
+    "score" : 185.5,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002825608",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR30472:SF27"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_105 # 125433 # 126374 # -1 # ID=4_105;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.657",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_105"
+  } ]
+},{
+  "sequence" : "MTIAQILGTMDYGPAPEDAGPARAWLAAHEDGFGHFIDGAMTKPAALFEVRDPARDELLARVSQGSAADVDAAVAAARKAQPGWAGLSGHDRARHLYALARHVQQHARLLAVLETLDSGKPIRESRDIDVPLVARHFYHHAGWAEILDDELPGHGAHGVCGQIIPWNFPLLMLAWKIAPALAAGNTVVLKPAEYTPLTALAFAEIVMECGLPKGVVNIVTGDGETGAAIVAHEGIDKLAFTGSTAVGRKIREQSAGTGKGLTLELGGKSPFIVFEDADLDAAVEGVVDAIWFNQGQVCCAGSRILVAEAVAPRFEQLLRARMDTLRTGDPLDKSTDVGAIVHPSQLSRIRSLVEAGRAEGVTLTQGSAPAEGCFYPPTLVTDVEPASILSTEEIFGPVVTLTTFRTPSDALALANNSRYGLAASIWSENVNLCLDLAAKVKVGIVWINCTNIFDAGAGFGGYRESGFGREGGREGMMAYLRAPSPAAQKATGTQPAALDTSPATGMTGADIDRTAKLYVGGKQARPDSGYSYAVQGRKGAVGLAGLGNRKDIRNAVEAAAKATGWGGATGHNRAQVLYYIGENLSARAQEFATRLESFGTARKDAQAEVDAAVRRCFWYAAQADKFDGAVHATKTDFVTLAMHEPLGVMGLVCPTAQPLLGAVSLMLPAIAMGNRVVLVPSQTHPLAATDLYQVLDTSDVPAGVVNIVTGPRDELARVLAAHDGVDGLWYFGASDSIRDIERASAGNLKQTWTEADDARSWSSTAGQGRGFLHKATQVKNIWVPYGA",
+  "md5" : "b19904a461b07a1d93b53fbd6c9e2c51",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 487,
+      "end" : 508,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 487,
+        "end" : 508,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR617656-1",
+      "name" : "PIRSR617656-1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 37,
+      "end" : 478,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Nucleophile.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 298,
+          "end" : 298,
+          "residue" : "C"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 2,
+        "hmmStart" : 290,
+        "hmmEnd" : 290
+      }, {
+        "description" : "Proton donor/acceptor.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 264,
+          "end" : 264,
+          "residue" : "E"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 256,
+        "hmmEnd" : 256
+      } ],
+      "hmmStart" : 18,
+      "hmmEnd" : 471,
+      "hmmLength" : 483,
+      "evalue" : 7.4E-87,
+      "score" : 282.0,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 37,
+        "end" : 478,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.4E-87,
+    "score" : 282.0,
+    "scope" : null,
+    "model-ac" : "PIRSR617656-1"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.309.10:FF:000012",
+      "name" : null,
+      "description" : "Betaine aldehyde dehydrogenase",
+      "signatureLibraryRelease" : {
+        "library" : "FUNFAM",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 267,
+      "end" : 454,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 188,
+      "hmmLength" : 191,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.5E-59,
+      "score" : 202.9,
+      "envelopeStart" : 267,
+      "envelopeEnd" : 454,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 267,
+        "end" : 454,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 8.7E-60,
+    "score" : 203.6,
+    "model-ac" : "3.40.309.10-FF-000012"
+  }, {
+    "signature" : {
+      "accession" : "PIRSF036490",
+      "name" : "Aldedh_dupl",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSF",
+        "version" : "3.10"
+      },
+      "entry" : {
+        "accession" : "IPR011408",
+        "name" : "Aldehyde_DH",
+        "description" : "Aldehyde dehydrogenase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 787,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 787,
+      "hmmLength" : 797,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.0,
+      "score" : 1187.7,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 787,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 787,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 1187.9,
+    "model-ac" : "PIRSF036490"
+  }, {
+    "signature" : {
+      "accession" : "PTHR11699",
+      "name" : "ALDEHYDE DEHYDROGENASE-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 35,
+      "end" : 482,
+      "representative" : false,
+      "hmmStart" : 23,
+      "hmmEnd" : 486,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 14,
+      "envelopeEnd" : 489,
+      "location-fragments" : [ {
+        "start" : 35,
+        "end" : 482,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR11699",
+    "name" : "ALDEHYDE DEHYDROGENASE-RELATED",
+    "evalue" : 0.0,
+    "score" : 683.2,
+    "proteinClass" : null,
+    "graftPoint" : null,
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR11699"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.605.10",
+      "name" : "Aldehyde Dehydrogenase; Chain A, domain 1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR016162",
+        "name" : "Ald_DH_N",
+        "description" : "Aldehyde dehydrogenase, N-terminal",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 507,
+      "end" : 786,
+      "representative" : false,
+      "hmmStart" : 8,
+      "hmmEnd" : 294,
+      "hmmLength" : 304,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.0E-47,
+      "score" : 163.2,
+      "envelopeStart" : 507,
+      "envelopeEnd" : 786,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 507,
+        "end" : 786,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 480.3,
+    "model-ac" : "3u4jA01"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.605.10",
+      "name" : "Aldehyde Dehydrogenase; Chain A, domain 1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR016162",
+        "name" : "Ald_DH_N",
+        "description" : "Aldehyde dehydrogenase, N-terminal",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 48,
+      "end" : 481,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 452,
+      "hmmLength" : 302,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 541.5,
+      "envelopeStart" : 47,
+      "envelopeEnd" : 482,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 48,
+        "end" : 266,
+        "dc-status" : "C_TERMINAL_DISC"
+      }, {
+        "start" : 455,
+        "end" : 481,
+        "dc-status" : "N_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 674.7,
+    "model-ac" : "4o6rA01"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR000197-1",
+      "name" : "PIRSR000197-1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 45,
+      "end" : 482,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 298,
+          "end" : 298,
+          "residue" : "C"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 830,
+        "hmmEnd" : 830
+      }, {
+        "description" : "",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 264,
+          "end" : 264,
+          "residue" : "E"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 796,
+        "hmmEnd" : 796
+      } ],
+      "hmmStart" : 574,
+      "hmmEnd" : 1017,
+      "hmmLength" : 1202,
+      "evalue" : 5.7E-78,
+      "score" : 253.2,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 45,
+        "end" : 482,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.7E-78,
+    "score" : 253.2,
+    "scope" : null,
+    "model-ac" : "PIRSR000197-1"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.605.10:FF:000007",
+      "name" : null,
+      "description" : "NAD/NADP-dependent betaine aldehyde dehydrogenase",
+      "signatureLibraryRelease" : {
+        "library" : "FUNFAM",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 37,
+      "end" : 283,
+      "representative" : false,
+      "hmmStart" : 12,
+      "hmmEnd" : 251,
+      "hmmLength" : 273,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.5E-79,
+      "score" : 268.8,
+      "envelopeStart" : 37,
+      "envelopeEnd" : 283,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 37,
+        "end" : 283,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.0E-119,
+    "score" : 398.3,
+    "model-ac" : "3.40.605.10-FF-000007"
+  }, {
+    "signature" : {
+      "accession" : "SSF53720",
+      "name" : "ALDH-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016161",
+        "name" : "Ald_DH/histidinol_DH",
+        "description" : "Aldehyde/histidinol dehydrogenase",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 512,
+      "end" : 755,
+      "representative" : false,
+      "hmmLength" : 516,
+      "location-fragments" : [ {
+        "start" : 512,
+        "end" : 755,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.7E-41,
+    "model-ac" : "0044574"
+  }, {
+    "signature" : {
+      "accession" : "PF00171",
+      "name" : "Aldedh",
+      "description" : "Aldehyde dehydrogenase family",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR015590",
+        "name" : "Aldehyde_DH_dom",
+        "description" : "Aldehyde dehydrogenase domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 48,
+      "end" : 481,
+      "representative" : false,
+      "hmmStart" : 9,
+      "hmmEnd" : 457,
+      "hmmLength" : 461,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 515.6,
+      "envelopeStart" : 41,
+      "envelopeEnd" : 484,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 48,
+        "end" : 481,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 546,
+      "end" : 754,
+      "representative" : false,
+      "hmmStart" : 25,
+      "hmmEnd" : 235,
+      "hmmLength" : 461,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 6.6E-33,
+      "score" : 125.6,
+      "envelopeStart" : 537,
+      "envelopeEnd" : 756,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 546,
+        "end" : 754,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 643.3,
+    "model-ac" : "PF00171"
+  }, {
+    "signature" : {
+      "accession" : "SSF53720",
+      "name" : "ALDH-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR016161",
+        "name" : "Ald_DH/histidinol_DH",
+        "description" : "Aldehyde/histidinol dehydrogenase",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 33,
+      "end" : 481,
+      "representative" : false,
+      "hmmLength" : 503,
+      "location-fragments" : [ {
+        "start" : 33,
+        "end" : 481,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "model-ac" : "0034877"
+  }, {
+    "signature" : {
+      "accession" : "PS00687",
+      "name" : "ALDEHYDE_DEHYDR_GLU",
+      "description" : "Aldehyde dehydrogenases glutamic acid active site.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR029510",
+        "name" : "Ald_DH_CS_GLU",
+        "description" : "Aldehyde dehydrogenase, glutamic acid active site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 263,
+      "end" : 270,
+      "representative" : false,
+      "level" : "STRONG",
+      "cigarAlignment" : "8M",
+      "alignment" : "LELGGKSP",
+      "location-fragments" : [ {
+        "start" : 263,
+        "end" : 270,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00687"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.309.10",
+      "name" : "Aldehyde Dehydrogenase; Chain A, domain 2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR016163",
+        "name" : "Ald_DH_C",
+        "description" : "Aldehyde dehydrogenase, C-terminal",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 267,
+      "end" : 454,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 452,
+      "hmmLength" : 194,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 541.5,
+      "envelopeStart" : 47,
+      "envelopeEnd" : 482,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 267,
+        "end" : 454,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 674.7,
+    "model-ac" : "4o6rA02"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR036489-3",
+      "name" : "PIRSR036489-3",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 36,
+      "end" : 482,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "NADP.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 164,
+          "end" : 166,
+          "residue" : "IPW"
+        } ],
+        "label" : "NP_BIND",
+        "group" : 1,
+        "hmmStart" : 571,
+        "hmmEnd" : 573
+      }, {
+        "description" : "NADP.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 242,
+          "end" : 243,
+          "residue" : "GS"
+        } ],
+        "label" : "NP_BIND",
+        "group" : 4,
+        "hmmStart" : 650,
+        "hmmEnd" : 651
+      }, {
+        "description" : "NADP.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 393,
+          "end" : 395,
+          "residue" : "EIF"
+        } ],
+        "label" : "NP_BIND",
+        "group" : 6,
+        "hmmStart" : 804,
+        "hmmEnd" : 806
+      } ],
+      "hmmStart" : 425,
+      "hmmEnd" : 895,
+      "hmmLength" : 902,
+      "evalue" : 4.3E-110,
+      "score" : 359.1,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 36,
+        "end" : 482,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.3E-110,
+    "score" : 359.1,
+    "scope" : null,
+    "model-ac" : "PIRSR036489-3"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR036492-1",
+      "name" : "PIRSR036492-1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 155,
+      "end" : 486,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 298,
+          "end" : 298,
+          "residue" : "C"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 259,
+        "hmmEnd" : 259
+      }, {
+        "description" : "",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 264,
+          "end" : 264,
+          "residue" : "E"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 225,
+        "hmmEnd" : 225
+      } ],
+      "hmmStart" : 118,
+      "hmmEnd" : 448,
+      "hmmLength" : 479,
+      "evalue" : 1.7E-88,
+      "score" : 287.6,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 155,
+        "end" : 486,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.7E-88,
+    "score" : 287.6,
+    "scope" : null,
+    "model-ac" : "PIRSR036492-1"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_1104_c1_8 # 6974 # 9337 # 1 # ID=11_8;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.674",
+    "id" : "5mSIPHEX1_0-scaffold_1104_c1_8"
+  } ]
+},{
+  "sequence" : "MMHPIRARAALSLPVLALAATPLAAQDAPAYAAVVDTYADIAEASFNDALTTARDLDAAIDAFLADPSEAGLDAARAAWRSARTPYMQTETYRFGNAIVDDWEGKVNAWPLDEGLIDYVDAGYFGSGENAQANLNVIATPSFELNGETVDAQVIDATLLTETLHEMGENEANVATGYHAIEFLLWGQDLTSDGPGAGTRPHTDYLQGDGCTNDNCDRRAAYLATASDLLVDDLEWMAAQWTDGGAGRTAVTQDPAAGISAMLTGMGSLSFGELGGQRIKLGLMLRDPEEEHDCFSDNTPHSHYDDVLGVQNVWLGRYETVNGEVVEGAALKDLVAAADPALAQAFTAEVQASLDDLQAIKDAADAGRPYDLLLTSGEEADTALIQTAIDALVAQSRSIERMSGALELSGVVVEGDDTLGDIFQ",
+  "md5" : "ee3df4b82e9346259cffaa1435918e33",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PF09375",
+      "name" : "Peptidase_M75",
+      "description" : "Imelysin",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR018976",
+        "name" : "Imelysin-like",
+        "description" : "Imelysin-like domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 44,
+      "end" : 397,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 287,
+      "hmmLength" : 288,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.9E-79,
+      "score" : 278.2,
+      "envelopeStart" : 42,
+      "envelopeEnd" : 398,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 44,
+        "end" : 397,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.2E-79,
+    "score" : 278.6,
+    "model-ac" : "PF09375"
+  }, {
+    "signature" : {
+      "accession" : "cd14657",
+      "name" : "Imelysin_IrpA-like",
+      "description" : "Imelysin_IrpA-like",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 38,
+      "end" : 394,
+      "representative" : true,
+      "sites" : null,
+      "evalue" : 1.50978E-128,
+      "score" : 373.147,
+      "location-fragments" : [ {
+        "start" : 38,
+        "end" : 394,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd14657"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:1.20.1420.20",
+      "name" : "M75 peptidase, HXXE motif",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR038352",
+        "name" : "Imelysin_sf",
+        "description" : "Imelysin-like domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 19,
+      "end" : 402,
+      "representative" : false,
+      "hmmStart" : 0,
+      "hmmEnd" : 0,
+      "hmmLength" : 381,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 5.7E-80,
+      "score" : 271.1,
+      "envelopeStart" : 0,
+      "envelopeEnd" : 0,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 19,
+        "end" : 123,
+        "dc-status" : "C_TERMINAL_DISC"
+      }, {
+        "start" : 155,
+        "end" : 402,
+        "dc-status" : "N_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 2.6E-84,
+    "score" : 271.1,
+    "model-ac" : "4ecgA00"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_0-scaffold_12_c2_100 # 119750 # 121021 # -1 # ID=4_100;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.650",
+    "id" : "5mSIPHEX1_0-scaffold_12_c2_100"
+  } ]
+} ]
+}

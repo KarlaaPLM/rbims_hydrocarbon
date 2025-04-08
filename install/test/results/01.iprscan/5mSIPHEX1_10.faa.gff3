@@ -1,0 +1,1082 @@
+##gff-version 3
+##feature-ontology http://song.cvs.sourceforge.net/viewvc/song/ontology/sofa.obo?revision=1.269
+##interproscan-version 5.73-104.0
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_11 1 228
+5mSIPHEX1_10-scaffold_10_c1_11	.	polypeptide	1	228	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_11;md5=936fc5960046efa498d2c3b30ca4bbac
+5mSIPHEX1_10-scaffold_10_c1_11	Gene3D	protein_match	39	148	5.0E-29	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_11 39 148;ID=match$1_39_148;Name=G3DSA:3.30.70.2970;status=T
+5mSIPHEX1_10-scaffold_10_c1_11	Pfam	protein_match	27	225	2.9E-25	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_11 27 225;ID=match$2_27_225;signature_desc=Protein of unknown function (DUF541);Name=PF04402;status=T;Dbxref="InterPro:IPR007497"
+5mSIPHEX1_10-scaffold_10_c1_11	Gene3D	protein_match	29	226	5.0E-29	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_11 29 226;ID=match$3_29_226;Name=G3DSA:3.30.110.170;status=T
+5mSIPHEX1_10-scaffold_10_c1_11	PANTHER	protein_match	27	228	5.7E-23	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_11 27 228;ID=match$4_27_228;Name=PTHR34387;status=T;Dbxref="InterPro:IPR052022"
+5mSIPHEX1_10-scaffold_10_c1_11	Coils	protein_match	59	86	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_11 59 86;ID=match$5_59_86;Name=Coil;status=T
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_110 1 283
+5mSIPHEX1_10-scaffold_10_c1_110	.	polypeptide	1	283	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_110;md5=ec8e949212404464f0ba2c40bda9a83a
+5mSIPHEX1_10-scaffold_10_c1_110	SUPERFAMILY	protein_match	2	152	7.78E-27	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_110 2 152;ID=match$6_2_152;Name=SSF55620;status=T
+5mSIPHEX1_10-scaffold_10_c1_110	SUPERFAMILY	protein_match	154	281	1.56E-25	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_110 154 281;ID=match$7_154_281;Name=SSF55620;status=T
+5mSIPHEX1_10-scaffold_10_c1_110	PIRSR	protein_match	156	177	0.012	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_110 156 177;ID=match$8_156_177;Name=PIRSR006113-2;status=T
+5mSIPHEX1_10-scaffold_10_c1_110	Gene3D	protein_match	12	153	2.7E-23	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_110 12 153;ID=match$9_12_153;Name=G3DSA:3.30.479.10;status=T;Dbxref="InterPro:IPR038418"
+5mSIPHEX1_10-scaffold_10_c1_110	Pfam	protein_match	25	69	0.0029	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_110 25 69;ID=match$10_25_69;signature_desc=6-pyruvoyl tetrahydropterin synthase;Name=PF01242;status=T;Dbxref="InterPro:IPR007115"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_102 1 148
+5mSIPHEX1_10-scaffold_10_c1_102	.	polypeptide	1	148	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_102;md5=10ad49a27c300d3a3b441c2144c36be2
+5mSIPHEX1_10-scaffold_10_c1_102	Gene3D	protein_match	3	138	4.2E-19	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_102 3 138;ID=match$11_3_138;Name=G3DSA:1.10.3680.10;status=T;Dbxref="InterPro:IPR029024"
+5mSIPHEX1_10-scaffold_10_c1_102	MobiDBLite	protein_match	1	20	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_102 1 20;ID=match$12_1_20;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+5mSIPHEX1_10-scaffold_10_c1_102	SUPERFAMILY	protein_match	3	146	2.35E-28	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_102 3 146;ID=match$13_3_146;Name=SSF158682;status=T;Dbxref="InterPro:IPR029024"
+5mSIPHEX1_10-scaffold_10_c1_102	CDD	protein_match	27	130	2.03851E-33	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_102 27 130;ID=match$14_27_130;signature_desc=terB_like_2;Name=cd07313;status=T
+5mSIPHEX1_10-scaffold_10_c1_102	Coils	protein_match	55	82	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_102 55 82;ID=match$15_55_82;Name=Coil;status=T
+5mSIPHEX1_10-scaffold_10_c1_102	Pfam	protein_match	26	142	6.1E-26	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_102 26 142;ID=match$16_26_142;signature_desc=Tellurite resistance protein TerB;Name=PF05099;status=T;Dbxref="InterPro:IPR007791"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_105 1 259
+5mSIPHEX1_10-scaffold_10_c1_105	.	polypeptide	1	259	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_105;md5=bbfb73aaa496d90bc3f9a10df8e7706c
+5mSIPHEX1_10-scaffold_10_c1_105	Pfam	protein_match	169	240	5.4E-21	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_105 169 240;ID=match$17_169_240;signature_desc=Large polyvalent protein-associated domain 1;Name=PF18796;status=T;Dbxref="InterPro:IPR041047"
+5mSIPHEX1_10-scaffold_10_c1_105	NCBIfam	protein_match	6	241	5.7E-98	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_105 6 241;ID=match$18_6_241;signature_desc=CLCA_X family protein;Name=NF041907;status=T
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_112 1 248
+5mSIPHEX1_10-scaffold_10_c1_112	.	polypeptide	1	248	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_112;md5=4d9b4f1566af253b43f0e9678065e92f
+5mSIPHEX1_10-scaffold_10_c1_112	MobiDBLite	protein_match	198	219	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_112 198 219;ID=match$19_198_219;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_100 1 266
+5mSIPHEX1_10-scaffold_10_c1_100	.	polypeptide	1	266	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_100;md5=07f27fdc821af000f9bb9ebeaca533a7
+5mSIPHEX1_10-scaffold_10_c1_100	CDD	protein_match	3	229	8.68579E-59	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_100 3 229;ID=match$20_3_229;signature_desc=GDPD;Name=cd08556;status=T
+5mSIPHEX1_10-scaffold_10_c1_100	ProSiteProfiles	protein_match	1	237	31.706619	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_100 1 237;ID=match$21_1_237;signature_desc=GP-PDE domain profile.;Name=PS51704;status=T;Dbxref="InterPro:IPR030395"
+5mSIPHEX1_10-scaffold_10_c1_100	Pfam	protein_match	6	230	3.2E-37	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_100 6 230;ID=match$22_6_230;signature_desc=Glycerophosphoryl diester phosphodiesterase family;Name=PF03009;status=T;Dbxref="InterPro:IPR030395"
+5mSIPHEX1_10-scaffold_10_c1_100	ProSiteProfiles	protein_match	15	52	9.2293	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_100 15 52;ID=match$23_15_52;signature_desc=Phosphatidylinositol-specific phospholipase X-box domain profile.;Name=PS50007;status=T
+5mSIPHEX1_10-scaffold_10_c1_100	PANTHER	protein_match	2	237	2.5E-52	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_100 2 237;ID=match$24_2_237;Name=PTHR46211;status=T
+5mSIPHEX1_10-scaffold_10_c1_100	Gene3D	protein_match	1	238	4.6E-63	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_100 1 238;ID=match$25_1_238;Name=G3DSA:3.20.20.190;status=T;Dbxref="InterPro:IPR017946"
+5mSIPHEX1_10-scaffold_10_c1_100	SUPERFAMILY	protein_match	1	231	9.12E-63	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_100 1 231;ID=match$26_1_231;Name=SSF51695;status=T;Dbxref="InterPro:IPR017946"
+5mSIPHEX1_10-scaffold_10_c1_100	MobiDBLite	protein_match	250	266	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_100 250 266;ID=match$27_250_266;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+5mSIPHEX1_10-scaffold_10_c1_100	MobiDBLite	protein_match	247	266	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_100 247 266;ID=match$28_247_266;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_106 1 256
+5mSIPHEX1_10-scaffold_10_c1_106	.	polypeptide	1	256	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_106;md5=8fef911d326c23865bfdecb1358f6fbf
+5mSIPHEX1_10-scaffold_10_c1_106	PIRSR	protein_match	3	186	1.0E-15	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 3 186;ID=match$29_3_186;Name=PIRSR617711-2;status=T
+5mSIPHEX1_10-scaffold_10_c1_106	Pfam	protein_match	4	193	1.6E-41	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 4 193;ID=match$30_4_193;signature_desc=short chain dehydrogenase;Name=PF00106;status=T;Dbxref="InterPro:IPR002347"
+5mSIPHEX1_10-scaffold_10_c1_106	SUPERFAMILY	protein_match	4	253	1.71E-58	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 4 253;ID=match$31_4_253;Name=SSF51735;status=T;Dbxref="InterPro:IPR036291"
+5mSIPHEX1_10-scaffold_10_c1_106	PIRSR	protein_match	131	181	4.4E-6	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 131 181;ID=match$32_131_181;Name=PIRSR614058-1;status=T
+5mSIPHEX1_10-scaffold_10_c1_106	Gene3D	protein_match	2	247	2.4E-56	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 2 247;ID=match$33_2_247;Name=G3DSA:3.40.50.720;status=T
+5mSIPHEX1_10-scaffold_10_c1_106	PRINTS	protein_match	77	88	9.0E-7	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 77 88;ID=match$34_77_88;signature_desc=Short-chain dehydrogenase/reductase (SDR) superfamily signature;Name=PR00080;status=T;Dbxref="InterPro:IPR002347"
+5mSIPHEX1_10-scaffold_10_c1_106	PRINTS	protein_match	130	138	9.0E-7	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 130 138;ID=match$34_130_138;signature_desc=Short-chain dehydrogenase/reductase (SDR) superfamily signature;Name=PR00080;status=T;Dbxref="InterPro:IPR002347"
+5mSIPHEX1_10-scaffold_10_c1_106	PRINTS	protein_match	150	169	9.0E-7	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 150 169;ID=match$34_150_169;signature_desc=Short-chain dehydrogenase/reductase (SDR) superfamily signature;Name=PR00080;status=T;Dbxref="InterPro:IPR002347"
+5mSIPHEX1_10-scaffold_10_c1_106	PIRSR	protein_match	2	192	2.2E-27	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 2 192;ID=match$35_2_192;Name=PIRSR614007-2;status=T
+5mSIPHEX1_10-scaffold_10_c1_106	PIRSR	protein_match	3	186	1.0E-15	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 3 186;ID=match$36_3_186;Name=PIRSR617711-1;status=T
+5mSIPHEX1_10-scaffold_10_c1_106	PIRSR	protein_match	7	189	2.7E-23	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 7 189;ID=match$37_7_189;Name=PIRSR000095-1;status=T
+5mSIPHEX1_10-scaffold_10_c1_106	PRINTS	protein_match	4	21	4.7E-19	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 4 21;ID=match$38_4_21;signature_desc=Glucose/ribitol dehydrogenase family signature;Name=PR00081;status=T;Dbxref="InterPro:IPR002347"
+5mSIPHEX1_10-scaffold_10_c1_106	PRINTS	protein_match	77	88	4.7E-19	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 77 88;ID=match$38_77_88;signature_desc=Glucose/ribitol dehydrogenase family signature;Name=PR00081;status=T;Dbxref="InterPro:IPR002347"
+5mSIPHEX1_10-scaffold_10_c1_106	PRINTS	protein_match	124	140	4.7E-19	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 124 140;ID=match$38_124_140;signature_desc=Glucose/ribitol dehydrogenase family signature;Name=PR00081;status=T;Dbxref="InterPro:IPR002347"
+5mSIPHEX1_10-scaffold_10_c1_106	PRINTS	protein_match	150	169	4.7E-19	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 150 169;ID=match$38_150_169;signature_desc=Glucose/ribitol dehydrogenase family signature;Name=PR00081;status=T;Dbxref="InterPro:IPR002347"
+5mSIPHEX1_10-scaffold_10_c1_106	PRINTS	protein_match	171	188	4.7E-19	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 171 188;ID=match$38_171_188;signature_desc=Glucose/ribitol dehydrogenase family signature;Name=PR00081;status=T;Dbxref="InterPro:IPR002347"
+5mSIPHEX1_10-scaffold_10_c1_106	PIRSR	protein_match	4	190	1.3E-24	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 4 190;ID=match$39_4_190;Name=PIRSR611284-2;status=T
+5mSIPHEX1_10-scaffold_10_c1_106	PIRSR	protein_match	4	190	1.3E-24	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 4 190;ID=match$40_4_190;Name=PIRSR611284-1;status=T
+5mSIPHEX1_10-scaffold_10_c1_106	NCBIfam	protein_match	3	253	1.3E-92	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 3 253;ID=match$41_3_253;signature_desc=SDR family oxidoreductase;Name=NF006123;status=T
+5mSIPHEX1_10-scaffold_10_c1_106	PANTHER	protein_match	2	236	7.9E-46	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 2 236;ID=match$42_2_236;Name=PTHR44196;status=T
+5mSIPHEX1_10-scaffold_10_c1_106	PIRSR	protein_match	2	192	2.2E-27	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_106 2 192;ID=match$43_2_192;Name=PIRSR614007-1;status=T
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_1 1 200
+5mSIPHEX1_10-scaffold_10_c1_1	.	polypeptide	1	200	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_1;md5=aaa113cd18195f8b8292d7ebfca33d5d
+5mSIPHEX1_10-scaffold_10_c1_1	Gene3D	protein_match	21	174	1.4E-7	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_1 21 174;ID=match$44_21_174;Name=G3DSA:3.10.580.10;status=T;Dbxref="InterPro:IPR046342"
+5mSIPHEX1_10-scaffold_10_c1_1	SUPERFAMILY	protein_match	39	173	1.12E-10	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_1 39 173;ID=match$45_39_173;Name=SSF54631;status=T;Dbxref="InterPro:IPR046342"
+5mSIPHEX1_10-scaffold_10_c1_1	Pfam	protein_match	39	89	0.19	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_1 39 89;ID=match$46_39_89;signature_desc=CBS domain;Name=PF00571;status=T;Dbxref="InterPro:IPR000644"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_104 1 342
+5mSIPHEX1_10-scaffold_10_c1_104	.	polypeptide	1	342	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_104;md5=72251532941e8cd89763905d7ae28f59
+5mSIPHEX1_10-scaffold_10_c1_104	Gene3D	protein_match	261	334	1.2E-21	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 261 334;ID=match$47_261_334;Name=G3DSA:1.20.120.1460;status=T
+5mSIPHEX1_10-scaffold_10_c1_104	NCBIfam	protein_match	10	336	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 10 336;ID=match$48_10_336;signature_desc=tRNA dihydrouridine(20/20a) synthase DusA;Name=NF008774;status=T
+5mSIPHEX1_10-scaffold_10_c1_104	PANTHER	protein_match	14	334	2.7E-123	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 14 334;ID=match$49_14_334;Name=PTHR42907;status=T;Dbxref="InterPro:IPR004653"
+5mSIPHEX1_10-scaffold_10_c1_104	Gene3D	protein_match	14	256	1.5E-79	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 14 256;ID=match$50_14_256;Name=G3DSA:3.20.20.70;status=T;Dbxref="InterPro:IPR013785"
+5mSIPHEX1_10-scaffold_10_c1_104	PIRSR	protein_match	15	305	6.3E-76	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 15 305;ID=match$51_15_305;Name=PIRSR006621-1;status=T
+5mSIPHEX1_10-scaffold_10_c1_104	NCBIfam	protein_match	16	332	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 16 332;ID=match$52_16_332;signature_desc=tRNA dihydrouridine(20/20a) synthase DusA;Name=TIGR00742;status=T;Dbxref="InterPro:IPR004653"
+5mSIPHEX1_10-scaffold_10_c1_104	ProSitePatterns	protein_match	99	117	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 99 117;ID=match$53_99_117;signature_desc=Uncharacterized protein family UPF0034 signature.;Name=PS01136;status=T;Dbxref="InterPro:IPR018517"
+5mSIPHEX1_10-scaffold_10_c1_104	SUPERFAMILY	protein_match	17	331	5.86E-75	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 17 331;ID=match$54_17_331;Name=SSF51395;status=T
+5mSIPHEX1_10-scaffold_10_c1_104	CDD	protein_match	17	256	1.12353E-94	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 17 256;ID=match$55_17_256;signature_desc=DUS_like_FMN;Name=cd02801;status=T;Dbxref="InterPro:IPR035587"
+5mSIPHEX1_10-scaffold_10_c1_104	Pfam	protein_match	20	323	7.7E-86	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 20 323;ID=match$56_20_323;signature_desc=Dihydrouridine synthase (Dus);Name=PF01207;status=T;Dbxref="InterPro:IPR035587"
+5mSIPHEX1_10-scaffold_10_c1_104	Hamap	protein_match	12	333	51.638084	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 12 333;ID=match$57_12_333;signature_desc=tRNA-dihydrouridine(20/20a) synthase [dusA].;Name=MF_02041;status=T;Dbxref="InterPro:IPR004653"
+5mSIPHEX1_10-scaffold_10_c1_104	PIRSF	protein_match	7	338	2.7E-75	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_104 7 338;ID=match$58_7_338;Name=PIRSF006621;status=T;Dbxref="InterPro:IPR001269"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_111 1 211
+5mSIPHEX1_10-scaffold_10_c1_111	.	polypeptide	1	211	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_111;md5=ea4cde76ecf246771de4777a727eb6a2
+5mSIPHEX1_10-scaffold_10_c1_111	CDD	protein_match	27	206	1.91282E-50	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_111 27 206;ID=match$59_27_206;signature_desc=GT_2_like_f;Name=cd04182;status=T
+5mSIPHEX1_10-scaffold_10_c1_111	PANTHER	protein_match	28	209	1.6E-33	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_111 28 209;ID=match$60_28_209;Name=PTHR43777;status=T
+5mSIPHEX1_10-scaffold_10_c1_111	SUPERFAMILY	protein_match	27	205	2.7E-20	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_111 27 205;ID=match$61_27_205;Name=SSF53448;status=T;Dbxref="InterPro:IPR029044"
+5mSIPHEX1_10-scaffold_10_c1_111	Gene3D	protein_match	24	210	2.8E-42	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_111 24 210;ID=match$62_24_210;Name=G3DSA:3.90.550.10;status=T;Dbxref="InterPro:IPR029044"
+5mSIPHEX1_10-scaffold_10_c1_111	Pfam	protein_match	28	186	2.2E-27	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_111 28 186;ID=match$63_28_186;signature_desc=MobA-like NTP transferase domain;Name=PF12804;status=T;Dbxref="InterPro:IPR025877"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_107 1 304
+5mSIPHEX1_10-scaffold_10_c1_107	.	polypeptide	1	304	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_107;md5=c9dc8eef8f796e3ee8ea3fbd1aa6603a
+5mSIPHEX1_10-scaffold_10_c1_107	Gene3D	protein_match	152	304	3.7E-14	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_107 152 304;ID=match$64_152_304;Name=G3DSA:1.20.1530.20;status=T;Dbxref="InterPro:IPR038770"
+5mSIPHEX1_10-scaffold_10_c1_107	PANTHER	protein_match	4	303	1.8E-39	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_107 4 303;ID=match$65_4_303;Name=PTHR36838;status=T
+5mSIPHEX1_10-scaffold_10_c1_107	Pfam	protein_match	4	299	6.2E-9	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_107 4 299;ID=match$66_4_299;signature_desc=Membrane transport protein;Name=PF03547;status=T;Dbxref="InterPro:IPR004776"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_116 1 974
+5mSIPHEX1_10-scaffold_10_c1_116	.	polypeptide	1	974	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_116;md5=a92aa84ef4b5a43393dcc809c98c3f6e
+5mSIPHEX1_10-scaffold_10_c1_116	Coils	protein_match	724	744	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 724 744;ID=match$67_724_744;Name=Coil;status=T
+5mSIPHEX1_10-scaffold_10_c1_116	SUPERFAMILY	protein_match	264	526	1.49E-57	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 264 526;ID=match$68_264_526;Name=SSF63411;status=T;Dbxref="InterPro:IPR011249"
+5mSIPHEX1_10-scaffold_10_c1_116	Pfam	protein_match	62	144	0.0079	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 62 144;ID=match$69_62_144;signature_desc=Insulinase (Peptidase family M16);Name=PF00675;status=T;Dbxref="InterPro:IPR011765"
+5mSIPHEX1_10-scaffold_10_c1_116	PANTHER	protein_match	10	957	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 10 957;ID=match$70_10_957;Name=PTHR43016;status=T
+5mSIPHEX1_10-scaffold_10_c1_116	SMART	protein_match	469	714	2.8E-88	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 469 714;ID=match$71_469_714;Name=SM01264;status=T;Dbxref="InterPro:IPR013578"
+5mSIPHEX1_10-scaffold_10_c1_116	SUPERFAMILY	protein_match	526	772	1.52E-58	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 526 772;ID=match$72_526_772;Name=SSF63411;status=T;Dbxref="InterPro:IPR011249"
+5mSIPHEX1_10-scaffold_10_c1_116	SUPERFAMILY	protein_match	14	247	7.33E-47	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 14 247;ID=match$73_14_247;Name=SSF63411;status=T;Dbxref="InterPro:IPR011249"
+5mSIPHEX1_10-scaffold_10_c1_116	Gene3D	protein_match	501	942	3.7E-113	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 501 942;ID=match$74_501_942;Name=G3DSA:3.30.830.10;status=T
+5mSIPHEX1_10-scaffold_10_c1_116	Gene3D	protein_match	533	781	3.7E-113	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 533 781;ID=match$75_533_781;Name=G3DSA:3.30.830.10;status=T
+5mSIPHEX1_10-scaffold_10_c1_116	Pfam	protein_match	469	714	4.4E-57	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 469 714;ID=match$76_469_714;signature_desc=Peptidase M16C associated;Name=PF08367;status=T;Dbxref="InterPro:IPR013578"
+5mSIPHEX1_10-scaffold_10_c1_116	FunFam	protein_match	4	257	6.3E-97	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 4 257;ID=match$77_4_257;signature_desc=Presequence protease, mitochondrial;Name=G3DSA:3.30.830.10:FF:000011;status=T
+5mSIPHEX1_10-scaffold_10_c1_116	Pfam	protein_match	208	395	3.1E-15	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 208 395;ID=match$78_208_395;signature_desc=Peptidase M16 inactive domain;Name=PF05193;status=T;Dbxref="InterPro:IPR007863"
+5mSIPHEX1_10-scaffold_10_c1_116	Coils	protein_match	492	512	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 492 512;ID=match$79_492_512;Name=Coil;status=T
+5mSIPHEX1_10-scaffold_10_c1_116	Gene3D	protein_match	260	492	3.2E-61	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 260 492;ID=match$80_260_492;Name=G3DSA:3.30.830.10;status=T
+5mSIPHEX1_10-scaffold_10_c1_116	Pfam	protein_match	788	942	9.5E-26	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 788 942;ID=match$81_788_942;signature_desc=PreP C-terminal domain;Name=PF22516;status=T;Dbxref="InterPro:IPR055130"
+5mSIPHEX1_10-scaffold_10_c1_116	Gene3D	protein_match	2	257	1.3E-87	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 2 257;ID=match$82_2_257;Name=G3DSA:3.30.830.10;status=T
+5mSIPHEX1_10-scaffold_10_c1_116	SUPERFAMILY	protein_match	788	964	2.55E-45	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_116 788 964;ID=match$83_788_964;Name=SSF63411;status=T;Dbxref="InterPro:IPR011249"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_10 1 1247
+5mSIPHEX1_10-scaffold_10_c1_10	.	polypeptide	1	1247	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_10;md5=4ef227130f15d2991e31f17c7b51ba43
+5mSIPHEX1_10-scaffold_10_c1_10	PANTHER	protein_match	13	155	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_10 13 155;ID=match$84_13_155;Name=PTHR36985;status=T
+5mSIPHEX1_10-scaffold_10_c1_10	Pfam	protein_match	924	1247	1.6E-47	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_10 924 1247;ID=match$85_924_1247;signature_desc=TamB, inner membrane protein subunit of TAM complex;Name=PF04357;status=T;Dbxref="InterPro:IPR007452"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_109 1 494
+5mSIPHEX1_10-scaffold_10_c1_109	.	polypeptide	1	494	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_109;md5=48aab9c477d4e3791f44f24b4cfe2b09
+5mSIPHEX1_10-scaffold_10_c1_109	Pfam	protein_match	332	470	2.3E-35	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 332 470;ID=match$86_332_470;signature_desc=Anticodon binding domain;Name=PF19269;status=T;Dbxref="InterPro:IPR045462"
+5mSIPHEX1_10-scaffold_10_c1_109	Gene3D	protein_match	1	327	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 1 327;ID=match$87_1_327;Name=G3DSA:3.40.50.620;status=T;Dbxref="InterPro:IPR014729"
+5mSIPHEX1_10-scaffold_10_c1_109	PRINTS	protein_match	6	18	2.1E-22	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 6 18;ID=match$88_6_18;signature_desc=Glutamyl-tRNA synthetase signature;Name=PR00987;status=T;Dbxref="InterPro:IPR000924"
+5mSIPHEX1_10-scaffold_10_c1_109	PRINTS	protein_match	20	31	2.1E-22	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 20 31;ID=match$88_20_31;signature_desc=Glutamyl-tRNA synthetase signature;Name=PR00987;status=T;Dbxref="InterPro:IPR000924"
+5mSIPHEX1_10-scaffold_10_c1_109	PRINTS	protein_match	35	48	2.1E-22	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 35 48;ID=match$88_35_48;signature_desc=Glutamyl-tRNA synthetase signature;Name=PR00987;status=T;Dbxref="InterPro:IPR000924"
+5mSIPHEX1_10-scaffold_10_c1_109	PRINTS	protein_match	191	201	2.1E-22	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 191 201;ID=match$88_191_201;signature_desc=Glutamyl-tRNA synthetase signature;Name=PR00987;status=T;Dbxref="InterPro:IPR000924"
+5mSIPHEX1_10-scaffold_10_c1_109	PRINTS	protein_match	207	215	2.1E-22	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 207 215;ID=match$88_207_215;signature_desc=Glutamyl-tRNA synthetase signature;Name=PR00987;status=T;Dbxref="InterPro:IPR000924"
+5mSIPHEX1_10-scaffold_10_c1_109	SUPERFAMILY	protein_match	3	306	1.33E-109	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 3 306;ID=match$89_3_306;Name=SSF52374;status=T
+5mSIPHEX1_10-scaffold_10_c1_109	CDD	protein_match	2	325	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 2 325;ID=match$90_2_325;signature_desc=GluRS_core;Name=cd00808;status=T;Dbxref="InterPro:IPR033910"
+5mSIPHEX1_10-scaffold_10_c1_109	Gene3D	protein_match	370	493	6.3E-32	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 370 493;ID=match$91_370_493;Name=G3DSA:1.10.10.350;status=T;Dbxref="InterPro:IPR020751"
+5mSIPHEX1_10-scaffold_10_c1_109	ProSitePatterns	protein_match	9	20	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 9 20;ID=match$92_9_20;signature_desc=Aminoacyl-transfer RNA synthetases class-I signature.;Name=PS00178;status=T;Dbxref="InterPro:IPR001412"
+5mSIPHEX1_10-scaffold_10_c1_109	Pfam	protein_match	3	318	1.5E-104	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 3 318;ID=match$93_3_318;signature_desc=tRNA synthetases class I (E and Q), catalytic domain;Name=PF00749;status=T;Dbxref="InterPro:IPR020058"
+5mSIPHEX1_10-scaffold_10_c1_109	FunFam	protein_match	1	327	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 1 327;ID=match$94_1_327;signature_desc=Glutamate--tRNA ligase, mitochondrial;Name=G3DSA:3.40.50.620:FF:000045;status=T
+5mSIPHEX1_10-scaffold_10_c1_109	NCBIfam	protein_match	2	467	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 2 467;ID=match$95_2_467;signature_desc=glutamate--tRNA ligase;Name=TIGR00464;status=T;Dbxref="InterPro:IPR004527"
+5mSIPHEX1_10-scaffold_10_c1_109	PANTHER	protein_match	2	472	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 2 472;ID=match$96_2_472;Name=PTHR43311;status=T;Dbxref="InterPro:IPR049940"
+5mSIPHEX1_10-scaffold_10_c1_109	SUPERFAMILY	protein_match	312	471	2.09E-35	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 312 471;ID=match$97_312_471;Name=SSF48163;status=T;Dbxref="InterPro:IPR008925"
+5mSIPHEX1_10-scaffold_10_c1_109	Hamap	protein_match	2	470	29.753483	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_109 2 470;ID=match$98_2_470;signature_desc=Glutamate--tRNA ligase [gltX].;Name=MF_00022;status=T;Dbxref="InterPro:IPR004527"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_108 1 325
+5mSIPHEX1_10-scaffold_10_c1_108	.	polypeptide	1	325	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_108;md5=8b2721f444c2624bd8080549075d0b28
+5mSIPHEX1_10-scaffold_10_c1_108	MobiDBLite	protein_match	115	157	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_108 115 157;ID=match$99_115_157;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+5mSIPHEX1_10-scaffold_10_c1_108	Pfam	protein_match	29	317	7.8E-53	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_108 29 317;ID=match$100_29_317;signature_desc=Zinc-uptake complex component A periplasmic;Name=PF01297;status=T;Dbxref="InterPro:IPR006127"
+5mSIPHEX1_10-scaffold_10_c1_108	SUPERFAMILY	protein_match	27	320	1.88E-66	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_108 27 320;ID=match$101_27_320;Name=SSF53807;status=T
+5mSIPHEX1_10-scaffold_10_c1_108	Gene3D	protein_match	212	321	7.4E-22	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_108 212 321;ID=match$102_212_321;Name=G3DSA:3.40.50.1980;status=T
+5mSIPHEX1_10-scaffold_10_c1_108	MobiDBLite	protein_match	120	157	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_108 120 157;ID=match$103_120_157;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+5mSIPHEX1_10-scaffold_10_c1_108	Gene3D	protein_match	28	209	7.2E-45	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_108 28 209;ID=match$104_28_209;Name=G3DSA:3.40.50.1980;status=T
+5mSIPHEX1_10-scaffold_10_c1_108	PANTHER	protein_match	11	321	2.3E-51	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_108 11 321;ID=match$105_11_321;Name=PTHR42953;status=T;Dbxref="InterPro:IPR050492"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_103 1 321
+5mSIPHEX1_10-scaffold_10_c1_103	.	polypeptide	1	321	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_103;md5=42c37942313a9458273d7c6a91ec3ed4
+5mSIPHEX1_10-scaffold_10_c1_103	SUPERFAMILY	protein_match	1	316	6.38E-109	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 1 316;ID=match$106_1_316;Name=SSF51569;status=T
+5mSIPHEX1_10-scaffold_10_c1_103	Coils	protein_match	300	320	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 300 320;ID=match$107_300_320;Name=Coil;status=T
+5mSIPHEX1_10-scaffold_10_c1_103	ProSitePatterns	protein_match	129	146	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 129 146;ID=match$108_129_146;signature_desc=Transaldolase active site.;Name=PS00958;status=T;Dbxref="InterPro:IPR018225"
+5mSIPHEX1_10-scaffold_10_c1_103	Hamap	protein_match	2	318	49.416855	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 2 318;ID=match$109_2_318;signature_desc=Transaldolase [tal].;Name=MF_00492;status=T;Dbxref="InterPro:IPR004730"
+5mSIPHEX1_10-scaffold_10_c1_103	ProSitePatterns	protein_match	31	39	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 31 39;ID=match$110_31_39;signature_desc=Transaldolase signature 1.;Name=PS01054;status=T;Dbxref="InterPro:IPR018225"
+5mSIPHEX1_10-scaffold_10_c1_103	Gene3D	protein_match	1	320	6.5E-123	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 1 320;ID=match$111_1_320;Name=G3DSA:3.20.20.70;status=T;Dbxref="InterPro:IPR013785"
+5mSIPHEX1_10-scaffold_10_c1_103	CDD	protein_match	3	312	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 3 312;ID=match$112_3_312;signature_desc=Transaldolase_TalAB;Name=cd00957;status=T;Dbxref="InterPro:IPR004730"
+5mSIPHEX1_10-scaffold_10_c1_103	Pfam	protein_match	14	312	8.8E-90	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 14 312;ID=match$113_14_312;signature_desc=Transaldolase/Fructose-6-phosphate aldolase;Name=PF00923;status=T;Dbxref="InterPro:IPR001585"
+5mSIPHEX1_10-scaffold_10_c1_103	NCBIfam	protein_match	3	314	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 3 314;ID=match$114_3_314;signature_desc=transaldolase A;Name=NF009001;status=T
+5mSIPHEX1_10-scaffold_10_c1_103	FunFam	protein_match	1	318	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 1 318;ID=match$115_1_318;signature_desc=Transaldolase;Name=G3DSA:3.20.20.70:FF:000002;status=T
+5mSIPHEX1_10-scaffold_10_c1_103	NCBIfam	protein_match	4	314	0.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 4 314;ID=match$116_4_314;signature_desc=transaldolase;Name=TIGR00874;status=T;Dbxref="InterPro:IPR004730"
+5mSIPHEX1_10-scaffold_10_c1_103	PANTHER	protein_match	2	314	2.7E-97	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_103 2 314;ID=match$117_2_314;Name=PTHR10683;status=T;Dbxref="InterPro:IPR001585"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_114 1 456
+5mSIPHEX1_10-scaffold_10_c1_114	.	polypeptide	1	456	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_114;md5=084dc5de74b43870f0b793cc4b186ecf
+5mSIPHEX1_10-scaffold_10_c1_114	Pfam	protein_match	149	213	2.1E-11	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 149 213;ID=match$118_149_213;signature_desc=PEGA domain;Name=PF08308;status=T;Dbxref="InterPro:IPR013229"
+5mSIPHEX1_10-scaffold_10_c1_114	SUPERFAMILY	protein_match	223	344	2.75E-29	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 223 344;ID=match$119_223_344;Name=SSF82185;status=T
+5mSIPHEX1_10-scaffold_10_c1_114	MobiDBLite	protein_match	59	72	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 59 72;ID=match$120_59_72;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+5mSIPHEX1_10-scaffold_10_c1_114	PANTHER	protein_match	224	334	1.4E-55	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 224 334;ID=match$121_224_334;Name=PTHR43215;status=T
+5mSIPHEX1_10-scaffold_10_c1_114	MobiDBLite	protein_match	35	72	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 35 72;ID=match$122_35_72;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+5mSIPHEX1_10-scaffold_10_c1_114	MobiDBLite	protein_match	88	119	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 88 119;ID=match$123_88_119;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+5mSIPHEX1_10-scaffold_10_c1_114	Pfam	protein_match	268	289	0.25	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 268 289;ID=match$124_268_289;signature_desc=MORN repeat;Name=PF02493;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	Pfam	protein_match	245	267	0.91	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 245 267;ID=match$124_245_267;signature_desc=MORN repeat;Name=PF02493;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	Pfam	protein_match	291	312	0.063	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 291 312;ID=match$124_291_312;signature_desc=MORN repeat;Name=PF02493;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	Pfam	protein_match	316	334	16.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 316 334;ID=match$124_316_334;signature_desc=MORN repeat;Name=PF02493;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	Pfam	protein_match	337	357	0.11	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 337 357;ID=match$124_337_357;signature_desc=MORN repeat;Name=PF02493;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	Pfam	protein_match	223	244	980.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 223 244;ID=match$124_223_244;signature_desc=MORN repeat;Name=PF02493;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	Pfam	protein_match	383	404	30.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 383 404;ID=match$124_383_404;signature_desc=MORN repeat;Name=PF02493;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	Pfam	protein_match	360	380	0.0031	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 360 380;ID=match$124_360_380;signature_desc=MORN repeat;Name=PF02493;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	SUPERFAMILY	protein_match	332	429	3.53E-25	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 332 429;ID=match$125_332_429;Name=SSF82185;status=T
+5mSIPHEX1_10-scaffold_10_c1_114	Gene3D	protein_match	366	434	5.2E-11	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 366 434;ID=match$126_366_434;Name=G3DSA:2.20.110.10;status=T
+5mSIPHEX1_10-scaffold_10_c1_114	Gene3D	protein_match	274	320	5.4E-11	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 274 320;ID=match$126_274_320;Name=G3DSA:2.20.110.10;status=T
+5mSIPHEX1_10-scaffold_10_c1_114	Gene3D	protein_match	321	365	1.8E-15	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 321 365;ID=match$126_321_365;Name=G3DSA:2.20.110.10;status=T
+5mSIPHEX1_10-scaffold_10_c1_114	Gene3D	protein_match	224	273	2.1E-10	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 224 273;ID=match$126_224_273;Name=G3DSA:2.20.110.10;status=T
+5mSIPHEX1_10-scaffold_10_c1_114	SMART	protein_match	223	241	53.0	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 223 241;ID=match$127_223_241;Name=SM00698;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	SMART	protein_match	358	379	4.2E-4	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 358 379;ID=match$127_358_379;Name=SM00698;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	SMART	protein_match	289	310	2.5E-4	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 289 310;ID=match$127_289_310;Name=SM00698;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	SMART	protein_match	335	356	0.2	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 335 356;ID=match$127_335_356;Name=SM00698;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	SMART	protein_match	381	402	1.3	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 381 402;ID=match$127_381_402;Name=SM00698;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	SMART	protein_match	243	264	0.022	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 243 264;ID=match$127_243_264;Name=SM00698;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	SMART	protein_match	312	333	6.9	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 312 333;ID=match$127_312_333;Name=SM00698;status=T;Dbxref="InterPro:IPR003409"
+5mSIPHEX1_10-scaffold_10_c1_114	SMART	protein_match	266	287	0.0059	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_114 266 287;ID=match$127_266_287;Name=SM00698;status=T;Dbxref="InterPro:IPR003409"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_101 1 375
+5mSIPHEX1_10-scaffold_10_c1_101	.	polypeptide	1	375	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_101;md5=664b7876faf8312282aef3c6e2efec20
+5mSIPHEX1_10-scaffold_10_c1_101	PANTHER	protein_match	18	360	1.3E-69	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_101 18 360;ID=match$128_18_360;Name=PTHR43018;status=T;Dbxref="InterPro:IPR052899"
+5mSIPHEX1_10-scaffold_10_c1_101	SUPERFAMILY	protein_match	16	360	4.67E-69	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_101 16 360;ID=match$129_16_360;Name=SSF51569;status=T
+5mSIPHEX1_10-scaffold_10_c1_101	Pfam	protein_match	101	349	2.9E-40	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_101 101 349;ID=match$130_101_349;signature_desc=DAHP synthetase I family;Name=PF00793;status=T;Dbxref="InterPro:IPR006218"
+5mSIPHEX1_10-scaffold_10_c1_101	Gene3D	protein_match	1	82	1.4E-17	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_101 1 82;ID=match$131_1_82;Name=G3DSA:3.30.70.1140;status=T
+5mSIPHEX1_10-scaffold_10_c1_101	Gene3D	protein_match	83	356	1.0E-61	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_101 83 356;ID=match$132_83_356;Name=G3DSA:3.20.20.70;status=T;Dbxref="InterPro:IPR013785"
+##sequence-region 5mSIPHEX1_10-scaffold_10_c1_113 1 365
+5mSIPHEX1_10-scaffold_10_c1_113	.	polypeptide	1	365	.	+	.	ID=5mSIPHEX1_10-scaffold_10_c1_113;md5=420305afd62158dbba350fb54d4680d9
+5mSIPHEX1_10-scaffold_10_c1_113	ProSiteProfiles	protein_match	5	122	35.635925	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 5 122;ID=match$133_5_122;signature_desc=Response regulatory domain profile.;Name=PS50110;status=T;Dbxref="InterPro:IPR001789"
+5mSIPHEX1_10-scaffold_10_c1_113	CDD	protein_match	7	108	2.12195E-23	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 7 108;ID=match$134_7_108;signature_desc=REC;Name=cd00156;status=T
+5mSIPHEX1_10-scaffold_10_c1_113	Gene3D	protein_match	2	127	6.7E-31	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 2 127;ID=match$135_2_127;Name=G3DSA:3.40.50.2300;status=T
+5mSIPHEX1_10-scaffold_10_c1_113	PIRSR	protein_match	6	120	1.9E-10	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 6 120;ID=match$136_6_120;Name=PIRSR026389-4;status=T
+5mSIPHEX1_10-scaffold_10_c1_113	PANTHER	protein_match	6	122	3.8E-23	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 6 122;ID=match$137_6_122;Name=PTHR44591;status=T;Dbxref="InterPro:IPR050595"
+5mSIPHEX1_10-scaffold_10_c1_113	SUPERFAMILY	protein_match	5	121	2.28E-30	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 5 121;ID=match$138_5_121;Name=SSF52172;status=T;Dbxref="InterPro:IPR011006"
+5mSIPHEX1_10-scaffold_10_c1_113	MobiDBLite	protein_match	155	174	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 155 174;ID=match$139_155_174;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+5mSIPHEX1_10-scaffold_10_c1_113	MobiDBLite	protein_match	134	148	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 134 148;ID=match$140_134_148;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+5mSIPHEX1_10-scaffold_10_c1_113	Pfam	protein_match	7	114	2.7E-19	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 7 114;ID=match$141_7_114;signature_desc=Response regulator receiver domain;Name=PF00072;status=T;Dbxref="InterPro:IPR001789"
+5mSIPHEX1_10-scaffold_10_c1_113	PIRSR	protein_match	7	121	4.9E-10	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 7 121;ID=match$142_7_121;Name=PIRSR002937-1;status=T
+5mSIPHEX1_10-scaffold_10_c1_113	MobiDBLite	protein_match	124	148	.	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 124 148;ID=match$143_124_148;signature_desc=consensus disorder prediction;Name=mobidb-lite;status=T
+5mSIPHEX1_10-scaffold_10_c1_113	SMART	protein_match	4	118	1.2E-24	+	.	date=08-04-2025;Target=5mSIPHEX1_10-scaffold_10_c1_113 4 118;ID=match$144_4_118;Name=SM00448;status=T;Dbxref="InterPro:IPR001789"
+##FASTA
+>5mSIPHEX1_10-scaffold_10_c1_1
+MGNQSSVQASLSAGARYRLVSPEDEDTLTNDAAASELLKDFTRQAPVIVRSSREIQEVKK
+TLDVSGETFCVVINRNDEVVGILTLKDLIGSWPMSLANQRGSTIADIVARDIMRPVWRLP
+TIELGKLQDLKIDELITIFKGLHSDYLLVMDTVAVGAEEQVICGLLSADELSRRLGIRVT
+PDPGPGSFSDIVHAVRKNPG
+>5mSIPHEX1_10-scaffold_10_c1_10
+MSDEAKTPTPKRSKRLRNGLLIALAVIVLLPLLLLGLLVLALRSETGTAWVIDQVPGLEV
+EQGQGSLLGQWQAASLTWQGYGVGLKVESPVVDWSPTCLFNKQLCLERLLADSIDLTLQP
+SGEPKEDSGDISLPSVDLPLGLVVRDVNLGPFTLNDAKVWDRLQLKAQGSGSDWHLQNLA
+FVRDDISIDASGRLQTRGDWPLDLEVRLMLPPPYGADWQLALNLTGSAADLRVQGQSSGY
+LDATLAGRVAPLDSALPAELTVRSSRFVPAEGLPKTLVLTDTVVALKGSLENGFRSDSRT
+VLPGSTGDIPVSLKGLVTTEGLDGLELVLTGPGTTEAETGRLRVTGNVSWEQALQADAKV
+SLDAFPWYSLIPDFEQPPVTLRQFNGDVQYQGGAYQASIDASVSGPMGDADMAGDLEGDL
+ESVTLTNLRVNTGAGFLGGRADVAFADQLSWDASLTLDSFNPGFWLPALEASLSGDVDTS
+GRLQEEGTPTLQAKWDLSGSWQANEALIRGALDSDAGNWTLSDLELEVGDNRVTGQGRWG
+QQINGNLELNLPAPETFLPGLAGSVNGTASVSGTVDQPRGKVTLTGSDLAWQDQLSLSSL
+DLTATLREGFNIQADLRGKEVRYGEQLLEDLSLALTGTRDDHQLRLNARHKEAELSLLLA
+GDASESWNAWVGALEQGQISVPAQGQQWTLSESAALEYTEAGKLTLGQHCWQWQQASVCA
+EDQTLLPTQDIAYRIENFPTTALSPLLPDTLRWDATLNADLQLVMTEDGPDGEVSIDAGS
+GEFEVQVRDEWESLSYNTFTTRLSLKPSVAELDLQLQGPDIGNLSVGMSVDPDSDAREVD
+GQFSIEGLDIAMAGIFAGLEVVEGELNGEGTLSGPLMKPAVNGELALSGGHIADPRLPIP
+LEDLVVSLELKGYSADLSGRWRSNERGSGNIEGSLAWEAEPSVEVRLTGDRLPFNYEPYA
+QVELVPDITIAYEGGDLSVSGNLNVPRGTIEIRELPAQAVSVSEDEVVVGAEEKEGGLRT
+LNMDVTVVVGEDEVSFSGFGVTGNLEGTLRIGNNLDTRGALQLVEGRYEAYGQELDLRRA
+RLVFVGPLSEPYLDIEAVRRVDNVVAGIRLSGPVSSPRTEVFSEPEMPQTDALSYVILGR
+APQSRGDEGQMSRAAISLGLTQANKVTQGIGEEFGIRNLTLEAEGSGDESAVVASGYLTD
+ELSIRYGVGIFQPITTVALRYDIGRYFYLEAASGLAASLDIFYTRDF
+>5mSIPHEX1_10-scaffold_10_c1_100
+MIVYGHRGAKGEAPENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTVDRTTGQEG
+NVANYTASELADMDARRNTTAWPRKAGIPTLEALLNEFPDFEHLQLEVKKDNRHRLNILC
+NRLTEIIQRRDLYKRVVITSSDSWFLQEARRRDRKVRIGLVTDRKFPRPVNTAARLHCDF
+LCIGWRICTSAIVDDAHRRGMHVSTWTVNRIHDMVQLEAKGVDSIITDYPTSTRMFFDNR
+AKAALHLPTPQESAESTDSTRPAISS
+>5mSIPHEX1_10-scaffold_10_c1_101
+MLAILHPDTALDSEAYRQTMHFLENLPGVSVRVHEVQGAKQRLTEVYLLGDTKSLDKDEI
+EALPAVERAIRISDDYRILGRHKDDKRQSGFTYNGVTFDQSNLNIFAGLCAVDVPEHVEQ
+MMQALEDNGQVCTRMGAYKPRTNPYSFQGHGKGCLPWVFEKAGKHGIKVIAMEITHESHI
+EEIDHCLEQLGRPTGVMLQVGTRNTQNFELLKAIGRQSTYPVLLKRGFGITLNESLNAAE
+YLASEGNANVIFCLRGMKTEAGQPHRNMVDFAHVPAVKRLTRMPVCVDPSHSVGSRERAP
+DGVLDVMHATAQGVIAGANMVLVDFHPKPEKALVDGPQALLMRELPAYLEDIQLCHDTWK
+QRQQIYNRLKESSPE
+>5mSIPHEX1_10-scaffold_10_c1_102
+MIERLKSLFGSPEDEPTQPDSHQLAVAATALMVQLSRVDNDQDDEELKTIVNFAVEAHQV
+TRDEAEEILQDALNQADDATSLYEFTGLINEQLSQEEKQALLESIWRVAFADGRIDKYEE
+HLIRRMSDLLHLNHREFMQARHRAEGAD
+>5mSIPHEX1_10-scaffold_10_c1_103
+MTSKLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAAR
+KHGGSDAEQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYD
+HLGMDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVG
+RILDWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCD
+RLTISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGI
+RRFTNDQIELENRVRRLSQAA
+>5mSIPHEX1_10-scaffold_10_c1_104
+MNMNAPQETPTLKPSRRFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTA
+RFLRHDPTEYPLALQLGGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLM
+AHPDKVAEGVQAMIAATSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIA
+VLEGLSPKENRDIPPLKYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGRE
+AYHNPWLLAGVDTEFFGQPMPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQ
+PGGRQFRRYISENAHKPGSGIEVIERAMAKVPEPAEATVVPA
+>5mSIPHEX1_10-scaffold_10_c1_105
+MTGQGPVSFVDVRRRFEFRSIEVGRWVTPPERDRAAGRFYEALCDLMSILQGPEHLISLR
+GSLGLQYGIGGRPGVAAHYIPATRQLALAKNAGAGSLAHEWFHAFDHYMGHKAFRRLGSG
+GFASSGWLDSADQKEHPLNKRLGACFQAILLNEDGTSPSSLFQCSKRADTQMKVLYYARP
+EELCARAFEAFVEDSQPQSNFLVRGTVYSDEARAGLYPEGKQRQRINDAFEGYFMALGGA
+LYREHAEDGPVGQSLSSTS
+>5mSIPHEX1_10-scaffold_10_c1_106
+MNNCIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVD
+ETSVRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGA
+FPYLKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMP
+PFVNTGMVQQNEQGSRLFERLGVNLTPDVVAAQVWAQVEQPRLHRPVSMQFRALWPIAKS
+APTSLTRRVLRKLWRQ
+>5mSIPHEX1_10-scaffold_10_c1_107
+MPVMIQALLPVFVLILLGYLFRRWHFPGGDFWPQAERFTYYVLFPAMLIFKLGQAQVPAS
+AYGDILILIVAMLAAMTLLLIALQWLWRWPGPVFSSVFQGGIRFNSYVALATAGMLLGDD
+GLSLIAIAVAVKVPLLNLLCILMFSVVAGQGAVKLKPVFKAVVSNPLIIGSVVGMFWSYF
+QIGFHPLVAGILEPLSDLALPLGLMTVGAGLQLKALRGASMPFLVSSMAKLVGFPLLTAG
+LALLLGLEGMMVQVAILMAALPTATSSYILARQLGGDAPLMAGIISGQTLLAMVTIPLLL
+GILW
+>5mSIPHEX1_10-scaffold_10_c1_108
+MTTSRFTGLIALGAATLLASTSTLASTQVVTSLKPIELLVKAIATDDVEITTLVQPGASP
+HNYSMKPSQRRALEAADAIFWVGPEMETFLTRLLGGSEFRDRTYSLMHGENVPEVQLDNN
+HGDHDEHEHHNHHDDHEESGGHDDHHHDHGSGEDPHIWLDPALAVEMARDIHRVLATLKS
+ADTHVLDANLARFERAMAETETAINQRLDTARDIDLFTYHDAFTRFVGHYNMNLEGILTL
+NPELSPGAGHIAEVQEKLRNANQPCLLTEPQFNRQWWRSITEGLDITFSTWDPLATDIET
+DQDGYITFQQSLADAVLKCLPEDAK
+>5mSIPHEX1_10-scaffold_10_c1_109
+MTVRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNA
+LRWLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREER
+KAQGLNPGIKGNLELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVD
+SQILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLP
+LLRNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFD
+IQRVSLGGPVFDVEKLRWLNGQWIRDELSDDQFVERMRHWWFNEQALRDLVPHIKGRAEV
+FSDVSPMASFMFSGMLNLKPEDFGHNKLDESQVKRVLQFTLWKLEAQRHWSKENIFADVK
+ALAKAMELKMGDFMFAIFVAVAGTPNSWSVMDSMAILGPDMTRSRLRHALEVMGGFSKKE
+TKRVEKEYAALLTE
+>5mSIPHEX1_10-scaffold_10_c1_11
+MFHNVHRYLLASTALILFPLGASAAEVSLSGQASVKYTPDSARLQFTARAEHKLPETATE
+EVNEQMEKWRESIEDFRDRLKSYSDASLNLYSRSIPSPERHEEPRRVAVASQTVSFTIDD
+LSLLNPILAQAQSLGMDYNVGPHQFFHSDEVGLRKQALAGAIADAKSRCEFVARELDKQC
+GEVMTINVDGGHQPPMPMMAEMRGASDAVSAVGSRELEARVSATFELE
+>5mSIPHEX1_10-scaffold_10_c1_110
+MNHLFVDNLTVIDFAYLDASRGLVGESWIVDVVLGGELDDQGMVFDFSNVKRTIKRVIDE
+RVDHRLVIPRAYKGLEWNEDEPDSFTWHLTDGTRILHRSPDEAVVWLSSDRVVPSAVARL
+LEQELRAVLPANVTDVDIALREDVIEGAYYHYVHGLKKHMGNCQRIAHGHRSPIRIDRNE
+HRDRDLENQWAKRWQDIYVGSEEDVTQRWVAEDGTAYVTFEYEANQGEFALTLPESRVYM
+LDSDTTVELIAAHIAGQLKSEFPEDAIRVKAYEGVGKGAIASR
+>5mSIPHEX1_10-scaffold_10_c1_111
+MTCVRGSEETQVQMHTIAGSDYHAFPVLLLAAGASRRMGRPKALLKFNDGTLMDHAVSQA
+KQLGANVTVVSGSGYPLVRYRCRNQPSAWCYTPDWVFGMAASLKSGLQTIGPRAKGVFVT
+LLDQPLVSESDLRSLAFCARQEVSEPFAADIYGNPGAPAYIPRRLWKEIMMLEGDRGAAR
+ILTRHQAKTLAIKGVESDVDTPEDWRRIRYD
+>5mSIPHEX1_10-scaffold_10_c1_112
+MHNLTRNSLTPCLLASALLFSSGNSSAALLDAFENGGFEGYTGNTNSFNSDVPPGWTTTE
+GTPDVFNAGTTMNNFAWQSSSTGGDFLHGIGWDGRAGSPYVESALQVGLEGLVIGQQYEI
+SFEQSISNSAFSEAGGYWEIIFGTESQNSSAMEMPDLGTIADWMWETMIFTATAEIQTLE
+VIAHSTFGPRADLGIDSFFLGDPGTNPDNPDTPDVPPTASVPTPASLPLFALGLTGVLIA
+GLRRRRQC
+>5mSIPHEX1_10-scaffold_10_c1_113
+MAIKNALLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPG
+MNGVEATKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGLSLVLDQ
+LDSDVTEGNLPEPPELDAEPNELDDDILDIPSDASLEMSPKADDGLHASDNSGPQVVPLT
+SDLIEQIARSAVKTHINNRLHELLSSLFDEQFDHLKRVLDESSKKQETAVEERLNAVTEM
+IEERTRNLRDDVAAEVNLNLGRELADLRKDLSRNTGFTSDHMAELKDHITSVQTIDTEFW
+QTLQSEAIQQAHEISRETAEDIAQRTIDLFVAQQRSATSRIYTVGLAASLGIFAVGIAWL
+SGLFA
+>5mSIPHEX1_10-scaffold_10_c1_114
+MVDFRPLLFVNALALMLLVTAGFASVRDDLSRGMKPVATAPDTEETIARASMDTPVDAQR
+SDELYQPNSREDVAENDLELPLENDALAASGEKPVNGSETASDANRINAEPFSVPDLPED
+PKMLAMAEPVSVMPETEARSDAPEPPTTGLLILRSNVVGDNVTINGKNHGATRLDLELEP
+GKYDITIRKEGYKPWQQTVAIAAGNEKTLVGKLEAYTRVEYRDGTWVGGIKTGDGTYEDA
+DGLRYEGHFVDGEFDGKGTAWLPDGSRYEGDWEKGQRHGEGTWRDADDTRYTGQFRNDQF
+DGQGTLTMANGDILTGQWSGGRLNGHGSLTTSDGMLYVGGFKDDEFHGEGTLTYPDGRHY
+EGEFSNGEFHGNGKEVFADGKKYEGQYIEGSFHGKGLLLNPNGSSIEATFRYGEPYGQVR
+LTTAAGEVFTARTKEPGVCYREKSYRATQCPTLEGW
+>5mSIPHEX1_10-scaffold_10_c1_116
+MAAVIENTVHPAFEKLRSHRISTLNVTVEEYRHRKTGARHLHLAADNDENVFFVALRTFP
+MDSTGVAHILEHTALCGSERFPVRDPFFMMIRRSLNTFMNAFTSSDWTAYPFASMNRKDF
+DNLLTVYLDSVFFSSLDPLDFAQEGHRLEFDTPDDPSTDLVYRGVVYNEMKGAMSAPTSQ
+LWQNLSSHLFPTTTYHYNSGGEPDHIVDLSYDDLLRFYRHHYHPSNAIFATYGDIPAHEH
+HERFEELALKRFDRLDVELPVRDEKRMFSPVRVDQSYAVSEGEETGHKTHIVMGWLLGHS
+FDLQENLEGQLLASVLLENSASPLMRALETTDIGHSPSPMCGLEDSNREMTFVCGIEGSD
+PERQDDLEALIEQTLAKVVEEGVSEDRLEAILHQLELHQREIAGDSFPYGLQLIMTAISP
+MVHGGDPVELLDLEPVLADMREKIRDPQYVPGLIRRKLLENPHRVTLTLRPDDKLESRRQ
+AAIRDALARRKASLTDEEVRQIIERAQALEERQTRKDDDSILPKVDLTDVPLQLPEPEAR
+FAGDMPATIYARGTNGLVYEQVILPVPNLTEEELLLLPYYTTLIPEVGCGDLDYLQMQDR
+ISAESGGISASFSAKGKIDDVQDLEGYIVFNGKALARNREALTRLLNDVFDGARFDEKER
+VRELIAQIRSRREQAVTGSGHALAMGAASQGISPGAWLSFRLGGLEAIRGVKALDKSLSE
+PAELDRFCERLAALHERIRNQSRQFLLIGEEEQLDPMLTEMKTVWGDSGAGEQAAWKLEP
+VSYQARQAWLTSTQVNFCAKAYSTVAIDHPDAAALTVLGGFLRNGYLHRAIREKGGAYGG
+GAGQDSVNGTFRFFSYRDPRLGETLEDFDNALKWLQTEQHDPQELEESILGVIGQLDRPR
+SPAGAARHAFHNRLFGRTPEQRARFRERVLAVTLDDMKRVAREWLKPGSASVAVVTSFEN
+RDTAEKLGLEIQEL
+>match$1_39_148
+PDSARLQFTARAEHKLPETATEEVNEQMEKWRESIEDFRDRLKSYSDASLNLYSRSIPSP
+ERHEEPRRVAVASQTVSFTIDDLSLLNPILAQAQSLGMDYNVGPHQFFHS
+>match$2_27_225
+VSLSGQASVKYTPDSARLQFTARAEHKLPETATEEVNEQMEKWRESIEDFRDRLKSYSDA
+SLNLYSRSIPSPERHEEPRRVAVASQTVSFTIDDLSLLNPILAQAQSLGMDYNVGPHQFF
+HSDEVGLRKQALAGAIADAKSRCEFVARELDKQCGEVMTINVDGGHQPPMPMMAEMRGAS
+DAVSAVGSRELEARVSATF
+>match$3_29_226
+LSGQASVKYTPDSARLQFTARAEHKLPETATEEVNEQMEKWRESIEDFRDRLKSYSDASL
+NLYSRSIPSPERHEEPRRVAVASQTVSFTIDDLSLLNPILAQAQSLGMDYNVGPHQFFHS
+DEVGLRKQALAGAIADAKSRCEFVARELDKQCGEVMTINVDGGHQPPMPMMAEMRGASDA
+VSAVGSRELEARVSATFE
+>match$4_27_228
+VSLSGQASVKYTPDSARLQFTARAEHKLPETATEEVNEQMEKWRESIEDFRDRLKSYSDA
+SLNLYSRSIPSPERHEEPRRVAVASQTVSFTIDDLSLLNPILAQAQSLGMDYNVGPHQFF
+HSDEVGLRKQALAGAIADAKSRCEFVARELDKQCGEVMTINVDGGHQPPMPMMAEMRGAS
+DAVSAVGSRELEARVSATFELE
+>match$5_59_86
+TEEVNEQMEKWRESIEDFRDRLKSYSDA
+>match$6_2_152
+NHLFVDNLTVIDFAYLDASRGLVGESWIVDVVLGGELDDQGMVFDFSNVKRTIKRVIDER
+VDHRLVIPRAYKGLEWNEDEPDSFTWHLTDGTRILHRSPDEAVVWLSSDRVVPSAVARLL
+EQELRAVLPANVTDVDIALREDVIEGAYYHY
+>match$7_154_281
+HGLKKHMGNCQRIAHGHRSPIRIDRNEHRDRDLENQWAKRWQDIYVGSEEDVTQRWVAED
+GTAYVTFEYEANQGEFALTLPESRVYMLDSDTTVELIAAHIAGQLKSEFPEDAIRVKAYE
+GVGKGAIA
+>match$8_156_177
+LKKHMGNCQRIAHGHRSPIRID
+>match$9_12_153
+IDFAYLDASRGLVGESWIVDVVLGGELDDQGMVFDFSNVKRTIKRVIDERVDHRLVIPRA
+YKGLEWNEDEPDSFTWHLTDGTRILHRSPDEAVVWLSSDRVVPSAVARLLEQELRAVLPA
+NVTDVDIALREDVIEGAYYHYV
+>match$10_25_69
+GESWIVDVVLGGELDDQGMVFDFSNVKRTIKRVIDERVDHRLVIP
+>match$11_3_138
+ERLKSLFGSPEDEPTQPDSHQLAVAATALMVQLSRVDNDQDDEELKTIVNFAVEAHQVTR
+DEAEEILQDALNQADDATSLYEFTGLINEQLSQEEKQALLESIWRVAFADGRIDKYEEHL
+IRRMSDLLHLNHREFM
+>match$12_1_20
+MIERLKSLFGSPEDEPTQPD
+>match$13_3_146
+ERLKSLFGSPEDEPTQPDSHQLAVAATALMVQLSRVDNDQDDEELKTIVNFAVEAHQVTR
+DEAEEILQDALNQADDATSLYEFTGLINEQLSQEEKQALLESIWRVAFADGRIDKYEEHL
+IRRMSDLLHLNHREFMQARHRAEG
+>match$14_27_130
+AATALMVQLSRVDNDQDDEELKTIVNFAVEAHQVTRDEAEEILQDALNQADDATSLYEFT
+GLINEQLSQEEKQALLESIWRVAFADGRIDKYEEHLIRRMSDLL
+>match$15_55_82
+VEAHQVTRDEAEEILQDALNQADDATSL
+>match$16_26_142
+VAATALMVQLSRVDNDQDDEELKTIVNFAVEAHQVTRDEAEEILQDALNQADDATSLYEF
+TGLINEQLSQEEKQALLESIWRVAFADGRIDKYEEHLIRRMSDLLHLNHREFMQARH
+>match$17_169_240
+DTQMKVLYYARPEELCARAFEAFVEDSQPQSNFLVRGTVYSDEARAGLYPEGKQRQRIND
+AFEGYFMALGGA
+>match$18_6_241
+PVSFVDVRRRFEFRSIEVGRWVTPPERDRAAGRFYEALCDLMSILQGPEHLISLRGSLGL
+QYGIGGRPGVAAHYIPATRQLALAKNAGAGSLAHEWFHAFDHYMGHKAFRRLGSGGFASS
+GWLDSADQKEHPLNKRLGACFQAILLNEDGTSPSSLFQCSKRADTQMKVLYYARPEELCA
+RAFEAFVEDSQPQSNFLVRGTVYSDEARAGLYPEGKQRQRINDAFEGYFMALGGAL
+>match$19_198_219
+FFLGDPGTNPDNPDTPDVPPTA
+>match$20_3_229
+VYGHRGAKGEAPENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTVDRTTGQEGNV
+ANYTASELADMDARRNTTAWPRKAGIPTLEALLNEFPDFEHLQLEVKKDNRHRLNILCNR
+LTEIIQRRDLYKRVVITSSDSWFLQEARRRDRKVRIGLVTDRKFPRPVNTAARLHCDFLC
+IGWRICTSAIVDDAHRRGMHVSTWTVNRIHDMVQLEAKGVDSIITDY
+>match$21_1_237
+MIVYGHRGAKGEAPENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTVDRTTGQEG
+NVANYTASELADMDARRNTTAWPRKAGIPTLEALLNEFPDFEHLQLEVKKDNRHRLNILC
+NRLTEIIQRRDLYKRVVITSSDSWFLQEARRRDRKVRIGLVTDRKFPRPVNTAARLHCDF
+LCIGWRICTSAIVDDAHRRGMHVSTWTVNRIHDMVQLEAKGVDSIITDYPTSTRMFF
+>match$22_6_230
+HRGAKGEAPENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTVDRTTGQEGNVANY
+TASELADMDARRNTTAWPRKAGIPTLEALLNEFPDFEHLQLEVKKDNRHRLNILCNRLTE
+IIQRRDLYKRVVITSSDSWFLQEARRRDRKVRIGLVTDRKFPRPVNTAARLHCDFLCIGW
+RICTSAIVDDAHRRGMHVSTWTVNRIHDMVQLEAKGVDSIITDYP
+>match$23_15_52
+ENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTV
+>match$24_2_237
+IVYGHRGAKGEAPENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTVDRTTGQEGN
+VANYTASELADMDARRNTTAWPRKAGIPTLEALLNEFPDFEHLQLEVKKDNRHRLNILCN
+RLTEIIQRRDLYKRVVITSSDSWFLQEARRRDRKVRIGLVTDRKFPRPVNTAARLHCDFL
+CIGWRICTSAIVDDAHRRGMHVSTWTVNRIHDMVQLEAKGVDSIITDYPTSTRMFF
+>match$25_1_238
+MIVYGHRGAKGEAPENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTVDRTTGQEG
+NVANYTASELADMDARRNTTAWPRKAGIPTLEALLNEFPDFEHLQLEVKKDNRHRLNILC
+NRLTEIIQRRDLYKRVVITSSDSWFLQEARRRDRKVRIGLVTDRKFPRPVNTAARLHCDF
+LCIGWRICTSAIVDDAHRRGMHVSTWTVNRIHDMVQLEAKGVDSIITDYPTSTRMFFD
+>match$26_1_231
+MIVYGHRGAKGEAPENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTVDRTTGQEG
+NVANYTASELADMDARRNTTAWPRKAGIPTLEALLNEFPDFEHLQLEVKKDNRHRLNILC
+NRLTEIIQRRDLYKRVVITSSDSWFLQEARRRDRKVRIGLVTDRKFPRPVNTAARLHCDF
+LCIGWRICTSAIVDDAHRRGMHVSTWTVNRIHDMVQLEAKGVDSIITDYPT
+>match$27_250_266
+PQESAESTDSTRPAISS
+>match$28_247_266
+LPTPQESAESTDSTRPAISS
+>match$29_3_186
+NCIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDET
+SVRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAFP
+YLKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPPF
+VNTG
+>match$30_4_193
+CIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDETS
+VRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAFPY
+LKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPPFV
+NTGMVQQNEQ
+>match$31_4_253
+CIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDETS
+VRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAFPY
+LKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPPFV
+NTGMVQQNEQGSRLFERLGVNLTPDVVAAQVWAQVEQPRLHRPVSMQFRALWPIAKSAPT
+SLTRRVLRKL
+>match$32_131_181
+QVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPP
+>match$33_2_247
+NNCIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDE
+TSVRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAF
+PYLKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPP
+FVNTGMVQQNEQGSRLFERLGVNLTPDVVAAQVWAQVEQPRLHRPVSMQFRALWPIAKSA
+PTSLTR
+>match$34_77_88
+GRLRLLHNNAGI
+>match$34_130_138
+AQVVNMSSA
+>match$34_150_169
+YSASKHAVRAMTEALDIEWE
+>match$35_2_192
+NNCIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDE
+TSVRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAF
+PYLKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPP
+FVNTGMVQQNE
+>match$36_3_186
+NCIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDET
+SVRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAFP
+YLKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPPF
+VNTG
+>match$37_7_189
+ITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDETSVRQ
+GLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAFPYLKA
+TPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPPFVNTG
+MVQ
+>match$38_4_21
+CIFITGAAAGIGRETARL
+>match$38_77_88
+GRLRLLHNNAGI
+>match$38_124_140
+LKATPGAQVVNMSSASA
+>match$38_150_169
+YSASKHAVRAMTEALDIEWE
+>match$38_171_188
+HDIRVCDLMPPFVNTGMV
+>match$39_4_190
+CIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDETS
+VRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAFPY
+LKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPPFV
+NTGMVQQ
+>match$40_4_190
+CIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDETS
+VRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAFPY
+LKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPPFV
+NTGMVQQ
+>match$41_3_253
+NCIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDET
+SVRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAFP
+YLKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPPF
+VNTGMVQQNEQGSRLFERLGVNLTPDVVAAQVWAQVEQPRLHRPVSMQFRALWPIAKSAP
+TSLTRRVLRKL
+>match$42_2_236
+NNCIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDE
+TSVRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAF
+PYLKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPP
+FVNTGMVQQNEQGSRLFERLGVNLTPDVVAAQVWAQVEQPRLHRPVSMQFRALWP
+>match$43_2_192
+NNCIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDE
+TSVRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAF
+PYLKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPP
+FVNTGMVQQNE
+>match$44_21_174
+SPEDEDTLTNDAAASELLKDFTRQAPVIVRSSREIQEVKKTLDVSGETFCVVINRNDEVV
+GILTLKDLIGSWPMSLANQRGSTIADIVARDIMRPVWRLPTIELGKLQDLKIDELITIFK
+GLHSDYLLVMDTVAVGAEEQVICGLLSADELSRR
+>match$45_39_173
+KDFTRQAPVIVRSSREIQEVKKTLDVSGETFCVVINRNDEVVGILTLKDLIGSWPMSLAN
+QRGSTIADIVARDIMRPVWRLPTIELGKLQDLKIDELITIFKGLHSDYLLVMDTVAVGAE
+EQVICGLLSADELSR
+>match$46_39_89
+KDFTRQAPVIVRSSREIQEVKKTLDVSGETFCVVINRNDEVVGILTLKDLI
+>match$47_261_334
+PISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQFRRYISENAHKPGSG
+IEVIERAMAKVPEP
+>match$48_10_336
+PTLKPSRRFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTE
+YPLALQLGGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEG
+VQAMIAATSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKE
+NRDIPPLKYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLA
+GVDTEFFGQPMPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQFRRY
+ISENAHKPGSGIEVIERAMAKVPEPAE
+>match$49_14_334
+PSRRFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTEYPLA
+LQLGGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEGVQAM
+IAATSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKENRDI
+PPLKYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLAGVDT
+EFFGQPMPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQFRRYISEN
+AHKPGSGIEVIERAMAKVPEP
+>match$50_14_256
+PSRRFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTEYPLA
+LQLGGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEGVQAM
+IAATSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKENRDI
+PPLKYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLAGVDT
+EFF
+>match$51_15_305
+SRRFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTEYPLAL
+QLGGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEGVQAMI
+AATSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKENRDIP
+PLKYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLAGVDTE
+FFGQPMPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQ
+>match$52_16_332
+RRFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTEYPLALQ
+LGGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEGVQAMIA
+ATSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKENRDIPP
+LKYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLAGVDTEF
+FGQPMPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQFRRYISENAH
+KPGSGIEVIERAMAKVP
+>match$53_99_117
+VNLNVGCPSDRVQNNMIGA
+>match$54_17_331
+RFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTEYPLALQL
+GGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEGVQAMIAA
+TSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKENRDIPPL
+KYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLAGVDTEFF
+GQPMPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQFRRYISENAHK
+PGSGIEVIERAMAKV
+>match$55_17_256
+RFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTEYPLALQL
+GGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEGVQAMIAA
+TSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKENRDIPPL
+KYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLAGVDTEFF
+>match$56_20_323
+VAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTEYPLALQLGGG
+NPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEGVQAMIAATSL
+PVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKENRDIPPLKYD
+WVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLAGVDTEFFGQP
+MPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQFRRYISENAHKPGS
+GIEV
+>match$57_12_333
+LKPSRRFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTEYP
+LALQLGGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEGVQ
+AMIAATSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKENR
+DIPPLKYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLAGV
+DTEFFGQPMPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQFRRYIS
+ENAHKPGSGIEVIERAMAKVPE
+>match$58_7_338
+QETPTLKPSRRFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHD
+PTEYPLALQLGGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKV
+AEGVQAMIAATSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLS
+PKENRDIPPLKYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPW
+LLAGVDTEFFGQPMPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQF
+RRYISENAHKPGSGIEVIERAMAKVPEPAEAT
+>match$59_27_206
+VLLLAAGASRRMGRPKALLKFNDGTLMDHAVSQAKQLGANVTVVSGSGYPLVRYRCRNQP
+SAWCYTPDWVFGMAASLKSGLQTIGPRAKGVFVTLLDQPLVSESDLRSLAFCARQEVSEP
+FAADIYGNPGAPAYIPRRLWKEIMMLEGDRGAARILTRHQAKTLAIKGVESDVDTPEDWR
+>match$60_28_209
+LLLAAGASRRMGRPKALLKFNDGTLMDHAVSQAKQLGANVTVVSGSGYPLVRYRCRNQPS
+AWCYTPDWVFGMAASLKSGLQTIGPRAKGVFVTLLDQPLVSESDLRSLAFCARQEVSEPF
+AADIYGNPGAPAYIPRRLWKEIMMLEGDRGAARILTRHQAKTLAIKGVESDVDTPEDWRR
+IR
+>match$61_27_205
+VLLLAAGASRRMGRPKALLKFNDGTLMDHAVSQAKQLGANVTVVSGSGYPLVRYRCRNQP
+SAWCYTPDWVFGMAASLKSGLQTIGPRAKGVFVTLLDQPLVSESDLRSLAFCARQEVSEP
+FAADIYGNPGAPAYIPRRLWKEIMMLEGDRGAARILTRHQAKTLAIKGVESDVDTPEDW
+>match$62_24_210
+AFPVLLLAAGASRRMGRPKALLKFNDGTLMDHAVSQAKQLGANVTVVSGSGYPLVRYRCR
+NQPSAWCYTPDWVFGMAASLKSGLQTIGPRAKGVFVTLLDQPLVSESDLRSLAFCARQEV
+SEPFAADIYGNPGAPAYIPRRLWKEIMMLEGDRGAARILTRHQAKTLAIKGVESDVDTPE
+DWRRIRY
+>match$63_28_186
+LLLAAGASRRMGRPKALLKFNDGTLMDHAVSQAKQLGANVTVVSGSGYPLVRYRCRNQPS
+AWCYTPDWVFGMAASLKSGLQTIGPRAKGVFVTLLDQPLVSESDLRSLAFCARQEVSEPF
+AADIYGNPGAPAYIPRRLWKEIMMLEGDRGAARILTRHQ
+>match$64_152_304
+AVKLKPVFKAVVSNPLIIGSVVGMFWSYFQIGFHPLVAGILEPLSDLALPLGLMTVGAGL
+QLKALRGASMPFLVSSMAKLVGFPLLTAGLALLLGLEGMMVQVAILMAALPTATSSYILA
+RQLGGDAPLMAGIISGQTLLAMVTIPLLLGILW
+>match$65_4_303
+MIQALLPVFVLILLGYLFRRWHFPGGDFWPQAERFTYYVLFPAMLIFKLGQAQVPASAYG
+DILILIVAMLAAMTLLLIALQWLWRWPGPVFSSVFQGGIRFNSYVALATAGMLLGDDGLS
+LIAIAVAVKVPLLNLLCILMFSVVAGQGAVKLKPVFKAVVSNPLIIGSVVGMFWSYFQIG
+FHPLVAGILEPLSDLALPLGLMTVGAGLQLKALRGASMPFLVSSMAKLVGFPLLTAGLAL
+LLGLEGMMVQVAILMAALPTATSSYILARQLGGDAPLMAGIISGQTLLAMVTIPLLLGIL
+>match$66_4_299
+MIQALLPVFVLILLGYLFRRWHFPGGDFWPQAERFTYYVLFPAMLIFKLGQAQVPASAYG
+DILILIVAMLAAMTLLLIALQWLWRWPGPVFSSVFQGGIRFNSYVALATAGMLLGDDGLS
+LIAIAVAVKVPLLNLLCILMFSVVAGQGAVKLKPVFKAVVSNPLIIGSVVGMFWSYFQIG
+FHPLVAGILEPLSDLALPLGLMTVGAGLQLKALRGASMPFLVSSMAKLVGFPLLTAGLAL
+LLGLEGMMVQVAILMAALPTATSSYILARQLGGDAPLMAGIISGQTLLAMVTIPLL
+>match$67_724_744
+LDRFCERLAALHERIRNQSRQ
+>match$68_264_526
+EKRMFSPVRVDQSYAVSEGEETGHKTHIVMGWLLGHSFDLQENLEGQLLASVLLENSASP
+LMRALETTDIGHSPSPMCGLEDSNREMTFVCGIEGSDPERQDDLEALIEQTLAKVVEEGV
+SEDRLEAILHQLELHQREIAGDSFPYGLQLIMTAISPMVHGGDPVELLDLEPVLADMREK
+IRDPQYVPGLIRRKLLENPHRVTLTLRPDDKLESRRQAAIRDALARRKASLTDEEVRQII
+ERAQALEERQTRKDDDSILPKVD
+>match$69_62_144
+DSTGVAHILEHTALCGSERFPVRDPFFMMIRRSLNTFMNAFTSSDWTAYPFASMNRKDFD
+NLLTVYLDSVFFSSLDPLDFAQE
+>match$70_10_957
+HPAFEKLRSHRISTLNVTVEEYRHRKTGARHLHLAADNDENVFFVALRTFPMDSTGVAHI
+LEHTALCGSERFPVRDPFFMMIRRSLNTFMNAFTSSDWTAYPFASMNRKDFDNLLTVYLD
+SVFFSSLDPLDFAQEGHRLEFDTPDDPSTDLVYRGVVYNEMKGAMSAPTSQLWQNLSSHL
+FPTTTYHYNSGGEPDHIVDLSYDDLLRFYRHHYHPSNAIFATYGDIPAHEHHERFEELAL
+KRFDRLDVELPVRDEKRMFSPVRVDQSYAVSEGEETGHKTHIVMGWLLGHSFDLQENLEG
+QLLASVLLENSASPLMRALETTDIGHSPSPMCGLEDSNREMTFVCGIEGSDPERQDDLEA
+LIEQTLAKVVEEGVSEDRLEAILHQLELHQREIAGDSFPYGLQLIMTAISPMVHGGDPVE
+LLDLEPVLADMREKIRDPQYVPGLIRRKLLENPHRVTLTLRPDDKLESRRQAAIRDALAR
+RKASLTDEEVRQIIERAQALEERQTRKDDDSILPKVDLTDVPLQLPEPEARFAGDMPATI
+YARGTNGLVYEQVILPVPNLTEEELLLLPYYTTLIPEVGCGDLDYLQMQDRISAESGGIS
+ASFSAKGKIDDVQDLEGYIVFNGKALARNREALTRLLNDVFDGARFDEKERVRELIAQIR
+SRREQAVTGSGHALAMGAASQGISPGAWLSFRLGGLEAIRGVKALDKSLSEPAELDRFCE
+RLAALHERIRNQSRQFLLIGEEEQLDPMLTEMKTVWGDSGAGEQAAWKLEPVSYQARQAW
+LTSTQVNFCAKAYSTVAIDHPDAAALTVLGGFLRNGYLHRAIREKGGAYGGGAGQDSVNG
+TFRFFSYRDPRLGETLEDFDNALKWLQTEQHDPQELEESILGVIGQLDRPRSPAGAARHA
+FHNRLFGRTPEQRARFRERVLAVTLDDMKRVAREWLKPGSASVAVVTS
+>match$71_469_714
+LRPDDKLESRRQAAIRDALARRKASLTDEEVRQIIERAQALEERQTRKDDDSILPKVDLT
+DVPLQLPEPEARFAGDMPATIYARGTNGLVYEQVILPVPNLTEEELLLLPYYTTLIPEVG
+CGDLDYLQMQDRISAESGGISASFSAKGKIDDVQDLEGYIVFNGKALARNREALTRLLND
+VFDGARFDEKERVRELIAQIRSRREQAVTGSGHALAMGAASQGISPGAWLSFRLGGLEAI
+RGVKAL
+>match$72_526_772
+DLTDVPLQLPEPEARFAGDMPATIYARGTNGLVYEQVILPVPNLTEEELLLLPYYTTLIP
+EVGCGDLDYLQMQDRISAESGGISASFSAKGKIDDVQDLEGYIVFNGKALARNREALTRL
+LNDVFDGARFDEKERVRELIAQIRSRREQAVTGSGHALAMGAASQGISPGAWLSFRLGGL
+EAIRGVKALDKSLSEPAELDRFCERLAALHERIRNQSRQFLLIGEEEQLDPMLTEMKTVW
+GDSGAGE
+>match$73_14_247
+EKLRSHRISTLNVTVEEYRHRKTGARHLHLAADNDENVFFVALRTFPMDSTGVAHILEHT
+ALCGSERFPVRDPFFMMIRRSLNTFMNAFTSSDWTAYPFASMNRKDFDNLLTVYLDSVFF
+SSLDPLDFAQEGHRLEFDTPDDPSTDLVYRGVVYNEMKGAMSAPTSQLWQNLSSHLFPTT
+TYHYNSGGEPDHIVDLSYDDLLRFYRHHYHPSNAIFATYGDIPAHEHHERFEEL
+>match$74_501_942
+QIIERAQALEERQTRKDDDSILPKVDLTDVPLQLPEPEARFAGDMPATIYARGTNGLVYE
+QVILPVPNLTEEELLLLPYYTTLIPEVGCGDLDYLQMQDRISAESGGISASFSAKGKIDD
+VQDLEGYIVFNGKALARNREALTRLLNDVFDGARFDEKERVRELIAQIRSRREQAVTGSG
+HALAMGAASQGISPGAWLSFRLGGLEAIRGVKALDKSLSEPAELDRFCERLAALHERIRN
+QSRQFLLIGEEEQLDPMLTEMKTVWGDSGAGEQAAWKLEPVSYQARQAWLTSTQVNFCAK
+AYSTVAIDHPDAAALTVLGGFLRNGYLHRAIREKGGAYGGGAGQDSVNGTFRFFSYRDPR
+LGETLEDFDNALKWLQTEQHDPQELEESILGVIGQLDRPRSPAGAARHAFHNRLFGRTPE
+QRARFRERVLAVTLDDMKRVAR
+>match$75_533_781
+QLPEPEARFAGDMPATIYARGTNGLVYEQVILPVPNLTEEELLLLPYYTTLIPEVGCGDL
+DYLQMQDRISAESGGISASFSAKGKIDDVQDLEGYIVFNGKALARNREALTRLLNDVFDG
+ARFDEKERVRELIAQIRSRREQAVTGSGHALAMGAASQGISPGAWLSFRLGGLEAIRGVK
+ALDKSLSEPAELDRFCERLAALHERIRNQSRQFLLIGEEEQLDPMLTEMKTVWGDSGAGE
+QAAWKLEPV
+>match$76_469_714
+LRPDDKLESRRQAAIRDALARRKASLTDEEVRQIIERAQALEERQTRKDDDSILPKVDLT
+DVPLQLPEPEARFAGDMPATIYARGTNGLVYEQVILPVPNLTEEELLLLPYYTTLIPEVG
+CGDLDYLQMQDRISAESGGISASFSAKGKIDDVQDLEGYIVFNGKALARNREALTRLLND
+VFDGARFDEKERVRELIAQIRSRREQAVTGSGHALAMGAASQGISPGAWLSFRLGGLEAI
+RGVKAL
+>match$77_4_257
+VIENTVHPAFEKLRSHRISTLNVTVEEYRHRKTGARHLHLAADNDENVFFVALRTFPMDS
+TGVAHILEHTALCGSERFPVRDPFFMMIRRSLNTFMNAFTSSDWTAYPFASMNRKDFDNL
+LTVYLDSVFFSSLDPLDFAQEGHRLEFDTPDDPSTDLVYRGVVYNEMKGAMSAPTSQLWQ
+NLSSHLFPTTTYHYNSGGEPDHIVDLSYDDLLRFYRHHYHPSNAIFATYGDIPAHEHHER
+FEELALKRFDRLDV
+>match$78_208_395
+DLSYDDLLRFYRHHYHPSNAIFATYGDIPAHEHHERFEELALKRFDRLDVELPVRDEKRM
+FSPVRVDQSYAVSEGEETGHKTHIVMGWLLGHSFDLQENLEGQLLASVLLENSASPLMRA
+LETTDIGHSPSPMCGLEDSNREMTFVCGIEGSDPERQDDLEALIEQTLAKVVEEGVSEDR
+LEAILHQL
+>match$79_492_512
+ASLTDEEVRQIIERAQALEER
+>match$80_260_492
+PVRDEKRMFSPVRVDQSYAVSEGEETGHKTHIVMGWLLGHSFDLQENLEGQLLASVLLEN
+SASPLMRALETTDIGHSPSPMCGLEDSNREMTFVCGIEGSDPERQDDLEALIEQTLAKVV
+EEGVSEDRLEAILHQLELHQREIAGDSFPYGLQLIMTAISPMVHGGDPVELLDLEPVLAD
+MREKIRDPQYVPGLIRRKLLENPHRVTLTLRPDDKLESRRQAAIRDALARRKA
+>match$81_788_942
+AWLTSTQVNFCAKAYSTVAIDHPDAAALTVLGGFLRNGYLHRAIREKGGAYGGGAGQDSV
+NGTFRFFSYRDPRLGETLEDFDNALKWLQTEQHDPQELEESILGVIGQLDRPRSPAGAAR
+HAFHNRLFGRTPEQRARFRERVLAVTLDDMKRVAR
+>match$82_2_257
+AAVIENTVHPAFEKLRSHRISTLNVTVEEYRHRKTGARHLHLAADNDENVFFVALRTFPM
+DSTGVAHILEHTALCGSERFPVRDPFFMMIRRSLNTFMNAFTSSDWTAYPFASMNRKDFD
+NLLTVYLDSVFFSSLDPLDFAQEGHRLEFDTPDDPSTDLVYRGVVYNEMKGAMSAPTSQL
+WQNLSSHLFPTTTYHYNSGGEPDHIVDLSYDDLLRFYRHHYHPSNAIFATYGDIPAHEHH
+ERFEELALKRFDRLDV
+>match$83_788_964
+AWLTSTQVNFCAKAYSTVAIDHPDAAALTVLGGFLRNGYLHRAIREKGGAYGGGAGQDSV
+NGTFRFFSYRDPRLGETLEDFDNALKWLQTEQHDPQELEESILGVIGQLDRPRSPAGAAR
+HAFHNRLFGRTPEQRARFRERVLAVTLDDMKRVAREWLKPGSASVAVVTSFENRDTA
+>match$84_13_155
+SKRLRNGLLIALAVIVLLPLLLLGLLVLALRSETGTAWVIDQVPGLEVEQGQGSLLGQWQ
+AASLTWQGYGVGLKVESPVVDWSPTCLFNKQLCLERLLADSIDLTLQPSGEPKEDSGDIS
+LPSVDLPLGLVVRDVNLGPFTLN
+>match$85_924_1247
+NERGSGNIEGSLAWEAEPSVEVRLTGDRLPFNYEPYAQVELVPDITIAYEGGDLSVSGNL
+NVPRGTIEIRELPAQAVSVSEDEVVVGAEEKEGGLRTLNMDVTVVVGEDEVSFSGFGVTG
+NLEGTLRIGNNLDTRGALQLVEGRYEAYGQELDLRRARLVFVGPLSEPYLDIEAVRRVDN
+VVAGIRLSGPVSSPRTEVFSEPEMPQTDALSYVILGRAPQSRGDEGQMSRAAISLGLTQA
+NKVTQGIGEEFGIRNLTLEAEGSGDESAVVASGYLTDELSIRYGVGIFQPITTVALRYDI
+GRYFYLEAASGLAASLDIFYTRDF
+>match$86_332_470
+QFVERMRHWWFNEQALRDLVPHIKGRAEVFSDVSPMASFMFSGMLNLKPEDFGHNKLDES
+QVKRVLQFTLWKLEAQRHWSKENIFADVKALAKAMELKMGDFMFAIFVAVAGTPNSWSVM
+DSMAILGPDMTRSRLRHAL
+>match$87_1_327
+MTVRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNA
+LRWLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREER
+KAQGLNPGIKGNLELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVD
+SQILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLP
+LLRNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFD
+IQRVSLGGPVFDVEKLRWLNGQWIRDE
+>match$88_6_18
+RIAPSPTGDPHVG
+>match$88_20_31
+AFVALFNLCFAR
+>match$88_35_48
+GQFILRIEDTDQVR
+>match$88_191_201
+PTYHLANVVDD
+>match$88_207_215
+THVLRGEEW
+>match$89_3_306
+VRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNALR
+WLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREERKA
+QGLNPGIKGNLELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVDSQ
+ILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLPLL
+RNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFDIQ
+RVSL
+>match$90_2_325
+TVRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNAL
+RWLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREERK
+AQGLNPGIKGNLELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVDS
+QILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLPL
+LRNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFDI
+QRVSLGGPVFDVEKLRWLNGQWIR
+>match$91_370_493
+FMFSGMLNLKPEDFGHNKLDESQVKRVLQFTLWKLEAQRHWSKENIFADVKALAKAMELK
+MGDFMFAIFVAVAGTPNSWSVMDSMAILGPDMTRSRLRHALEVMGGFSKKETKRVEKEYA
+ALLT
+>match$92_9_20
+PSPTGDPHVGTA
+>match$93_3_318
+VRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNALR
+WLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREERKA
+QGLNPGIKGNLELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVDSQ
+ILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLPLL
+RNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFDIQ
+RVSLGGPVFDVEKLRW
+>match$94_1_327
+MTVRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNA
+LRWLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREER
+KAQGLNPGIKGNLELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVD
+SQILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLP
+LLRNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFD
+IQRVSLGGPVFDVEKLRWLNGQWIRDE
+>match$95_2_467
+TVRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNAL
+RWLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREERK
+AQGLNPGIKGNLELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVDS
+QILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLPL
+LRNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFDI
+QRVSLGGPVFDVEKLRWLNGQWIRDELSDDQFVERMRHWWFNEQALRDLVPHIKGRAEVF
+SDVSPMASFMFSGMLNLKPEDFGHNKLDESQVKRVLQFTLWKLEAQRHWSKENIFADVKA
+LAKAMELKMGDFMFAIFVAVAGTPNSWSVMDSMAILGPDMTRSRLR
+>match$96_2_472
+TVRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNAL
+RWLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREERK
+AQGLNPGIKGNLELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVDS
+QILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLPL
+LRNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFDI
+QRVSLGGPVFDVEKLRWLNGQWIRDELSDDQFVERMRHWWFNEQALRDLVPHIKGRAEVF
+SDVSPMASFMFSGMLNLKPEDFGHNKLDESQVKRVLQFTLWKLEAQRHWSKENIFADVKA
+LAKAMELKMGDFMFAIFVAVAGTPNSWSVMDSMAILGPDMTRSRLRHALEV
+>match$97_312_471
+DVEKLRWLNGQWIRDELSDDQFVERMRHWWFNEQALRDLVPHIKGRAEVFSDVSPMASFM
+FSGMLNLKPEDFGHNKLDESQVKRVLQFTLWKLEAQRHWSKENIFADVKALAKAMELKMG
+DFMFAIFVAVAGTPNSWSVMDSMAILGPDMTRSRLRHALE
+>match$98_2_470
+TVRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNAL
+RWLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREERK
+AQGLNPGIKGNLELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVDS
+QILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLPL
+LRNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFDI
+QRVSLGGPVFDVEKLRWLNGQWIRDELSDDQFVERMRHWWFNEQALRDLVPHIKGRAEVF
+SDVSPMASFMFSGMLNLKPEDFGHNKLDESQVKRVLQFTLWKLEAQRHWSKENIFADVKA
+LAKAMELKMGDFMFAIFVAVAGTPNSWSVMDSMAILGPDMTRSRLRHAL
+>match$99_115_157
+VQLDNNHGDHDEHEHHNHHDDHEESGGHDDHHHDHGSGEDPHI
+>match$100_29_317
+VVTSLKPIELLVKAIATDDVEITTLVQPGASPHNYSMKPSQRRALEAADAIFWVGPEMET
+FLTRLLGGSEFRDRTYSLMHGENVPEVQLDNNHGDHDEHEHHNHHDDHEESGGHDDHHHD
+HGSGEDPHIWLDPALAVEMARDIHRVLATLKSADTHVLDANLARFERAMAETETAINQRL
+DTARDIDLFTYHDAFTRFVGHYNMNLEGILTLNPELSPGAGHIAEVQEKLRNANQPCLLT
+EPQFNRQWWRSITEGLDITFSTWDPLATDIETDQDGYITFQQSLADAVL
+>match$101_27_320
+TQVVTSLKPIELLVKAIATDDVEITTLVQPGASPHNYSMKPSQRRALEAADAIFWVGPEM
+ETFLTRLLGGSEFRDRTYSLMHGENVPEVQLDNNHGDHDEHEHHNHHDDHEESGGHDDHH
+HDHGSGEDPHIWLDPALAVEMARDIHRVLATLKSADTHVLDANLARFERAMAETETAINQ
+RLDTARDIDLFTYHDAFTRFVGHYNMNLEGILTLNPELSPGAGHIAEVQEKLRNANQPCL
+LTEPQFNRQWWRSITEGLDITFSTWDPLATDIETDQDGYITFQQSLADAVLKCL
+>match$102_212_321
+RDIDLFTYHDAFTRFVGHYNMNLEGILTLNPELSPGAGHIAEVQEKLRNANQPCLLTEPQ
+FNRQWWRSITEGLDITFSTWDPLATDIETDQDGYITFQQSLADAVLKCLP
+>match$103_120_157
+NHGDHDEHEHHNHHDDHEESGGHDDHHHDHGSGEDPHI
+>match$104_28_209
+QVVTSLKPIELLVKAIATDDVEITTLVQPGASPHNYSMKPSQRRALEAADAIFWVGPEME
+TFLTRLLGGSEFRDRTYSLMHGENVPEVQLDNNHGDHDEHEHHNHHDDHEESGGHDDHHH
+DHGSGEDPHIWLDPALAVEMARDIHRVLATLKSADTHVLDANLARFERAMAETETAINQR
+LD
+>match$105_11_321
+ALGAATLLASTSTLASTQVVTSLKPIELLVKAIATDDVEITTLVQPGASPHNYSMKPSQR
+RALEAADAIFWVGPEMETFLTRLLGGSEFRDRTYSLMHGENVPEVQLDNNHGDHDEHEHH
+NHHDDHEESGGHDDHHHDHGSGEDPHIWLDPALAVEMARDIHRVLATLKSADTHVLDANL
+ARFERAMAETETAINQRLDTARDIDLFTYHDAFTRFVGHYNMNLEGILTLNPELSPGAGH
+IAEVQEKLRNANQPCLLTEPQFNRQWWRSITEGLDITFSTWDPLATDIETDQDGYITFQQ
+SLADAVLKCLP
+>match$106_1_316
+MTSKLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAAR
+KHGGSDAEQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYD
+HLGMDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVG
+RILDWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCD
+RLTISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGI
+RRFTNDQIELENRVRR
+>match$107_300_320
+IRRFTNDQIELENRVRRLSQA
+>match$108_129_146
+VLIKIASTWEGIRAAEQL
+>match$109_2_318
+TSKLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAARK
+HGGSDAEQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYDH
+LGMDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVGR
+ILDWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCDR
+LTISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGIR
+RFTNDQIELENRVRRLS
+>match$110_31_39
+DATTNPSLL
+>match$111_1_320
+MTSKLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAAR
+KHGGSDAEQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYD
+HLGMDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVG
+RILDWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCD
+RLTISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGI
+RRFTNDQIELENRVRRLSQA
+>match$112_3_312
+SKLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAARKH
+GGSDAEQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYDHL
+GMDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVGRI
+LDWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCDRL
+TISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGIRR
+FTNDQIELEN
+>match$113_14_312
+VVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAARKHGGSDAEQLTYA
+TDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYDHLGMDTSRVLIKI
+ASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVGRILDWHLAATGRD
+AFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCDRLTISPALLQELE
+NDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGIRRFTNDQIELEN
+>match$114_3_314
+SKLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAARKH
+GGSDAEQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYDHL
+GMDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVGRI
+LDWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCDRL
+TISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGIRR
+FTNDQIELENRV
+>match$115_1_318
+MTSKLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAAR
+KHGGSDAEQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYD
+HLGMDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVG
+RILDWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCD
+RLTISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGI
+RRFTNDQIELENRVRRLS
+>match$116_4_314
+KLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAARKHG
+GSDAEQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYDHLG
+MDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVGRIL
+DWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCDRLT
+ISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGIRRF
+TNDQIELENRV
+>match$117_2_314
+TSKLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAARK
+HGGSDAEQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYDH
+LGMDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVGR
+ILDWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCDR
+LTISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGIR
+RFTNDQIELENRV
+>match$118_149_213
+GLLILRSNVVGDNVTINGKNHGATRLDLELEPGKYDITIRKEGYKPWQQTVAIAAGNEKT
+LVGKL
+>match$119_223_344
+DGTWVGGIKTGDGTYEDADGLRYEGHFVDGEFDGKGTAWLPDGSRYEGDWEKGQRHGEGT
+WRDADDTRYTGQFRNDQFDGQGTLTMANGDILTGQWSGGRLNGHGSLTTSDGMLYVGGFK
+DD
+>match$120_59_72
+QRSDELYQPNSRED
+>match$121_224_334
+GTWVGGIKTGDGTYEDADGLRYEGHFVDGEFDGKGTAWLPDGSRYEGDWEKGQRHGEGTW
+RDADDTRYTGQFRNDQFDGQGTLTMANGDILTGQWSGGRLNGHGSLTTSDG
+>match$122_35_72
+KPVATAPDTEETIARASMDTPVDAQRSDELYQPNSRED
+>match$123_88_119
+AASGEKPVNGSETASDANRINAEPFSVPDLPE
+>match$124_223_244
+DGTWVGGIKTGDGTYEDADGLR
+>match$124_245_267
+YEGHFVDGEFDGKGTAWLPDGSR
+>match$124_268_289
+YEGDWEKGQRHGEGTWRDADDT
+>match$124_291_312
+YTGQFRNDQFDGQGTLTMANGD
+>match$124_316_334
+GQWSGGRLNGHGSLTTSDG
+>match$124_337_357
+YVGGFKDDEFHGEGTLTYPDG
+>match$124_360_380
+YEGEFSNGEFHGNGKEVFADG
+>match$124_383_404
+YEGQYIEGSFHGKGLLLNPNGS
+>match$125_332_429
+SDGMLYVGGFKDDEFHGEGTLTYPDGRHYEGEFSNGEFHGNGKEVFADGKKYEGQYIEGS
+FHGKGLLLNPNGSSIEATFRYGEPYGQVRLTTAAGEVF
+>match$126_224_273
+GTWVGGIKTGDGTYEDADGLRYEGHFVDGEFDGKGTAWLPDGSRYEGDWE
+>match$126_274_320
+KGQRHGEGTWRDADDTRYTGQFRNDQFDGQGTLTMANGDILTGQWSG
+>match$126_321_365
+GRLNGHGSLTTSDGMLYVGGFKDDEFHGEGTLTYPDGRHYEGEFS
+>match$126_366_434
+NGEFHGNGKEVFADGKKYEGQYIEGSFHGKGLLLNPNGSSIEATFRYGEPYGQVRLTTAA
+GEVFTARTK
+>match$127_223_241
+DGTWVGGIKTGDGTYEDAD
+>match$127_243_264
+LRYEGHFVDGEFDGKGTAWLPD
+>match$127_266_287
+SRYEGDWEKGQRHGEGTWRDAD
+>match$127_289_310
+TRYTGQFRNDQFDGQGTLTMAN
+>match$127_312_333
+DILTGQWSGGRLNGHGSLTTSD
+>match$127_335_356
+MLYVGGFKDDEFHGEGTLTYPD
+>match$127_358_379
+RHYEGEFSNGEFHGNGKEVFAD
+>match$127_381_402
+KKYEGQYIEGSFHGKGLLLNPN
+>match$128_18_360
+QTMHFLENLPGVSVRVHEVQGAKQRLTEVYLLGDTKSLDKDEIEALPAVERAIRISDDYR
+ILGRHKDDKRQSGFTYNGVTFDQSNLNIFAGLCAVDVPEHVEQMMQALEDNGQVCTRMGA
+YKPRTNPYSFQGHGKGCLPWVFEKAGKHGIKVIAMEITHESHIEEIDHCLEQLGRPTGVM
+LQVGTRNTQNFELLKAIGRQSTYPVLLKRGFGITLNESLNAAEYLASEGNANVIFCLRGM
+KTEAGQPHRNMVDFAHVPAVKRLTRMPVCVDPSHSVGSRERAPDGVLDVMHATAQGVIAG
+ANMVLVDFHPKPEKALVDGPQALLMRELPAYLEDIQLCHDTWK
+>match$129_16_360
+YRQTMHFLENLPGVSVRVHEVQGAKQRLTEVYLLGDTKSLDKDEIEALPAVERAIRISDD
+YRILGRHKDDKRQSGFTYNGVTFDQSNLNIFAGLCAVDVPEHVEQMMQALEDNGQVCTRM
+GAYKPRTNPYSFQGHGKGCLPWVFEKAGKHGIKVIAMEITHESHIEEIDHCLEQLGRPTG
+VMLQVGTRNTQNFELLKAIGRQSTYPVLLKRGFGITLNESLNAAEYLASEGNANVIFCLR
+GMKTEAGQPHRNMVDFAHVPAVKRLTRMPVCVDPSHSVGSRERAPDGVLDVMHATAQGVI
+AGANMVLVDFHPKPEKALVDGPQALLMRELPAYLEDIQLCHDTWK
+>match$130_101_349
+SNLNIFAGLCAVDVPEHVEQMMQALEDNGQVCTRMGAYKPRTNPYSFQGHGKGCLPWVFE
+KAGKHGIKVIAMEITHESHIEEIDHCLEQLGRPTGVMLQVGTRNTQNFELLKAIGRQSTY
+PVLLKRGFGITLNESLNAAEYLASEGNANVIFCLRGMKTEAGQPHRNMVDFAHVPAVKRL
+TRMPVCVDPSHSVGSRERAPDGVLDVMHATAQGVIAGANMVLVDFHPKPEKALVDGPQAL
+LMRELPAYL
+>match$131_1_82
+MLAILHPDTALDSEAYRQTMHFLENLPGVSVRVHEVQGAKQRLTEVYLLGDTKSLDKDEI
+EALPAVERAIRISDDYRILGRH
+>match$132_83_356
+KDDKRQSGFTYNGVTFDQSNLNIFAGLCAVDVPEHVEQMMQALEDNGQVCTRMGAYKPRT
+NPYSFQGHGKGCLPWVFEKAGKHGIKVIAMEITHESHIEEIDHCLEQLGRPTGVMLQVGT
+RNTQNFELLKAIGRQSTYPVLLKRGFGITLNESLNAAEYLASEGNANVIFCLRGMKTEAG
+QPHRNMVDFAHVPAVKRLTRMPVCVDPSHSVGSRERAPDGVLDVMHATAQGVIAGANMVL
+VDFHPKPEKALVDGPQALLMRELPAYLEDIQLCH
+>match$133_5_122
+NALLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPGMNGV
+EATKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGLSLVLDQLD
+>match$134_7_108
+LLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPGMNGVEA
+TKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKP
+>match$135_2_127
+AIKNALLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPGM
+NGVEATKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGLSLVLDQL
+DSDVTE
+>match$136_6_120
+ALLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPGMNGVE
+ATKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGLSLVLDQ
+>match$137_6_122
+ALLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPGMNGVE
+ATKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGLSLVLDQLD
+>match$138_5_121
+NALLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPGMNGV
+EATKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGLSLVLDQL
+>match$139_155_174
+SLEMSPKADDGLHASDNSGP
+>match$140_134_148
+PELDAEPNELDDDIL
+>match$141_7_114
+LLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPGMNGVEA
+TKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGL
+>match$142_7_121
+LLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPGMNGVEA
+TKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGLSLVLDQL
+>match$143_124_148
+DVTEGNLPEPPELDAEPNELDDDIL
+>match$144_4_118
+KNALLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPGMNG
+VEATKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGLSLVL

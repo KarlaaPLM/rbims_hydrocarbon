@@ -1,0 +1,157 @@
+5mSIPHEX1_25-scaffold_1048_c1_4	31b69b19dc5c58c26874667f31efdb76	386	Gene3D	G3DSA:1.10.540.10	-	1	122	4.0E-27	T	08-04-2025	IPR037069	Acyl-CoA dehydrogenase/oxidase, N-terminal domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_4	31b69b19dc5c58c26874667f31efdb76	386	SUPERFAMILY	SSF56645	Acyl-CoA dehydrogenase NM domain-like	2	244	1.83E-75	T	08-04-2025	IPR009100	Acyl-CoA dehydrogenase/oxidase, N-terminal and middle domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_4	31b69b19dc5c58c26874667f31efdb76	386	PANTHER	PTHR43292	ACYL-COA DEHYDROGENASE	1	386	7.0E-123	T	08-04-2025	IPR052161	Mycobacterial Acyl-CoA Dehydrogenase	-	-
+5mSIPHEX1_25-scaffold_1048_c1_4	31b69b19dc5c58c26874667f31efdb76	386	Pfam	PF02770	Acyl-CoA dehydrogenase, middle domain	125	219	2.4E-18	T	08-04-2025	IPR006091	Acyl-CoA oxidase/dehydrogenase, middle domain	-	-
+5mSIPHEX1_25-scaffold_1048_c1_4	31b69b19dc5c58c26874667f31efdb76	386	Gene3D	G3DSA:1.20.140.10	-	235	386	2.6E-30	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_4	31b69b19dc5c58c26874667f31efdb76	386	SUPERFAMILY	SSF47203	Acyl-CoA dehydrogenase C-terminal domain-like	231	386	3.06E-21	T	08-04-2025	IPR036250	Acyl-CoA dehydrogenase-like, C-terminal	-	-
+5mSIPHEX1_25-scaffold_1048_c1_4	31b69b19dc5c58c26874667f31efdb76	386	Pfam	PF02771	Acyl-CoA dehydrogenase, N-terminal domain	6	121	6.6E-15	T	08-04-2025	IPR013786	Acyl-CoA dehydrogenase/oxidase, N-terminal	-	-
+5mSIPHEX1_25-scaffold_1048_c1_4	31b69b19dc5c58c26874667f31efdb76	386	Pfam	PF00441	Acyl-CoA dehydrogenase, C-terminal domain	231	383	3.8E-14	T	08-04-2025	IPR009075	Acyl-CoA dehydrogenase/oxidase, C-terminal	-	-
+5mSIPHEX1_25-scaffold_1048_c1_4	31b69b19dc5c58c26874667f31efdb76	386	FunFam	G3DSA:2.40.110.10:FF:000011	Acyl-CoA dehydrogenase FadE34	125	235	2.2E-38	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_4	31b69b19dc5c58c26874667f31efdb76	386	Gene3D	G3DSA:2.40.110.10	-	125	234	9.6E-34	T	08-04-2025	IPR046373	Acyl-CoA oxidase/dehydrogenase, middle domain superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	PANTHER	PTHR42781	SPERMIDINE/PUTRESCINE IMPORT ATP-BINDING PROTEIN POTA	1	346	1.8E-96	T	08-04-2025	IPR050093	ABC Transporter, Small Molecule Importer	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	ProSitePatterns	PS00211	ABC transporters family signature.	138	152	-	T	08-04-2025	IPR017871	ABC transporter-like, conserved site	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	ProSiteProfiles	PS50893	ATP-binding cassette, ABC transporter-type domain profile.	6	238	27.457733	T	08-04-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	Pfam	PF08402	TOBE domain	277	346	5.6E-5	T	08-04-2025	IPR013611	Transport-associated OB, type 2	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	Gene3D	G3DSA:3.40.50.300	-	1	221	6.8E-66	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	Gene3D	G3DSA:2.40.50.100	-	222	307	2.6E-7	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	SUPERFAMILY	SSF50331	MOP-like	243	346	4.25E-11	T	08-04-2025	IPR008995	Molybdate/tungstate binding, C-terminal	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	SMART	SM00382	AAA_5	30	215	2.8E-17	T	08-04-2025	IPR003593	AAA+ ATPase domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	Pfam	PF00005	ABC transporter	21	166	1.3E-34	T	08-04-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	6	247	1.65E-80	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	CDD	cd03259	ABC_Carb_Solutes_like	6	220	6.61811E-95	T	08-04-2025	IPR015853	ABC transporter, ferric cation import, FbpC	-	-
+5mSIPHEX1_25-scaffold_115_c1_10	bf7f420defedd9ae26dda47068f69810	349	FunFam	G3DSA:3.40.50.300:FF:000425	Probable ABC transporter, ATP-binding subunit	4	242	2.4E-91	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	Gene3D	G3DSA:3.10.129.10	Hotdog Thioesterase	1	112	2.6E-22	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	SUPERFAMILY	SSF54637	Thioesterase/thiol ester dehydrase-isomerase	154	274	2.06E-17	T	08-04-2025	IPR029069	HotDog domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	SUPERFAMILY	SSF54637	Thioesterase/thiol ester dehydrase-isomerase	2	110	2.24E-19	T	08-04-2025	IPR029069	HotDog domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	CDD	cd03443	PaaI_thioesterase	172	275	2.38054E-15	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	MobiDBLite	mobidb-lite	consensus disorder prediction	120	145	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	MobiDBLite	mobidb-lite	consensus disorder prediction	120	136	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	CDD	cd03443	PaaI_thioesterase	1	110	3.28169E-18	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	Pfam	PF03061	Thioesterase superfamily	24	97	0.0015	T	08-04-2025	IPR006683	Thioesterase domain	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	Pfam	PF03061	Thioesterase superfamily	193	266	1.1E-7	T	08-04-2025	IPR006683	Thioesterase domain	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	Gene3D	G3DSA:3.10.129.10	Hotdog Thioesterase	144	277	9.4E-24	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	PANTHER	PTHR21660	THIOESTERASE SUPERFAMILY MEMBER-RELATED	4	108	3.6E-16	T	08-04-2025	IPR039298	Acyl-coenzyme A thioesterase 13	-	-
+5mSIPHEX1_25-scaffold_1048_c1_6	36124f4aba9c6f4e83f41c79e78b7cb1	280	NCBIfam	TIGR00369	hotdog fold thioesterase	162	265	4.6E-8	T	08-04-2025	IPR003736	Phenylacetic acid degradation-related domain	-	-
+5mSIPHEX1_25-scaffold_1048_c1_8	3832fd58d731d0eacab8ed951377b963	316	PIRSF	PIRSF007580	UCP07580	27	298	6.4E-78	T	08-04-2025	IPR016516	Uncharacterised conserved protein UCP07580	-	-
+5mSIPHEX1_25-scaffold_1048_c1_8	3832fd58d731d0eacab8ed951377b963	316	PANTHER	PTHR39456	METAL-DEPENDENT HYDROLASE	30	291	6.2E-65	T	08-04-2025	IPR016516	Uncharacterised conserved protein UCP07580	-	-
+5mSIPHEX1_25-scaffold_1048_c1_8	3832fd58d731d0eacab8ed951377b963	316	Pfam	PF10118	Predicted metal-dependent hydrolase	34	280	3.2E-83	T	08-04-2025	IPR016516	Uncharacterised conserved protein UCP07580	-	-
+5mSIPHEX1_25-scaffold_1048_c1_11	437c94c1ae8fc154ada675c421c47663	41	Pfam	PF13333	Integrase core domain	2	33	1.7E-4	T	08-04-2025	IPR001584	Integrase, catalytic core	-	-
+5mSIPHEX1_25-scaffold_1048_c1_11	437c94c1ae8fc154ada675c421c47663	41	MobiDBLite	mobidb-lite	consensus disorder prediction	20	41	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_11	437c94c1ae8fc154ada675c421c47663	41	MobiDBLite	mobidb-lite	consensus disorder prediction	29	41	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_5	8f46de539ad41c9271ad62bc587697bd	516	NCBIfam	NF004837	long-chain-fatty-acid--CoA ligase	2	513	4.9E-156	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_5	8f46de539ad41c9271ad62bc587697bd	516	SUPERFAMILY	SSF56801	Acetyl-CoA synthetase-like	3	509	3.66E-147	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_5	8f46de539ad41c9271ad62bc587697bd	516	Gene3D	G3DSA:3.30.300.30	-	407	509	1.0E-26	T	08-04-2025	IPR045851	AMP-binding enzyme, C-terminal domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_5	8f46de539ad41c9271ad62bc587697bd	516	ProSitePatterns	PS00455	Putative AMP-binding domain signature.	163	174	-	T	08-04-2025	IPR020845	AMP-binding, conserved site	-	-
+5mSIPHEX1_25-scaffold_1048_c1_5	8f46de539ad41c9271ad62bc587697bd	516	Gene3D	G3DSA:3.40.50.12780	-	1	406	6.1E-111	T	08-04-2025	IPR042099	ANL, N-terminal domain	-	-
+5mSIPHEX1_25-scaffold_1048_c1_5	8f46de539ad41c9271ad62bc587697bd	516	PANTHER	PTHR43767	LONG-CHAIN-FATTY-ACID--COA LIGASE	2	504	1.6E-116	T	08-04-2025	IPR050237	ATP-dependent AMP-binding enzyme	-	-
+5mSIPHEX1_25-scaffold_1048_c1_5	8f46de539ad41c9271ad62bc587697bd	516	Pfam	PF13193	AMP-binding enzyme C-terminal domain	421	497	4.0E-16	T	08-04-2025	IPR025110	AMP-binding enzyme, C-terminal domain	-	-
+5mSIPHEX1_25-scaffold_1048_c1_5	8f46de539ad41c9271ad62bc587697bd	516	FunFam	G3DSA:3.30.300.30:FF:000008	2,3-dihydroxybenzoate-AMP ligase	407	511	3.1E-31	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_5	8f46de539ad41c9271ad62bc587697bd	516	CDD	cd17631	FACL_FadD13-like	7	500	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_5	8f46de539ad41c9271ad62bc587697bd	516	Pfam	PF00501	AMP-binding enzyme	8	371	4.2E-82	T	08-04-2025	IPR000873	AMP-dependent synthetase/ligase domain	-	-
+5mSIPHEX1_25-scaffold_1048_c1_3	0ea5f6492286a8425e428a7c9cbdb72a	371	Gene3D	G3DSA:1.20.140.10	-	230	364	1.2E-26	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_3	0ea5f6492286a8425e428a7c9cbdb72a	371	Pfam	PF00441	Acyl-CoA dehydrogenase, C-terminal domain	232	357	5.3E-18	T	08-04-2025	IPR009075	Acyl-CoA dehydrogenase/oxidase, C-terminal	-	-
+5mSIPHEX1_25-scaffold_1048_c1_3	0ea5f6492286a8425e428a7c9cbdb72a	371	Gene3D	G3DSA:1.10.540.10	-	1	118	6.0E-16	T	08-04-2025	IPR037069	Acyl-CoA dehydrogenase/oxidase, N-terminal domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_3	0ea5f6492286a8425e428a7c9cbdb72a	371	SUPERFAMILY	SSF47203	Acyl-CoA dehydrogenase C-terminal domain-like	222	360	5.48E-28	T	08-04-2025	IPR036250	Acyl-CoA dehydrogenase-like, C-terminal	-	-
+5mSIPHEX1_25-scaffold_1048_c1_3	0ea5f6492286a8425e428a7c9cbdb72a	371	Pfam	PF02771	Acyl-CoA dehydrogenase, N-terminal domain	7	82	5.8E-7	T	08-04-2025	IPR013786	Acyl-CoA dehydrogenase/oxidase, N-terminal	-	-
+5mSIPHEX1_25-scaffold_1048_c1_3	0ea5f6492286a8425e428a7c9cbdb72a	371	PANTHER	PTHR43884	ACYL-COA DEHYDROGENASE	2	355	3.7E-37	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_3	0ea5f6492286a8425e428a7c9cbdb72a	371	CDD	cd00567	ACAD	97	362	7.37775E-35	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_3	0ea5f6492286a8425e428a7c9cbdb72a	371	SUPERFAMILY	SSF56645	Acyl-CoA dehydrogenase NM domain-like	1	210	6.68E-28	T	08-04-2025	IPR009100	Acyl-CoA dehydrogenase/oxidase, N-terminal and middle domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_3	0ea5f6492286a8425e428a7c9cbdb72a	371	Gene3D	G3DSA:2.40.110.10	-	132	223	1.7E-7	T	08-04-2025	IPR046373	Acyl-CoA oxidase/dehydrogenase, middle domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_10	4b274f96f8223246900188e2971dbdf1	176	Pfam	PF04239	YetF C-terminal domain	90	159	3.8E-7	T	08-04-2025	IPR007353	YetF, C-terminal domain	-	-
+5mSIPHEX1_25-scaffold_1048_c1_10	4b274f96f8223246900188e2971dbdf1	176	PANTHER	PTHR34582	UPF0702 TRANSMEMBRANE PROTEIN YCAP	9	158	6.5E-28	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_10	4b274f96f8223246900188e2971dbdf1	176	Pfam	PF20730	YetF N-terminal transmembrane domain	24	84	3.3E-6	T	08-04-2025	IPR048454	YetF-like, N-terminal transmembrane domain	-	-
+5mSIPHEX1_25-scaffold_1048_c1_10	4b274f96f8223246900188e2971dbdf1	176	Gene3D	G3DSA:3.30.240.20	bsu07140 like domains	88	160	1.2E-15	T	08-04-2025	IPR023090	UPF0702, alpha/beta domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_7	8249080ce817110b702a787cfd2487cf	326	Pfam	PF16169	Domain of unknown function (DUF4872)	157	322	2.3E-36	T	08-04-2025	IPR032369	Domain of unknown function DUF4872	-	-
+5mSIPHEX1_25-scaffold_1048_c1_7	8249080ce817110b702a787cfd2487cf	326	Pfam	PF14399	Butirosin biosynthesis protein H, N-terminal	16	145	2.5E-36	T	08-04-2025	IPR026935	Butirosin biosynthesis protein H, N-terminal	-	-
+5mSIPHEX1_25-scaffold_115_c1_102	725ceaa1020a899847309b973ef535a3	247	Pfam	PF13098	Thioredoxin-like domain	122	246	4.3E-18	T	08-04-2025	IPR012336	Thioredoxin-like fold	-	-
+5mSIPHEX1_25-scaffold_115_c1_102	725ceaa1020a899847309b973ef535a3	247	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	16	6.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_102	725ceaa1020a899847309b973ef535a3	247	SUPERFAMILY	SSF52833	Thioredoxin-like	102	247	6.26E-37	T	08-04-2025	IPR036249	Thioredoxin-like superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_102	725ceaa1020a899847309b973ef535a3	247	CDD	cd03020	DsbA_DsbC_DsbG	45	246	5.19315E-69	T	08-04-2025	IPR033954	Disulphide bond isomerase, DsbC/G	-	-
+5mSIPHEX1_25-scaffold_115_c1_102	725ceaa1020a899847309b973ef535a3	247	Pfam	PF10411	Disulfide bond isomerase protein N-terminal domain	32	90	1.0E-12	T	08-04-2025	IPR018950	Disulphide bond isomerase, DsbC/G, N-terminal	-	-
+5mSIPHEX1_25-scaffold_115_c1_102	725ceaa1020a899847309b973ef535a3	247	Gene3D	G3DSA:3.40.30.10	Glutaredoxin	90	247	2.2E-43	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_102	725ceaa1020a899847309b973ef535a3	247	SUPERFAMILY	SSF54423	DsbC/DsbG N-terminal domain-like	42	90	4.97E-9	T	08-04-2025	IPR009094	Disulphide bond isomerase DsbC/G, N-terminal domain superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_102	725ceaa1020a899847309b973ef535a3	247	PANTHER	PTHR35272	THIOL:DISULFIDE INTERCHANGE PROTEIN DSBC-RELATED	1	246	3.1E-59	T	08-04-2025	IPR051470	Thiol:disulfide interchange protein	-	-
+5mSIPHEX1_25-scaffold_115_c1_102	725ceaa1020a899847309b973ef535a3	247	Gene3D	G3DSA:3.10.450.70	-	30	89	7.6E-14	T	08-04-2025	IPR009094	Disulphide bond isomerase DsbC/G, N-terminal domain superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_103	d41ac3c3d5ea34081e214d2f1fa80a49	396	PANTHER	PTHR42832	AMINO ACID AMINOTRANSFERASE	4	391	0.0	T	08-04-2025	IPR050881	LL-diaminopimelate aminotransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_103	d41ac3c3d5ea34081e214d2f1fa80a49	396	Pfam	PF00155	Aminotransferase class I and II	32	372	7.4E-62	T	08-04-2025	IPR004839	Aminotransferase, class I/classII, large domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_103	d41ac3c3d5ea34081e214d2f1fa80a49	396	ProSitePatterns	PS00105	Aminotransferases class-I pyridoxal-phosphate attachment site.	236	249	-	T	08-04-2025	IPR004838	Aminotransferases, class-I, pyridoxal-phosphate-binding site	-	-
+5mSIPHEX1_25-scaffold_115_c1_103	d41ac3c3d5ea34081e214d2f1fa80a49	396	CDD	cd00609	AAT_like	34	387	1.4261E-112	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_103	d41ac3c3d5ea34081e214d2f1fa80a49	396	NCBIfam	NF006033	alanine transaminase	2	395	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_103	d41ac3c3d5ea34081e214d2f1fa80a49	396	SUPERFAMILY	SSF53383	PLP-dependent transferases	2	390	5.85E-109	T	08-04-2025	IPR015424	Pyridoxal phosphate-dependent transferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_103	d41ac3c3d5ea34081e214d2f1fa80a49	396	Gene3D	G3DSA:3.40.640.10	-	45	285	0.0	T	08-04-2025	IPR015421	Pyridoxal phosphate-dependent transferase, major domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_103	d41ac3c3d5ea34081e214d2f1fa80a49	396	Gene3D	G3DSA:3.90.1150.10	Aspartate Aminotransferase, domain 1	11	374	0.0	T	08-04-2025	IPR015422	Pyridoxal phosphate-dependent transferase, small domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	SUPERFAMILY	SSF53671	Aspartate/ornithine carbamoyltransferase	2	299	1.06E-105	T	08-04-2025	IPR036901	Aspartate/ornithine carbamoyltransferase superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	NCBIfam	NF001986	ornithine carbamoyltransferase	2	299	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	ProSitePatterns	PS00097	Aspartate and ornithine carbamoyltransferases signature.	48	55	-	T	08-04-2025	IPR006130	Aspartate/ornithine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	Pfam	PF00185	Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain	149	296	8.8E-49	T	08-04-2025	IPR006131	Aspartate/ornithine carbamoyltransferase, Asp/Orn-binding domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	NCBIfam	TIGR00658	ornithine carbamoyltransferase	3	298	2.5E-114	T	08-04-2025	IPR002292	Ornithine/putrescine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	Gene3D	G3DSA:3.40.50.1370	Aspartate/ornithine carbamoyltransferase	133	294	3.6E-121	T	08-04-2025	IPR036901	Aspartate/ornithine carbamoyltransferase superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	Gene3D	G3DSA:3.40.50.1370	Aspartate/ornithine carbamoyltransferase	3	132	3.6E-121	T	08-04-2025	IPR036901	Aspartate/ornithine carbamoyltransferase superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	Pfam	PF02729	Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain	3	143	7.4E-49	T	08-04-2025	IPR006132	Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	PANTHER	PTHR45753	ORNITHINE CARBAMOYLTRANSFERASE, MITOCHONDRIAL	2	299	9.5E-111	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	FunFam	G3DSA:3.40.50.1370:FF:000008	Ornithine carbamoyltransferase	133	285	7.1E-57	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	PRINTS	PR00102	Ornithine carbamoyltransferase signature	46	60	2.9E-30	T	08-04-2025	IPR002292	Ornithine/putrescine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	PRINTS	PR00102	Ornithine carbamoyltransferase signature	79	92	2.9E-30	T	08-04-2025	IPR002292	Ornithine/putrescine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	PRINTS	PR00102	Ornithine carbamoyltransferase signature	119	133	2.9E-30	T	08-04-2025	IPR002292	Ornithine/putrescine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	PRINTS	PR00102	Ornithine carbamoyltransferase signature	215	225	2.9E-30	T	08-04-2025	IPR002292	Ornithine/putrescine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	PRINTS	PR00102	Ornithine carbamoyltransferase signature	277	288	2.9E-30	T	08-04-2025	IPR002292	Ornithine/putrescine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	PRINTS	PR00100	Aspartate/ornithine carbamoyltransferase superfamily signature	48	67	5.1E-26	T	08-04-2025	IPR006130	Aspartate/ornithine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	PRINTS	PR00100	Aspartate/ornithine carbamoyltransferase superfamily signature	130	141	5.1E-26	T	08-04-2025	IPR006130	Aspartate/ornithine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	PRINTS	PR00100	Aspartate/ornithine carbamoyltransferase superfamily signature	251	260	5.1E-26	T	08-04-2025	IPR006130	Aspartate/ornithine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	PRINTS	PR00100	Aspartate/ornithine carbamoyltransferase superfamily signature	263	286	5.1E-26	T	08-04-2025	IPR006130	Aspartate/ornithine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_115_c1_11	d268ffe755572f725b5e1d0b85f8dded	302	Hamap	MF_01109	Ornithine carbamoyltransferase, catabolic [argI].	2	299	78.536331	T	08-04-2025	IPR024904	Ornithine carbamoyltransferase	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	PANTHER	PTHR11552	GLUCOSE-METHANOL-CHOLINE  GMC  OXIDOREDUCTASE	4	531	0.0	T	08-04-2025	IPR012132	Glucose-methanol-choline oxidoreductase	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	Gene3D	G3DSA:3.50.50.60	-	4	528	0.0	T	08-04-2025	IPR036188	FAD/NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	ProSitePatterns	PS00624	GMC oxidoreductases signature 2.	255	269	-	T	08-04-2025	IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	ProSitePatterns	PS00623	GMC oxidoreductases signature 1.	81	104	-	T	08-04-2025	IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	Pfam	PF05199	GMC oxidoreductase	388	521	6.1E-37	T	08-04-2025	IPR007867	Glucose-methanol-choline oxidoreductase, C-terminal	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	PIRSF	PIRSF000137	Alcohol_oxidase	1	537	0.0	T	08-04-2025	IPR012132	Glucose-methanol-choline oxidoreductase	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	SUPERFAMILY	SSF54373	FAD-linked reductases, C-terminal domain	291	474	1.28E-57	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	NCBIfam	NF002550	choline dehydrogenase	2	529	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	Pfam	PF00732	GMC oxidoreductase	4	296	4.8E-60	T	08-04-2025	IPR000172	Glucose-methanol-choline oxidoreductase, N-terminal	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	SUPERFAMILY	SSF51905	FAD/NAD(P)-binding domain	4	533	4.05E-91	T	08-04-2025	IPR036188	FAD/NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_25-scaffold_1048_c1_2	d1ffd89d0bf30166a9740565cb92e1f1	537	Gene3D	G3DSA:3.30.560.10	Glucose Oxidase, domain 3	43	469	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	Hamap	MF_01807	Tyrosine recombinase XerD [xerD].	13	310	60.385796	T	08-04-2025	IPR011932	Tyrosine recombinase XerD	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	Hamap	MF_01808	Tyrosine recombinase XerC [xerC].	15	310	58.452324	T	08-04-2025	IPR023009	Tyrosine recombinase XerC/XerD	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	Pfam	PF02899	Phage integrase, N-terminal SAM-like domain	17	99	1.1E-17	T	08-04-2025	IPR004107	Integrase, SAM-like, N-terminal	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	Pfam	PF00589	Phage integrase family	121	297	4.6E-48	T	08-04-2025	IPR002104	Integrase, catalytic domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	PANTHER	PTHR30349	PHAGE INTEGRASE-RELATED	20	300	6.0E-46	T	08-04-2025	IPR050090	Bacterial tyrosine recombinase XerC/XerD complex	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	NCBIfam	TIGR02225	site-specific tyrosine recombinase XerD	19	309	2.4E-111	T	08-04-2025	IPR011932	Tyrosine recombinase XerD	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	Gene3D	G3DSA:1.10.443.10	Intergrase catalytic core	120	304	7.8E-58	T	08-04-2025	IPR013762	Integrase-like, catalytic domain superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	ProSiteProfiles	PS51898	Tyrosine recombinase domain profile.	117	304	63.694336	T	08-04-2025	IPR002104	Integrase, catalytic domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	ProSiteProfiles	PS51900	Core-binding (CB) domain profile.	11	96	22.517849	T	08-04-2025	IPR044068	Core-binding (CB) domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	SUPERFAMILY	SSF56349	DNA breaking-rejoining enzymes	16	303	1.71E-59	T	08-04-2025	IPR011010	DNA breaking-rejoining enzyme, catalytic core	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	Gene3D	G3DSA:1.10.150.130	-	13	107	6.2E-25	T	08-04-2025	IPR010998	Integrase/recombinase, N-terminal	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	NCBIfam	NF001399	tyrosine recombinase	11	310	1.6E-119	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	NCBIfam	NF040815	site-specific tyrosine recombinase/integron integrase	28	303	8.8E-62	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_101	bc5c65ece975bbdce8f9c3611e1fbcf5	312	CDD	cd00798	INT_XerDC_C	124	299	1.62713E-91	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	Pfam	PF03447	Homoserine dehydrogenase, NAD binding domain	10	127	1.2E-19	T	08-04-2025	IPR005106	Aspartate/homoserine dehydrogenase, NAD-binding	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	SUPERFAMILY	SSF55021	ACT-like	351	419	9.17E-12	T	08-04-2025	IPR045865	ACT-like domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	CDD	cd04881	ACT_HSDH-Hom	352	429	5.38478E-30	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	Pfam	PF00742	Homoserine dehydrogenase	135	313	2.2E-62	T	08-04-2025	IPR001342	Homoserine dehydrogenase, catalytic	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	SUPERFAMILY	SSF55347	Glyceraldehyde-3-phosphate dehydrogenase-like, C-terminal domain	135	300	9.81E-53	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	PIRSF	PIRSF000098	Homoser_dh	1	431	0.0	T	08-04-2025	IPR016204	Homoserine dehydrogenase	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	PANTHER	PTHR43331	HOMOSERINE DEHYDROGENASE	1	318	2.6E-113	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	Gene3D	G3DSA:3.30.360.10	Dihydrodipicolinate Reductase; domain 2	134	346	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	ProSitePatterns	PS01042	Homoserine dehydrogenase signature.	181	203	-	T	08-04-2025	IPR019811	Homoserine dehydrogenase, conserved site	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	FunFam	G3DSA:3.30.360.10:FF:000005	Homoserine dehydrogenase	134	302	3.8E-69	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	ProSiteProfiles	PS51671	ACT domain profile.	353	428	11.648417	T	08-04-2025	IPR002912	ACT domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	FunFam	G3DSA:3.30.70.260:FF:000030	Homoserine dehydrogenase	347	420	1.2E-23	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	Pfam	PF01842	ACT domain	353	416	1.2E-9	T	08-04-2025	IPR002912	ACT domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	Gene3D	G3DSA:3.40.50.720	-	4	338	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	FunFam	G3DSA:3.40.50.720:FF:000062	Homoserine dehydrogenase	4	147	1.9E-45	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	Gene3D	G3DSA:3.30.70.260	-	347	419	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	NCBIfam	NF004976	homoserine dehydrogenase	1	430	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_104	357cc524072fda361083789cd9c245c5	433	SUPERFAMILY	SSF51735	NAD(P)-binding Rossmann-fold domains	1	156	5.07E-34	T	08-04-2025	IPR036291	NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_100	cac10e909c20b65a253e58444d363f52	84	Pfam	PF04226	Transglycosylase associated protein	33	82	2.0E-9	T	08-04-2025	IPR007341	Transglycosylase-associated protein	-	-
+5mSIPHEX1_25-scaffold_115_c1_100	cac10e909c20b65a253e58444d363f52	84	PANTHER	PTHR33884	UPF0410 PROTEIN YMGE	1	83	2.3E-21	T	08-04-2025	IPR007341	Transglycosylase-associated protein	-	-
+5mSIPHEX1_25-scaffold_115_c1_105	f2102e1d8903608b27fc793e38248791	360	SUPERFAMILY	SSF53686	Tryptophan synthase beta subunit-like PLP-dependent enzymes	8	357	7.86E-107	T	08-04-2025	IPR036052	Tryptophan synthase beta chain-like, PALP domain superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_105	f2102e1d8903608b27fc793e38248791	360	PANTHER	PTHR10314	CYSTATHIONINE BETA-SYNTHASE	31	327	1.0E-35	T	08-04-2025	IPR050214	Cysteine synthase/Cystathionine beta-synthase	-	-
+5mSIPHEX1_25-scaffold_115_c1_105	f2102e1d8903608b27fc793e38248791	360	PIRSF	PIRSF038945	Thr_synthase	2	356	0.0	T	08-04-2025	IPR026260	Threonine synthase, bacterial/archaeal	-	-
+5mSIPHEX1_25-scaffold_115_c1_105	f2102e1d8903608b27fc793e38248791	360	Pfam	PF00291	Pyridoxal-phosphate dependent enzyme	27	323	1.1E-69	T	08-04-2025	IPR001926	Tryptophan synthase beta chain-like, PALP domain	-	-
+5mSIPHEX1_25-scaffold_115_c1_105	f2102e1d8903608b27fc793e38248791	360	Gene3D	G3DSA:3.40.50.1100	-	65	161	0.0	T	08-04-2025	IPR036052	Tryptophan synthase beta chain-like, PALP domain superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_105	f2102e1d8903608b27fc793e38248791	360	NCBIfam	TIGR00260	threonine synthase	11	330	1.4E-94	T	08-04-2025	IPR004450	Threonine synthase-like	-	-
+5mSIPHEX1_25-scaffold_115_c1_105	f2102e1d8903608b27fc793e38248791	360	ProSitePatterns	PS00165	Serine/threonine dehydratases pyridoxal-phosphate attachment site.	57	70	-	T	08-04-2025	IPR000634	Serine/threonine dehydratase, pyridoxal-phosphate-binding site	-	-
+5mSIPHEX1_25-scaffold_115_c1_105	f2102e1d8903608b27fc793e38248791	360	Gene3D	G3DSA:3.40.50.1100	-	17	331	0.0	T	08-04-2025	IPR036052	Tryptophan synthase beta chain-like, PALP domain superfamily	-	-
+5mSIPHEX1_25-scaffold_115_c1_105	f2102e1d8903608b27fc793e38248791	360	FunFam	G3DSA:3.40.50.1100:FF:000014	Threonine synthase	139	331	1.6E-76	T	08-04-2025	-	-	-	-
+5mSIPHEX1_25-scaffold_115_c1_105	f2102e1d8903608b27fc793e38248791	360	CDD	cd01563	Thr-synth_1	11	328	0.0	T	08-04-2025	-	-	-	-

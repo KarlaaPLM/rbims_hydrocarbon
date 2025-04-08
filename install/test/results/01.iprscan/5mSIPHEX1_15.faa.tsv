@@ -1,0 +1,173 @@
+5mSIPHEX1_15-scaffold_105_c1_109	ef9e0b13f2fcefbf808805a0253a6a05	140	SUPERFAMILY	SSF64263	Prokaryotic ribosomal protein L17	1	119	8.37E-51	T	08-04-2025	IPR036373	Large ribosomal subunit protein bL17 superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_109	ef9e0b13f2fcefbf808805a0253a6a05	140	MobiDBLite	mobidb-lite	consensus disorder prediction	121	140	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_109	ef9e0b13f2fcefbf808805a0253a6a05	140	Pfam	PF01196	Ribosomal protein L17	20	116	1.0E-36	T	08-04-2025	IPR000456	Large ribosomal subunit protein bL17	-	-
+5mSIPHEX1_15-scaffold_105_c1_109	ef9e0b13f2fcefbf808805a0253a6a05	140	ProSitePatterns	PS01167	Ribosomal protein L17 signature.	34	56	-	T	08-04-2025	IPR047859	Large ribosomal subunit protein bL17, conserved site	-	-
+5mSIPHEX1_15-scaffold_105_c1_109	ef9e0b13f2fcefbf808805a0253a6a05	140	NCBIfam	TIGR00059	50S ribosomal protein L17	8	117	4.6E-40	T	08-04-2025	IPR000456	Large ribosomal subunit protein bL17	-	-
+5mSIPHEX1_15-scaffold_105_c1_109	ef9e0b13f2fcefbf808805a0253a6a05	140	Hamap	MF_01368	Large ribosomal subunit protein bL17 [rplQ].	5	116	26.374191	T	08-04-2025	IPR000456	Large ribosomal subunit protein bL17	-	-
+5mSIPHEX1_15-scaffold_105_c1_109	ef9e0b13f2fcefbf808805a0253a6a05	140	MobiDBLite	mobidb-lite	consensus disorder prediction	121	134	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_109	ef9e0b13f2fcefbf808805a0253a6a05	140	Gene3D	G3DSA:3.90.1030.10	Ribosomal protein L17	1	116	2.6E-51	T	08-04-2025	IPR036373	Large ribosomal subunit protein bL17 superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_109	ef9e0b13f2fcefbf808805a0253a6a05	140	PANTHER	PTHR14413	RIBOSOMAL PROTEIN L17	1	131	8.6E-48	T	08-04-2025	IPR000456	Large ribosomal subunit protein bL17	-	-
+5mSIPHEX1_15-scaffold_105_c1_109	ef9e0b13f2fcefbf808805a0253a6a05	140	FunFam	G3DSA:3.90.1030.10:FF:000001	50S ribosomal protein L17	1	116	2.4E-51	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_111	6a759a95fa5cb8a37c340bdc4b1019f0	129	Pfam	PF00411	Ribosomal protein S11	19	128	2.3E-48	T	08-04-2025	IPR001971	Small ribosomal subunit protein uS11	-	-
+5mSIPHEX1_15-scaffold_105_c1_111	6a759a95fa5cb8a37c340bdc4b1019f0	129	Gene3D	G3DSA:3.30.420.80	Ribosomal protein S11	1	129	1.4E-51	T	08-04-2025	IPR036967	Small ribosomal subunit protein uS11 superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_111	6a759a95fa5cb8a37c340bdc4b1019f0	129	PIRSF	PIRSF002131	RPS11p_RPS11a_RPS14e_RPS11o	1	129	1.5E-54	T	08-04-2025	IPR001971	Small ribosomal subunit protein uS11	-	-
+5mSIPHEX1_15-scaffold_105_c1_111	6a759a95fa5cb8a37c340bdc4b1019f0	129	ProSitePatterns	PS00054	Ribosomal protein S11 signature.	97	119	-	T	08-04-2025	IPR018102	Small ribosomal subunit protein uS11, conserved site	-	-
+5mSIPHEX1_15-scaffold_105_c1_111	6a759a95fa5cb8a37c340bdc4b1019f0	129	Hamap	MF_01310	Small ribosomal subunit protein uS11 [rpsK].	3	129	34.089924	T	08-04-2025	IPR001971	Small ribosomal subunit protein uS11	-	-
+5mSIPHEX1_15-scaffold_105_c1_111	6a759a95fa5cb8a37c340bdc4b1019f0	129	NCBIfam	TIGR03632	30S ribosomal protein S11	10	126	3.8E-56	T	08-04-2025	IPR019981	Small ribosomal subunit protein uS11, bacterial-type	-	-
+5mSIPHEX1_15-scaffold_105_c1_111	6a759a95fa5cb8a37c340bdc4b1019f0	129	FunFam	G3DSA:3.30.420.80:FF:000001	30S ribosomal protein S11	1	129	4.8E-65	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_111	6a759a95fa5cb8a37c340bdc4b1019f0	129	NCBIfam	NF003698	30S ribosomal protein S11	10	128	2.9E-59	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_111	6a759a95fa5cb8a37c340bdc4b1019f0	129	SUPERFAMILY	SSF53137	Translational machinery components	14	129	2.83E-50	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_111	6a759a95fa5cb8a37c340bdc4b1019f0	129	PANTHER	PTHR11759	40S RIBOSOMAL PROTEIN S14/30S RIBOSOMAL PROTEIN S11	12	129	1.2E-44	T	08-04-2025	IPR001971	Small ribosomal subunit protein uS11	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	Pfam	PF00344	SecY	80	427	2.2E-107	T	08-04-2025	IPR002208	SecY/SEC61-alpha family	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	Gene3D	G3DSA:1.10.3370.10	SecY subunit domain	12	439	0.0	T	08-04-2025	IPR023201	SecY domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	Hamap	MF_01465	Protein translocase subunit SecY [secY].	14	443	28.912533	T	08-04-2025	IPR026593	Protein translocase subunit SecY	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	PANTHER	PTHR10906	SECY/SEC61-ALPHA FAMILY MEMBER	19	439	1.6E-44	T	08-04-2025	IPR002208	SecY/SEC61-alpha family	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	ProSitePatterns	PS00755	Protein secY signature 1.	80	99	-	T	08-04-2025	IPR030659	SecY conserved site	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	SUPERFAMILY	SSF103491	Preprotein translocase SecY subunit	16	434	4.58E-126	T	08-04-2025	IPR023201	SecY domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	ProSitePatterns	PS00756	Protein secY signature 2.	173	190	-	T	08-04-2025	IPR030659	SecY conserved site	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	PIRSF	PIRSF004557	SecY_Sec61alpha	2	450	2.3E-124	T	08-04-2025	IPR002208	SecY/SEC61-alpha family	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	NCBIfam	TIGR00967	preprotein translocase subunit SecY	25	439	1.1E-118	T	08-04-2025	IPR002208	SecY/SEC61-alpha family	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	PRINTS	PR00303	Preprotein translocase SecY subunit signature	27	45	2.1E-85	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	PRINTS	PR00303	Preprotein translocase SecY subunit signature	79	99	2.1E-85	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	PRINTS	PR00303	Preprotein translocase SecY subunit signature	120	143	2.1E-85	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	PRINTS	PR00303	Preprotein translocase SecY subunit signature	154	179	2.1E-85	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	PRINTS	PR00303	Preprotein translocase SecY subunit signature	180	203	2.1E-85	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	PRINTS	PR00303	Preprotein translocase SecY subunit signature	273	292	2.1E-85	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	PRINTS	PR00303	Preprotein translocase SecY subunit signature	379	397	2.1E-85	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	PRINTS	PR00303	Preprotein translocase SecY subunit signature	412	430	2.1E-85	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_114	bb9bad33a4f9db308742e3c57dacb265	454	FunFam	G3DSA:1.10.3370.10:FF:000001	Preprotein translocase subunit SecY	11	439	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	Gene3D	G3DSA:3.40.50.300	-	1	189	1.4E-60	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	PRINTS	PR00094	Adenylate kinase signature	4	17	1.4E-29	T	08-04-2025	IPR000850	Adenylate kinase/UMP-CMP kinase	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	PRINTS	PR00094	Adenylate kinase signature	32	46	1.4E-29	T	08-04-2025	IPR000850	Adenylate kinase/UMP-CMP kinase	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	PRINTS	PR00094	Adenylate kinase signature	81	97	1.4E-29	T	08-04-2025	IPR000850	Adenylate kinase/UMP-CMP kinase	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	PRINTS	PR00094	Adenylate kinase signature	133	148	1.4E-29	T	08-04-2025	IPR000850	Adenylate kinase/UMP-CMP kinase	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	PRINTS	PR00094	Adenylate kinase signature	150	164	1.4E-29	T	08-04-2025	IPR000850	Adenylate kinase/UMP-CMP kinase	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	PANTHER	PTHR23359	NUCLEOTIDE KINASE	3	181	1.0E-47	T	08-04-2025	IPR000850	Adenylate kinase/UMP-CMP kinase	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	1	186	3.18E-35	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	Pfam	PF00406	Adenylate kinase	5	163	4.1E-48	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	NCBIfam	NF011104	adenylate kinase	3	185	1.5E-46	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	Hamap	MF_00235	Adenylate kinase [adk].	1	186	41.933353	T	08-04-2025	IPR000850	Adenylate kinase/UMP-CMP kinase	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	ProSitePatterns	PS00113	Adenylate kinase signature.	81	92	-	T	08-04-2025	IPR033690	Adenylate kinase, conserved site	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	NCBIfam	NF011105	adenylate kinase	1	188	1.3E-90	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	CDD	cd01428	ADK	2	177	1.73905E-71	T	08-04-2025	IPR000850	Adenylate kinase/UMP-CMP kinase	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	NCBIfam	NF001381	adenylate kinase	1	187	4.2E-71	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_113	245622bebc577096c2c2763d3a572462	189	NCBIfam	NF011100	adenylate kinase	3	185	9.7E-58	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_108	343bd3ebf1f066ca654ee29305268cd4	336	PRINTS	PR01270	Histone deacetylase superfamily signature	150	173	1.1E-10	T	08-04-2025	IPR000286	Histone deacetylase family	-	-
+5mSIPHEX1_15-scaffold_105_c1_108	343bd3ebf1f066ca654ee29305268cd4	336	PRINTS	PR01270	Histone deacetylase superfamily signature	183	198	1.1E-10	T	08-04-2025	IPR000286	Histone deacetylase family	-	-
+5mSIPHEX1_15-scaffold_105_c1_108	343bd3ebf1f066ca654ee29305268cd4	336	PRINTS	PR01270	Histone deacetylase superfamily signature	269	279	1.1E-10	T	08-04-2025	IPR000286	Histone deacetylase family	-	-
+5mSIPHEX1_15-scaffold_105_c1_108	343bd3ebf1f066ca654ee29305268cd4	336	PANTHER	PTHR10625	HISTONE DEACETYLASE HDAC1-RELATED	26	329	4.8E-50	T	08-04-2025	IPR050284	Histone deacetylase and polyamine deacetylase	-	-
+5mSIPHEX1_15-scaffold_105_c1_108	343bd3ebf1f066ca654ee29305268cd4	336	CDD	cd10001	HDAC_classII_APAH	2	334	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_108	343bd3ebf1f066ca654ee29305268cd4	336	Pfam	PF00850	Histone deacetylase domain	26	332	7.3E-60	T	08-04-2025	IPR023801	Histone deacetylase domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_108	343bd3ebf1f066ca654ee29305268cd4	336	SUPERFAMILY	SSF52768	Arginase/deacetylase	2	334	3.64E-81	T	08-04-2025	IPR023696	Ureohydrolase domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_108	343bd3ebf1f066ca654ee29305268cd4	336	Gene3D	G3DSA:3.40.800.20	Histone deacetylase domain	1	336	6.6E-109	T	08-04-2025	IPR037138	Histone deacetylase domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	NCBIfam	NF001236	ribonuclease HI	5	146	2.1E-65	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	FunFam	G3DSA:3.30.420.10:FF:000089	Ribonuclease H	3	148	1.9E-63	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	CDD	cd09278	RNase_HI_prokaryote_like	6	143	7.04551E-87	T	08-04-2025	IPR022892	Ribonuclease HI	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	ProSiteProfiles	PS50879	RNase H type-1 domain profile.	2	143	60.221222	T	08-04-2025	IPR002156	Ribonuclease H domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	MobiDBLite	mobidb-lite	consensus disorder prediction	130	148	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	Pfam	PF00075	RNase H	6	142	1.9E-47	T	08-04-2025	IPR002156	Ribonuclease H domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	SUPERFAMILY	SSF53098	Ribonuclease H-like	5	142	1.39E-56	T	08-04-2025	IPR012337	Ribonuclease H-like superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	Gene3D	G3DSA:3.30.420.10	-	2	148	5.2E-60	T	08-04-2025	IPR036397	Ribonuclease H superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	MobiDBLite	mobidb-lite	consensus disorder prediction	125	148	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	Hamap	MF_00042	Ribonuclease H [rnhA].	3	148	32.520603	T	08-04-2025	IPR022892	Ribonuclease HI	-	-
+5mSIPHEX1_15-scaffold_105_c1_103	1e10d39d728297050bd5be6ae768bae7	148	PANTHER	PTHR10642	RIBONUCLEASE H1	6	144	7.3E-29	T	08-04-2025	IPR050092	Ribonuclease H	-	-
+5mSIPHEX1_15-scaffold_105_c1_1	8ccf0b4daa4038662039b44abe49628e	229	Pfam	PF20043	Family of unknown function (DUF6445)	11	226	2.2E-68	T	08-04-2025	IPR045617	Protein of unknown function DUF6445	-	-
+5mSIPHEX1_15-scaffold_105_c1_101	b61c5dbb6d3c6a8ae534db0b29a7f0ed	268	PANTHER	PTHR13939	NICOTINAMIDE-NUCLEOTIDE AMIDOHYDROLASE PNCC	4	249	6.7E-58	T	08-04-2025	IPR050101	Competence-damage inducible protein CinA	-	-
+5mSIPHEX1_15-scaffold_105_c1_101	b61c5dbb6d3c6a8ae534db0b29a7f0ed	268	Gene3D	G3DSA:3.40.980.10	-	5	170	9.0E-47	T	08-04-2025	IPR036425	MoaB/Mog-like domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_101	b61c5dbb6d3c6a8ae534db0b29a7f0ed	268	CDD	cd00885	cinA	6	160	1.7861E-66	T	08-04-2025	IPR001453	MoaB/Mog domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_101	b61c5dbb6d3c6a8ae534db0b29a7f0ed	268	MobiDBLite	mobidb-lite	consensus disorder prediction	245	268	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_101	b61c5dbb6d3c6a8ae534db0b29a7f0ed	268	SUPERFAMILY	SSF53218	Molybdenum cofactor biosynthesis proteins	4	199	3.66E-36	T	08-04-2025	IPR036425	MoaB/Mog-like domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_101	b61c5dbb6d3c6a8ae534db0b29a7f0ed	268	Pfam	PF00994	Probable molybdopterin binding domain	8	164	2.9E-25	T	08-04-2025	IPR001453	MoaB/Mog domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_101	b61c5dbb6d3c6a8ae534db0b29a7f0ed	268	Pfam	PF24102	FAD synthase, middle domain	183	247	1.2E-7	T	08-04-2025	IPR056596	FAD synthase, middle domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_101	b61c5dbb6d3c6a8ae534db0b29a7f0ed	268	SMART	SM00852	MoCF_biosynth_3a	8	170	2.3E-27	T	08-04-2025	IPR001453	MoaB/Mog domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_101	b61c5dbb6d3c6a8ae534db0b29a7f0ed	268	MobiDBLite	mobidb-lite	consensus disorder prediction	256	268	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	NCBIfam	TIGR02027	DNA-directed RNA polymerase subunit alpha	34	326	1.1E-112	T	08-04-2025	IPR011773	DNA-directed RNA polymerase, alpha subunit	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	FunFam	G3DSA:1.10.150.20:FF:000001	DNA-directed RNA polymerase subunit alpha	252	338	8.8E-39	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	Hamap	MF_00059	DNA-directed RNA polymerase subunit alpha [rpoA].	13	326	36.023357	T	08-04-2025	IPR011773	DNA-directed RNA polymerase, alpha subunit	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	Gene3D	G3DSA:3.30.1360.10	-	33	234	2.1E-85	T	08-04-2025	IPR036603	RNA polymerase, RBP11-like subunit	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	Pfam	PF01000	RNA polymerase Rpb3/RpoA insert domain	69	184	1.4E-33	T	08-04-2025	IPR011262	DNA-directed RNA polymerase, insert domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	SUPERFAMILY	SSF47789	C-terminal domain of RNA polymerase alpha subunit	259	333	6.02E-27	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	Gene3D	G3DSA:2.170.120.12	-	63	183	2.1E-85	T	08-04-2025	IPR036643	DNA-directed RNA polymerase, insert domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	SUPERFAMILY	SSF56553	Insert subdomain of RNA polymerase alpha subunit	63	184	3.4E-43	T	08-04-2025	IPR036643	DNA-directed RNA polymerase, insert domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	SMART	SM00662	rpoldneu2	33	240	3.1E-93	T	08-04-2025	IPR011263	DNA-directed RNA polymerase, RpoA/D/Rpb3-type	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	CDD	cd06928	RNAP_alpha_NTD	24	237	1.71363E-113	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	NCBIfam	NF003519	DNA-directed RNA polymerase subunit alpha	16	326	2.5E-111	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	SUPERFAMILY	SSF55257	RBP11-like subunits of RNA polymerase	28	242	1.57E-29	T	08-04-2025	IPR036603	RNA polymerase, RBP11-like subunit	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	Gene3D	G3DSA:1.10.150.20	-	257	337	1.5E-31	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	Pfam	PF03118	Bacterial RNA polymerase, alpha chain C terminal domain	260	317	7.7E-22	T	08-04-2025	IPR011260	RNA polymerase, alpha subunit, C-terminal	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	NCBIfam	NF003513	DNA-directed RNA polymerase subunit alpha	10	345	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	Pfam	PF01193	RNA polymerase Rpb3/Rpb11 dimerisation domain	39	234	1.2E-22	T	08-04-2025	IPR011263	DNA-directed RNA polymerase, RpoA/D/Rpb3-type	-	-
+5mSIPHEX1_15-scaffold_105_c1_110	f6650d3c1e45d1e7c9ae28a97e36f9d5	346	FunFam	G3DSA:2.170.120.12:FF:000001	DNA-directed RNA polymerase subunit alpha	63	183	8.4E-44	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_104	bc8d4b2debadaf6bebf1211d1550b4de	148	Pfam	PF00085	Thioredoxin	42	85	0.01	T	08-04-2025	IPR013766	Thioredoxin domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_104	bc8d4b2debadaf6bebf1211d1550b4de	148	Gene3D	G3DSA:3.40.30.10	Glutaredoxin	27	145	6.2E-8	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_104	bc8d4b2debadaf6bebf1211d1550b4de	148	ProSiteProfiles	PS51352	Thioredoxin domain profile.	11	146	10.139021	T	08-04-2025	IPR013766	Thioredoxin domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_104	bc8d4b2debadaf6bebf1211d1550b4de	148	SUPERFAMILY	SSF52833	Thioredoxin-like	37	144	1.45E-8	T	08-04-2025	IPR036249	Thioredoxin-like superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_104	bc8d4b2debadaf6bebf1211d1550b4de	148	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	16	5.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	PANTHER	PTHR43391	RETINOL DEHYDROGENASE-RELATED	3	246	4.4E-52	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	Pfam	PF00106	short chain dehydrogenase	8	195	4.5E-46	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	FunFam	G3DSA:3.40.50.720:FF:000084	Short-chain dehydrogenase reductase	1	247	4.0E-58	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	SUPERFAMILY	SSF51735	NAD(P)-binding Rossmann-fold domains	1	254	3.76E-66	T	08-04-2025	IPR036291	NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	PRINTS	PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature	82	93	1.8E-8	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	PRINTS	PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature	136	144	1.8E-8	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	PRINTS	PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature	156	175	1.8E-8	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	8	25	6.0E-24	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	82	93	6.0E-24	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	130	146	6.0E-24	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	156	175	6.0E-24	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	177	194	6.0E-24	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	SMART	SM00822	This enzymatic domain is part of bacterial polyketide synthases and catalyses the first step in the reductive modification of the beta-carbonyl centres in the growing polyketide chain. It uses NADPH to reduce the keto group to a hydroxy group.	7	191	7.0E-4	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	CDD	cd05233	SDR_c	22	208	2.07336E-50	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_105	0116691d0547107dbf1fc7e682d10e2f	278	Gene3D	G3DSA:3.40.50.720	-	1	276	3.5E-76	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_116	9c3700fc7c87e421a3a0479b6d4e305c	63	NCBIfam	TIGR01308	50S ribosomal protein L30	9	62	2.9E-19	T	08-04-2025	IPR005996	Large ribosomal subunit protein uL30, bacterial-type	-	-
+5mSIPHEX1_15-scaffold_105_c1_116	9c3700fc7c87e421a3a0479b6d4e305c	63	PIRSF	PIRSF002211	RPL30p	1	63	3.6E-22	T	08-04-2025	IPR005996	Large ribosomal subunit protein uL30, bacterial-type	-	-
+5mSIPHEX1_15-scaffold_105_c1_116	9c3700fc7c87e421a3a0479b6d4e305c	63	SUPERFAMILY	SSF55129	Ribosomal protein L30p/L7e	7	61	1.83E-17	T	08-04-2025	IPR036919	Large ribosomal subunit protein uL30, ferredoxin-like fold domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_116	9c3700fc7c87e421a3a0479b6d4e305c	63	CDD	cd01658	Ribosomal_L30	8	61	2.09538E-19	T	08-04-2025	IPR005996	Large ribosomal subunit protein uL30, bacterial-type	-	-
+5mSIPHEX1_15-scaffold_105_c1_116	9c3700fc7c87e421a3a0479b6d4e305c	63	Gene3D	G3DSA:3.30.1390.20	-	4	62	1.9E-21	T	08-04-2025	IPR036919	Large ribosomal subunit protein uL30, ferredoxin-like fold domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_116	9c3700fc7c87e421a3a0479b6d4e305c	63	Pfam	PF00327	Ribosomal protein L30p/L7e	9	58	7.5E-15	T	08-04-2025	IPR016082	Large ribosomal subunit protein uL30-like, ferredoxin-like fold domain	-	-
+5mSIPHEX1_15-scaffold_105_c1_116	9c3700fc7c87e421a3a0479b6d4e305c	63	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_116	9c3700fc7c87e421a3a0479b6d4e305c	63	Hamap	MF_01371_B	Large ribosomal subunit protein uL30 [rpmD].	4	62	17.691076	T	08-04-2025	IPR005996	Large ribosomal subunit protein uL30, bacterial-type	-	-
+5mSIPHEX1_15-scaffold_105_c1_10	a49c307fd7b1ff4f13be13dfd5e8bf21	102	Pfam	PF02325	YGGT family	16	91	6.7E-13	T	08-04-2025	IPR003425	CCB3/YggT	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	Pfam	PF00106	short chain dehydrogenase	5	196	1.0E-34	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	CDD	cd05233	SDR_c	8	208	7.49028E-43	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	PIRSF	PIRSF000126	11-beta-HSD1	2	271	3.5E-56	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	SUPERFAMILY	SSF51735	NAD(P)-binding Rossmann-fold domains	4	258	1.82E-52	T	08-04-2025	IPR036291	NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	Gene3D	G3DSA:3.40.50.720	-	2	265	5.3E-53	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	6	23	2.1E-19	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	81	92	2.1E-19	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	128	144	2.1E-19	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	155	174	2.1E-19	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	179	196	2.1E-19	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	PRINTS	PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature	81	92	5.6E-8	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	PRINTS	PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature	134	142	5.6E-8	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	PRINTS	PR00080	Short-chain dehydrogenase/reductase (SDR) superfamily signature	155	174	5.6E-8	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_15-scaffold_105_c1_11	1cca8b8d0c1242a09f9b1c3907219b40	272	PANTHER	PTHR44196	DEHYDROGENASE/REDUCTASE SDR FAMILY MEMBER 7B	3	260	2.3E-47	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_115	960790d58c5360f40cfde37f6b61f044	160	Pfam	PF00828	Ribosomal proteins 50S-L15, 50S-L18e, 60S-L27A	76	149	1.6E-15	T	08-04-2025	IPR021131	Large ribosomal subunit protein uL15/eL18	-	-
+5mSIPHEX1_15-scaffold_105_c1_115	960790d58c5360f40cfde37f6b61f044	160	NCBIfam	TIGR01071	50S ribosomal protein L15	2	148	1.7E-39	T	08-04-2025	IPR005749	Large ribosomal subunit protein uL15, bacterial-type	-	-
+5mSIPHEX1_15-scaffold_105_c1_115	960790d58c5360f40cfde37f6b61f044	160	Hamap	MF_01341	Large ribosomal subunit protein uL15 [rplO].	3	151	19.417137	T	08-04-2025	IPR030878	Large ribosomal subunit protein uL15	-	-
+5mSIPHEX1_15-scaffold_105_c1_115	960790d58c5360f40cfde37f6b61f044	160	SUPERFAMILY	SSF52080	Ribosomal proteins L15p and L18e	4	149	1.7E-41	T	08-04-2025	IPR036227	Large ribosomal subunit protein uL15/eL18 superfamily	-	-
+5mSIPHEX1_15-scaffold_105_c1_115	960790d58c5360f40cfde37f6b61f044	160	MobiDBLite	mobidb-lite	consensus disorder prediction	1	44	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_115	960790d58c5360f40cfde37f6b61f044	160	PANTHER	PTHR12934	50S RIBOSOMAL PROTEIN L15	1	149	7.0E-44	T	08-04-2025	IPR005749	Large ribosomal subunit protein uL15, bacterial-type	-	-
+5mSIPHEX1_15-scaffold_105_c1_115	960790d58c5360f40cfde37f6b61f044	160	Gene3D	G3DSA:3.100.10.10	-	68	151	1.9E-16	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_115	960790d58c5360f40cfde37f6b61f044	160	ProSitePatterns	PS00475	Ribosomal protein L15 signature.	115	145	-	T	08-04-2025	IPR001196	Large ribosomal subunit protein uL15, conserved site	-	-
+5mSIPHEX1_15-scaffold_105_c1_115	960790d58c5360f40cfde37f6b61f044	160	MobiDBLite	mobidb-lite	consensus disorder prediction	21	35	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	ProSiteProfiles	PS50159	Ribosomal protein S13 family profile.	4	112	39.948994	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	PANTHER	PTHR10871	30S RIBOSOMAL PROTEIN S13/40S RIBOSOMAL PROTEIN S18	2	112	3.4E-27	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	SUPERFAMILY	SSF46946	S13-like H2TH domain	2	121	1.22E-46	T	08-04-2025	IPR010979	Small ribosomal subunit protein uS13-like, H2TH	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	Gene3D	G3DSA:1.10.8.50	-	1	71	2.7E-28	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	Gene3D	G3DSA:4.10.910.10	30s ribosomal protein s13, domain 2	73	122	3.5E-27	T	08-04-2025	IPR027437	Small ribosomal subunit protein uS13, C-terminal	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	MobiDBLite	mobidb-lite	consensus disorder prediction	98	122	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	FunFam	G3DSA:1.10.8.50:FF:000001	30S ribosomal protein S13	1	72	5.5E-29	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	PIRSF	PIRSF002134	RPS13p_RPS13a_RPS18e_RPS13o	1	122	7.3E-47	T	08-04-2025	IPR001892	Small ribosomal subunit protein uS13	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	Hamap	MF_01315	Small ribosomal subunit protein uS13 [rpsM].	1	119	27.597336	T	08-04-2025	IPR001892	Small ribosomal subunit protein uS13	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	Pfam	PF00416	Ribosomal protein S13/S18	3	109	3.4E-27	T	08-04-2025	IPR001892	Small ribosomal subunit protein uS13	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	FunFam	G3DSA:4.10.910.10:FF:000001	30S ribosomal protein S13	73	122	2.6E-30	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_112	0dcd19d3d28a0140a3b34d34fb38b78c	122	NCBIfam	TIGR03631	30S ribosomal protein S13	3	115	3.6E-50	T	08-04-2025	IPR019980	Small ribosomal subunit protein uS13, bacterial-type	-	-
+5mSIPHEX1_15-scaffold_105_c1_106	01d0797cef2b2ba9bd7ec10c164a2504	329	SUPERFAMILY	SSF51412	Inosine monophosphate dehydrogenase (IMPDH)	1	319	1.28E-66	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_106	01d0797cef2b2ba9bd7ec10c164a2504	329	Gene3D	G3DSA:3.20.20.70	Aldolase class I	1	326	1.9E-115	T	08-04-2025	IPR013785	Aldolase-type TIM barrel	-	-
+5mSIPHEX1_15-scaffold_105_c1_106	01d0797cef2b2ba9bd7ec10c164a2504	329	Pfam	PF03060	Nitronate monooxygenase	3	309	1.5E-52	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_106	01d0797cef2b2ba9bd7ec10c164a2504	329	CDD	cd04730	NPD_like	11	241	2.19868E-86	T	08-04-2025	IPR004136	Nitronate monooxygenase	-	-
+5mSIPHEX1_15-scaffold_105_c1_106	01d0797cef2b2ba9bd7ec10c164a2504	329	PANTHER	PTHR32332	2-NITROPROPANE DIOXYGENASE	1	322	7.0E-89	T	08-04-2025	-	-	-	-
+5mSIPHEX1_15-scaffold_105_c1_107	c0681ed7acac7750d38d2d617b0058a0	244	Gene3D	G3DSA:3.40.50.1820	alpha/beta hydrolase	4	244	4.8E-30	T	08-04-2025	IPR029058	Alpha/Beta hydrolase fold	-	-
+5mSIPHEX1_15-scaffold_105_c1_107	c0681ed7acac7750d38d2d617b0058a0	244	Pfam	PF12697	Alpha/beta hydrolase family	5	237	1.7E-14	T	08-04-2025	IPR000073	Alpha/beta hydrolase fold-1	-	-
+5mSIPHEX1_15-scaffold_105_c1_107	c0681ed7acac7750d38d2d617b0058a0	244	SUPERFAMILY	SSF53474	alpha/beta-Hydrolases	5	243	1.43E-31	T	08-04-2025	IPR029058	Alpha/Beta hydrolase fold	-	-
+5mSIPHEX1_15-scaffold_105_c1_107	c0681ed7acac7750d38d2d617b0058a0	244	PANTHER	PTHR43194	HYDROLASE ALPHA/BETA FOLD FAMILY	5	243	7.1E-15	T	08-04-2025	IPR050228	Carboxylesterase BioH	-	-

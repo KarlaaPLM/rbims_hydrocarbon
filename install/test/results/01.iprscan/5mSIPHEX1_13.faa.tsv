@@ -1,0 +1,169 @@
+5mSIPHEX1_13-scaffold_1_c1_1009	edd72020e4aebfc8ca4b9e02440b2ff9	409	SUPERFAMILY	SSF56645	Acyl-CoA dehydrogenase NM domain-like	2	263	2.49E-62	T	08-04-2025	IPR009100	Acyl-CoA dehydrogenase/oxidase, N-terminal and middle domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1009	edd72020e4aebfc8ca4b9e02440b2ff9	409	PANTHER	PTHR48083	MEDIUM-CHAIN SPECIFIC ACYL-COA DEHYDROGENASE, MITOCHONDRIAL-RELATED	8	403	0.0	T	08-04-2025	IPR050741	Acyl-CoA dehydrogenase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1009	edd72020e4aebfc8ca4b9e02440b2ff9	409	FunFam	G3DSA:2.40.110.10:FF:000002	Acyl-CoA dehydrogenase fadE12	135	254	2.5E-32	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1009	edd72020e4aebfc8ca4b9e02440b2ff9	409	Pfam	PF00441	Acyl-CoA dehydrogenase, C-terminal domain	250	399	1.5E-28	T	08-04-2025	IPR009075	Acyl-CoA dehydrogenase/oxidase, C-terminal	-	-
+5mSIPHEX1_13-scaffold_1_c1_1009	edd72020e4aebfc8ca4b9e02440b2ff9	409	SUPERFAMILY	SSF47203	Acyl-CoA dehydrogenase C-terminal domain-like	248	406	3.7E-42	T	08-04-2025	IPR036250	Acyl-CoA dehydrogenase-like, C-terminal	-	-
+5mSIPHEX1_13-scaffold_1_c1_1009	edd72020e4aebfc8ca4b9e02440b2ff9	409	Pfam	PF02770	Acyl-CoA dehydrogenase, middle domain	136	233	1.7E-17	T	08-04-2025	IPR006091	Acyl-CoA oxidase/dehydrogenase, middle domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1009	edd72020e4aebfc8ca4b9e02440b2ff9	409	Pfam	PF02771	Acyl-CoA dehydrogenase, N-terminal domain	8	132	8.9E-7	T	08-04-2025	IPR013786	Acyl-CoA dehydrogenase/oxidase, N-terminal	-	-
+5mSIPHEX1_13-scaffold_1_c1_1009	edd72020e4aebfc8ca4b9e02440b2ff9	409	Gene3D	G3DSA:1.20.140.10	-	251	408	2.2E-36	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1009	edd72020e4aebfc8ca4b9e02440b2ff9	409	Gene3D	G3DSA:2.40.110.10	-	135	250	1.9E-47	T	08-04-2025	IPR046373	Acyl-CoA oxidase/dehydrogenase, middle domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1009	edd72020e4aebfc8ca4b9e02440b2ff9	409	Gene3D	G3DSA:1.10.540.10	-	1	134	2.4E-43	T	08-04-2025	IPR037069	Acyl-CoA dehydrogenase/oxidase, N-terminal domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	MobiDBLite	mobidb-lite	consensus disorder prediction	152	228	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	MobiDBLite	mobidb-lite	consensus disorder prediction	268	292	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	MobiDBLite	mobidb-lite	consensus disorder prediction	249	261	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	17	5.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	MobiDBLite	mobidb-lite	consensus disorder prediction	207	225	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	Coils	Coil	Coil	245	311	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	MobiDBLite	mobidb-lite	consensus disorder prediction	424	454	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	MobiDBLite	mobidb-lite	consensus disorder prediction	378	474	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	MobiDBLite	mobidb-lite	consensus disorder prediction	248	357	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	MobiDBLite	mobidb-lite	consensus disorder prediction	193	204	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1008	9495d73305a0429d92183a95209f3f02	714	MobiDBLite	mobidb-lite	consensus disorder prediction	156	165	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_101	c4c1acabe0061a9798d93db1b7024575	228	PANTHER	PTHR42695	GLUTAMINE AMIDOTRANSFERASE YLR126C-RELATED	2	215	1.2E-41	T	08-04-2025	IPR044992	Glutamine amidotransferase domain containing protein ChyE-like	-	-
+5mSIPHEX1_13-scaffold_1_c1_101	c4c1acabe0061a9798d93db1b7024575	228	Pfam	PF00117	Glutamine amidotransferase class-I	53	179	7.2E-16	T	08-04-2025	IPR017926	Glutamine amidotransferase	-	-
+5mSIPHEX1_13-scaffold_1_c1_101	c4c1acabe0061a9798d93db1b7024575	228	CDD	cd01741	GATase1_1	2	177	1.62069E-48	T	08-04-2025	IPR044992	Glutamine amidotransferase domain containing protein ChyE-like	-	-
+5mSIPHEX1_13-scaffold_1_c1_101	c4c1acabe0061a9798d93db1b7024575	228	Gene3D	G3DSA:3.40.50.880	-	20	224	3.0E-42	T	08-04-2025	IPR029062	Class I glutamine amidotransferase-like	-	-
+5mSIPHEX1_13-scaffold_1_c1_101	c4c1acabe0061a9798d93db1b7024575	228	SUPERFAMILY	SSF52317	Class I glutamine amidotransferase-like	34	195	3.36E-35	T	08-04-2025	IPR029062	Class I glutamine amidotransferase-like	-	-
+5mSIPHEX1_13-scaffold_1_c1_101	c4c1acabe0061a9798d93db1b7024575	228	ProSiteProfiles	PS51273	Glutamine amidotransferase type 1 domain profile.	2	192	15.066414	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	NCBIfam	TIGR01933	FtsH protease activity modulator HflK	100	360	1.3E-69	T	08-04-2025	IPR010201	HflK	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	PANTHER	PTHR43327	STOMATIN-LIKE PROTEIN 2, MITOCHONDRIAL	121	355	6.9E-18	T	08-04-2025	IPR050710	Band 7/mec-2 domain-containing protein	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	CDD	cd03404	SPFH_HflK	86	353	1.21918E-119	T	08-04-2025	IPR010201	HflK	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	Pfam	PF01145	SPFH domain / Band 7 family	119	282	3.4E-17	T	08-04-2025	IPR001107	Band 7 domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	Coils	Coil	Coil	288	308	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	Coils	Coil	Coil	259	286	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	SMART	SM00244	PHB_4	98	267	1.8E-14	T	08-04-2025	IPR001107	Band 7 domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	MobiDBLite	mobidb-lite	consensus disorder prediction	1	41	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	SUPERFAMILY	SSF117892	Band 7/SPFH domain	161	274	1.7E-19	T	08-04-2025	IPR036013	Band 7/SPFH domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	Gene3D	G3DSA:3.30.479.30	Band 7 domain	153	269	5.1E-24	T	08-04-2025	IPR036013	Band 7/SPFH domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1000	ae7cb34feee0e05888c999cd0f23bdf0	386	MobiDBLite	mobidb-lite	consensus disorder prediction	1	15	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_10	7b54646263e9316c1466e2288d3df56f	261	Pfam	PF00378	Enoyl-CoA hydratase/isomerase	15	260	1.2E-55	T	08-04-2025	IPR001753	Enoyl-CoA hydratase/isomerase	-	-
+5mSIPHEX1_13-scaffold_1_c1_10	7b54646263e9316c1466e2288d3df56f	261	NCBIfam	TIGR02280	2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase PaaG	5	261	3.2E-112	T	08-04-2025	IPR011968	Phenylacetate degradation probable enoyl-CoA hydratase PaaB	-	-
+5mSIPHEX1_13-scaffold_1_c1_10	7b54646263e9316c1466e2288d3df56f	261	Gene3D	G3DSA:3.90.226.10	-	1	202	4.4E-62	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_10	7b54646263e9316c1466e2288d3df56f	261	PANTHER	PTHR43459	ENOYL-COA HYDRATASE	3	260	3.0E-56	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_10	7b54646263e9316c1466e2288d3df56f	261	CDD	cd06558	crotonase-like	5	200	7.77652E-45	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_10	7b54646263e9316c1466e2288d3df56f	261	SUPERFAMILY	SSF52096	ClpP/crotonase	1	260	1.81E-80	T	08-04-2025	IPR029045	ClpP/crotonase-like domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_10	7b54646263e9316c1466e2288d3df56f	261	Gene3D	G3DSA:1.10.12.10	-	204	261	2.5E-23	T	08-04-2025	IPR014748	Enoyl-CoA hydratase, C-terminal	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	Pfam	PF06026	Ribose 5-phosphate isomerase A (phosphoriboisomerase A)	57	231	4.1E-56	T	08-04-2025	IPR004788	Ribose 5-phosphate isomerase, type A	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	Hamap	MF_00170	Ribose-5-phosphate isomerase A [rpiA].	8	235	31.19327	T	08-04-2025	IPR020672	Ribose-5-phosphate isomerase, type A, subgroup	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	Gene3D	G3DSA:3.40.50.1360	-	12	231	2.8E-76	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	NCBIfam	TIGR00021	ribose 5-phosphate isomerase A	12	232	4.2E-73	T	08-04-2025	IPR004788	Ribose 5-phosphate isomerase, type A	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	Gene3D	G3DSA:3.30.70.260	-	133	215	2.8E-76	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	PANTHER	PTHR11934	RIBOSE-5-PHOSPHATE ISOMERASE	4	237	6.7E-64	T	08-04-2025	IPR004788	Ribose 5-phosphate isomerase, type A	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	NCBIfam	NF001924	ribose-5-phosphate isomerase RpiA	8	236	2.2E-81	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	FunFam	G3DSA:3.40.50.1360:FF:000001	Ribose-5-phosphate isomerase A	11	146	1.9E-39	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	SUPERFAMILY	SSF100950	NagB/RpiA/CoA transferase-like	8	151	1.7E-43	T	08-04-2025	IPR037171	NagB/RpiA transferase-like	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	SUPERFAMILY	SSF75445	D-ribose-5-phosphate isomerase (RpiA), lid domain	134	218	3.14E-20	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1002	5ddf4356d939a5c5aef3d67987f2c9b1	262	CDD	cd01398	RPI_A	11	228	6.30636E-103	T	08-04-2025	IPR004788	Ribose 5-phosphate isomerase, type A	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	CDD	cd11033	CYP142-like	29	415	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	SUPERFAMILY	SSF48264	Cytochrome P450	20	412	3.67E-68	T	08-04-2025	IPR036396	Cytochrome P450 superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	Gene3D	G3DSA:1.10.630.10	Cytochrome P450	5	418	2.1E-80	T	08-04-2025	IPR036396	Cytochrome P450 superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	Pfam	PF00067	Cytochrome P450	295	392	2.1E-7	T	08-04-2025	IPR001128	Cytochrome P450	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	PRINTS	PR00359	B-class P450 signature	93	104	3.4E-25	T	08-04-2025	IPR002397	Cytochrome P450, B-class	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	PRINTS	PR00359	B-class P450 signature	139	155	3.4E-25	T	08-04-2025	IPR002397	Cytochrome P450, B-class	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	PRINTS	PR00359	B-class P450 signature	156	171	3.4E-25	T	08-04-2025	IPR002397	Cytochrome P450, B-class	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	PRINTS	PR00359	B-class P450 signature	291	302	3.4E-25	T	08-04-2025	IPR002397	Cytochrome P450, B-class	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	PRINTS	PR00359	B-class P450 signature	308	335	3.4E-25	T	08-04-2025	IPR002397	Cytochrome P450, B-class	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	PRINTS	PR00359	B-class P450 signature	336	351	3.4E-25	T	08-04-2025	IPR002397	Cytochrome P450, B-class	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	PRINTS	PR00359	B-class P450 signature	367	378	3.4E-25	T	08-04-2025	IPR002397	Cytochrome P450, B-class	-	-
+5mSIPHEX1_13-scaffold_1_c1_100	e4a90a392fbd3800ad3e557ae423b857	418	PANTHER	PTHR46696	P450, PUTATIVE (EUROFUNG)-RELATED	16	416	2.6E-87	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	SFLD	SFLDS00019	Glutathione Transferase (cytosolic)	4	198	1.5E-30	T	08-04-2025	IPR040079	Glutathione transferase family	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	SUPERFAMILY	SSF47616	GST C-terminal domain-like	79	212	5.57E-16	T	08-04-2025	IPR036282	Glutathione S-transferase, C-terminal domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	CDD	cd03057	GST_N_Beta	3	76	2.76211E-25	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	Gene3D	G3DSA:1.20.1050.10	-	81	201	2.8E-49	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	Pfam	PF13409	Glutathione S-transferase, N-terminal domain	15	75	7.3E-9	T	08-04-2025	IPR004045	Glutathione S-transferase, N-terminal	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	Gene3D	G3DSA:3.40.30.10	Glutaredoxin	5	208	2.8E-49	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	ProSiteProfiles	PS50404	Soluble glutathione S-transferase N-terminal domain profile.	1	81	14.867508	T	08-04-2025	IPR004045	Glutathione S-transferase, N-terminal	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	ProSiteProfiles	PS50405	Soluble glutathione S-transferase C-terminal domain profile.	85	218	13.637263	T	08-04-2025	IPR010987	Glutathione S-transferase, C-terminal-like	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	SFLD	SFLDG00358	Main (cytGST)	4	198	1.5E-30	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	SUPERFAMILY	SSF52833	Thioredoxin-like	2	79	5.95E-19	T	08-04-2025	IPR036249	Thioredoxin-like superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1003	c8dc9764c8f4a160bbda1867948c32d3	232	PANTHER	PTHR44051	GLUTATHIONE S-TRANSFERASE-RELATED	3	211	6.0E-28	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1013	ba88b266a4bd226af353b5a5a50d61f1	158	Pfam	PF10067	Predicted membrane protein (DUF2306)	14	113	1.1E-5	T	08-04-2025	IPR018750	Protein of unknown function DUF2306, membrane	-	-
+5mSIPHEX1_13-scaffold_1_c1_1005	55eddc4dbd557f716bb493c7c4a18715	307	SUPERFAMILY	SSF103481	Multidrug resistance efflux transporter EmrE	41	142	1.96E-14	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1005	55eddc4dbd557f716bb493c7c4a18715	307	PANTHER	PTHR22911	ACYL-MALONYL CONDENSING ENZYME-RELATED	4	293	1.9E-32	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1005	55eddc4dbd557f716bb493c7c4a18715	307	SUPERFAMILY	SSF103481	Multidrug resistance efflux transporter EmrE	211	292	9.94E-10	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1005	55eddc4dbd557f716bb493c7c4a18715	307	Pfam	PF00892	EamA-like transporter family	150	282	9.2E-9	T	08-04-2025	IPR000620	EamA domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1005	55eddc4dbd557f716bb493c7c4a18715	307	Pfam	PF00892	EamA-like transporter family	7	139	1.5E-11	T	08-04-2025	IPR000620	EamA domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	NCBIfam	TIGR01930	acetyl-CoA C-acyltransferase	6	399	0.0	T	08-04-2025	IPR002155	Thiolase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	ProSitePatterns	PS00098	Thiolases acyl-enzyme intermediate signature.	86	104	-	T	08-04-2025	IPR020615	Thiolase, acyl-enzyme intermediate active site	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	ProSitePatterns	PS00099	Thiolases active site.	382	395	-	T	08-04-2025	IPR020610	Thiolase, active site	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	PANTHER	PTHR43853	3-KETOACYL-COA THIOLASE, PEROXISOMAL	3	400	4.8E-123	T	08-04-2025	IPR050215	Thiolase-like superfamily, Thiolase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	NCBIfam	NF006551	3-oxoadipyl-CoA thiolase	1	401	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	PIRSF	PIRSF000429	Ac-CoA_Ac_transf	1	401	0.0	T	08-04-2025	IPR002155	Thiolase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	CDD	cd00751	thiolase	5	400	0.0	T	08-04-2025	IPR002155	Thiolase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	NCBIfam	TIGR02430	3-oxoadipyl-CoA thiolase	3	401	0.0	T	08-04-2025	IPR012793	Beta-ketoadipyl CoA thiolase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	ProSitePatterns	PS00737	Thiolases signature 2.	347	363	-	T	08-04-2025	IPR020613	Thiolase, conserved site	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	Pfam	PF02803	Thiolase, C-terminal domain	277	400	3.5E-43	T	08-04-2025	IPR020617	Thiolase, C-terminal	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	Gene3D	G3DSA:3.40.47.10	-	1	401	0.0	T	08-04-2025	IPR016039	Thiolase-like	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	Pfam	PF00108	Thiolase, N-terminal domain	5	268	1.7E-70	T	08-04-2025	IPR020616	Thiolase, N-terminal	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	FunFam	G3DSA:3.40.47.10:FF:000010	Acetyl-CoA acetyltransferase (Thiolase)	1	400	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	SUPERFAMILY	SSF53901	Thiolase-like	4	276	3.98E-81	T	08-04-2025	IPR016039	Thiolase-like	-	-
+5mSIPHEX1_13-scaffold_1_c1_1	d4ad07960e7a7f266f6420df54851ffb	401	SUPERFAMILY	SSF53901	Thiolase-like	278	400	2.2E-46	T	08-04-2025	IPR016039	Thiolase-like	-	-
+5mSIPHEX1_13-scaffold_1_c1_1014	40dd6f177a3ecca087beca1f81bb8121	255	ProSiteProfiles	PS50930	LytTR-type HTH domain profile.	169	253	23.475687	T	08-04-2025	IPR007492	LytTR DNA-binding domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1014	40dd6f177a3ecca087beca1f81bb8121	255	Pfam	PF04397	LytTr DNA-binding domain	169	249	3.8E-10	T	08-04-2025	IPR007492	LytTR DNA-binding domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1014	40dd6f177a3ecca087beca1f81bb8121	255	Gene3D	G3DSA:2.40.50.1020	-	166	251	3.2E-8	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1014	40dd6f177a3ecca087beca1f81bb8121	255	SMART	SM00850	LytTR_3	156	252	5.2E-12	T	08-04-2025	IPR007492	LytTR DNA-binding domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00368	FAD-dependent pyridine nucleotide reductase signature	7	26	8.9E-30	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00368	FAD-dependent pyridine nucleotide reductase signature	132	150	8.9E-30	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00368	FAD-dependent pyridine nucleotide reductase signature	169	187	8.9E-30	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00368	FAD-dependent pyridine nucleotide reductase signature	253	269	8.9E-30	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00368	FAD-dependent pyridine nucleotide reductase signature	282	304	8.9E-30	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	NCBIfam	TIGR01424	glutathione-disulfide reductase	3	445	0.0	T	08-04-2025	IPR006324	Glutathione reductase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	Gene3D	G3DSA:3.50.50.60	-	5	314	1.1E-104	T	08-04-2025	IPR036188	FAD/NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	Gene3D	G3DSA:3.50.50.60	-	144	260	1.1E-104	T	08-04-2025	IPR036188	FAD/NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	Pfam	PF07992	Pyridine nucleotide-disulphide oxidoreductase	5	317	6.7E-63	T	08-04-2025	IPR023753	FAD/NAD(P)-binding domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	Gene3D	G3DSA:3.30.390.30	-	336	451	2.2E-44	T	08-04-2025	IPR016156	FAD/NAD-linked reductase, dimerisation domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	NCBIfam	NF004776	glutathione-disulfide reductase	1	445	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PANTHER	PTHR42737	GLUTATHIONE REDUCTASE	5	446	0.0	T	08-04-2025	IPR046952	Glutathione reductase/thioredoxin reductase-like	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PIRSF	PIRSF000350	Hg-II_reductase_MerA	1	446	3.9E-75	T	08-04-2025	IPR001100	Pyridine nucleotide-disulphide oxidoreductase, class I	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	FunFam	G3DSA:3.50.50.60:FF:000051	Glutathione reductase	152	270	4.6E-39	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	FunFam	G3DSA:3.30.390.30:FF:000001	Dihydrolipoyl dehydrogenase	336	450	6.0E-26	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	6	28	3.9E-70	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	38	53	3.9E-70	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	135	144	3.9E-70	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	169	194	3.9E-70	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	254	268	3.9E-70	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	297	304	3.9E-70	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	333	354	3.9E-70	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	397	412	3.9E-70	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	PRINTS	PR00411	Pyridine nucleotide disulphide reductase class-I signature	419	439	3.9E-70	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	SUPERFAMILY	SSF55424	FAD/NAD-linked reductases, dimerisation (C-terminal) domain	333	447	4.98E-35	T	08-04-2025	IPR016156	FAD/NAD-linked reductase, dimerisation domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	SUPERFAMILY	SSF51905	FAD/NAD(P)-binding domain	1	357	7.18E-51	T	08-04-2025	IPR036188	FAD/NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	ProSitePatterns	PS00076	Pyridine nucleotide-disulphide oxidoreductases class-I active site.	39	49	-	T	08-04-2025	IPR012999	Pyridine nucleotide-disulphide oxidoreductase, class I, active site	-	-
+5mSIPHEX1_13-scaffold_1_c1_1001	35f212ad6dad4bc4c455f5d96582dfbd	451	Pfam	PF02852	Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain	337	444	2.7E-31	T	08-04-2025	IPR004099	Pyridine nucleotide-disulphide oxidoreductase, dimerisation domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1004	0a88d3890c85ba81d51c224a67817e7a	458	NCBIfam	TIGR00720	L-serine ammonia-lyase	4	455	0.0	T	08-04-2025	IPR004644	Iron-sulphur-dependent L-serine dehydratase single chain form	-	-
+5mSIPHEX1_13-scaffold_1_c1_1004	0a88d3890c85ba81d51c224a67817e7a	458	PANTHER	PTHR30182	L-SERINE DEHYDRATASE	2	455	0.0	T	08-04-2025	IPR051318	Iron-sulphur-dependent L-serine dehydratase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1004	0a88d3890c85ba81d51c224a67817e7a	458	Pfam	PF03313	Serine dehydratase alpha chain	189	452	1.5E-81	T	08-04-2025	IPR005130	Serine dehydratase-like, alpha subunit	-	-
+5mSIPHEX1_13-scaffold_1_c1_1004	0a88d3890c85ba81d51c224a67817e7a	458	Pfam	PF03315	Serine dehydratase beta chain	4	155	1.5E-47	T	08-04-2025	IPR005131	Serine dehydratase beta chain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1004	0a88d3890c85ba81d51c224a67817e7a	458	Gene3D	G3DSA:3.30.1330.90	-	11	158	3.6E-49	T	08-04-2025	IPR029009	Allosteric substrate binding domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1004	0a88d3890c85ba81d51c224a67817e7a	458	SUPERFAMILY	SSF143548	Serine metabolism enzymes domain	17	156	1.05E-41	T	08-04-2025	IPR029009	Allosteric substrate binding domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	CDD	cd16444	LipB	9	211	2.58212E-100	T	08-04-2025	IPR000544	Octanoyltransferase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	NCBIfam	NF010925	lipoyl(octanoyl) transferase LipB	9	214	3.7E-43	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	ProSiteProfiles	PS51733	Biotinyl protein ligase (BPL) and lipoyl protein ligase (LPL) catalytic domain profile.	30	218	56.845123	T	08-04-2025	IPR004143	Biotinyl protein ligase (BPL) and lipoyl protein ligase (LPL), catalytic domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	SUPERFAMILY	SSF55681	Class II aaRS and biotin synthetases	8	213	1.66E-66	T	08-04-2025	IPR045864	Class II Aminoacyl-tRNA synthetase/Biotinyl protein ligase (BPL) and lipoyl protein ligase (LPL)	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	Pfam	PF21948	Lipoyl protein ligase A/B catalytic domain	13	210	6.2E-34	T	08-04-2025	IPR004143	Biotinyl protein ligase (BPL) and lipoyl protein ligase (LPL), catalytic domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	ProSitePatterns	PS01313	Lipoate-protein ligase B signature.	69	84	-	T	08-04-2025	IPR020605	Octanoyltransferase, conserved site	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	Gene3D	G3DSA:3.30.930.10	Bira Bifunctional Protein; Domain 2	2	215	7.7E-65	T	08-04-2025	IPR045864	Class II Aminoacyl-tRNA synthetase/Biotinyl protein ligase (BPL) and lipoyl protein ligase (LPL)	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	NCBIfam	NF010921	lipoyl(octanoyl) transferase LipB	1	215	3.5E-106	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	PIRSF	PIRSF016262	LPLase	1	218	4.5E-59	T	08-04-2025	IPR000544	Octanoyltransferase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	PANTHER	PTHR10993	OCTANOYLTRANSFERASE	6	203	2.6E-53	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	Hamap	MF_00013	Octanoyltransferase [lipB].	2	217	34.642776	T	08-04-2025	IPR000544	Octanoyltransferase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1015	d72438de4f13404b54d6144036c94c45	220	NCBIfam	TIGR00214	lipoyl(octanoyl) transferase LipB	34	194	1.0E-40	T	08-04-2025	IPR000544	Octanoyltransferase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1006	e05b102b84cd8d578892209406e8c27c	313	SUPERFAMILY	SSF103481	Multidrug resistance efflux transporter EmrE	204	288	4.71E-9	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1006	e05b102b84cd8d578892209406e8c27c	313	PANTHER	PTHR22911	ACYL-MALONYL CONDENSING ENZYME-RELATED	8	286	8.8E-21	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1006	e05b102b84cd8d578892209406e8c27c	313	SUPERFAMILY	SSF103481	Multidrug resistance efflux transporter EmrE	42	143	2.09E-10	T	08-04-2025	-	-	-	-
+5mSIPHEX1_13-scaffold_1_c1_1006	e05b102b84cd8d578892209406e8c27c	313	Pfam	PF00892	EamA-like transporter family	149	287	2.2E-6	T	08-04-2025	IPR000620	EamA domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1006	e05b102b84cd8d578892209406e8c27c	313	Pfam	PF00892	EamA-like transporter family	8	140	1.1E-4	T	08-04-2025	IPR000620	EamA domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1011	74aa3fb22c70e102846a12459fa93d3a	240	CDD	cd00093	HTH_XRE	3	60	4.65956E-7	T	08-04-2025	IPR001387	Cro/C1-type helix-turn-helix domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1011	74aa3fb22c70e102846a12459fa93d3a	240	Gene3D	G3DSA:1.10.260.40	-	1	76	1.8E-7	T	08-04-2025	IPR010982	Lambda repressor-like, DNA-binding domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1011	74aa3fb22c70e102846a12459fa93d3a	240	SUPERFAMILY	SSF47413	lambda repressor-like DNA-binding domains	2	63	8.0E-8	T	08-04-2025	IPR010982	Lambda repressor-like, DNA-binding domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1011	74aa3fb22c70e102846a12459fa93d3a	240	SMART	SM00530	mbf_short4	5	60	3.1E-5	T	08-04-2025	IPR001387	Cro/C1-type helix-turn-helix domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1011	74aa3fb22c70e102846a12459fa93d3a	240	Pfam	PF01381	Helix-turn-helix	9	60	0.12	T	08-04-2025	IPR001387	Cro/C1-type helix-turn-helix domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1011	74aa3fb22c70e102846a12459fa93d3a	240	ProSiteProfiles	PS50943	Cro/C1-type HTH domain profile.	6	60	10.82887	T	08-04-2025	IPR001387	Cro/C1-type helix-turn-helix domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1007	1741e51edd97f2bea966f98b8abc10af	230	NCBIfam	TIGR01378	thiamine diphosphokinase	13	203	6.0E-24	T	08-04-2025	IPR006282	Thiamin pyrophosphokinase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1007	1741e51edd97f2bea966f98b8abc10af	230	Pfam	PF04263	Thiamin pyrophosphokinase, catalytic domain	35	124	4.4E-14	T	08-04-2025	IPR007371	Thiamin pyrophosphokinase, catalytic domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1007	1741e51edd97f2bea966f98b8abc10af	230	Gene3D	G3DSA:3.40.50.10240	Thiamin pyrophosphokinase, catalytic domain	6	205	7.4E-36	T	08-04-2025	IPR036759	Thiamin pyrophosphokinase, catalytic domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1007	1741e51edd97f2bea966f98b8abc10af	230	CDD	cd07995	TPK	12	206	2.51945E-42	T	08-04-2025	IPR006282	Thiamin pyrophosphokinase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1007	1741e51edd97f2bea966f98b8abc10af	230	PANTHER	PTHR41299	THIAMINE PYROPHOSPHOKINASE	13	197	2.1E-19	T	08-04-2025	IPR053149	Thiamine pyrophosphokinase	-	-
+5mSIPHEX1_13-scaffold_1_c1_1007	1741e51edd97f2bea966f98b8abc10af	230	SUPERFAMILY	SSF63862	Thiamin pyrophosphokinase, substrate-binding domain	128	201	5.62E-9	T	08-04-2025	IPR036371	Thiamin pyrophosphokinase, thiamin-binding domain superfamily	-	-
+5mSIPHEX1_13-scaffold_1_c1_1007	1741e51edd97f2bea966f98b8abc10af	230	Pfam	PF04265	Thiamin pyrophosphokinase, vitamin B1 binding domain	147	197	0.012	T	08-04-2025	IPR007373	Thiamin pyrophosphokinase, thiamin-binding domain	-	-
+5mSIPHEX1_13-scaffold_1_c1_1007	1741e51edd97f2bea966f98b8abc10af	230	SUPERFAMILY	SSF63999	Thiamin pyrophosphokinase, catalytic domain	12	130	5.89E-27	T	08-04-2025	IPR036759	Thiamin pyrophosphokinase, catalytic domain superfamily	-	-

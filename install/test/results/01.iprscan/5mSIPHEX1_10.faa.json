@@ -1,0 +1,6123 @@
+{
+ "interproscan-version": "5.73-104.0",
+"results": [ {
+  "sequence" : "MFHNVHRYLLASTALILFPLGASAAEVSLSGQASVKYTPDSARLQFTARAEHKLPETATEEVNEQMEKWRESIEDFRDRLKSYSDASLNLYSRSIPSPERHEEPRRVAVASQTVSFTIDDLSLLNPILAQAQSLGMDYNVGPHQFFHSDEVGLRKQALAGAIADAKSRCEFVARELDKQCGEVMTINVDGGHQPPMPMMAEMRGASDAVSAVGSRELEARVSATFELE",
+  "md5" : "936fc5960046efa498d2c3b30ca4bbac",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "G3DSA:3.30.70.2970",
+      "name" : "Protein of unknown function (DUF541), domain 2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 39,
+      "end" : 148,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 208,
+      "hmmLength" : 112,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 5.0E-29,
+      "score" : 103.5,
+      "envelopeStart" : 28,
+      "envelopeEnd" : 226,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 39,
+        "end" : 148,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.4E-29,
+    "score" : 103.7,
+    "model-ac" : "4hvzA02"
+  }, {
+    "signature" : {
+      "accession" : "PF04402",
+      "name" : "SIMPL",
+      "description" : "Protein of unknown function (DUF541)",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR007497",
+        "name" : "SIMPL/DUF541",
+        "description" : "Interleukin-1 receptor-associated kinase 1-binding protein 1/DUF541",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 27,
+      "end" : 225,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 205,
+      "hmmLength" : 205,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.9E-25,
+      "score" : 101.3,
+      "envelopeStart" : 27,
+      "envelopeEnd" : 225,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 27,
+        "end" : 225,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.5E-25,
+    "score" : 101.5,
+    "model-ac" : "PF04402"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.110.170",
+      "name" : "Protein of unknown function (DUF541), domain 1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 29,
+      "end" : 226,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 208,
+      "hmmLength" : 112,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 5.0E-29,
+      "score" : 103.5,
+      "envelopeStart" : 28,
+      "envelopeEnd" : 226,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 29,
+        "end" : 38,
+        "dc-status" : "C_TERMINAL_DISC"
+      }, {
+        "start" : 149,
+        "end" : 226,
+        "dc-status" : "N_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 4.4E-29,
+    "score" : 103.7,
+    "model-ac" : "4hvzA01"
+  }, {
+    "signature" : {
+      "accession" : "PTHR34387",
+      "name" : "SLR1258 PROTEIN",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR052022",
+        "name" : "26kDa_periplasmic_antigen",
+        "description" : "26 kDa periplasmic antigen-related",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 27,
+      "end" : 228,
+      "representative" : false,
+      "hmmStart" : 35,
+      "hmmEnd" : 235,
+      "hmmLength" : 0,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "envelopeStart" : 20,
+      "envelopeEnd" : 228,
+      "location-fragments" : [ {
+        "start" : 27,
+        "end" : 228,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR34387:SF1",
+    "name" : "PERIPLASMIC IMMUNOGENIC PROTEIN",
+    "evalue" : 5.7E-23,
+    "score" : 93.4,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002856119",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR34387:SF1"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 59,
+      "end" : 86,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 59,
+        "end" : 86,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_11 # 17061 # 17747 # -1 # ID=2_11;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.584",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_11"
+  } ]
+},{
+  "sequence" : "MNHLFVDNLTVIDFAYLDASRGLVGESWIVDVVLGGELDDQGMVFDFSNVKRTIKRVIDERVDHRLVIPRAYKGLEWNEDEPDSFTWHLTDGTRILHRSPDEAVVWLSSDRVVPSAVARLLEQELRAVLPANVTDVDIALREDVIEGAYYHYVHGLKKHMGNCQRIAHGHRSPIRIDRNEHRDRDLENQWAKRWQDIYVGSEEDVTQRWVAEDGTAYVTFEYEANQGEFALTLPESRVYMLDSDTTVELIAAHIAGQLKSEFPEDAIRVKAYEGVGKGAIASR",
+  "md5" : "ec8e949212404464f0ba2c40bda9a83a",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "SSF55620",
+      "name" : "Tetrahydrobiopterin biosynthesis enzymes-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 152,
+      "representative" : false,
+      "hmmLength" : 163,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 152,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.78E-27,
+    "model-ac" : "0051175"
+  }, {
+    "signature" : {
+      "accession" : "SSF55620",
+      "name" : "Tetrahydrobiopterin biosynthesis enzymes-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 154,
+      "end" : 281,
+      "representative" : false,
+      "hmmLength" : 163,
+      "location-fragments" : [ {
+        "start" : 154,
+        "end" : 281,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.56E-25,
+    "model-ac" : "0051175"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR006113-2",
+      "name" : "PIRSR006113-2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 156,
+      "end" : 177,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Zinc.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 170,
+          "end" : 170,
+          "residue" : "H"
+        } ],
+        "label" : "METAL",
+        "group" : 3,
+        "hmmStart" : 37,
+        "hmmEnd" : 37
+      }, {
+        "description" : "Zinc.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 168,
+          "end" : 168,
+          "residue" : "H"
+        } ],
+        "label" : "METAL",
+        "group" : 2,
+        "hmmStart" : 35,
+        "hmmEnd" : 35
+      } ],
+      "hmmStart" : 22,
+      "hmmEnd" : 44,
+      "hmmLength" : 130,
+      "evalue" : 0.012,
+      "score" : 6.3,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 156,
+        "end" : 177,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.012,
+    "score" : 6.3,
+    "scope" : null,
+    "model-ac" : "PIRSR006113-2"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.479.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR038418",
+        "name" : "6-PTP_synth/QueD_sf",
+        "description" : "6-pyruvoyl tetrahydropterin synthase/QueD superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 12,
+      "end" : 153,
+      "representative" : false,
+      "hmmStart" : 28,
+      "hmmEnd" : 159,
+      "hmmLength" : 163,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.7E-23,
+      "score" : 84.8,
+      "envelopeStart" : 12,
+      "envelopeEnd" : 153,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 12,
+        "end" : 153,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.0E-31,
+    "score" : 109.4,
+    "model-ac" : "1y13A00"
+  }, {
+    "signature" : {
+      "accession" : "PF01242",
+      "name" : "PTPS",
+      "description" : "6-pyruvoyl tetrahydropterin synthase",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR007115",
+        "name" : "6-PTP_synth/QueD",
+        "description" : "6-pyruvoyl tetrahydropterin synthase/QueD family",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 25,
+      "end" : 69,
+      "representative" : true,
+      "hmmStart" : 26,
+      "hmmEnd" : 69,
+      "hmmLength" : 121,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0029,
+      "score" : 29.0,
+      "envelopeStart" : 15,
+      "envelopeEnd" : 151,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 25,
+        "end" : 69,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.0E-10,
+    "score" : 50.3,
+    "model-ac" : "PF01242"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_110 # 117829 # 118680 # -1 # ID=2_110;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.562",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_110"
+  } ]
+},{
+  "sequence" : "MIERLKSLFGSPEDEPTQPDSHQLAVAATALMVQLSRVDNDQDDEELKTIVNFAVEAHQVTRDEAEEILQDALNQADDATSLYEFTGLINEQLSQEEKQALLESIWRVAFADGRIDKYEEHLIRRMSDLLHLNHREFMQARHRAEGAD",
+  "md5" : "10ad49a27c300d3a3b441c2144c36be2",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "G3DSA:1.10.3680.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR029024",
+        "name" : "TerB-like",
+        "description" : "TerB-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 138,
+      "representative" : false,
+      "hmmStart" : 23,
+      "hmmEnd" : 149,
+      "hmmLength" : 153,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 4.2E-19,
+      "score" : 70.8,
+      "envelopeStart" : 3,
+      "envelopeEnd" : 138,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 138,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.4E-19,
+    "score" : 71.1,
+    "model-ac" : "2jxuA00"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 20,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 20,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "SSF158682",
+      "name" : "TerB-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR029024",
+        "name" : "TerB-like",
+        "description" : "TerB-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 146,
+      "representative" : false,
+      "hmmLength" : 160,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 146,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.35E-28,
+    "model-ac" : "0054415"
+  }, {
+    "signature" : {
+      "accession" : "cd07313",
+      "name" : "terB_like_2",
+      "description" : "terB_like_2",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 27,
+      "end" : 130,
+      "representative" : true,
+      "sites" : [ {
+        "description" : "putative metal binding site",
+        "numLocations" : 4,
+        "siteLocations" : [ {
+          "start" : 46,
+          "end" : 46,
+          "residue" : "E"
+        }, {
+          "start" : 119,
+          "end" : 119,
+          "residue" : "E"
+        }, {
+          "start" : 39,
+          "end" : 39,
+          "residue" : "D"
+        }, {
+          "start" : 112,
+          "end" : 112,
+          "residue" : "D"
+        } ]
+      } ],
+      "evalue" : 2.03851E-33,
+      "score" : 111.842,
+      "location-fragments" : [ {
+        "start" : 27,
+        "end" : 130,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd07313"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 55,
+      "end" : 82,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 55,
+        "end" : 82,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "PF05099",
+      "name" : "TerB",
+      "description" : "Tellurite resistance protein TerB",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR007791",
+        "name" : "DjlA_N",
+        "description" : "Co-chaperone DjlA, N-terminal",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 26,
+      "end" : 142,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 118,
+      "hmmLength" : 118,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 6.1E-26,
+      "score" : 102.4,
+      "envelopeStart" : 25,
+      "envelopeEnd" : 142,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 26,
+        "end" : 142,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.7E-26,
+    "score" : 102.8,
+    "model-ac" : "PF05099"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_102 # 109449 # 109895 # -1 # ID=2_102;partial=00;start_type=ATG;rbs_motif=AGGAG/GGAGG;rbs_spacer=11-12bp;gc_cont=0.555",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_102"
+  } ]
+},{
+  "sequence" : "MTGQGPVSFVDVRRRFEFRSIEVGRWVTPPERDRAAGRFYEALCDLMSILQGPEHLISLRGSLGLQYGIGGRPGVAAHYIPATRQLALAKNAGAGSLAHEWFHAFDHYMGHKAFRRLGSGGFASSGWLDSADQKEHPLNKRLGACFQAILLNEDGTSPSSLFQCSKRADTQMKVLYYARPEELCARAFEAFVEDSQPQSNFLVRGTVYSDEARAGLYPEGKQRQRINDAFEGYFMALGGALYREHAEDGPVGQSLSSTS",
+  "md5" : "bbfb73aaa496d90bc3f9a10df8e7706c",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PF18796",
+      "name" : "LPD1",
+      "description" : "Large polyvalent protein-associated domain 1",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR041047",
+        "name" : "LPD1",
+        "description" : "Large polyvalent protein-associated domain 1",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 169,
+      "end" : 240,
+      "representative" : true,
+      "hmmStart" : 2,
+      "hmmEnd" : 77,
+      "hmmLength" : 78,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 5.4E-21,
+      "score" : 85.7,
+      "envelopeStart" : 168,
+      "envelopeEnd" : 241,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 169,
+        "end" : 240,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.1E-21,
+    "score" : 86.5,
+    "model-ac" : "PF18796"
+  }, {
+    "signature" : {
+      "accession" : "NF041907",
+      "name" : "CLCA_X",
+      "description" : "CLCA_X family protein",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 6,
+      "end" : 241,
+      "representative" : false,
+      "hmmStart" : 13,
+      "hmmEnd" : 249,
+      "hmmLength" : 250,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 5.7E-98,
+      "score" : 338.8,
+      "envelopeStart" : 2,
+      "envelopeEnd" : 242,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 6,
+        "end" : 241,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.6E-98,
+    "score" : 339.1,
+    "model-ac" : "NF041907"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_105 # 112284 # 113063 # 1 # ID=2_105;partial=00;start_type=ATG;rbs_motif=AGxAGG/AGGxGG;rbs_spacer=5-10bp;gc_cont=0.568",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_105"
+  } ]
+},{
+  "sequence" : "MHNLTRNSLTPCLLASALLFSSGNSSAALLDAFENGGFEGYTGNTNSFNSDVPPGWTTTEGTPDVFNAGTTMNNFAWQSSSTGGDFLHGIGWDGRAGSPYVESALQVGLEGLVIGQQYEISFEQSISNSAFSEAGGYWEIIFGTESQNSSAMEMPDLGTIADWMWETMIFTATAEIQTLEVIAHSTFGPRADLGIDSFFLGDPGTNPDNPDTPDVPPTASVPTPASLPLFALGLTGVLIAGLRRRRQC",
+  "md5" : "4d9b4f1566af253b43f0e9678065e92f",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 198,
+      "end" : 219,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 198,
+        "end" : 219,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_112 # 119628 # 120374 # 1 # ID=2_112;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.522",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_112"
+  } ]
+},{
+  "sequence" : "MIVYGHRGAKGEAPENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTVDRTTGQEGNVANYTASELADMDARRNTTAWPRKAGIPTLEALLNEFPDFEHLQLEVKKDNRHRLNILCNRLTEIIQRRDLYKRVVITSSDSWFLQEARRRDRKVRIGLVTDRKFPRPVNTAARLHCDFLCIGWRICTSAIVDDAHRRGMHVSTWTVNRIHDMVQLEAKGVDSIITDYPTSTRMFFDNRAKAALHLPTPQESAESTDSTRPAISS",
+  "md5" : "07f27fdc821af000f9bb9ebeaca533a7",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "cd08556",
+      "name" : "GDPD",
+      "description" : "GDPD",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 229,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "catalytic site",
+        "numLocations" : 2,
+        "siteLocations" : [ {
+          "start" : 48,
+          "end" : 48,
+          "residue" : "H"
+        }, {
+          "start" : 6,
+          "end" : 6,
+          "residue" : "H"
+        } ]
+      }, {
+        "description" : "metal binding site",
+        "numLocations" : 3,
+        "siteLocations" : [ {
+          "start" : 33,
+          "end" : 33,
+          "residue" : "E"
+        }, {
+          "start" : 35,
+          "end" : 35,
+          "residue" : "D"
+        }, {
+          "start" : 107,
+          "end" : 107,
+          "residue" : "E"
+        } ]
+      }, {
+        "description" : "active site",
+        "numLocations" : 8,
+        "siteLocations" : [ {
+          "start" : 33,
+          "end" : 33,
+          "residue" : "E"
+        }, {
+          "start" : 35,
+          "end" : 35,
+          "residue" : "D"
+        }, {
+          "start" : 161,
+          "end" : 161,
+          "residue" : "V"
+        }, {
+          "start" : 48,
+          "end" : 48,
+          "residue" : "H"
+        }, {
+          "start" : 6,
+          "end" : 6,
+          "residue" : "H"
+        }, {
+          "start" : 141,
+          "end" : 141,
+          "residue" : "S"
+        }, {
+          "start" : 107,
+          "end" : 107,
+          "residue" : "E"
+        }, {
+          "start" : 206,
+          "end" : 206,
+          "residue" : "W"
+        } ]
+      } ],
+      "evalue" : 8.68579E-59,
+      "score" : 183.619,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 229,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd08556"
+  }, {
+    "signature" : {
+      "accession" : "PS51704",
+      "name" : "GP_PDE",
+      "description" : "GP-PDE domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR030395",
+        "name" : "GP_PDE_dom",
+        "description" : "Glycerophosphodiester phosphodiesterase domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 237,
+      "representative" : true,
+      "score" : 31.706619,
+      "alignment" : "MIVYGHRGAKGEAPENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTVDRTTGQEGNVANYTASELADMDarrnTTAWP--------RKAGIPTLEALL-NEFPDFEHLQLEVK---------KDNRHRLNILCNRLtEiIQRRDlykRVVITSSDSWFLQEARRRDRKVRIGLVTDRKFP-----------RPVNTAARLhCDFLcigwRICTSAIVDDAHRRGMHVST-WTVNRIHDMVQLEAKGVDSIITDYPTSTRMFF",
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 237,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS51704"
+  }, {
+    "signature" : {
+      "accession" : "PF03009",
+      "name" : "GDPD",
+      "description" : "Glycerophosphoryl diester phosphodiesterase family",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR030395",
+        "name" : "GP_PDE_dom",
+        "description" : "Glycerophosphodiester phosphodiesterase domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 6,
+      "end" : 230,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 242,
+      "hmmLength" : 244,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 3.2E-37,
+      "score" : 140.5,
+      "envelopeStart" : 6,
+      "envelopeEnd" : 232,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 6,
+        "end" : 230,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.7E-37,
+    "score" : 140.7,
+    "model-ac" : "PF03009"
+  }, {
+    "signature" : {
+      "accession" : "PS50007",
+      "name" : "PIPLC_X_DOMAIN",
+      "description" : "Phosphatidylinositol-specific phospholipase X-box domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 15,
+      "end" : 52,
+      "representative" : false,
+      "score" : 9.2293,
+      "alignment" : "---------------------------ENTLAGFTHAYRHGVRHFELDLVLSKDGMPMVIHDLTV--------------------------------------------------------------------------------",
+      "location-fragments" : [ {
+        "start" : 15,
+        "end" : 52,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50007"
+  }, {
+    "signature" : {
+      "accession" : "PTHR46211",
+      "name" : "GLYCEROPHOSPHORYL DIESTER PHOSPHODIESTERASE",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 237,
+      "representative" : false,
+      "hmmStart" : 34,
+      "hmmEnd" : 269,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 240,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 237,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR46211:SF1",
+    "name" : "GLYCEROPHOSPHODIESTER PHOSPHODIESTERASE, CYTOPLASMIC",
+    "evalue" : 2.5E-52,
+    "score" : 189.7,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002360583",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR46211:SF1"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.20.20.190",
+      "name" : "Phosphatidylinositol (PI) phosphodiesterase",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR017946",
+        "name" : "PLC-like_Pdiesterase_TIM-brl",
+        "description" : "PLC-like phosphodiesterase, TIM beta/alpha-barrel domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 238,
+      "representative" : false,
+      "hmmStart" : 13,
+      "hmmEnd" : 245,
+      "hmmLength" : 252,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 4.6E-63,
+      "score" : 215.1,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 238,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 238,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.9E-63,
+    "score" : 215.3,
+    "model-ac" : "2pz0B00"
+  }, {
+    "signature" : {
+      "accession" : "SSF51695",
+      "name" : "PLC-like phosphodiesterases",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR017946",
+        "name" : "PLC-like_Pdiesterase_TIM-brl",
+        "description" : "PLC-like phosphodiesterase, TIM beta/alpha-barrel domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 231,
+      "representative" : false,
+      "hmmLength" : 328,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 231,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.12E-63,
+    "model-ac" : "0049567"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 250,
+      "end" : 266,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 250,
+        "end" : 266,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Polar"
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 247,
+      "end" : 266,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 247,
+        "end" : 266,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_100 # 107508 # 108308 # -1 # ID=2_100;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.574",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_100"
+  } ]
+},{
+  "sequence" : "MNNCIFITGAAAGIGRETARLFASKGWFVGAADRDEAALASLESELGDDRCSTHIVDVVDETSVRQGLADFASRTGGRLRLLHNNAGILKVGPFEKINLAAHRAVVEVNVIGLMTVLHGAFPYLKATPGAQVVNMSSASAAYGIPDFASYSASKHAVRAMTEALDIEWEPHDIRVCDLMPPFVNTGMVQQNEQGSRLFERLGVNLTPDVVAAQVWAQVEQPRLHRPVSMQFRALWPIAKSAPTSLTRRVLRKLWRQ",
+  "md5" : "8fef911d326c23865bfdecb1358f6fbf",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PIRSR617711-2",
+      "name" : "PIRSR617711-2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 186,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "NAD.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 154,
+          "end" : 154,
+          "residue" : "K"
+        } ],
+        "label" : "BINDING",
+        "group" : 3,
+        "hmmStart" : 159,
+        "hmmEnd" : 159
+      }, {
+        "description" : "NAD.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 57,
+          "end" : 57,
+          "residue" : "D"
+        } ],
+        "label" : "BINDING",
+        "group" : 2,
+        "hmmStart" : 59,
+        "hmmEnd" : 59
+      } ],
+      "hmmStart" : 6,
+      "hmmEnd" : 190,
+      "hmmLength" : 277,
+      "evalue" : 1.0E-15,
+      "score" : 47.8,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 186,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.0E-15,
+    "score" : 47.8,
+    "scope" : null,
+    "model-ac" : "PIRSR617711-2"
+  }, {
+    "signature" : {
+      "accession" : "PF00106",
+      "name" : "adh_short",
+      "description" : "short chain dehydrogenase",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR002347",
+        "name" : "SDR_fam",
+        "description" : "Short-chain dehydrogenase/reductase SDR",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 193,
+      "representative" : true,
+      "hmmStart" : 2,
+      "hmmEnd" : 192,
+      "hmmLength" : 195,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 1.6E-41,
+      "score" : 153.5,
+      "envelopeStart" : 3,
+      "envelopeEnd" : 196,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 193,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.3E-41,
+    "score" : 153.7,
+    "model-ac" : "PF00106"
+  }, {
+    "signature" : {
+      "accession" : "SSF51735",
+      "name" : "NAD(P)-binding Rossmann-fold domains",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR036291",
+        "name" : "NAD(P)-bd_dom_sf",
+        "description" : "NAD(P)-binding domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 253,
+      "representative" : false,
+      "hmmLength" : 302,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 253,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.71E-58,
+    "model-ac" : "0051542"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR614058-1",
+      "name" : "PIRSR614058-1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 131,
+      "end" : 181,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Proton acceptor.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 150,
+          "end" : 150,
+          "residue" : "Y"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 194,
+        "hmmEnd" : 194
+      } ],
+      "hmmStart" : 175,
+      "hmmEnd" : 225,
+      "hmmLength" : 288,
+      "evalue" : 4.4E-6,
+      "score" : 16.3,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 131,
+        "end" : 181,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.4E-6,
+    "score" : 16.3,
+    "scope" : null,
+    "model-ac" : "PIRSR614058-1"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.720",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 247,
+      "representative" : false,
+      "hmmStart" : 8,
+      "hmmEnd" : 242,
+      "hmmLength" : 281,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.4E-56,
+      "score" : 193.0,
+      "envelopeStart" : 2,
+      "envelopeEnd" : 247,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 247,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.0E-56,
+    "score" : 193.3,
+    "model-ac" : "3m1aJ00"
+  }, {
+    "signature" : {
+      "accession" : "PR00080",
+      "name" : "SDRFAMILY",
+      "description" : "Short-chain dehydrogenase/reductase (SDR) superfamily signature",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR002347",
+        "name" : "SDR_fam",
+        "description" : "Short-chain dehydrogenase/reductase SDR",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 77,
+      "end" : 88,
+      "representative" : false,
+      "pvalue" : 5.11E-5,
+      "score" : 50.18,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 77,
+        "end" : 88,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 130,
+      "end" : 138,
+      "representative" : false,
+      "pvalue" : 0.00538,
+      "score" : 33.09,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 130,
+        "end" : 138,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 150,
+      "end" : 169,
+      "representative" : false,
+      "pvalue" : 1.59E-6,
+      "score" : 36.65,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 150,
+        "end" : 169,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.0E-7,
+    "graphscan" : "III",
+    "model-ac" : "PR00080"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR614007-2",
+      "name" : "PIRSR614007-2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 192,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "NAD.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 154,
+          "end" : 154,
+          "residue" : "K"
+        } ],
+        "label" : "BINDING",
+        "group" : 6,
+        "hmmStart" : 156,
+        "hmmEnd" : 156
+      }, {
+        "description" : "NAD.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 33,
+          "end" : 33,
+          "residue" : "D"
+        } ],
+        "label" : "BINDING",
+        "group" : 2,
+        "hmmStart" : 33,
+        "hmmEnd" : 33
+      }, {
+        "description" : "NAD.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 150,
+          "end" : 150,
+          "residue" : "Y"
+        } ],
+        "label" : "BINDING",
+        "group" : 5,
+        "hmmStart" : 152,
+        "hmmEnd" : 152
+      }, {
+        "description" : "NAD.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 180,
+          "end" : 185,
+          "residue" : "PPFVNT"
+        } ],
+        "label" : "NP_BIND",
+        "group" : 7,
+        "hmmStart" : 182,
+        "hmmEnd" : 187
+      }, {
+        "description" : "NAD.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 57,
+          "end" : 58,
+          "residue" : "DV"
+        } ],
+        "label" : "NP_BIND",
+        "group" : 3,
+        "hmmStart" : 59,
+        "hmmEnd" : 60
+      }, {
+        "description" : "NAD; via carbonyl oxygen.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 85,
+          "end" : 85,
+          "residue" : "N"
+        } ],
+        "label" : "BINDING",
+        "group" : 4,
+        "hmmStart" : 86,
+        "hmmEnd" : 86
+      } ],
+      "hmmStart" : 2,
+      "hmmEnd" : 194,
+      "hmmLength" : 256,
+      "evalue" : 2.2E-27,
+      "score" : 86.2,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 192,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.2E-27,
+    "score" : 86.2,
+    "scope" : null,
+    "model-ac" : "PIRSR614007-2"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR617711-1",
+      "name" : "PIRSR617711-1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 186,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Proton acceptor.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 150,
+          "end" : 150,
+          "residue" : "Y"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 155,
+        "hmmEnd" : 155
+      } ],
+      "hmmStart" : 6,
+      "hmmEnd" : 190,
+      "hmmLength" : 277,
+      "evalue" : 1.0E-15,
+      "score" : 47.8,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 186,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.0E-15,
+    "score" : 47.8,
+    "scope" : null,
+    "model-ac" : "PIRSR617711-1"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR000095-1",
+      "name" : "PIRSR000095-1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 7,
+      "end" : 189,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Proton acceptor.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 150,
+          "end" : 150,
+          "residue" : "Y"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 142,
+        "hmmEnd" : 142
+      } ],
+      "hmmStart" : 2,
+      "hmmEnd" : 181,
+      "hmmLength" : 268,
+      "evalue" : 2.7E-23,
+      "score" : 72.8,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 7,
+        "end" : 189,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.7E-23,
+    "score" : 72.8,
+    "scope" : null,
+    "model-ac" : "PIRSR000095-1"
+  }, {
+    "signature" : {
+      "accession" : "PR00081",
+      "name" : "GDHRDH",
+      "description" : "Glucose/ribitol dehydrogenase family signature",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR002347",
+        "name" : "SDR_fam",
+        "description" : "Short-chain dehydrogenase/reductase SDR",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 21,
+      "representative" : false,
+      "pvalue" : 7.79E-8,
+      "score" : 41.26,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 21,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 77,
+      "end" : 88,
+      "representative" : false,
+      "pvalue" : 2.21E-5,
+      "score" : 51.57,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 77,
+        "end" : 88,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 124,
+      "end" : 140,
+      "representative" : false,
+      "pvalue" : 7.22E-4,
+      "score" : 22.54,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 124,
+        "end" : 140,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 150,
+      "end" : 169,
+      "representative" : false,
+      "pvalue" : 3.6E-7,
+      "score" : 35.89,
+      "motifNumber" : 4,
+      "location-fragments" : [ {
+        "start" : 150,
+        "end" : 169,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 171,
+      "end" : 188,
+      "representative" : false,
+      "pvalue" : 0.00105,
+      "score" : 29.84,
+      "motifNumber" : 5,
+      "location-fragments" : [ {
+        "start" : 171,
+        "end" : 188,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.7E-19,
+    "graphscan" : "IIiIi.",
+    "model-ac" : "PR00081"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR611284-2",
+      "name" : "PIRSR611284-2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 190,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "NADP.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 150,
+          "end" : 154,
+          "residue" : "YSASK"
+        } ],
+        "label" : "NP_BIND",
+        "group" : 5,
+        "hmmStart" : 155,
+        "hmmEnd" : 159
+      }, {
+        "description" : "NADP; via carbonyl oxygen.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 85,
+          "end" : 85,
+          "residue" : "N"
+        } ],
+        "label" : "BINDING",
+        "group" : 4,
+        "hmmStart" : 90,
+        "hmmEnd" : 90
+      } ],
+      "hmmStart" : 8,
+      "hmmEnd" : 195,
+      "hmmLength" : 247,
+      "evalue" : 1.3E-24,
+      "score" : 77.3,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 190,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.3E-24,
+    "score" : 77.3,
+    "scope" : null,
+    "model-ac" : "PIRSR611284-2"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR611284-1",
+      "name" : "PIRSR611284-1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 190,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Proton acceptor.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 150,
+          "end" : 150,
+          "residue" : "Y"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 155,
+        "hmmEnd" : 155
+      } ],
+      "hmmStart" : 8,
+      "hmmEnd" : 195,
+      "hmmLength" : 247,
+      "evalue" : 1.3E-24,
+      "score" : 77.3,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 190,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.3E-24,
+    "score" : 77.3,
+    "scope" : null,
+    "model-ac" : "PIRSR611284-1"
+  }, {
+    "signature" : {
+      "accession" : "NF006123",
+      "name" : "PRK08267.1",
+      "description" : "SDR family oxidoreductase",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 253,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 256,
+      "hmmLength" : 261,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 1.3E-92,
+      "score" : 321.3,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 256,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 253,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.2E-92,
+    "score" : 321.4,
+    "model-ac" : "NF006123"
+  }, {
+    "signature" : {
+      "accession" : "PTHR44196",
+      "name" : "DEHYDROGENASE/REDUCTASE SDR FAMILY MEMBER 7B",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 236,
+      "representative" : false,
+      "hmmStart" : 54,
+      "hmmEnd" : 296,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 256,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 236,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR44196:SF1",
+    "name" : "DEHYDROGENASE_REDUCTASE SDR FAMILY MEMBER 7B",
+    "evalue" : 7.9E-46,
+    "score" : 168.2,
+    "proteinClass" : null,
+    "graftPoint" : "PTN008454901",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR44196:SF1"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR614007-1",
+      "name" : "PIRSR614007-1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 192,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Proton acceptor.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 150,
+          "end" : 150,
+          "residue" : "Y"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 152,
+        "hmmEnd" : 152
+      } ],
+      "hmmStart" : 2,
+      "hmmEnd" : 194,
+      "hmmLength" : 256,
+      "evalue" : 2.2E-27,
+      "score" : 86.2,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 192,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.2E-27,
+    "score" : 86.2,
+    "scope" : null,
+    "model-ac" : "PIRSR614007-1"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_106 # 113105 # 113875 # 1 # ID=2_106;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.593",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_106"
+  } ]
+},{
+  "sequence" : "MGNQSSVQASLSAGARYRLVSPEDEDTLTNDAAASELLKDFTRQAPVIVRSSREIQEVKKTLDVSGETFCVVINRNDEVVGILTLKDLIGSWPMSLANQRGSTIADIVARDIMRPVWRLPTIELGKLQDLKIDELITIFKGLHSDYLLVMDTVAVGAEEQVICGLLSADELSRRLGIRVTPDPGPGSFSDIVHAVRKNPG",
+  "md5" : "aaa113cd18195f8b8292d7ebfca33d5d",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "G3DSA:3.10.580.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR046342",
+        "name" : "CBS_dom_sf",
+        "description" : "CBS domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 21,
+      "end" : 174,
+      "representative" : false,
+      "hmmStart" : 19,
+      "hmmEnd" : 145,
+      "hmmLength" : 152,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.4E-7,
+      "score" : 33.8,
+      "envelopeStart" : 21,
+      "envelopeEnd" : 174,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 21,
+        "end" : 174,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.5E-8,
+    "score" : 34.4,
+    "model-ac" : "3ddjA01"
+  }, {
+    "signature" : {
+      "accession" : "SSF54631",
+      "name" : "CBS-domain pair",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR046342",
+        "name" : "CBS_dom_sf",
+        "description" : "CBS domain superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 39,
+      "end" : 173,
+      "representative" : false,
+      "hmmLength" : 141,
+      "location-fragments" : [ {
+        "start" : 39,
+        "end" : 173,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.12E-10,
+    "model-ac" : "0054929"
+  }, {
+    "signature" : {
+      "accession" : "PF00571",
+      "name" : "CBS",
+      "description" : "CBS domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR000644",
+        "name" : "CBS_dom",
+        "description" : "CBS domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 39,
+      "end" : 89,
+      "representative" : true,
+      "hmmStart" : 2,
+      "hmmEnd" : 52,
+      "hmmLength" : 57,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.19,
+      "score" : 23.4,
+      "envelopeStart" : 38,
+      "envelopeEnd" : 92,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 39,
+        "end" : 89,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0087,
+    "score" : 27.7,
+    "model-ac" : "PF00571"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_1 # 649 # 1251 # 1 # ID=2_1;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.552",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_1"
+  } ]
+},{
+  "sequence" : "MNMNAPQETPTLKPSRRFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTEYPLALQLGGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEGVQAMIAATSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKENRDIPPLKYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLAGVDTEFFGQPMPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQFRRYISENAHKPGSGIEVIERAMAKVPEPAEATVVPA",
+  "md5" : "72251532941e8cd89763905d7ae28f59",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "G3DSA:1.20.120.1460",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 261,
+      "end" : 334,
+      "representative" : false,
+      "hmmStart" : 6,
+      "hmmEnd" : 68,
+      "hmmLength" : 75,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.2E-21,
+      "score" : 77.8,
+      "envelopeStart" : 261,
+      "envelopeEnd" : 334,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 261,
+        "end" : 334,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.7E-22,
+    "score" : 79.4,
+    "model-ac" : "3b0pA02"
+  }, {
+    "signature" : {
+      "accession" : "NF008774",
+      "name" : "PRK11815.1",
+      "description" : "tRNA dihydrouridine(20/20a) synthase DusA",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 336,
+      "representative" : false,
+      "hmmStart" : 7,
+      "hmmEnd" : 333,
+      "hmmLength" : 337,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 512.4,
+      "envelopeStart" : 4,
+      "envelopeEnd" : 339,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 336,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 512.7,
+    "model-ac" : "NF008774"
+  }, {
+    "signature" : {
+      "accession" : "PTHR42907",
+      "name" : "FMN-LINKED OXIDOREDUCTASES SUPERFAMILY PROTEIN",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR004653",
+        "name" : "DusA",
+        "description" : "tRNA-dihydrouridine(20/20a) synthase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 14,
+      "end" : 334,
+      "representative" : false,
+      "hmmStart" : 11,
+      "hmmEnd" : 341,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 3,
+      "envelopeEnd" : 341,
+      "location-fragments" : [ {
+        "start" : 14,
+        "end" : 334,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR42907:SF1",
+    "name" : "FMN-LINKED OXIDOREDUCTASES SUPERFAMILY PROTEIN",
+    "evalue" : 2.7E-123,
+    "score" : 423.5,
+    "proteinClass" : null,
+    "graftPoint" : "PTN000119147",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR42907:SF1"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.20.20.70",
+      "name" : "Aldolase class I",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR013785",
+        "name" : "Aldolase_TIM",
+        "description" : "Aldolase-type TIM barrel",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 14,
+      "end" : 256,
+      "representative" : false,
+      "hmmStart" : 5,
+      "hmmEnd" : 239,
+      "hmmLength" : 243,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.5E-79,
+      "score" : 268.9,
+      "envelopeStart" : 14,
+      "envelopeEnd" : 256,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 14,
+        "end" : 256,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.2E-79,
+    "score" : 269.2,
+    "model-ac" : "3b0pA01"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR006621-1",
+      "name" : "PIRSR006621-1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 15,
+      "end" : 305,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Proton donor.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 105,
+          "end" : 105,
+          "residue" : "C"
+        } ],
+        "label" : "ACT_SITE",
+        "group" : 1,
+        "hmmStart" : 101,
+        "hmmEnd" : 101
+      } ],
+      "hmmStart" : 10,
+      "hmmEnd" : 297,
+      "hmmLength" : 299,
+      "evalue" : 6.3E-76,
+      "score" : 245.5,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 15,
+        "end" : 305,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.3E-76,
+    "score" : 245.5,
+    "scope" : null,
+    "model-ac" : "PIRSR006621-1"
+  }, {
+    "signature" : {
+      "accession" : "TIGR00742",
+      "name" : "yjbN",
+      "description" : "tRNA dihydrouridine(20/20a) synthase DusA",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : {
+        "accession" : "IPR004653",
+        "name" : "DusA",
+        "description" : "tRNA-dihydrouridine(20/20a) synthase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 16,
+      "end" : 332,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 317,
+      "hmmLength" : 318,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 0.0,
+      "score" : 467.0,
+      "envelopeStart" : 16,
+      "envelopeEnd" : 333,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 16,
+        "end" : 332,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 467.2,
+    "model-ac" : "TIGR00742"
+  }, {
+    "signature" : {
+      "accession" : "PS01136",
+      "name" : "UPF0034",
+      "description" : "Uncharacterized protein family UPF0034 signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR018517",
+        "name" : "tRNA_hU_synthase_CS",
+        "description" : "tRNA-dihydrouridine synthase, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 99,
+      "end" : 117,
+      "representative" : false,
+      "level" : "STRONG",
+      "cigarAlignment" : "4M1I3M3I1M5I2M",
+      "alignment" : "VNLNvGCPsdrVqnnmiGA",
+      "location-fragments" : [ {
+        "start" : 99,
+        "end" : 117,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01136"
+  }, {
+    "signature" : {
+      "accession" : "SSF51395",
+      "name" : "FMN-linked oxidoreductases",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 17,
+      "end" : 331,
+      "representative" : false,
+      "hmmLength" : 305,
+      "location-fragments" : [ {
+        "start" : 17,
+        "end" : 331,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.86E-75,
+    "model-ac" : "0044760"
+  }, {
+    "signature" : {
+      "accession" : "cd02801",
+      "name" : "DUS_like_FMN",
+      "description" : "DUS_like_FMN",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : {
+        "accession" : "IPR035587",
+        "name" : "DUS-like_FMN-bd",
+        "description" : "DUS-like, FMN-binding domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 17,
+      "end" : 256,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "substrate binding site",
+        "numLocations" : 6,
+        "siteLocations" : [ {
+          "start" : 217,
+          "end" : 217,
+          "residue" : "G"
+        }, {
+          "start" : 144,
+          "end" : 144,
+          "residue" : "K"
+        }, {
+          "start" : 218,
+          "end" : 218,
+          "residue" : "G"
+        }, {
+          "start" : 175,
+          "end" : 175,
+          "residue" : "V"
+        }, {
+          "start" : 179,
+          "end" : 179,
+          "residue" : "I"
+        }, {
+          "start" : 106,
+          "end" : 106,
+          "residue" : "P"
+        } ]
+      }, {
+        "description" : "FMN binding site",
+        "numLocations" : 12,
+        "siteLocations" : [ {
+          "start" : 75,
+          "end" : 75,
+          "residue" : "Q"
+        }, {
+          "start" : 22,
+          "end" : 22,
+          "residue" : "P"
+        }, {
+          "start" : 216,
+          "end" : 216,
+          "residue" : "N"
+        }, {
+          "start" : 144,
+          "end" : 144,
+          "residue" : "K"
+        }, {
+          "start" : 218,
+          "end" : 218,
+          "residue" : "G"
+        }, {
+          "start" : 48,
+          "end" : 48,
+          "residue" : "M"
+        }, {
+          "start" : 176,
+          "end" : 176,
+          "residue" : "H"
+        }, {
+          "start" : 102,
+          "end" : 102,
+          "residue" : "N"
+        }, {
+          "start" : 239,
+          "end" : 239,
+          "residue" : "R"
+        }, {
+          "start" : 21,
+          "end" : 21,
+          "residue" : "A"
+        }, {
+          "start" : 238,
+          "end" : 238,
+          "residue" : "G"
+        }, {
+          "start" : 23,
+          "end" : 23,
+          "residue" : "M"
+        } ]
+      }, {
+        "description" : "catalytic residues",
+        "numLocations" : 4,
+        "siteLocations" : [ {
+          "start" : 105,
+          "end" : 105,
+          "residue" : "C"
+        }, {
+          "start" : 176,
+          "end" : 176,
+          "residue" : "H"
+        }, {
+          "start" : 146,
+          "end" : 146,
+          "residue" : "R"
+        }, {
+          "start" : 178,
+          "end" : 178,
+          "residue" : "R"
+        } ]
+      }, {
+        "description" : "active site",
+        "numLocations" : 12,
+        "siteLocations" : [ {
+          "start" : 75,
+          "end" : 75,
+          "residue" : "Q"
+        }, {
+          "start" : 217,
+          "end" : 217,
+          "residue" : "G"
+        }, {
+          "start" : 218,
+          "end" : 218,
+          "residue" : "G"
+        }, {
+          "start" : 144,
+          "end" : 144,
+          "residue" : "K"
+        }, {
+          "start" : 175,
+          "end" : 175,
+          "residue" : "V"
+        }, {
+          "start" : 105,
+          "end" : 105,
+          "residue" : "C"
+        }, {
+          "start" : 176,
+          "end" : 176,
+          "residue" : "H"
+        }, {
+          "start" : 179,
+          "end" : 179,
+          "residue" : "I"
+        }, {
+          "start" : 239,
+          "end" : 239,
+          "residue" : "R"
+        }, {
+          "start" : 178,
+          "end" : 178,
+          "residue" : "R"
+        }, {
+          "start" : 146,
+          "end" : 146,
+          "residue" : "R"
+        }, {
+          "start" : 106,
+          "end" : 106,
+          "residue" : "P"
+        } ]
+      } ],
+      "evalue" : 1.12353E-94,
+      "score" : 279.379,
+      "location-fragments" : [ {
+        "start" : 17,
+        "end" : 256,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd02801"
+  }, {
+    "signature" : {
+      "accession" : "PF01207",
+      "name" : "Dus",
+      "description" : "Dihydrouridine synthase (Dus)",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR035587",
+        "name" : "DUS-like_FMN-bd",
+        "description" : "DUS-like, FMN-binding domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 20,
+      "end" : 323,
+      "representative" : true,
+      "hmmStart" : 2,
+      "hmmEnd" : 302,
+      "hmmLength" : 311,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 7.7E-86,
+      "score" : 299.6,
+      "envelopeStart" : 19,
+      "envelopeEnd" : 331,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 20,
+        "end" : 323,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.4E-86,
+    "score" : 299.9,
+    "model-ac" : "PF01207"
+  }, {
+    "signature" : {
+      "accession" : "MF_02041",
+      "name" : "DusA_subfam",
+      "description" : "tRNA-dihydrouridine(20/20a) synthase [dusA].",
+      "signatureLibraryRelease" : {
+        "library" : "HAMAP",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR004653",
+        "name" : "DusA",
+        "description" : "tRNA-dihydrouridine(20/20a) synthase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 12,
+      "end" : 333,
+      "representative" : false,
+      "score" : 51.638084,
+      "alignment" : "LKPSRRFCVAPMMDWTTSHYRYLARQLSRHTLLYTEMVTTGALIHGDTARFLRHDPTEYPLALQLGGGNPQELAHCAKLAEQYGFDEVNLNVGCPSDRVQNNMIGACLMAHPDKVAEGVQAMIAATSLPVTVKHRIGIDGRESWDDLCEFIEKVSQAGCRTFIVHARIAVLEGLSPKENRDIPPLKYDWVYRLKARYPHLEIIINGGIKTFAECREHLEHTDGVMLGREAYHNPWLLAGVDTEFFGQPMPISSRHEALRAVLPFIQSELDRGVYLSHISRHLMGLFHGQPGGRQFRRYISENAHKPGSGIEVIERAMAKVPE",
+      "location-fragments" : [ {
+        "start" : 12,
+        "end" : 333,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "MF_02041"
+  }, {
+    "signature" : {
+      "accession" : "PIRSF006621",
+      "name" : "Dus",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSF",
+        "version" : "3.10"
+      },
+      "entry" : {
+        "accession" : "IPR001269",
+        "name" : "DUS_fam",
+        "description" : "tRNA-dihydrouridine synthase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 7,
+      "end" : 338,
+      "representative" : false,
+      "hmmStart" : 15,
+      "hmmEnd" : 330,
+      "hmmLength" : 334,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.7E-75,
+      "score" : 251.0,
+      "envelopeStart" : 7,
+      "envelopeEnd" : 338,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 7,
+        "end" : 338,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.1E-75,
+    "score" : 251.4,
+    "model-ac" : "PIRSF006621"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_104 # 111016 # 112044 # -1 # ID=2_104;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.589",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_104"
+  } ]
+},{
+  "sequence" : "MTCVRGSEETQVQMHTIAGSDYHAFPVLLLAAGASRRMGRPKALLKFNDGTLMDHAVSQAKQLGANVTVVSGSGYPLVRYRCRNQPSAWCYTPDWVFGMAASLKSGLQTIGPRAKGVFVTLLDQPLVSESDLRSLAFCARQEVSEPFAADIYGNPGAPAYIPRRLWKEIMMLEGDRGAARILTRHQAKTLAIKGVESDVDTPEDWRRIRYD",
+  "md5" : "ea4cde76ecf246771de4777a727eb6a2",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "cd04182",
+      "name" : "GT_2_like_f",
+      "description" : "GT_2_like_f",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 27,
+      "end" : 206,
+      "representative" : true,
+      "sites" : [ {
+        "description" : "Ligand binding site",
+        "numLocations" : 3,
+        "siteLocations" : [ {
+          "start" : 123,
+          "end" : 123,
+          "residue" : "D"
+        }, {
+          "start" : 32,
+          "end" : 32,
+          "residue" : "A"
+        }, {
+          "start" : 30,
+          "end" : 30,
+          "residue" : "L"
+        } ]
+      }, {
+        "description" : "metal binding site",
+        "numLocations" : 3,
+        "siteLocations" : [ {
+          "start" : 198,
+          "end" : 198,
+          "residue" : "D"
+        }, {
+          "start" : 123,
+          "end" : 123,
+          "residue" : "D"
+        }, {
+          "start" : 200,
+          "end" : 200,
+          "residue" : "D"
+        } ]
+      } ],
+      "evalue" : 1.91282E-50,
+      "score" : 160.033,
+      "location-fragments" : [ {
+        "start" : 27,
+        "end" : 206,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd04182"
+  }, {
+    "signature" : {
+      "accession" : "PTHR43777",
+      "name" : "MOLYBDENUM COFACTOR CYTIDYLYLTRANSFERASE",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 28,
+      "end" : 209,
+      "representative" : false,
+      "hmmStart" : 10,
+      "hmmEnd" : 197,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 22,
+      "envelopeEnd" : 211,
+      "location-fragments" : [ {
+        "start" : 28,
+        "end" : 209,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR43777:SF1",
+    "name" : "MOLYBDENUM COFACTOR CYTIDYLYLTRANSFERASE",
+    "evalue" : 1.6E-33,
+    "score" : 127.7,
+    "proteinClass" : null,
+    "graftPoint" : "PTN008119860",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR43777:SF1"
+  }, {
+    "signature" : {
+      "accession" : "SSF53448",
+      "name" : "Nucleotide-diphospho-sugar transferases",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR029044",
+        "name" : "Nucleotide-diphossugar_trans",
+        "description" : "Nucleotide-diphospho-sugar transferases",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 27,
+      "end" : 205,
+      "representative" : false,
+      "hmmLength" : 231,
+      "location-fragments" : [ {
+        "start" : 27,
+        "end" : 205,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.7E-20,
+    "model-ac" : "0053839"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.90.550.10",
+      "name" : "Spore Coat Polysaccharide Biosynthesis Protein SpsA; Chain A",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR029044",
+        "name" : "Nucleotide-diphossugar_trans",
+        "description" : "Nucleotide-diphospho-sugar transferases",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 24,
+      "end" : 210,
+      "representative" : false,
+      "hmmStart" : 8,
+      "hmmEnd" : 191,
+      "hmmLength" : 199,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.8E-42,
+      "score" : 147.1,
+      "envelopeStart" : 24,
+      "envelopeEnd" : 210,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 24,
+        "end" : 210,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.2E-42,
+    "score" : 147.4,
+    "model-ac" : "2wawA00"
+  }, {
+    "signature" : {
+      "accession" : "PF12804",
+      "name" : "NTP_transf_3",
+      "description" : "MobA-like NTP transferase domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR025877",
+        "name" : "MobA-like_NTP_Trfase",
+        "description" : "MobA-like NTP transferase",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 28,
+      "end" : 186,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 158,
+      "hmmLength" : 160,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.2E-27,
+      "score" : 107.7,
+      "envelopeStart" : 27,
+      "envelopeEnd" : 189,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 28,
+        "end" : 186,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.8E-27,
+    "score" : 107.9,
+    "model-ac" : "PF12804"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_111 # 118755 # 119390 # 1 # ID=2_111;partial=00;start_type=ATG;rbs_motif=AGxAG;rbs_spacer=5-10bp;gc_cont=0.533",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_111"
+  } ]
+},{
+  "sequence" : "MTTEPHEIHTSDASPKSARTAHQAAGNRRAIHAPEVAAYWAERRRYLERIRRVPEIRQRYWRAIGMYLLRRVLWSFGFFPVFIAFWVPFVLSSFNPVVMASDLIPLLEGFVDANPEIQANTLSTLVIAWASIGFFFLVFDFVLTPFKSPYEYEADVYMRSWEQLNHDQLPDKV",
+  "md5" : "c72e3cffc7601b02d3200ed59719634a",
+  "matches" : [ ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_115 # 123113 # 123634 # -1 # ID=2_115;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.582",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_115"
+  } ]
+},{
+  "sequence" : "MPVMIQALLPVFVLILLGYLFRRWHFPGGDFWPQAERFTYYVLFPAMLIFKLGQAQVPASAYGDILILIVAMLAAMTLLLIALQWLWRWPGPVFSSVFQGGIRFNSYVALATAGMLLGDDGLSLIAIAVAVKVPLLNLLCILMFSVVAGQGAVKLKPVFKAVVSNPLIIGSVVGMFWSYFQIGFHPLVAGILEPLSDLALPLGLMTVGAGLQLKALRGASMPFLVSSMAKLVGFPLLTAGLALLLGLEGMMVQVAILMAALPTATSSYILARQLGGDAPLMAGIISGQTLLAMVTIPLLLGILW",
+  "md5" : "c9dc8eef8f796e3ee8ea3fbd1aa6603a",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "G3DSA:1.20.1530.20",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR038770",
+        "name" : "Na+/solute_symporter_sf",
+        "description" : "Sodium/solute symporter superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 152,
+      "end" : 304,
+      "representative" : false,
+      "hmmStart" : 13,
+      "hmmEnd" : 155,
+      "hmmLength" : 314,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.7E-14,
+      "score" : 54.5,
+      "envelopeStart" : 152,
+      "envelopeEnd" : 304,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 152,
+        "end" : 304,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.7E-16,
+    "score" : 60.0,
+    "model-ac" : "3zuxA00"
+  }, {
+    "signature" : {
+      "accession" : "PTHR36838",
+      "name" : "AUXIN EFFLUX CARRIER FAMILY PROTEIN",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 303,
+      "representative" : false,
+      "hmmStart" : 5,
+      "hmmEnd" : 307,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 304,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 303,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR36838:SF4",
+    "name" : "AUXIN EFFLUX CARRIER FAMILY PROTEIN",
+    "evalue" : 1.8E-39,
+    "score" : 147.2,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002421836",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR36838:SF4"
+  }, {
+    "signature" : {
+      "accession" : "PF03547",
+      "name" : "Mem_trans",
+      "description" : "Membrane transport protein",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR004776",
+        "name" : "Mem_transp_PIN-like",
+        "description" : "Membrane transport PIN-like",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 299,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 342,
+      "hmmLength" : 343,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 6.2E-9,
+      "score" : 46.5,
+      "envelopeStart" : 3,
+      "envelopeEnd" : 300,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 299,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.1E-11,
+    "score" : 54.6,
+    "model-ac" : "PF03547"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_107 # 113958 # 114872 # 1 # ID=2_107;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.575",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_107"
+  } ]
+},{
+  "sequence" : "MAAVIENTVHPAFEKLRSHRISTLNVTVEEYRHRKTGARHLHLAADNDENVFFVALRTFPMDSTGVAHILEHTALCGSERFPVRDPFFMMIRRSLNTFMNAFTSSDWTAYPFASMNRKDFDNLLTVYLDSVFFSSLDPLDFAQEGHRLEFDTPDDPSTDLVYRGVVYNEMKGAMSAPTSQLWQNLSSHLFPTTTYHYNSGGEPDHIVDLSYDDLLRFYRHHYHPSNAIFATYGDIPAHEHHERFEELALKRFDRLDVELPVRDEKRMFSPVRVDQSYAVSEGEETGHKTHIVMGWLLGHSFDLQENLEGQLLASVLLENSASPLMRALETTDIGHSPSPMCGLEDSNREMTFVCGIEGSDPERQDDLEALIEQTLAKVVEEGVSEDRLEAILHQLELHQREIAGDSFPYGLQLIMTAISPMVHGGDPVELLDLEPVLADMREKIRDPQYVPGLIRRKLLENPHRVTLTLRPDDKLESRRQAAIRDALARRKASLTDEEVRQIIERAQALEERQTRKDDDSILPKVDLTDVPLQLPEPEARFAGDMPATIYARGTNGLVYEQVILPVPNLTEEELLLLPYYTTLIPEVGCGDLDYLQMQDRISAESGGISASFSAKGKIDDVQDLEGYIVFNGKALARNREALTRLLNDVFDGARFDEKERVRELIAQIRSRREQAVTGSGHALAMGAASQGISPGAWLSFRLGGLEAIRGVKALDKSLSEPAELDRFCERLAALHERIRNQSRQFLLIGEEEQLDPMLTEMKTVWGDSGAGEQAAWKLEPVSYQARQAWLTSTQVNFCAKAYSTVAIDHPDAAALTVLGGFLRNGYLHRAIREKGGAYGGGAGQDSVNGTFRFFSYRDPRLGETLEDFDNALKWLQTEQHDPQELEESILGVIGQLDRPRSPAGAARHAFHNRLFGRTPEQRARFRERVLAVTLDDMKRVAREWLKPGSASVAVVTSFENRDTAEKLGLEIQEL",
+  "md5" : "a92aa84ef4b5a43393dcc809c98c3f6e",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 724,
+      "end" : 744,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 724,
+        "end" : 744,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "SSF63411",
+      "name" : "LuxS/MPP-like metallohydrolase",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR011249",
+        "name" : "Metalloenz_LuxS/M16",
+        "description" : "Metalloenzyme, LuxS/M16 peptidase-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 264,
+      "end" : 526,
+      "representative" : false,
+      "hmmLength" : 268,
+      "location-fragments" : [ {
+        "start" : 264,
+        "end" : 526,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.49E-57,
+    "model-ac" : "0052686"
+  }, {
+    "signature" : {
+      "accession" : "PF00675",
+      "name" : "Peptidase_M16",
+      "description" : "Insulinase (Peptidase family M16)",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR011765",
+        "name" : "Pept_M16_N",
+        "description" : "Peptidase M16, N-terminal",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 62,
+      "end" : 144,
+      "representative" : false,
+      "hmmStart" : 29,
+      "hmmEnd" : 108,
+      "hmmLength" : 149,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0079,
+      "score" : 27.6,
+      "envelopeStart" : 58,
+      "envelopeEnd" : 160,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 62,
+        "end" : 144,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 9.1E-4,
+    "score" : 30.6,
+    "model-ac" : "PF00675"
+  }, {
+    "signature" : {
+      "accession" : "PTHR43016",
+      "name" : "PRESEQUENCE PROTEASE",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 10,
+      "end" : 957,
+      "representative" : false,
+      "hmmStart" : 9,
+      "hmmEnd" : 971,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 5,
+      "envelopeEnd" : 967,
+      "location-fragments" : [ {
+        "start" : 10,
+        "end" : 957,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR43016:SF13",
+    "name" : "PRESEQUENCE PROTEASE, MITOCHONDRIAL",
+    "evalue" : 0.0,
+    "score" : 736.5,
+    "proteinClass" : null,
+    "graftPoint" : "PTN008677557",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR43016:SF13"
+  }, {
+    "signature" : {
+      "accession" : "SM01264",
+      "name" : "M16C_assoc_2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "9.0"
+      },
+      "entry" : {
+        "accession" : "IPR013578",
+        "name" : "Peptidase_M16C_assoc",
+        "description" : "Peptidase M16C associated",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 469,
+      "end" : 714,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 271,
+      "hmmLength" : 271,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.8E-88,
+      "score" : 309.2,
+      "location-fragments" : [ {
+        "start" : 469,
+        "end" : 714,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.8E-88,
+    "score" : 309.2,
+    "model-ac" : "SM01264"
+  }, {
+    "signature" : {
+      "accession" : "SSF63411",
+      "name" : "LuxS/MPP-like metallohydrolase",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR011249",
+        "name" : "Metalloenz_LuxS/M16",
+        "description" : "Metalloenzyme, LuxS/M16 peptidase-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 526,
+      "end" : 772,
+      "representative" : false,
+      "hmmLength" : 258,
+      "location-fragments" : [ {
+        "start" : 526,
+        "end" : 772,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.52E-58,
+    "model-ac" : "0052684"
+  }, {
+    "signature" : {
+      "accession" : "SSF63411",
+      "name" : "LuxS/MPP-like metallohydrolase",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR011249",
+        "name" : "Metalloenz_LuxS/M16",
+        "description" : "Metalloenzyme, LuxS/M16 peptidase-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 14,
+      "end" : 247,
+      "representative" : false,
+      "hmmLength" : 257,
+      "location-fragments" : [ {
+        "start" : 14,
+        "end" : 247,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.33E-47,
+    "model-ac" : "0052687"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.830.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 501,
+      "end" : 942,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 439,
+      "hmmLength" : 241,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 3.7E-113,
+      "score" : 380.6,
+      "envelopeStart" : 500,
+      "envelopeEnd" : 947,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 782,
+        "end" : 942,
+        "dc-status" : "N_TERMINAL_DISC"
+      }, {
+        "start" : 501,
+        "end" : 532,
+        "dc-status" : "C_TERMINAL_DISC"
+      } ]
+    } ],
+    "evalue" : 2.4E-113,
+    "score" : 381.3,
+    "model-ac" : "2fgeA03"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.830.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 533,
+      "end" : 781,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 439,
+      "hmmLength" : 250,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 3.7E-113,
+      "score" : 380.6,
+      "envelopeStart" : 500,
+      "envelopeEnd" : 947,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 533,
+        "end" : 781,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.4E-113,
+    "score" : 381.3,
+    "model-ac" : "2fgeA04"
+  }, {
+    "signature" : {
+      "accession" : "PF08367",
+      "name" : "M16C_assoc",
+      "description" : "Peptidase M16C associated",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR013578",
+        "name" : "Peptidase_M16C_assoc",
+        "description" : "Peptidase M16C associated",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 469,
+      "end" : 714,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 252,
+      "hmmLength" : 252,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 4.4E-57,
+      "score" : 204.7,
+      "envelopeStart" : 469,
+      "envelopeEnd" : 714,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 469,
+        "end" : 714,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.3E-57,
+    "score" : 206.5,
+    "model-ac" : "PF08367"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.830.10:FF:000011",
+      "name" : null,
+      "description" : "Presequence protease, mitochondrial",
+      "signatureLibraryRelease" : {
+        "library" : "FUNFAM",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 257,
+      "representative" : false,
+      "hmmStart" : 23,
+      "hmmEnd" : 267,
+      "hmmLength" : 268,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.3E-97,
+      "score" : 325.6,
+      "envelopeStart" : 4,
+      "envelopeEnd" : 257,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 257,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.8E-97,
+    "score" : 326.8,
+    "model-ac" : "3.30.830.10-FF-000011"
+  }, {
+    "signature" : {
+      "accession" : "PF05193",
+      "name" : "Peptidase_M16_C",
+      "description" : "Peptidase M16 inactive domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR007863",
+        "name" : "Peptidase_M16_C",
+        "description" : "Peptidase M16, C-terminal",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 208,
+      "end" : 395,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 181,
+      "hmmLength" : 181,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.1E-15,
+      "score" : 68.0,
+      "envelopeStart" : 208,
+      "envelopeEnd" : 395,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 208,
+        "end" : 395,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.3E-29,
+    "score" : 112.9,
+    "model-ac" : "PF05193"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 492,
+      "end" : 512,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 492,
+        "end" : 512,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.830.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 260,
+      "end" : 492,
+      "representative" : false,
+      "hmmStart" : 5,
+      "hmmEnd" : 237,
+      "hmmLength" : 239,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 3.2E-61,
+      "score" : 208.5,
+      "envelopeStart" : 260,
+      "envelopeEnd" : 492,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 260,
+        "end" : 492,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.1E-62,
+    "score" : 212.3,
+    "model-ac" : "2fgeA02"
+  }, {
+    "signature" : {
+      "accession" : "PF22516",
+      "name" : "PreP_C",
+      "description" : "PreP C-terminal domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR055130",
+        "name" : "PreP_C",
+        "description" : "Presequence protease, mitochondrial-type, C-terminal domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 788,
+      "end" : 942,
+      "representative" : true,
+      "hmmStart" : 3,
+      "hmmEnd" : 156,
+      "hmmLength" : 173,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 9.5E-26,
+      "score" : 101.9,
+      "envelopeStart" : 786,
+      "envelopeEnd" : 957,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 788,
+        "end" : 942,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.0E-26,
+    "score" : 102.8,
+    "model-ac" : "PF22516"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.830.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 257,
+      "representative" : false,
+      "hmmStart" : 21,
+      "hmmEnd" : 268,
+      "hmmLength" : 270,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.3E-87,
+      "score" : 295.6,
+      "envelopeStart" : 2,
+      "envelopeEnd" : 257,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 257,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.4E-90,
+    "score" : 305.3,
+    "model-ac" : "4l3tA01"
+  }, {
+    "signature" : {
+      "accession" : "SSF63411",
+      "name" : "LuxS/MPP-like metallohydrolase",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR011249",
+        "name" : "Metalloenz_LuxS/M16",
+        "description" : "Metalloenzyme, LuxS/M16 peptidase-like",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 788,
+      "end" : 964,
+      "representative" : false,
+      "hmmLength" : 196,
+      "location-fragments" : [ {
+        "start" : 788,
+        "end" : 964,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.55E-45,
+    "model-ac" : "0052685"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_116 # 123733 # 126657 # 1 # ID=2_116;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.589",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_116"
+  } ]
+},{
+  "sequence" : "MSDEAKTPTPKRSKRLRNGLLIALAVIVLLPLLLLGLLVLALRSETGTAWVIDQVPGLEVEQGQGSLLGQWQAASLTWQGYGVGLKVESPVVDWSPTCLFNKQLCLERLLADSIDLTLQPSGEPKEDSGDISLPSVDLPLGLVVRDVNLGPFTLNDAKVWDRLQLKAQGSGSDWHLQNLAFVRDDISIDASGRLQTRGDWPLDLEVRLMLPPPYGADWQLALNLTGSAADLRVQGQSSGYLDATLAGRVAPLDSALPAELTVRSSRFVPAEGLPKTLVLTDTVVALKGSLENGFRSDSRTVLPGSTGDIPVSLKGLVTTEGLDGLELVLTGPGTTEAETGRLRVTGNVSWEQALQADAKVSLDAFPWYSLIPDFEQPPVTLRQFNGDVQYQGGAYQASIDASVSGPMGDADMAGDLEGDLESVTLTNLRVNTGAGFLGGRADVAFADQLSWDASLTLDSFNPGFWLPALEASLSGDVDTSGRLQEEGTPTLQAKWDLSGSWQANEALIRGALDSDAGNWTLSDLELEVGDNRVTGQGRWGQQINGNLELNLPAPETFLPGLAGSVNGTASVSGTVDQPRGKVTLTGSDLAWQDQLSLSSLDLTATLREGFNIQADLRGKEVRYGEQLLEDLSLALTGTRDDHQLRLNARHKEAELSLLLAGDASESWNAWVGALEQGQISVPAQGQQWTLSESAALEYTEAGKLTLGQHCWQWQQASVCAEDQTLLPTQDIAYRIENFPTTALSPLLPDTLRWDATLNADLQLVMTEDGPDGEVSIDAGSGEFEVQVRDEWESLSYNTFTTRLSLKPSVAELDLQLQGPDIGNLSVGMSVDPDSDAREVDGQFSIEGLDIAMAGIFAGLEVVEGELNGEGTLSGPLMKPAVNGELALSGGHIADPRLPIPLEDLVVSLELKGYSADLSGRWRSNERGSGNIEGSLAWEAEPSVEVRLTGDRLPFNYEPYAQVELVPDITIAYEGGDLSVSGNLNVPRGTIEIRELPAQAVSVSEDEVVVGAEEKEGGLRTLNMDVTVVVGEDEVSFSGFGVTGNLEGTLRIGNNLDTRGALQLVEGRYEAYGQELDLRRARLVFVGPLSEPYLDIEAVRRVDNVVAGIRLSGPVSSPRTEVFSEPEMPQTDALSYVILGRAPQSRGDEGQMSRAAISLGLTQANKVTQGIGEEFGIRNLTLEAEGSGDESAVVASGYLTDELSIRYGVGIFQPITTVALRYDIGRYFYLEAASGLAASLDIFYTRDF",
+  "md5" : "4ef227130f15d2991e31f17c7b51ba43",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PTHR36985",
+      "name" : "TRANSLOCATION AND ASSEMBLY MODULE SUBUNIT TAMB",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 13,
+      "end" : 155,
+      "representative" : false,
+      "hmmStart" : 10,
+      "hmmEnd" : 159,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 161,
+      "location-fragments" : [ {
+        "start" : 13,
+        "end" : 155,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR36985:SF1",
+    "name" : "TRANSLOCATION AND ASSEMBLY MODULE SUBUNIT TAMB",
+    "evalue" : 0.0,
+    "score" : 804.6,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002443856",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR36985:SF1"
+  }, {
+    "signature" : {
+      "accession" : "PF04357",
+      "name" : "TamB",
+      "description" : "TamB, inner membrane protein subunit of TAM complex",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR007452",
+        "name" : "TamB",
+        "description" : "Translocation and assembly module TamB",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 924,
+      "end" : 1247,
+      "representative" : true,
+      "hmmStart" : 8,
+      "hmmEnd" : 381,
+      "hmmLength" : 381,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.6E-47,
+      "score" : 174.2,
+      "envelopeStart" : 918,
+      "envelopeEnd" : 1247,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 924,
+        "end" : 1247,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.4E-51,
+    "score" : 186.3,
+    "model-ac" : "PF04357"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_10 # 13308 # 17051 # 1 # ID=2_10;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.608",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_10"
+  } ]
+},{
+  "sequence" : "MTVRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNALRWLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREERKAQGLNPGIKGNLELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVDSQILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLPLLRNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFDIQRVSLGGPVFDVEKLRWLNGQWIRDELSDDQFVERMRHWWFNEQALRDLVPHIKGRAEVFSDVSPMASFMFSGMLNLKPEDFGHNKLDESQVKRVLQFTLWKLEAQRHWSKENIFADVKALAKAMELKMGDFMFAIFVAVAGTPNSWSVMDSMAILGPDMTRSRLRHALEVMGGFSKKETKRVEKEYAALLTE",
+  "md5" : "48aab9c477d4e3791f44f24b4cfe2b09",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PF19269",
+      "name" : "Anticodon_2",
+      "description" : "Anticodon binding domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR045462",
+        "name" : "aa-tRNA-synth_I_cd-bd",
+        "description" : "Aminoacyl-tRNA synthetase, class I, anticodon-binding",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 332,
+      "end" : 470,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 141,
+      "hmmLength" : 141,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.3E-35,
+      "score" : 133.5,
+      "envelopeStart" : 332,
+      "envelopeEnd" : 470,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 332,
+        "end" : 470,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.2E-35,
+    "score" : 134.4,
+    "model-ac" : "PF19269"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.620",
+      "name" : "HUPs",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR014729",
+        "name" : "Rossmann-like_a/b/a_fold",
+        "description" : "Rossmann-like alpha/beta/alpha sandwich fold",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 327,
+      "representative" : false,
+      "hmmStart" : 11,
+      "hmmEnd" : 335,
+      "hmmLength" : 337,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.0,
+      "score" : 488.1,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 327,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 327,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 488.5,
+    "model-ac" : "5tgtB01"
+  }, {
+    "signature" : {
+      "accession" : "PR00987",
+      "name" : "TRNASYNTHGLU",
+      "description" : "Glutamyl-tRNA synthetase signature",
+      "signatureLibraryRelease" : {
+        "library" : "PRINTS",
+        "version" : "42.0"
+      },
+      "entry" : {
+        "accession" : "IPR000924",
+        "name" : "Glu/Gln-tRNA-synth",
+        "description" : "Glutamyl/glutaminyl-tRNA synthetase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 6,
+      "end" : 18,
+      "representative" : false,
+      "pvalue" : 1.16E-7,
+      "score" : 66.92,
+      "motifNumber" : 1,
+      "location-fragments" : [ {
+        "start" : 6,
+        "end" : 18,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 20,
+      "end" : 31,
+      "representative" : false,
+      "pvalue" : 9.62E-5,
+      "score" : 47.5,
+      "motifNumber" : 2,
+      "location-fragments" : [ {
+        "start" : 20,
+        "end" : 31,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 35,
+      "end" : 48,
+      "representative" : false,
+      "pvalue" : 6.38E-8,
+      "score" : 62.14,
+      "motifNumber" : 3,
+      "location-fragments" : [ {
+        "start" : 35,
+        "end" : 48,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 191,
+      "end" : 201,
+      "representative" : false,
+      "pvalue" : 6.55E-6,
+      "score" : 60.23,
+      "motifNumber" : 4,
+      "location-fragments" : [ {
+        "start" : 191,
+        "end" : 201,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 207,
+      "end" : 215,
+      "representative" : false,
+      "pvalue" : 3.1E-5,
+      "score" : 65.28,
+      "motifNumber" : 5,
+      "location-fragments" : [ {
+        "start" : 207,
+        "end" : 215,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.1E-22,
+    "graphscan" : "IIIII",
+    "model-ac" : "PR00987"
+  }, {
+    "signature" : {
+      "accession" : "SSF52374",
+      "name" : "Nucleotidylyl transferase",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 306,
+      "representative" : false,
+      "hmmLength" : 305,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 306,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.33E-109,
+    "model-ac" : "0047487"
+  }, {
+    "signature" : {
+      "accession" : "cd00808",
+      "name" : "GluRS_core",
+      "description" : "GluRS_core",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : {
+        "accession" : "IPR033910",
+        "name" : "GluRS_core",
+        "description" : "Glutamyl-tRNA synthetase",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 325,
+      "representative" : true,
+      "sites" : [ {
+        "description" : "KMSKS motif",
+        "numLocations" : 5,
+        "siteLocations" : [ {
+          "start" : 251,
+          "end" : 251,
+          "residue" : "S"
+        }, {
+          "start" : 250,
+          "end" : 250,
+          "residue" : "L"
+        }, {
+          "start" : 252,
+          "end" : 252,
+          "residue" : "K"
+        }, {
+          "start" : 253,
+          "end" : 253,
+          "residue" : "R"
+        }, {
+          "start" : 249,
+          "end" : 249,
+          "residue" : "K"
+        } ]
+      }, {
+        "description" : "active site",
+        "numLocations" : 19,
+        "siteLocations" : [ {
+          "start" : 197,
+          "end" : 197,
+          "residue" : "N"
+        }, {
+          "start" : 250,
+          "end" : 250,
+          "residue" : "L"
+        }, {
+          "start" : 22,
+          "end" : 22,
+          "residue" : "V"
+        }, {
+          "start" : 240,
+          "end" : 240,
+          "residue" : "P"
+        }, {
+          "start" : 214,
+          "end" : 214,
+          "residue" : "E"
+        }, {
+          "start" : 6,
+          "end" : 6,
+          "residue" : "R"
+        }, {
+          "start" : 18,
+          "end" : 18,
+          "residue" : "G"
+        }, {
+          "start" : 9,
+          "end" : 9,
+          "residue" : "P"
+        }, {
+          "start" : 42,
+          "end" : 42,
+          "residue" : "E"
+        }, {
+          "start" : 212,
+          "end" : 212,
+          "residue" : "G"
+        }, {
+          "start" : 19,
+          "end" : 19,
+          "residue" : "T"
+        }, {
+          "start" : 8,
+          "end" : 8,
+          "residue" : "A"
+        }, {
+          "start" : 211,
+          "end" : 211,
+          "residue" : "R"
+        }, {
+          "start" : 215,
+          "end" : 215,
+          "residue" : "W"
+        }, {
+          "start" : 21,
+          "end" : 21,
+          "residue" : "F"
+        }, {
+          "start" : 10,
+          "end" : 10,
+          "residue" : "S"
+        }, {
+          "start" : 193,
+          "end" : 193,
+          "residue" : "Y"
+        }, {
+          "start" : 241,
+          "end" : 241,
+          "residue" : "L"
+        }, {
+          "start" : 249,
+          "end" : 249,
+          "residue" : "K"
+        } ]
+      }, {
+        "description" : "HIGH motif",
+        "numLocations" : 4,
+        "siteLocations" : [ {
+          "start" : 19,
+          "end" : 19,
+          "residue" : "T"
+        }, {
+          "start" : 17,
+          "end" : 17,
+          "residue" : "V"
+        }, {
+          "start" : 18,
+          "end" : 18,
+          "residue" : "G"
+        }, {
+          "start" : 16,
+          "end" : 16,
+          "residue" : "H"
+        } ]
+      } ],
+      "evalue" : 0.0,
+      "score" : 413.136,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 325,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00808"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:1.10.10.350",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR020751",
+        "name" : "aa-tRNA-synth_I_codon-bd_sub2",
+        "description" : "Aminoacyl-tRNA synthetase, class I, anticodon-binding domain, subdomain 2",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 370,
+      "end" : 493,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 122,
+      "hmmLength" : 124,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.3E-32,
+      "score" : 112.1,
+      "envelopeStart" : 370,
+      "envelopeEnd" : 493,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 370,
+        "end" : 493,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.6E-32,
+    "score" : 112.9,
+    "model-ac" : "5tgtA02"
+  }, {
+    "signature" : {
+      "accession" : "PS00178",
+      "name" : "AA_TRNA_LIGASE_I",
+      "description" : "Aminoacyl-transfer RNA synthetases class-I signature.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR001412",
+        "name" : "aa-tRNA-synth_I_CS",
+        "description" : "Aminoacyl-tRNA synthetase, class I, conserved site",
+        "type" : "CONSERVED_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 9,
+      "end" : 20,
+      "representative" : false,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M2I2M1I6M",
+      "alignment" : "PspTGdPHVGTA",
+      "location-fragments" : [ {
+        "start" : 9,
+        "end" : 20,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00178"
+  }, {
+    "signature" : {
+      "accession" : "PF00749",
+      "name" : "tRNA-synt_1c",
+      "description" : "tRNA synthetases class I (E and Q), catalytic domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR020058",
+        "name" : "Glu/Gln-tRNA-synth_Ib_cat-dom",
+        "description" : "Glutamyl/glutaminyl-tRNA synthetase, class Ib, catalytic domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 318,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 314,
+      "hmmLength" : 314,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.5E-104,
+      "score" : 360.9,
+      "envelopeStart" : 2,
+      "envelopeEnd" : 318,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 318,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.2E-104,
+    "score" : 361.3,
+    "model-ac" : "PF00749"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.620:FF:000045",
+      "name" : null,
+      "description" : "Glutamate--tRNA ligase, mitochondrial",
+      "signatureLibraryRelease" : {
+        "library" : "FUNFAM",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 327,
+      "representative" : false,
+      "hmmStart" : 7,
+      "hmmEnd" : 332,
+      "hmmLength" : 333,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.0,
+      "score" : 458.0,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 327,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 327,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 458.4,
+    "model-ac" : "3.40.50.620-FF-000045"
+  }, {
+    "signature" : {
+      "accession" : "TIGR00464",
+      "name" : "gltX_bact",
+      "description" : "glutamate--tRNA ligase",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : {
+        "accession" : "IPR004527",
+        "name" : "Glu-tRNA-ligase_bac/mito",
+        "description" : "Glutamate-tRNA ligase, bacterial/mitochondrial",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 467,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 464,
+      "hmmLength" : 470,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 0.0,
+      "score" : 461.1,
+      "envelopeStart" : 2,
+      "envelopeEnd" : 473,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 467,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 461.4,
+    "model-ac" : "TIGR00464"
+  }, {
+    "signature" : {
+      "accession" : "PTHR43311",
+      "name" : "GLUTAMATE--TRNA LIGASE",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR049940",
+        "name" : "GluQ/Sye",
+        "description" : "Glutamyl-Q tRNA(Asp) synthetase/Glutamate--tRNA ligase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 472,
+      "representative" : false,
+      "hmmStart" : 23,
+      "hmmEnd" : 503,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 474,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 472,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR43311:SF2",
+    "name" : "GLUTAMATE--TRNA LIGASE, MITOCHONDRIAL-RELATED",
+    "evalue" : 0.0,
+    "score" : 535.4,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002457690",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR43311:SF2"
+  }, {
+    "signature" : {
+      "accession" : "SSF48163",
+      "name" : "An anticodon-binding domain of class I aminoacyl-tRNA synthetases",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR008925",
+        "name" : "aa_tRNA-synth_I_cd-bd_sf",
+        "description" : "Aminoacyl-tRNA synthetase, class I, anticodon-binding superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 312,
+      "end" : 471,
+      "representative" : false,
+      "hmmLength" : 163,
+      "location-fragments" : [ {
+        "start" : 312,
+        "end" : 471,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.09E-35,
+    "model-ac" : "0047486"
+  }, {
+    "signature" : {
+      "accession" : "MF_00022",
+      "name" : "Glu_tRNA_synth_type1",
+      "description" : "Glutamate--tRNA ligase [gltX].",
+      "signatureLibraryRelease" : {
+        "library" : "HAMAP",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR004527",
+        "name" : "Glu-tRNA-ligase_bac/mito",
+        "description" : "Glutamate-tRNA ligase, bacterial/mitochondrial",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 470,
+      "representative" : false,
+      "score" : 29.753483,
+      "alignment" : "TVRTRIAPSPTGDPHVGTAFVALFNLCFARQHGGQFILRIEDTDQVRSTQESEQDILNALRWLGLEWDEGPDVGGPHGPYRQSERKDSYRQYALDLVTQGHAFYCFRTPEELDAIREERKAQGLNPGIKGN-LELTEEEVKRRLDAGDPYVIRMKVPEDGVCEIDDMLRGTIEIDWSQVDSQILLKSDGMPTYHLANVVDDHLMEITHVLRGEEWINSAPKHKLLYEYFGWDMPVLCHLPLLRNPDKSKLSKRKNPTSINFYERMGFLPEAVTNYLGRMGWSMPDEREKFTLDEMIENFDIQRVSLGGPVFDVEKLRWLNGQWiRDELSDDQFVERMRHWwFNE----QA------LRDLVPHIKGRAEVFSDVSPMASFMFSGMLnlkpedfghnKLDESQV--------KRVLQFTLWKLEAQRHWSKENIFADVKALAKAMELKMGDFMFAIFVAVAGTPNSWSVMDSMAILGPDMTRSRLRHAL",
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 470,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "MF_00022"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_109 # 115992 # 117476 # 1 # ID=2_109;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.563",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_109"
+  } ]
+},{
+  "sequence" : "MTTSRFTGLIALGAATLLASTSTLASTQVVTSLKPIELLVKAIATDDVEITTLVQPGASPHNYSMKPSQRRALEAADAIFWVGPEMETFLTRLLGGSEFRDRTYSLMHGENVPEVQLDNNHGDHDEHEHHNHHDDHEESGGHDDHHHDHGSGEDPHIWLDPALAVEMARDIHRVLATLKSADTHVLDANLARFERAMAETETAINQRLDTARDIDLFTYHDAFTRFVGHYNMNLEGILTLNPELSPGAGHIAEVQEKLRNANQPCLLTEPQFNRQWWRSITEGLDITFSTWDPLATDIETDQDGYITFQQSLADAVLKCLPEDAK",
+  "md5" : "8b2721f444c2624bd8080549075d0b28",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 115,
+      "end" : 157,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 115,
+        "end" : 157,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PF01297",
+      "name" : "ZnuA",
+      "description" : "Zinc-uptake complex component A periplasmic",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR006127",
+        "name" : "ZnuA-like",
+        "description" : "Periplasmic solute binding protein, ZnuA-like",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 29,
+      "end" : 317,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 261,
+      "hmmLength" : 263,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 7.8E-53,
+      "score" : 191.2,
+      "envelopeStart" : 29,
+      "envelopeEnd" : 319,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 29,
+        "end" : 317,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.1E-53,
+    "score" : 193.0,
+    "model-ac" : "PF01297"
+  }, {
+    "signature" : {
+      "accession" : "SSF53807",
+      "name" : "\"Helical backbone\" metal receptor",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 27,
+      "end" : 320,
+      "representative" : false,
+      "hmmLength" : 289,
+      "location-fragments" : [ {
+        "start" : 27,
+        "end" : 320,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.88E-66,
+    "model-ac" : "0042423"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.1980",
+      "name" : "Nitrogenase molybdenum iron protein domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 212,
+      "end" : 321,
+      "representative" : false,
+      "hmmStart" : 7,
+      "hmmEnd" : 111,
+      "hmmLength" : 114,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 7.4E-22,
+      "score" : 79.9,
+      "envelopeStart" : 212,
+      "envelopeEnd" : 321,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 212,
+        "end" : 321,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.6E-22,
+    "score" : 81.4,
+    "model-ac" : "2xy4A02"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 120,
+      "end" : 157,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 120,
+        "end" : 157,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Polyampholyte"
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.1980",
+      "name" : "Nitrogenase molybdenum iron protein domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 28,
+      "end" : 209,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 173,
+      "hmmLength" : 174,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 7.2E-45,
+      "score" : 155.0,
+      "envelopeStart" : 28,
+      "envelopeEnd" : 209,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 28,
+        "end" : 209,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.4E-45,
+    "score" : 155.4,
+    "model-ac" : "2xy4A01"
+  }, {
+    "signature" : {
+      "accession" : "PTHR42953",
+      "name" : "HIGH-AFFINITY ZINC UPTAKE SYSTEM PROTEIN ZNUA-RELATED",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR050492",
+        "name" : "Bact_metal-bind_prot9",
+        "description" : "Bacterial metal-binding protein 9",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 11,
+      "end" : 321,
+      "representative" : false,
+      "hmmStart" : 14,
+      "hmmEnd" : 295,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 2,
+      "envelopeEnd" : 325,
+      "location-fragments" : [ {
+        "start" : 11,
+        "end" : 321,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR42953:SF3",
+    "name" : "HIGH-AFFINITY ZINC UPTAKE SYSTEM PROTEIN ZNUA",
+    "evalue" : 2.3E-51,
+    "score" : 186.4,
+    "proteinClass" : null,
+    "graftPoint" : "PTN001253257",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR42953:SF3"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_108 # 114852 # 115829 # -1 # ID=2_108;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.566",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_108"
+  } ]
+},{
+  "sequence" : "MTSKLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAARKHGGSDAEQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYDHLGMDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVGRILDWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCDRLTISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGIRRFTNDQIELENRVRRLSQAA",
+  "md5" : "42c37942313a9458273d7c6a91ec3ed4",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "SSF51569",
+      "name" : "Aldolase",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 316,
+      "representative" : false,
+      "hmmLength" : 322,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 316,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 6.38E-109,
+    "model-ac" : "0046665"
+  }, {
+    "signature" : {
+      "accession" : "Coil",
+      "name" : "Coil",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "COILS",
+        "version" : "2.2.1"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 300,
+      "end" : 320,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 300,
+        "end" : 320,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "Coil"
+  }, {
+    "signature" : {
+      "accession" : "PS00958",
+      "name" : "TRANSALDOLASE_2",
+      "description" : "Transaldolase active site.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR018225",
+        "name" : "Transaldolase_AS",
+        "description" : "Transaldolase, active site",
+        "type" : "ACTIVE_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 129,
+      "end" : 146,
+      "representative" : false,
+      "level" : "STRONG",
+      "cigarAlignment" : "1M1I4M1I1M1I3M1I1M1I1M1I1M",
+      "alignment" : "VlIKIAsTwEGIrAaEqL",
+      "location-fragments" : [ {
+        "start" : 129,
+        "end" : 146,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS00958"
+  }, {
+    "signature" : {
+      "accession" : "MF_00492",
+      "name" : "Transaldolase_1",
+      "description" : "Transaldolase [tal].",
+      "signatureLibraryRelease" : {
+        "library" : "HAMAP",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR004730",
+        "name" : "Transaldolase_1",
+        "description" : "Transaldolase type 1",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 318,
+      "representative" : false,
+      "score" : 49.416855,
+      "alignment" : "TSKLEQLKAMTTVVADTGDLEAIAQWKPEDATTNPSLLLKAAASEAYRPMLDEAVAAARKHGGSDA-EQLTYATDMLAVLAGKQILGRIPGVVSTEVDARLSFDTDATLTRARRLVELYDHLGMDTSRVLIKIASTWEGIRAAEQLEKEGIHCNLTLLFSYIQAAACADAGAFLISPFVGRILDWHLAATGRDAFPAAEDPGVQSVTRIYNYYKTNGYKTVVMGASFRNTGEIEMLAGCDRLTISPALLQELENDSGALTRQLSAEGAKSSDRPGDIDERLFRWESNEDAMATEKLADGIRRFTNDQIELENRVRRLS",
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 318,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "MF_00492"
+  }, {
+    "signature" : {
+      "accession" : "PS01054",
+      "name" : "TRANSALDOLASE_1",
+      "description" : "Transaldolase signature 1.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PATTERNS",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR018225",
+        "name" : "Transaldolase_AS",
+        "description" : "Transaldolase, active site",
+        "type" : "ACTIVE_SITE",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 31,
+      "end" : 39,
+      "representative" : false,
+      "level" : "STRONG",
+      "cigarAlignment" : "9M",
+      "alignment" : "DATTNPSLL",
+      "location-fragments" : [ {
+        "start" : 31,
+        "end" : 39,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS01054"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.20.20.70",
+      "name" : "Aldolase class I",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR013785",
+        "name" : "Aldolase_TIM",
+        "description" : "Aldolase-type TIM barrel",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 320,
+      "representative" : false,
+      "hmmStart" : 7,
+      "hmmEnd" : 323,
+      "hmmLength" : 332,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.5E-123,
+      "score" : 412.4,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 320,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 320,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 5.6E-123,
+    "score" : 412.6,
+    "model-ac" : "2cwnB00"
+  }, {
+    "signature" : {
+      "accession" : "cd00957",
+      "name" : "Transaldolase_TalAB",
+      "description" : "Transaldolase_TalAB",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : {
+        "accession" : "IPR004730",
+        "name" : "Transaldolase_1",
+        "description" : "Transaldolase type 1",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 312,
+      "representative" : true,
+      "sites" : [ {
+        "description" : "dimer interface",
+        "numLocations" : 8,
+        "siteLocations" : [ {
+          "start" : 280,
+          "end" : 280,
+          "residue" : "R"
+        }, {
+          "start" : 294,
+          "end" : 294,
+          "residue" : "E"
+        }, {
+          "start" : 283,
+          "end" : 283,
+          "residue" : "R"
+        }, {
+          "start" : 297,
+          "end" : 297,
+          "residue" : "A"
+        }, {
+          "start" : 104,
+          "end" : 104,
+          "residue" : "D"
+        }, {
+          "start" : 288,
+          "end" : 288,
+          "residue" : "E"
+        }, {
+          "start" : 287,
+          "end" : 287,
+          "residue" : "N"
+        }, {
+          "start" : 301,
+          "end" : 301,
+          "residue" : "R"
+        } ]
+      }, {
+        "description" : "catalytic residue",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 132,
+          "end" : 132,
+          "residue" : "K"
+        } ]
+      }, {
+        "description" : "active site",
+        "numLocations" : 11,
+        "siteLocations" : [ {
+          "start" : 154,
+          "end" : 154,
+          "residue" : "N"
+        }, {
+          "start" : 94,
+          "end" : 94,
+          "residue" : "S"
+        }, {
+          "start" : 35,
+          "end" : 35,
+          "residue" : "N"
+        }, {
+          "start" : 33,
+          "end" : 33,
+          "residue" : "T"
+        }, {
+          "start" : 17,
+          "end" : 17,
+          "residue" : "D"
+        }, {
+          "start" : 156,
+          "end" : 156,
+          "residue" : "T"
+        }, {
+          "start" : 36,
+          "end" : 36,
+          "residue" : "P"
+        }, {
+          "start" : 132,
+          "end" : 132,
+          "residue" : "K"
+        }, {
+          "start" : 176,
+          "end" : 176,
+          "residue" : "S"
+        }, {
+          "start" : 181,
+          "end" : 181,
+          "residue" : "R"
+        }, {
+          "start" : 96,
+          "end" : 96,
+          "residue" : "E"
+        } ]
+      } ],
+      "evalue" : 0.0,
+      "score" : 482.503,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 312,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00957"
+  }, {
+    "signature" : {
+      "accession" : "PF00923",
+      "name" : "TAL_FSA",
+      "description" : "Transaldolase/Fructose-6-phosphate aldolase",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR001585",
+        "name" : "TAL/FSA",
+        "description" : "Transaldolase/Fructose-6-phosphate aldolase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 14,
+      "end" : 312,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 283,
+      "hmmLength" : 285,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 8.8E-90,
+      "score" : 312.5,
+      "envelopeStart" : 14,
+      "envelopeEnd" : 314,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 14,
+        "end" : 312,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.8E-90,
+    "score" : 312.7,
+    "model-ac" : "PF00923"
+  }, {
+    "signature" : {
+      "accession" : "NF009001",
+      "name" : "PRK12346.1",
+      "description" : "transaldolase A",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 3,
+      "end" : 314,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 312,
+      "hmmLength" : 316,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 449.4,
+      "envelopeStart" : 2,
+      "envelopeEnd" : 317,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 3,
+        "end" : 314,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 449.8,
+    "model-ac" : "NF009001"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.20.20.70:FF:000002",
+      "name" : null,
+      "description" : "Transaldolase",
+      "signatureLibraryRelease" : {
+        "library" : "FUNFAM",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 318,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 316,
+      "hmmLength" : 319,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.0,
+      "score" : 499.3,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 318,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 318,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 499.5,
+    "model-ac" : "3.20.20.70-FF-000002"
+  }, {
+    "signature" : {
+      "accession" : "TIGR00874",
+      "name" : "talAB",
+      "description" : "transaldolase",
+      "signatureLibraryRelease" : {
+        "library" : "NCBIFAM",
+        "version" : "17.0"
+      },
+      "entry" : {
+        "accession" : "IPR004730",
+        "name" : "Transaldolase_1",
+        "description" : "Transaldolase type 1",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 314,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 313,
+      "hmmLength" : 317,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 0.0,
+      "score" : 465.0,
+      "envelopeStart" : 3,
+      "envelopeEnd" : 317,
+      "postProcessed" : false,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 314,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 0.0,
+    "score" : 465.2,
+    "model-ac" : "TIGR00874"
+  }, {
+    "signature" : {
+      "accession" : "PTHR10683",
+      "name" : "TRANSALDOLASE",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR001585",
+        "name" : "TAL/FSA",
+        "description" : "Transaldolase/Fructose-6-phosphate aldolase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 314,
+      "representative" : false,
+      "hmmStart" : 6,
+      "hmmEnd" : 313,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 318,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 314,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR10683:SF18",
+    "name" : "TRANSALDOLASE",
+    "evalue" : 2.7E-97,
+    "score" : 337.8,
+    "proteinClass" : null,
+    "graftPoint" : "PTN002242200",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR10683:SF18"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_103 # 109930 # 110895 # -1 # ID=2_103;partial=00;start_type=ATG;rbs_motif=AGGA/GGAG/GAGG;rbs_spacer=11-12bp;gc_cont=0.611",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_103"
+  } ]
+},{
+  "sequence" : "MVDFRPLLFVNALALMLLVTAGFASVRDDLSRGMKPVATAPDTEETIARASMDTPVDAQRSDELYQPNSREDVAENDLELPLENDALAASGEKPVNGSETASDANRINAEPFSVPDLPEDPKMLAMAEPVSVMPETEARSDAPEPPTTGLLILRSNVVGDNVTINGKNHGATRLDLELEPGKYDITIRKEGYKPWQQTVAIAAGNEKTLVGKLEAYTRVEYRDGTWVGGIKTGDGTYEDADGLRYEGHFVDGEFDGKGTAWLPDGSRYEGDWEKGQRHGEGTWRDADDTRYTGQFRNDQFDGQGTLTMANGDILTGQWSGGRLNGHGSLTTSDGMLYVGGFKDDEFHGEGTLTYPDGRHYEGEFSNGEFHGNGKEVFADGKKYEGQYIEGSFHGKGLLLNPNGSSIEATFRYGEPYGQVRLTTAAGEVFTARTKEPGVCYREKSYRATQCPTLEGW",
+  "md5" : "084dc5de74b43870f0b793cc4b186ecf",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PF08308",
+      "name" : "PEGA",
+      "description" : "PEGA domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR013229",
+        "name" : "PEGA",
+        "description" : "PEGA",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 149,
+      "end" : 213,
+      "representative" : true,
+      "hmmStart" : 2,
+      "hmmEnd" : 67,
+      "hmmLength" : 71,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.1E-11,
+      "score" : 54.9,
+      "envelopeStart" : 148,
+      "envelopeEnd" : 216,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 149,
+        "end" : 213,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.0E-11,
+    "score" : 55.9,
+    "model-ac" : "PF08308"
+  }, {
+    "signature" : {
+      "accession" : "SSF82185",
+      "name" : "Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 223,
+      "end" : 344,
+      "representative" : false,
+      "hmmLength" : 142,
+      "location-fragments" : [ {
+        "start" : 223,
+        "end" : 344,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.75E-29,
+    "model-ac" : "0038399"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 59,
+      "end" : 72,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 59,
+        "end" : 72,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Polyampholyte"
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PTHR43215",
+      "name" : "RADIAL SPOKE HEAD 1 HOMOLOG",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 224,
+      "end" : 334,
+      "representative" : false,
+      "hmmStart" : 230,
+      "hmmEnd" : 340,
+      "hmmLength" : 0,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "envelopeStart" : 165,
+      "envelopeEnd" : 334,
+      "location-fragments" : [ {
+        "start" : 224,
+        "end" : 334,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR43215:SF14",
+    "name" : "RADIAL SPOKE HEAD 1 HOMOLOG",
+    "evalue" : 1.4E-55,
+    "score" : 201.0,
+    "proteinClass" : null,
+    "graftPoint" : "PTN005152137",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR43215:SF14"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 35,
+      "end" : 72,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 35,
+        "end" : 72,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 88,
+      "end" : 119,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 88,
+        "end" : 119,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PF02493",
+      "name" : "MORN",
+      "description" : "MORN repeat",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR003409",
+        "name" : "MORN",
+        "description" : "MORN repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 268,
+      "end" : 289,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 23,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 0.25,
+      "score" : 22.5,
+      "envelopeStart" : 268,
+      "envelopeEnd" : 290,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 268,
+        "end" : 289,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 245,
+      "end" : 267,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 23,
+      "hmmLength" : 23,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.91,
+      "score" : 20.7,
+      "envelopeStart" : 245,
+      "envelopeEnd" : 267,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 245,
+        "end" : 267,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 291,
+      "end" : 312,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 23,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 0.063,
+      "score" : 24.3,
+      "envelopeStart" : 291,
+      "envelopeEnd" : 313,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 291,
+        "end" : 312,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 316,
+      "end" : 334,
+      "representative" : false,
+      "hmmStart" : 3,
+      "hmmEnd" : 21,
+      "hmmLength" : 23,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 16.0,
+      "score" : 16.7,
+      "envelopeStart" : 315,
+      "envelopeEnd" : 336,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 316,
+        "end" : 334,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 337,
+      "end" : 357,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 21,
+      "hmmLength" : 23,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.11,
+      "score" : 23.5,
+      "envelopeStart" : 337,
+      "envelopeEnd" : 357,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 337,
+        "end" : 357,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 223,
+      "end" : 244,
+      "representative" : true,
+      "hmmStart" : 2,
+      "hmmEnd" : 23,
+      "hmmLength" : 23,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 980.0,
+      "score" : 11.1,
+      "envelopeStart" : 223,
+      "envelopeEnd" : 244,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 223,
+        "end" : 244,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 383,
+      "end" : 404,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 23,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 30.0,
+      "score" : 15.9,
+      "envelopeStart" : 383,
+      "envelopeEnd" : 405,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 383,
+        "end" : 404,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 360,
+      "end" : 380,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 21,
+      "hmmLength" : 23,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 0.0031,
+      "score" : 28.4,
+      "envelopeStart" : 360,
+      "envelopeEnd" : 382,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 360,
+        "end" : 380,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.4E-37,
+    "score" : 136.4,
+    "model-ac" : "PF02493"
+  }, {
+    "signature" : {
+      "accession" : "SSF82185",
+      "name" : "Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 332,
+      "end" : 429,
+      "representative" : false,
+      "hmmLength" : 142,
+      "location-fragments" : [ {
+        "start" : 332,
+        "end" : 429,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.53E-25,
+    "model-ac" : "0038399"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:2.20.110.10",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 366,
+      "end" : 434,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 57,
+      "hmmLength" : 86,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 5.2E-11,
+      "score" : 44.1,
+      "envelopeStart" : 362,
+      "envelopeEnd" : 434,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 366,
+        "end" : 434,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 274,
+      "end" : 320,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 57,
+      "hmmLength" : 86,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 5.4E-11,
+      "score" : 44.0,
+      "envelopeStart" : 270,
+      "envelopeEnd" : 325,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 274,
+        "end" : 320,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 321,
+      "end" : 365,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 57,
+      "hmmLength" : 86,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 1.8E-15,
+      "score" : 58.4,
+      "envelopeStart" : 316,
+      "envelopeEnd" : 369,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 321,
+        "end" : 365,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 224,
+      "end" : 273,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 56,
+      "hmmLength" : 86,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 2.1E-10,
+      "score" : 42.2,
+      "envelopeStart" : 224,
+      "envelopeEnd" : 277,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 224,
+        "end" : 273,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.4E-43,
+    "score" : 147.2,
+    "model-ac" : "1n6aA01"
+  }, {
+    "signature" : {
+      "accession" : "SM00698",
+      "name" : "morn",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "9.0"
+      },
+      "entry" : {
+        "accession" : "IPR003409",
+        "name" : "MORN",
+        "description" : "MORN repeat",
+        "type" : "REPEAT",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 223,
+      "end" : 241,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 22,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 53.0,
+      "score" : 1.2,
+      "location-fragments" : [ {
+        "start" : 223,
+        "end" : 241,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 358,
+      "end" : 379,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 22,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 4.2E-4,
+      "score" : 29.6,
+      "location-fragments" : [ {
+        "start" : 358,
+        "end" : 379,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 289,
+      "end" : 310,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 22,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 2.5E-4,
+      "score" : 30.4,
+      "location-fragments" : [ {
+        "start" : 289,
+        "end" : 310,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 335,
+      "end" : 356,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 22,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.2,
+      "score" : 19.3,
+      "location-fragments" : [ {
+        "start" : 335,
+        "end" : 356,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 381,
+      "end" : 402,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 22,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.3,
+      "score" : 13.2,
+      "location-fragments" : [ {
+        "start" : 381,
+        "end" : 402,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 243,
+      "end" : 264,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 22,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.022,
+      "score" : 23.9,
+      "location-fragments" : [ {
+        "start" : 243,
+        "end" : 264,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 312,
+      "end" : 333,
+      "representative" : true,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 22,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.9,
+      "score" : 7.8,
+      "location-fragments" : [ {
+        "start" : 312,
+        "end" : 333,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    }, {
+      "start" : 266,
+      "end" : 287,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 22,
+      "hmmLength" : 22,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 0.0059,
+      "score" : 25.8,
+      "location-fragments" : [ {
+        "start" : 266,
+        "end" : 287,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.0E-40,
+    "score" : 151.2,
+    "model-ac" : "SM00698"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_114 # 121583 # 122953 # -1 # ID=2_114;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.600",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_114"
+  } ]
+},{
+  "sequence" : "MLAILHPDTALDSEAYRQTMHFLENLPGVSVRVHEVQGAKQRLTEVYLLGDTKSLDKDEIEALPAVERAIRISDDYRILGRHKDDKRQSGFTYNGVTFDQSNLNIFAGLCAVDVPEHVEQMMQALEDNGQVCTRMGAYKPRTNPYSFQGHGKGCLPWVFEKAGKHGIKVIAMEITHESHIEEIDHCLEQLGRPTGVMLQVGTRNTQNFELLKAIGRQSTYPVLLKRGFGITLNESLNAAEYLASEGNANVIFCLRGMKTEAGQPHRNMVDFAHVPAVKRLTRMPVCVDPSHSVGSRERAPDGVLDVMHATAQGVIAGANMVLVDFHPKPEKALVDGPQALLMRELPAYLEDIQLCHDTWKQRQQIYNRLKESSPE",
+  "md5" : "664b7876faf8312282aef3c6e2efec20",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PTHR43018",
+      "name" : "PHOSPHO-2-DEHYDRO-3-DEOXYHEPTONATE ALDOLASE",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR052899",
+        "name" : "Class-I_DAHP_synthase",
+        "description" : "Class-I DAHP synthase",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 18,
+      "end" : 360,
+      "representative" : false,
+      "hmmStart" : 13,
+      "hmmEnd" : 334,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 7,
+      "envelopeEnd" : 365,
+      "location-fragments" : [ {
+        "start" : 18,
+        "end" : 360,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR43018:SF1",
+    "name" : "PROTEIN AROA(G)",
+    "evalue" : 1.3E-69,
+    "score" : 246.6,
+    "proteinClass" : null,
+    "graftPoint" : "PTN000471865",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR43018:SF1"
+  }, {
+    "signature" : {
+      "accession" : "SSF51569",
+      "name" : "Aldolase",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 16,
+      "end" : 360,
+      "representative" : false,
+      "hmmLength" : 338,
+      "location-fragments" : [ {
+        "start" : 16,
+        "end" : 360,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.67E-69,
+    "model-ac" : "0049279"
+  }, {
+    "signature" : {
+      "accession" : "PF00793",
+      "name" : "DAHP_synth_1",
+      "description" : "DAHP synthetase I family",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR006218",
+        "name" : "DAHP1/KDSA",
+        "description" : "DAHP synthetase I/KDSA",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 101,
+      "end" : 349,
+      "representative" : true,
+      "hmmStart" : 16,
+      "hmmEnd" : 258,
+      "hmmLength" : 270,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.9E-40,
+      "score" : 149.4,
+      "envelopeStart" : 88,
+      "envelopeEnd" : 360,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 101,
+        "end" : 349,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.0E-40,
+    "score" : 150.0,
+    "model-ac" : "PF00793"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.30.70.1140",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 1,
+      "end" : 82,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 75,
+      "hmmLength" : 80,
+      "hmmBounds" : "N_TERMINAL_COMPLETE",
+      "evalue" : 1.4E-17,
+      "score" : 65.6,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 85,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 1,
+        "end" : 82,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.1E-18,
+    "score" : 67.2,
+    "model-ac" : "1rzmA01"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.20.20.70",
+      "name" : "Aldolase class I",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : {
+        "accession" : "IPR013785",
+        "name" : "Aldolase_TIM",
+        "description" : "Aldolase-type TIM barrel",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 83,
+      "end" : 356,
+      "representative" : false,
+      "hmmStart" : 6,
+      "hmmEnd" : 256,
+      "hmmLength" : 262,
+      "hmmBounds" : "C_TERMINAL_COMPLETE",
+      "evalue" : 1.0E-61,
+      "score" : 210.2,
+      "envelopeStart" : 80,
+      "envelopeEnd" : 356,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 83,
+        "end" : 356,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 7.6E-62,
+    "score" : 210.6,
+    "model-ac" : "4c1lA00"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_101 # 108305 # 109432 # -1 # ID=2_101;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.594",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_101"
+  } ]
+},{
+  "sequence" : "MAIKNALLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQRPDVIFMDHLMPGMNGVEATKAIKGNPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGLSLVLDQLDSDVTEGNLPEPPELDAEPNELDDDILDIPSDASLEMSPKADDGLHASDNSGPQVVPLTSDLIEQIARSAVKTHINNRLHELLSSLFDEQFDHLKRVLDESSKKQETAVEERLNAVTEMIEERTRNLRDDVAAEVNLNLGRELADLRKDLSRNTGFTSDHMAELKDHITSVQTIDTEFWQTLQSEAIQQAHEISRETAEDIAQRTIDLFVAQQRSATSRIYTVGLAASLGIFAVGIAWLSGLFA",
+  "md5" : "420305afd62158dbba350fb54d4680d9",
+  "matches" : [ {
+    "signature" : {
+      "accession" : "PS50110",
+      "name" : "RESPONSE_REGULATORY",
+      "description" : "Response regulatory domain profile.",
+      "signatureLibraryRelease" : {
+        "library" : "PROSITE_PROFILES",
+        "version" : "2023_05"
+      },
+      "entry" : {
+        "accession" : "IPR001789",
+        "name" : "Sig_transdc_resp-reg_receiver",
+        "description" : "Signal transduction response regulator, receiver domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 5,
+      "end" : 122,
+      "representative" : true,
+      "score" : 35.635925,
+      "alignment" : "NALLVDDSKVARFALSKLLEGRDMEVNMAGSAEEALDFLSSHQrPDVIFMDHLMPGMNGVEATKAIKgnPDTAAIPIIMCTSKKSSSFMEEARNFGVYNILTKPPHTEGLSLVLDQLD",
+      "location-fragments" : [ {
+        "start" : 5,
+        "end" : 122,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "PS50110"
+  }, {
+    "signature" : {
+      "accession" : "cd00156",
+      "name" : "REC",
+      "description" : "REC",
+      "signatureLibraryRelease" : {
+        "library" : "CDD",
+        "version" : "3.21"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 7,
+      "end" : 108,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "putative dimer interface",
+        "numLocations" : 5,
+        "siteLocations" : [ {
+          "start" : 106,
+          "end" : 106,
+          "residue" : "T"
+        }, {
+          "start" : 104,
+          "end" : 104,
+          "residue" : "I"
+        }, {
+          "start" : 101,
+          "end" : 101,
+          "residue" : "V"
+        }, {
+          "start" : 103,
+          "end" : 103,
+          "residue" : "N"
+        }, {
+          "start" : 102,
+          "end" : 102,
+          "residue" : "Y"
+        } ]
+      } ],
+      "evalue" : 2.12195E-23,
+      "score" : 91.5198,
+      "location-fragments" : [ {
+        "start" : 7,
+        "end" : 108,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "model-ac" : "cd00156"
+  }, {
+    "signature" : {
+      "accession" : "G3DSA:3.40.50.2300",
+      "name" : "",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "GENE3D",
+        "version" : "4.3.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 2,
+      "end" : 127,
+      "representative" : false,
+      "hmmStart" : 19,
+      "hmmEnd" : 143,
+      "hmmLength" : 158,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 6.7E-31,
+      "score" : 108.8,
+      "envelopeStart" : 2,
+      "envelopeEnd" : 127,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 2,
+        "end" : 127,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 3.6E-31,
+    "score" : 109.7,
+    "model-ac" : "5te9A00"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR026389-4",
+      "name" : "PIRSR026389-4",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 6,
+      "end" : 120,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Glycyl lysine isopeptide (Lys-Gly) (interchain with G-Cter in ubiquitin).",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 107,
+          "end" : 107,
+          "residue" : "K"
+        } ],
+        "label" : "CROSSLNK",
+        "group" : 1,
+        "hmmStart" : 717,
+        "hmmEnd" : 717
+      } ],
+      "hmmStart" : 616,
+      "hmmEnd" : 730,
+      "hmmLength" : 740,
+      "evalue" : 1.9E-10,
+      "score" : 29.7,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 6,
+        "end" : 120,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.9E-10,
+    "score" : 29.7,
+    "scope" : null,
+    "model-ac" : "PIRSR026389-4"
+  }, {
+    "signature" : {
+      "accession" : "PTHR44591",
+      "name" : "STRESS RESPONSE REGULATOR PROTEIN 1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PANTHER",
+        "version" : "19.0"
+      },
+      "entry" : {
+        "accession" : "IPR050595",
+        "name" : "Bact_response_regulator",
+        "description" : "Bacterial response regulator",
+        "type" : "FAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 6,
+      "end" : 122,
+      "representative" : false,
+      "hmmStart" : 8,
+      "hmmEnd" : 123,
+      "hmmLength" : 0,
+      "hmmBounds" : "INCOMPLETE",
+      "envelopeStart" : 1,
+      "envelopeEnd" : 134,
+      "location-fragments" : [ {
+        "start" : 6,
+        "end" : 122,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "accession" : "PTHR44591:SF14",
+    "name" : "PROTEIN PILG",
+    "evalue" : 3.8E-23,
+    "score" : 93.1,
+    "proteinClass" : null,
+    "graftPoint" : "PTN000724396",
+    "goXRefs" : [ ],
+    "model-ac" : "PTHR44591:SF14"
+  }, {
+    "signature" : {
+      "accession" : "SSF52172",
+      "name" : "CheY-like",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SUPERFAMILY",
+        "version" : "1.75"
+      },
+      "entry" : {
+        "accession" : "IPR011006",
+        "name" : "CheY-like_superfamily",
+        "description" : "CheY-like superfamily",
+        "type" : "HOMOLOGOUS_SUPERFAMILY",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 5,
+      "end" : 121,
+      "representative" : false,
+      "hmmLength" : 190,
+      "location-fragments" : [ {
+        "start" : 5,
+        "end" : 121,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 2.28E-30,
+    "model-ac" : "0043525"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 155,
+      "end" : 174,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 155,
+        "end" : 174,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 134,
+      "end" : 148,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 134,
+        "end" : 148,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : "Negative Polyelectrolyte"
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "PF00072",
+      "name" : "Response_reg",
+      "description" : "Response regulator receiver domain",
+      "signatureLibraryRelease" : {
+        "library" : "PFAM",
+        "version" : "37.2"
+      },
+      "entry" : {
+        "accession" : "IPR001789",
+        "name" : "Sig_transdc_resp-reg_receiver",
+        "description" : "Signal transduction response regulator, receiver domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 7,
+      "end" : 114,
+      "representative" : false,
+      "hmmStart" : 2,
+      "hmmEnd" : 106,
+      "hmmLength" : 111,
+      "hmmBounds" : "INCOMPLETE",
+      "evalue" : 2.7E-19,
+      "score" : 80.7,
+      "envelopeStart" : 6,
+      "envelopeEnd" : 119,
+      "postProcessed" : true,
+      "location-fragments" : [ {
+        "start" : 7,
+        "end" : 114,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.2E-19,
+    "score" : 81.8,
+    "model-ac" : "PF00072"
+  }, {
+    "signature" : {
+      "accession" : "PIRSR002937-1",
+      "name" : "PIRSR002937-1",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "PIRSR",
+        "version" : "2023_05"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 7,
+      "end" : 121,
+      "representative" : false,
+      "sites" : [ {
+        "description" : "Calcium.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 55,
+          "end" : 55,
+          "residue" : "D"
+        } ],
+        "label" : "METAL",
+        "group" : 3,
+        "hmmStart" : 57,
+        "hmmEnd" : 57
+      }, {
+        "description" : "Calcium.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 10,
+          "end" : 10,
+          "residue" : "D"
+        } ],
+        "label" : "METAL",
+        "group" : 1,
+        "hmmStart" : 11,
+        "hmmEnd" : 11
+      }, {
+        "description" : "Calcium.",
+        "numLocations" : 1,
+        "siteLocations" : [ {
+          "start" : 11,
+          "end" : 11,
+          "residue" : "D"
+        } ],
+        "label" : "METAL",
+        "group" : 2,
+        "hmmStart" : 12,
+        "hmmEnd" : 12
+      } ],
+      "hmmStart" : 8,
+      "hmmEnd" : 123,
+      "hmmLength" : 269,
+      "evalue" : 4.9E-10,
+      "score" : 29.2,
+      "envelopeStart" : 1,
+      "envelopeEnd" : 2,
+      "location-fragments" : [ {
+        "start" : 7,
+        "end" : 121,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 4.9E-10,
+    "score" : 29.2,
+    "scope" : null,
+    "model-ac" : "PIRSR002937-1"
+  }, {
+    "signature" : {
+      "accession" : "mobidb-lite",
+      "name" : "disorder_prediction",
+      "description" : "consensus disorder prediction",
+      "signatureLibraryRelease" : {
+        "library" : "MOBIDB_LITE",
+        "version" : "4.0"
+      },
+      "entry" : null
+    },
+    "locations" : [ {
+      "start" : 124,
+      "end" : 148,
+      "representative" : false,
+      "location-fragments" : [ {
+        "start" : 124,
+        "end" : 148,
+        "dc-status" : "CONTINUOUS"
+      } ],
+      "sequence-feature" : ""
+    } ],
+    "model-ac" : "mobidb-lite"
+  }, {
+    "signature" : {
+      "accession" : "SM00448",
+      "name" : "REC_2",
+      "description" : null,
+      "signatureLibraryRelease" : {
+        "library" : "SMART",
+        "version" : "9.0"
+      },
+      "entry" : {
+        "accession" : "IPR001789",
+        "name" : "Sig_transdc_resp-reg_receiver",
+        "description" : "Signal transduction response regulator, receiver domain",
+        "type" : "DOMAIN",
+        "goXRefs" : [ ],
+        "pathwayXRefs" : [ ]
+      }
+    },
+    "locations" : [ {
+      "start" : 4,
+      "end" : 118,
+      "representative" : false,
+      "hmmStart" : 1,
+      "hmmEnd" : 150,
+      "hmmLength" : 150,
+      "hmmBounds" : "COMPLETE",
+      "evalue" : 1.2E-24,
+      "score" : 97.9,
+      "location-fragments" : [ {
+        "start" : 4,
+        "end" : 118,
+        "dc-status" : "CONTINUOUS"
+      } ]
+    } ],
+    "evalue" : 1.2E-24,
+    "score" : 97.9,
+    "model-ac" : "SM00448"
+  } ],
+  "xref" : [ {
+    "name" : "5mSIPHEX1_10-scaffold_10_c1_113 # 120436 # 121533 # -1 # ID=2_113;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.572",
+    "id" : "5mSIPHEX1_10-scaffold_10_c1_113"
+  } ]
+} ]
+}

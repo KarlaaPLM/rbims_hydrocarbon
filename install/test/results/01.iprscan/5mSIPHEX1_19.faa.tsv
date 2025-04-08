@@ -1,0 +1,179 @@
+5mSIPHEX1_19-scaffold_104_c1_113	99afc2f5b35a99e13de34e78c8c48a44	215	Pfam	PF00156	Phosphoribosyl transferase domain	47	146	7.2E-6	T	08-04-2025	IPR000836	Phosphoribosyltransferase domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_113	99afc2f5b35a99e13de34e78c8c48a44	215	NCBIfam	TIGR00336	orotate phosphoribosyltransferase	10	187	4.6E-52	T	08-04-2025	IPR004467	Orotate phosphoribosyl transferase domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_113	99afc2f5b35a99e13de34e78c8c48a44	215	Hamap	MF_01208	Orotate phosphoribosyltransferase [pyrE].	1	215	32.986279	T	08-04-2025	IPR023031	Orotate phosphoribosyltransferase	-	-
+5mSIPHEX1_19-scaffold_104_c1_113	99afc2f5b35a99e13de34e78c8c48a44	215	CDD	cd06223	PRTases_typeI	49	137	2.80373E-12	T	08-04-2025	IPR000836	Phosphoribosyltransferase domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_113	99afc2f5b35a99e13de34e78c8c48a44	215	Gene3D	G3DSA:3.40.50.2020	-	1	214	1.6E-76	T	08-04-2025	IPR029057	Phosphoribosyltransferase-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_113	99afc2f5b35a99e13de34e78c8c48a44	215	PANTHER	PTHR46683	OROTATE PHOSPHORIBOSYLTRANSFERASE 1-RELATED	1	214	5.6E-81	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_113	99afc2f5b35a99e13de34e78c8c48a44	215	FunFam	G3DSA:3.40.50.2020:FF:000008	Orotate phosphoribosyltransferase	1	214	2.9E-96	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_113	99afc2f5b35a99e13de34e78c8c48a44	215	SUPERFAMILY	SSF53271	PRTase-like	1	212	4.26E-45	T	08-04-2025	IPR029057	Phosphoribosyltransferase-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_101	4737cc74a63f502883c4acfe1a548dbc	235	Pfam	PF02698	DUF218 domain	68	225	4.2E-23	T	08-04-2025	IPR003848	Domain of unknown function DUF218	-	-
+5mSIPHEX1_19-scaffold_104_c1_101	4737cc74a63f502883c4acfe1a548dbc	235	CDD	cd06259	YdcF-like	68	226	4.0827E-32	T	08-04-2025	IPR003848	Domain of unknown function DUF218	-	-
+5mSIPHEX1_19-scaffold_104_c1_101	4737cc74a63f502883c4acfe1a548dbc	235	PANTHER	PTHR30336	INNER MEMBRANE PROTEIN, PROBABLE PERMEASE	27	232	1.8E-21	T	08-04-2025	IPR051599	Cell Envelope Integrity and Synthesis Associated Protein	-	-
+5mSIPHEX1_19-scaffold_104_c1_112	b134630ec6d8e38d1c99d2b84e07bf71	223	Coils	Coil	Coil	163	190	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_112	b134630ec6d8e38d1c99d2b84e07bf71	223	Coils	Coil	Coil	124	151	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	Coils	Coil	Coil	79	99	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	SUPERFAMILY	SSF47781	RuvA domain 2-like	20	90	7.78E-10	T	08-04-2025	IPR010994	RuvA domain 2-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	ProSiteProfiles	PS50249	MPN domain profile.	102	224	40.44376	T	08-04-2025	IPR037518	MPN domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	Pfam	PF20582	UPF0758 N-terminal	3	80	5.0E-26	T	08-04-2025	IPR046778	UPF0758, N-terminal	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	NCBIfam	TIGR00608	DNA repair protein RadC	11	224	3.9E-71	T	08-04-2025	IPR001405	Uncharacterised protein family UPF0758	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	SUPERFAMILY	SSF102712	JAB1/MPN domain	122	195	4.71E-5	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	NCBIfam	NF000642	DNA repair protein RadC	13	224	2.5E-81	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	ProSitePatterns	PS01302	Uncharacterized protein family UPF0758 signature.	173	178	-	T	08-04-2025	IPR020891	Uncharacterised protein family UPF0758, conserved site	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	Gene3D	G3DSA:3.40.140.10	Cytidine Deaminase, domain 2	101	223	1.3E-41	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	PANTHER	PTHR30471	DNA REPAIR PROTEIN RADC	3	224	6.5E-81	T	08-04-2025	IPR001405	Uncharacterised protein family UPF0758	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	Pfam	PF04002	RadC-like JAB domain	103	223	2.9E-42	T	08-04-2025	IPR025657	RadC-like JAB domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_106	089b873db8a57cecbc850aef1b7a9892	224	CDD	cd08071	MPN_DUF2466	107	219	1.46944E-58	T	08-04-2025	IPR025657	RadC-like JAB domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_108	caf613dafb71ea464df615a634a6e113	151	CDD	cd07557	trimeric_dUTPase	28	121	1.36231E-28	T	08-04-2025	IPR033704	dUTPase, trimeric	-	-
+5mSIPHEX1_19-scaffold_104_c1_108	caf613dafb71ea464df615a634a6e113	151	NCBIfam	NF001862	dUTP diphosphatase	2	150	2.0E-59	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_108	caf613dafb71ea464df615a634a6e113	151	Gene3D	G3DSA:2.70.40.10	-	1	151	1.9E-55	T	08-04-2025	IPR036157	dUTPase-like superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_108	caf613dafb71ea464df615a634a6e113	151	Hamap	MF_00116	Deoxyuridine 5'-triphosphate nucleotidohydrolase [dut].	6	150	33.396225	T	08-04-2025	IPR008181	Deoxyuridine triphosphate nucleotidohydrolase	-	-
+5mSIPHEX1_19-scaffold_104_c1_108	caf613dafb71ea464df615a634a6e113	151	NCBIfam	TIGR00576	dUTP diphosphatase	10	150	1.5E-44	T	08-04-2025	IPR008181	Deoxyuridine triphosphate nucleotidohydrolase	-	-
+5mSIPHEX1_19-scaffold_104_c1_108	caf613dafb71ea464df615a634a6e113	151	Pfam	PF00692	dUTPase	16	149	3.6E-37	T	08-04-2025	IPR029054	dUTPase-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_108	caf613dafb71ea464df615a634a6e113	151	FunFam	G3DSA:2.70.40.10:FF:000002	dUTP diphosphatase	1	151	3.5E-76	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_108	caf613dafb71ea464df615a634a6e113	151	PANTHER	PTHR11241	DEOXYURIDINE 5'-TRIPHOSPHATE NUCLEOTIDOHYDROLASE	3	150	1.3E-32	T	08-04-2025	IPR008181	Deoxyuridine triphosphate nucleotidohydrolase	-	-
+5mSIPHEX1_19-scaffold_104_c1_108	caf613dafb71ea464df615a634a6e113	151	SUPERFAMILY	SSF51283	dUTPase-like	1	150	5.23E-53	T	08-04-2025	IPR036157	dUTPase-like superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	PANTHER	PTHR43199	GLUTATHIONE HYDROLASE	39	569	0.0	T	08-04-2025	IPR051792	Gamma-glutamyltransferase, bacteria	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	SUPERFAMILY	SSF56235	N-terminal nucleophile aminohydrolases (Ntn hydrolases)	41	567	0.0	T	08-04-2025	IPR029055	Nucleophile aminohydrolases, N-terminal	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	Gene3D	G3DSA:1.10.246.130	-	269	376	1.5E-29	T	08-04-2025	IPR043138	Gamma-glutamyltranspeptidase, large subunit, C-terminal domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	PRINTS	PR01210	Gamma-glutamyltranspeptidase signature	63	88	2.5E-69	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	PRINTS	PR01210	Gamma-glutamyltranspeptidase signature	137	155	2.5E-69	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	PRINTS	PR01210	Gamma-glutamyltranspeptidase signature	155	174	2.5E-69	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	PRINTS	PR01210	Gamma-glutamyltranspeptidase signature	253	269	2.5E-69	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	PRINTS	PR01210	Gamma-glutamyltranspeptidase signature	283	302	2.5E-69	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	PRINTS	PR01210	Gamma-glutamyltranspeptidase signature	380	398	2.5E-69	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	PRINTS	PR01210	Gamma-glutamyltranspeptidase signature	404	422	2.5E-69	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	PRINTS	PR01210	Gamma-glutamyltranspeptidase signature	445	460	2.5E-69	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	PRINTS	PR01210	Gamma-glutamyltranspeptidase signature	468	485	2.5E-69	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	Gene3D	G3DSA:3.60.20.40	-	380	571	3.7E-59	T	08-04-2025	IPR043137	Gamma-glutamyltranspeptidase, small subunit	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	Pfam	PF01019	Gamma-glutamyltranspeptidase	56	563	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_100	9d99d9a277facdcefe690cd5e657f449	573	NCBIfam	TIGR00066	gamma-glutamyltransferase	43	561	0.0	T	08-04-2025	IPR000101	Gamma-glutamyltranspeptidase	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	CDD	cd04250	AAK_NAGK-C	14	295	0.0	T	08-04-2025	IPR041727	N-Acetyl-L-glutamate kinase, cyclic	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	SUPERFAMILY	SSF53633	Carbamate kinase-like	7	297	7.85E-96	T	08-04-2025	IPR036393	Acetylglutamate kinase-like superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	Pfam	PF00696	Amino acid kinase family	28	274	2.1E-40	T	08-04-2025	IPR001048	Aspartate/glutamate/uridylate kinase	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	PRINTS	PR00474	Glutamate 5-kinase family signature	59	73	6.9E-9	T	08-04-2025	IPR001057	Glutamate/acetylglutamate kinase	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	PRINTS	PR00474	Glutamate 5-kinase family signature	197	224	6.9E-9	T	08-04-2025	IPR001057	Glutamate/acetylglutamate kinase	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	PRINTS	PR00474	Glutamate 5-kinase family signature	247	267	6.9E-9	T	08-04-2025	IPR001057	Glutamate/acetylglutamate kinase	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	PANTHER	PTHR23342	N-ACETYLGLUTAMATE SYNTHASE	10	297	1.6E-73	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	FunFam	G3DSA:3.40.1160.10:FF:000004	Acetylglutamate kinase	6	298	1.2E-129	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	NCBIfam	TIGR00761	acetylglutamate kinase	29	272	4.7E-74	T	08-04-2025	IPR004662	Acetylglutamate kinase family	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	PIRSF	PIRSF000728	NAGK	13	297	7.7E-108	T	08-04-2025	IPR004662	Acetylglutamate kinase family	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	Gene3D	G3DSA:3.40.1160.10	-	3	300	9.2E-108	T	08-04-2025	IPR036393	Acetylglutamate kinase-like superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_110	cd34678485024f053813ec639e097496	301	Hamap	MF_00082	Acetylglutamate kinase [argB].	27	290	51.563675	T	08-04-2025	IPR037528	Acetylglutamate kinase ArgB	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	Gene3D	G3DSA:3.30.310.50	-	739	832	5.0E-21	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	ProSitePatterns	PS00710	Phosphoglucomutase and phosphomannomutase phosphoserine signature.	470	479	-	T	08-04-2025	IPR016066	Alpha-D-phosphohexomutase, conserved site	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	SUPERFAMILY	SSF53738	Phosphoglucomutase, first 3 domains	379	511	1.26E-31	T	08-04-2025	IPR016055	Alpha-D-phosphohexomutase, alpha/beta/alpha I/II/III	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	Pfam	PF02880	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain III	628	737	8.8E-17	T	08-04-2025	IPR005846	Alpha-D-phosphohexomutase, alpha/beta/alpha domain III	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	CDD	cd03089	PMM_PGM	381	821	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	Gene3D	G3DSA:3.40.120.10	-	371	522	9.2E-37	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	PRINTS	PR00509	Phosphoglucomutase/phosphomannomutase family signature	469	483	5.1E-24	T	08-04-2025	IPR005841	Alpha-D-phosphohexomutase superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	PRINTS	PR00509	Phosphoglucomutase/phosphomannomutase family signature	540	559	5.1E-24	T	08-04-2025	IPR005841	Alpha-D-phosphohexomutase superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	PRINTS	PR00509	Phosphoglucomutase/phosphomannomutase family signature	574	587	5.1E-24	T	08-04-2025	IPR005841	Alpha-D-phosphohexomutase superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	PRINTS	PR00509	Phosphoglucomutase/phosphomannomutase family signature	603	618	5.1E-24	T	08-04-2025	IPR005841	Alpha-D-phosphohexomutase superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	Gene3D	G3DSA:3.40.120.10	-	621	738	3.2E-39	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	Pfam	PF02878	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain I	380	511	1.0E-23	T	08-04-2025	IPR005844	Alpha-D-phosphohexomutase, alpha/beta/alpha domain I	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	SUPERFAMILY	SSF55957	Phosphoglucomutase, C-terminal domain	737	829	1.23E-15	T	08-04-2025	IPR036900	Alpha-D-phosphohexomutase, C-terminal domain superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	Gene3D	G3DSA:3.40.120.10	-	542	619	1.3E-28	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	PANTHER	PTHR43771	PHOSPHOMANNOMUTASE	373	821	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	Pfam	PF00408	Phosphoglucomutase/phosphomannomutase, C-terminal domain	746	818	3.3E-4	T	08-04-2025	IPR005843	Alpha-D-phosphohexomutase, C-terminal	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	SUPERFAMILY	SSF53738	Phosphoglucomutase, first 3 domains	627	734	1.61E-29	T	08-04-2025	IPR016055	Alpha-D-phosphohexomutase, alpha/beta/alpha I/II/III	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	ProSiteProfiles	PS50206	Rhodanese domain profile.	533	590	8.548358	T	08-04-2025	IPR001763	Rhodanese-like domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	SUPERFAMILY	SSF53738	Phosphoglucomutase, first 3 domains	524	625	5.89E-30	T	08-04-2025	IPR016055	Alpha-D-phosphohexomutase, alpha/beta/alpha I/II/III	-	-
+5mSIPHEX1_19-scaffold_104_c1_109	68c59c1f72bb47492026f3831c1554ac	832	Pfam	PF02879	Phosphoglucomutase/phosphomannomutase, alpha/beta/alpha domain II	526	623	6.1E-23	T	08-04-2025	IPR005845	Alpha-D-phosphohexomutase, alpha/beta/alpha domain II	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	Hamap	MF_00103	Formamidopyrimidine-DNA glycosylase [mutM].	1	269	41.817844	T	08-04-2025	IPR020629	Formamidopyrimidine-DNA glycosylase	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	NCBIfam	TIGR00577	DNA-formamidopyrimidine glycosylase	1	268	4.0E-85	T	08-04-2025	IPR020629	Formamidopyrimidine-DNA glycosylase	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	SUPERFAMILY	SSF57716	Glucocorticoid receptor-like (DNA-binding domain)	217	268	1.57E-15	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	Pfam	PF06827	Zinc finger found in FPG and IleRS	241	268	4.9E-4	T	08-04-2025	IPR010663	Zinc finger, FPG/IleRS-type	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	SUPERFAMILY	SSF46946	S13-like H2TH domain	130	221	5.59E-28	T	08-04-2025	IPR010979	Small ribosomal subunit protein uS13-like, H2TH	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	FunFam	G3DSA:1.10.8.50:FF:000003	Formamidopyrimidine-DNA glycosylase	131	269	4.6E-48	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	Pfam	PF06831	Formamidopyrimidine-DNA glycosylase H2TH domain	129	219	2.6E-21	T	08-04-2025	IPR015886	DNA glycosylase/AP lyase, H2TH DNA-binding	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	NCBIfam	NF002211	bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase	1	269	6.1E-98	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	ProSiteProfiles	PS51068	Formamidopyrimidine-DNA glycosylase catalytic domain profile.	2	112	31.979563	T	08-04-2025	IPR012319	Formamidopyrimidine-DNA glycosylase, catalytic domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	SMART	SM00898	Fapy_DNA_glyco_2	2	115	2.8E-52	T	08-04-2025	IPR012319	Formamidopyrimidine-DNA glycosylase, catalytic domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	PANTHER	PTHR22993	FORMAMIDOPYRIMIDINE-DNA GLYCOSYLASE	1	269	4.2E-42	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	ProSiteProfiles	PS51066	Zinc finger FPG-type profile.	235	269	12.576518	T	08-04-2025	IPR000214	Zinc finger, DNA glycosylase/AP lyase-type	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	Gene3D	G3DSA:1.10.8.50	-	131	269	8.0E-43	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	Gene3D	G3DSA:3.20.190.10	-	2	126	2.3E-38	T	08-04-2025	IPR035937	MutM-like, N-terminal	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	CDD	cd08966	EcFpg-like_N	2	117	3.21223E-52	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	Pfam	PF01149	Formamidopyrimidine-DNA glycosylase N-terminal domain	1	113	4.7E-31	T	08-04-2025	IPR012319	Formamidopyrimidine-DNA glycosylase, catalytic domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	ProSitePatterns	PS01242	Zinc finger FPG-type signature.	244	268	-	T	08-04-2025	IPR015887	DNA glycosylase/AP lyase, zinc finger domain, DNA-binding site	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	FunFam	G3DSA:3.20.190.10:FF:000001	Formamidopyrimidine-DNA glycosylase	2	128	4.2E-45	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	SMART	SM01232	H2TH_2	129	221	5.7E-45	T	08-04-2025	IPR015886	DNA glycosylase/AP lyase, H2TH DNA-binding	-	-
+5mSIPHEX1_19-scaffold_104_c1_103	708c1da38d4fb6b0da9d126ad8c30f8d	269	SUPERFAMILY	SSF81624	N-terminal domain of MutM-like DNA repair proteins	2	138	5.23E-41	T	08-04-2025	IPR035937	MutM-like, N-terminal	-	-
+5mSIPHEX1_19-scaffold_104_c1_102	c00514519b409e4e1285b9e7fe7f3dc8	166	SUPERFAMILY	SSF53098	Ribonuclease H-like	8	160	1.43E-14	T	08-04-2025	IPR012337	Ribonuclease H-like superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_102	c00514519b409e4e1285b9e7fe7f3dc8	166	Gene3D	G3DSA:3.30.420.10	-	2	166	1.9E-9	T	08-04-2025	IPR036397	Ribonuclease H superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_111	f23d464a05886bc2b84dbf2e0ffa643f	204	Coils	Coil	Coil	127	147	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_111	f23d464a05886bc2b84dbf2e0ffa643f	204	Pfam	PF00440	Bacterial regulatory proteins, tetR family	14	58	2.7E-6	T	08-04-2025	IPR001647	DNA-binding HTH domain, TetR-type	-	-
+5mSIPHEX1_19-scaffold_104_c1_111	f23d464a05886bc2b84dbf2e0ffa643f	204	Gene3D	G3DSA:1.10.357.10	Tetracycline Repressor, domain 2	9	196	9.9E-63	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_111	f23d464a05886bc2b84dbf2e0ffa643f	204	NCBIfam	NF007015	nucleoid occlusion factor SlmA	4	193	1.1E-78	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_111	f23d464a05886bc2b84dbf2e0ffa643f	204	PANTHER	PTHR43479	ACREF/ENVCD OPERON REPRESSOR-RELATED	7	181	3.2E-17	T	08-04-2025	IPR050624	HTH-type Transcriptional Regulator	-	-
+5mSIPHEX1_19-scaffold_104_c1_111	f23d464a05886bc2b84dbf2e0ffa643f	204	Pfam	PF22276	Tetracyclin repressor-like, C-terminal domain	85	192	2.0E-32	T	08-04-2025	IPR054580	Nucleoid occlusion factor SlmA-like, C-terminal	-	-
+5mSIPHEX1_19-scaffold_104_c1_111	f23d464a05886bc2b84dbf2e0ffa643f	204	Hamap	MF_01839	Nucleoid occlusion factor SlmA [slmA].	1	196	36.117752	T	08-04-2025	IPR023769	Nucleoid occlusion factor SlmA	-	-
+5mSIPHEX1_19-scaffold_104_c1_111	f23d464a05886bc2b84dbf2e0ffa643f	204	ProSiteProfiles	PS50977	TetR-type HTH domain profile.	8	68	17.513102	T	08-04-2025	IPR001647	DNA-binding HTH domain, TetR-type	-	-
+5mSIPHEX1_19-scaffold_104_c1_111	f23d464a05886bc2b84dbf2e0ffa643f	204	SUPERFAMILY	SSF46689	Homeodomain-like	8	78	8.98E-14	T	08-04-2025	IPR009057	Homedomain-like superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_111	f23d464a05886bc2b84dbf2e0ffa643f	204	SUPERFAMILY	SSF48498	Tetracyclin repressor-like, C-terminal domain	84	175	7.42E-6	T	08-04-2025	IPR036271	Tetracyclin repressor-like, C-terminal domain superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_107	14e1525adcff8373fc1b2733785d9347	412	NCBIfam	TIGR00521	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC	6	393	0.0	T	08-04-2025	IPR005252	Coenzyme A biosynthesis bifunctional protein CoaBC	-	-
+5mSIPHEX1_19-scaffold_104_c1_107	14e1525adcff8373fc1b2733785d9347	412	Pfam	PF04127	DNA / pantothenate metabolism flavoprotein C-terminal	189	370	5.8E-70	T	08-04-2025	IPR007085	DNA/pantothenate metabolism flavoprotein, C-terminal	-	-
+5mSIPHEX1_19-scaffold_104_c1_107	14e1525adcff8373fc1b2733785d9347	412	SUPERFAMILY	SSF52507	Homo-oligomeric flavin-containing Cys decarboxylases, HFCD	1	184	4.32E-60	T	08-04-2025	IPR036551	Flavin prenyltransferase-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_107	14e1525adcff8373fc1b2733785d9347	412	Pfam	PF02441	Flavoprotein	8	183	6.8E-29	T	08-04-2025	IPR003382	Flavoprotein	-	-
+5mSIPHEX1_19-scaffold_104_c1_107	14e1525adcff8373fc1b2733785d9347	412	Hamap	MF_02225	Coenzyme A biosynthesis bifunctional protein CoaBC [coaBC].	7	398	59.98455	T	08-04-2025	IPR005252	Coenzyme A biosynthesis bifunctional protein CoaBC	-	-
+5mSIPHEX1_19-scaffold_104_c1_107	14e1525adcff8373fc1b2733785d9347	412	Gene3D	G3DSA:3.40.50.10300	-	189	403	1.5E-74	T	08-04-2025	IPR035929	CoaB-like superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_107	14e1525adcff8373fc1b2733785d9347	412	SUPERFAMILY	SSF102645	CoaB-like	188	401	1.28E-77	T	08-04-2025	IPR035929	CoaB-like superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_107	14e1525adcff8373fc1b2733785d9347	412	Gene3D	G3DSA:3.40.50.1950	-	1	188	3.9E-59	T	08-04-2025	IPR036551	Flavin prenyltransferase-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_107	14e1525adcff8373fc1b2733785d9347	412	PANTHER	PTHR14359	HOMO-OLIGOMERIC FLAVIN CONTAINING CYS DECARBOXYLASE FAMILY	6	238	1.4E-51	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	CDD	cd00610	OAT_like	11	428	0.0	T	08-04-2025	IPR005814	Aminotransferase class-III	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	Gene3D	G3DSA:3.40.640.10	-	73	321	0.0	T	08-04-2025	IPR015421	Pyridoxal phosphate-dependent transferase, major domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	NCBIfam	NF000818	glutamate-1-semialdehyde 2,1-aminomutase	5	431	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	Pfam	PF00202	Aminotransferase class-III	36	400	3.8E-72	T	08-04-2025	IPR005814	Aminotransferase class-III	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	PANTHER	PTHR43713	GLUTAMATE-1-SEMIALDEHYDE 2,1-AMINOMUTASE	4	430	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	NCBIfam	TIGR00713	glutamate-1-semialdehyde 2,1-aminomutase	8	430	0.0	T	08-04-2025	IPR004639	Tetrapyrrole biosynthesis, glutamate-1-semialdehyde aminotransferase	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	Gene3D	G3DSA:3.90.1150.10	Aspartate Aminotransferase, domain 1	10	424	0.0	T	08-04-2025	IPR015422	Pyridoxal phosphate-dependent transferase, small domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	FunFam	G3DSA:3.40.640.10:FF:000021	Glutamate-1-semialdehyde 2,1-aminomutase	73	321	3.8E-124	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	Hamap	MF_00375	Glutamate-1-semialdehyde 2,1-aminomutase [hemL].	7	431	103.643616	T	08-04-2025	IPR004639	Tetrapyrrole biosynthesis, glutamate-1-semialdehyde aminotransferase	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	ProSitePatterns	PS00600	Aminotransferases class-III pyridoxal-phosphate attachment site.	238	274	-	T	08-04-2025	IPR049704	Aminotransferases class-III pyridoxal-phosphate attachment site	-	-
+5mSIPHEX1_19-scaffold_104_c1_11	41251ed559da40420aa7b59b501452a7	435	SUPERFAMILY	SSF53383	PLP-dependent transferases	5	430	0.0	T	08-04-2025	IPR015424	Pyridoxal phosphate-dependent transferase	-	-
+5mSIPHEX1_19-scaffold_104_c1_10	a317d9a7b9e366c0084920aac559001a	141	PANTHER	PTHR40255	UPF0093 MEMBRANE PROTEIN SLR1790	1	141	6.2E-52	T	08-04-2025	IPR005265	Protoporphyrinogen oxidase HemJ-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_10	a317d9a7b9e366c0084920aac559001a	141	NCBIfam	TIGR00701	protoporphyrinogen oxidase HemJ	2	141	8.8E-42	T	08-04-2025	IPR005265	Protoporphyrinogen oxidase HemJ-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_10	a317d9a7b9e366c0084920aac559001a	141	PIRSF	PIRSF004638	UCP004638	1	141	2.3E-56	T	08-04-2025	IPR005265	Protoporphyrinogen oxidase HemJ-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_10	a317d9a7b9e366c0084920aac559001a	141	Hamap	MF_02239	Protoporphyrinogen IX oxidase.	1	140	32.833698	T	08-04-2025	IPR005265	Protoporphyrinogen oxidase HemJ-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_10	a317d9a7b9e366c0084920aac559001a	141	Pfam	PF03653	Uncharacterised protein family (UPF0093)	2	141	2.2E-48	T	08-04-2025	IPR005265	Protoporphyrinogen oxidase HemJ-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_104	70dd6d7e018212ec40724e663af9df00	52	SUPERFAMILY	SSF57829	Zn-binding ribosomal proteins	3	50	5.07E-18	T	08-04-2025	IPR011332	Zinc-binding ribosomal protein	-	-
+5mSIPHEX1_19-scaffold_104_c1_104	70dd6d7e018212ec40724e663af9df00	52	FunFam	G3DSA:2.20.28.120:FF:000001	50S ribosomal protein L33	1	52	9.3E-37	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_104	70dd6d7e018212ec40724e663af9df00	52	Pfam	PF00471	Ribosomal protein L33	5	50	1.6E-14	T	08-04-2025	IPR001705	Large ribosomal subunit protein bL33	-	-
+5mSIPHEX1_19-scaffold_104_c1_104	70dd6d7e018212ec40724e663af9df00	52	Gene3D	G3DSA:2.20.28.120	Ribosomal protein L33	2	52	8.7E-25	T	08-04-2025	IPR038584	Large ribosomal subunit protein bL33 superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_104	70dd6d7e018212ec40724e663af9df00	52	NCBIfam	NF001860	50S ribosomal protein L33	3	50	2.9E-21	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_104	70dd6d7e018212ec40724e663af9df00	52	ProSitePatterns	PS00582	Ribosomal protein L33 signature.	18	37	-	T	08-04-2025	IPR018264	Large ribosomal subunit protein bL33, conserved site	-	-
+5mSIPHEX1_19-scaffold_104_c1_104	70dd6d7e018212ec40724e663af9df00	52	NCBIfam	TIGR01023	50S ribosomal protein L33	4	52	1.7E-20	T	08-04-2025	IPR001705	Large ribosomal subunit protein bL33	-	-
+5mSIPHEX1_19-scaffold_104_c1_104	70dd6d7e018212ec40724e663af9df00	52	PANTHER	PTHR15238	54S RIBOSOMAL PROTEIN L39, MITOCHONDRIAL	5	52	3.0E-20	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_104	70dd6d7e018212ec40724e663af9df00	52	Hamap	MF_00294	Large ribosomal subunit protein bL33 [rpmG].	2	50	14.721827	T	08-04-2025	IPR001705	Large ribosomal subunit protein bL33	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	FunFam	G3DSA:1.10.240.10:FF:000001	Tyrosine--tRNA ligase	227	329	7.0E-40	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	Pfam	PF00579	tRNA synthetases class I (W and Y)	34	328	1.2E-81	T	08-04-2025	IPR002305	Aminoacyl-tRNA synthetase, class Ic	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	Gene3D	G3DSA:1.10.240.10	-	227	331	1.5E-39	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	SUPERFAMILY	SSF52374	Nucleotidylyl transferase	4	327	2.17E-97	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	PRINTS	PR01040	Tyrosyl-tRNA synthetase signature	45	67	2.8E-30	T	08-04-2025	IPR002307	Tyrosine-tRNA ligase	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	PRINTS	PR01040	Tyrosyl-tRNA synthetase signature	166	181	2.8E-30	T	08-04-2025	IPR002307	Tyrosine-tRNA ligase	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	PRINTS	PR01040	Tyrosyl-tRNA synthetase signature	187	209	2.8E-30	T	08-04-2025	IPR002307	Tyrosine-tRNA ligase	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	PRINTS	PR01040	Tyrosyl-tRNA synthetase signature	220	232	2.8E-30	T	08-04-2025	IPR002307	Tyrosine-tRNA ligase	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	FunFam	G3DSA:3.40.50.620:FF:000008	Tyrosine--tRNA ligase	1	226	1.4E-104	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	Pfam	PF22421	Tyrosine--tRNA ligase SYY-like C-terminal domain	340	428	5.7E-5	T	08-04-2025	IPR054608	Tyrosine--tRNA ligase SYY-like, C-terminal domain	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	CDD	cd00805	TyrRS_core	34	309	1.00444E-122	T	08-04-2025	IPR002307	Tyrosine-tRNA ligase	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	PANTHER	PTHR11766	TYROSYL-TRNA SYNTHETASE	4	431	0.0	T	08-04-2025	IPR024088	Tyrosine-tRNA ligase, bacterial-type	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	NCBIfam	TIGR00234	tyrosine--tRNA ligase	5	430	8.1E-109	T	08-04-2025	IPR002307	Tyrosine-tRNA ligase	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	Gene3D	G3DSA:3.40.50.620	HUPs	1	226	2.5E-93	T	08-04-2025	IPR014729	Rossmann-like alpha/beta/alpha sandwich fold	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	Hamap	MF_02006	Tyrosine--tRNA ligase [tyrS].	3	431	42.956688	T	08-04-2025	IPR024107	Tyrosine-tRNA ligase, bacterial-type, type 1	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	SUPERFAMILY	SSF55174	Alpha-L RNA-binding motif	325	430	1.84E-8	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_1	b7a09c76f23e86cf35473c6b86a99f75	433	Gene3D	G3DSA:3.10.290.10	-	332	431	2.1E-17	T	08-04-2025	IPR036986	RNA-binding S4 domain superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_114	a6c2f2e314288801938d39a5115f30e6	259	Pfam	PF03372	Endonuclease/Exonuclease/phosphatase family	15	234	9.2E-8	T	08-04-2025	IPR005135	Endonuclease/exonuclease/phosphatase	-	-
+5mSIPHEX1_19-scaffold_104_c1_114	a6c2f2e314288801938d39a5115f30e6	259	ProSiteProfiles	PS51435	AP endonucleases family 1 profile.	1	254	26.432899	T	08-04-2025	IPR004808	AP endonuclease 1	-	-
+5mSIPHEX1_19-scaffold_104_c1_114	a6c2f2e314288801938d39a5115f30e6	259	PANTHER	PTHR43250	EXODEOXYRIBONUCLEASE III	1	242	4.2E-27	T	08-04-2025	IPR037493	Exodeoxyribonuclease III-like	-	-
+5mSIPHEX1_19-scaffold_104_c1_114	a6c2f2e314288801938d39a5115f30e6	259	Gene3D	G3DSA:3.60.10.10	Endonuclease/exonuclease/phosphatase	1	255	9.5E-56	T	08-04-2025	IPR036691	Endonuclease/exonuclease/phosphatase superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_114	a6c2f2e314288801938d39a5115f30e6	259	SUPERFAMILY	SSF56219	DNase I-like	1	253	1.44E-41	T	08-04-2025	IPR036691	Endonuclease/exonuclease/phosphatase superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_114	a6c2f2e314288801938d39a5115f30e6	259	CDD	cd10281	Nape_like_AP-endo	1	252	4.93559E-120	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_114	a6c2f2e314288801938d39a5115f30e6	259	NCBIfam	TIGR00633	exodeoxyribonuclease III	1	252	3.1E-50	T	08-04-2025	IPR004808	AP endonuclease 1	-	-
+5mSIPHEX1_19-scaffold_104_c1_105	9238f3a7806419e25b403264f8dea964	78	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_105	9238f3a7806419e25b403264f8dea964	78	Hamap	MF_00373	Large ribosomal subunit protein bL28 [rpmB].	1	71	21.479362	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_105	9238f3a7806419e25b403264f8dea964	78	SUPERFAMILY	SSF143800	L28p-like	2	77	4.71E-32	T	08-04-2025	IPR034704	Large ribosomal subunit protein bL28/bL31-like superfamily	-	-
+5mSIPHEX1_19-scaffold_104_c1_105	9238f3a7806419e25b403264f8dea964	78	Pfam	PF00830	Ribosomal L28 family	3	62	4.7E-26	T	08-04-2025	IPR026569	Large ribosomal subunit protein bL28	-	-
+5mSIPHEX1_19-scaffold_104_c1_105	9238f3a7806419e25b403264f8dea964	78	FunFam	G3DSA:2.30.170.40:FF:000001	50S ribosomal protein L28	2	78	2.2E-43	T	08-04-2025	-	-	-	-
+5mSIPHEX1_19-scaffold_104_c1_105	9238f3a7806419e25b403264f8dea964	78	PANTHER	PTHR13528	39S RIBOSOMAL PROTEIN L28, MITOCHONDRIAL	1	70	4.0E-20	T	08-04-2025	IPR026569	Large ribosomal subunit protein bL28	-	-
+5mSIPHEX1_19-scaffold_104_c1_105	9238f3a7806419e25b403264f8dea964	78	NCBIfam	TIGR00009	50S ribosomal protein L28	1	58	9.5E-25	T	08-04-2025	IPR001383	Large ribosomal subunit protein bL28, bacterial-type	-	-
+5mSIPHEX1_19-scaffold_104_c1_105	9238f3a7806419e25b403264f8dea964	78	Gene3D	G3DSA:2.30.170.40	Ribosomal protein L28/L24	2	78	2.7E-35	T	08-04-2025	IPR037147	Large ribosomal subunit protein bL28 superfamily	-	-

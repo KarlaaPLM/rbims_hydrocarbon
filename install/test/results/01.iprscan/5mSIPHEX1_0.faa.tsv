@@ -1,0 +1,128 @@
+5mSIPHEX1_0-scaffold_1104_c1_9	fdda294d5678a7217f0c7378a15d121a	181	Gene3D	G3DSA:3.90.76.10	-	68	179	2.3E-43	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_9	fdda294d5678a7217f0c7378a15d121a	181	SUPERFAMILY	SSF53850	Periplasmic binding protein-like II	33	179	1.27E-36	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_9	fdda294d5678a7217f0c7378a15d121a	181	Gene3D	G3DSA:3.40.190.10	-	41	67	2.3E-43	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_9	fdda294d5678a7217f0c7378a15d121a	181	Pfam	PF00496	Bacterial extracellular solute-binding proteins, family 5 Middle	84	179	6.1E-21	T	08-04-2025	IPR000914	Solute-binding protein family 5 domain	-	-
+5mSIPHEX1_0-scaffold_1104_c1_9	fdda294d5678a7217f0c7378a15d121a	181	PANTHER	PTHR30290	PERIPLASMIC BINDING COMPONENT OF ABC TRANSPORTER	14	177	5.0E-25	T	08-04-2025	IPR039424	Solute-binding protein family 5	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	Hamap	MF_01987	Ribokinase [rbsK].	8	307	25.855709	T	08-04-2025	IPR011877	Ribokinase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	FunFam	G3DSA:3.40.1190.20:FF:000010	Ribokinase	4	310	5.0E-116	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	NCBIfam	TIGR02152	ribokinase	10	305	2.6E-99	T	08-04-2025	IPR011877	Ribokinase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	SUPERFAMILY	SSF53613	Ribokinase-like	8	307	5.46E-78	T	08-04-2025	IPR029056	Ribokinase-like	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	PRINTS	PR00990	Ribokinase signature	12	33	2.6E-30	T	08-04-2025	IPR002139	Ribokinase/fructokinase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	PRINTS	PR00990	Ribokinase signature	39	58	2.6E-30	T	08-04-2025	IPR002139	Ribokinase/fructokinase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	PRINTS	PR00990	Ribokinase signature	111	124	2.6E-30	T	08-04-2025	IPR002139	Ribokinase/fructokinase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	PRINTS	PR00990	Ribokinase signature	180	195	2.6E-30	T	08-04-2025	IPR002139	Ribokinase/fructokinase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	PRINTS	PR00990	Ribokinase signature	224	235	2.6E-30	T	08-04-2025	IPR002139	Ribokinase/fructokinase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	Pfam	PF00294	pfkB family carbohydrate kinase	9	299	6.0E-63	T	08-04-2025	IPR011611	Carbohydrate kinase PfkB	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	Gene3D	G3DSA:3.40.1190.20	-	2	309	5.8E-102	T	08-04-2025	IPR029056	Ribokinase-like	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	CDD	cd01174	ribokinase	9	301	4.85381E-124	T	08-04-2025	IPR011877	Ribokinase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_6	da43e66d9d82e03e5682071471bee0d4	311	PANTHER	PTHR10584	SUGAR KINASE	10	308	9.1E-89	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_7	31a3b3c848bc4a9a0de2c495686ba279	339	SMART	SM01133	DeoC_2	72	320	1.1E-72	T	08-04-2025	IPR002915	DeoC/FbaB/LacD aldolase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_7	31a3b3c848bc4a9a0de2c495686ba279	339	MobiDBLite	mobidb-lite	consensus disorder prediction	1	29	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_7	31a3b3c848bc4a9a0de2c495686ba279	339	CDD	cd00959	DeoC	73	298	2.47301E-75	T	08-04-2025	IPR011343	Deoxyribose-phosphate aldolase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_7	31a3b3c848bc4a9a0de2c495686ba279	339	Pfam	PF01791	DeoC/LacD family aldolase	74	286	3.6E-17	T	08-04-2025	IPR002915	DeoC/FbaB/LacD aldolase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_7	31a3b3c848bc4a9a0de2c495686ba279	339	NCBIfam	TIGR00126	deoxyribose-phosphate aldolase	74	300	2.9E-37	T	08-04-2025	IPR011343	Deoxyribose-phosphate aldolase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_7	31a3b3c848bc4a9a0de2c495686ba279	339	SUPERFAMILY	SSF51569	Aldolase	65	322	1.67E-73	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_7	31a3b3c848bc4a9a0de2c495686ba279	339	Gene3D	G3DSA:3.20.20.70	Aldolase class I	65	339	2.7E-85	T	08-04-2025	IPR013785	Aldolase-type TIM barrel	-	-
+5mSIPHEX1_0-scaffold_1104_c1_7	31a3b3c848bc4a9a0de2c495686ba279	339	PANTHER	PTHR10889	DEOXYRIBOSE-PHOSPHATE ALDOLASE	28	326	3.1E-90	T	08-04-2025	IPR011343	Deoxyribose-phosphate aldolase	-	-
+5mSIPHEX1_0-scaffold_12_c2_10	240f8f0f7a67fd51d3da8aca93564fbc	57	MobiDBLite	mobidb-lite	consensus disorder prediction	35	57	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_10	240f8f0f7a67fd51d3da8aca93564fbc	57	MobiDBLite	mobidb-lite	consensus disorder prediction	37	50	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_101	16400956ddd092d0b4f594bbedb08c2c	439	Gene3D	G3DSA:3.90.1580.10	-	196	346	6.5E-27	T	08-04-2025	IPR042095	Sulfatase-modifying factor enzyme superfamily	-	-
+5mSIPHEX1_0-scaffold_12_c2_101	16400956ddd092d0b4f594bbedb08c2c	439	NCBIfam	TIGR03440	ergothioneine biosynthesis protein EgtB	26	435	0.0	T	08-04-2025	IPR017806	Ergothioneine biosynthesis protein EgtB	-	-
+5mSIPHEX1_0-scaffold_12_c2_101	16400956ddd092d0b4f594bbedb08c2c	439	SUPERFAMILY	SSF56436	C-type lectin-like	196	437	1.47E-64	T	08-04-2025	IPR016187	C-type lectin fold	-	-
+5mSIPHEX1_0-scaffold_12_c2_101	16400956ddd092d0b4f594bbedb08c2c	439	Gene3D	G3DSA:3.90.1580.10	-	360	438	2.3E-14	T	08-04-2025	IPR042095	Sulfatase-modifying factor enzyme superfamily	-	-
+5mSIPHEX1_0-scaffold_12_c2_101	16400956ddd092d0b4f594bbedb08c2c	439	Pfam	PF03781	Sulfatase-modifying factor enzyme 1	362	436	6.5E-5	T	08-04-2025	IPR005532	Sulfatase-modifying factor enzyme-like domain	-	-
+5mSIPHEX1_0-scaffold_12_c2_101	16400956ddd092d0b4f594bbedb08c2c	439	Pfam	PF03781	Sulfatase-modifying factor enzyme 1	200	333	4.7E-20	T	08-04-2025	IPR005532	Sulfatase-modifying factor enzyme-like domain	-	-
+5mSIPHEX1_0-scaffold_12_c2_101	16400956ddd092d0b4f594bbedb08c2c	439	Pfam	PF12867	DinB superfamily	28	160	2.0E-6	T	08-04-2025	IPR024775	DinB-like domain	-	-
+5mSIPHEX1_0-scaffold_12_c2_101	16400956ddd092d0b4f594bbedb08c2c	439	PANTHER	PTHR23150	SULFATASE MODIFYING FACTOR 1, 2	37	437	2.0E-55	T	08-04-2025	IPR051043	Sulfatase Modifying Factor and Kinase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_4	1bb2f37f1cf332ca88aea8059759b15a	340	Pfam	PF02653	Branched-chain amino acid transport system / permease component	57	328	7.8E-27	T	08-04-2025	IPR001851	ABC transporter, permease	-	-
+5mSIPHEX1_0-scaffold_1104_c1_4	1bb2f37f1cf332ca88aea8059759b15a	340	PANTHER	PTHR32196	ABC TRANSPORTER PERMEASE PROTEIN YPHD-RELATED-RELATED	26	339	3.8E-68	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_4	1bb2f37f1cf332ca88aea8059759b15a	340	CDD	cd06579	TM_PBP1_transp_AraH_like	61	332	2.28177E-67	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_106	23818b06e369e52a2988efa73037b66f	310	SUPERFAMILY	SSF53807	"Helical backbone" metal receptor	30	301	2.83E-60	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_106	23818b06e369e52a2988efa73037b66f	310	Pfam	PF01497	Periplasmic binding protein	54	284	2.8E-26	T	08-04-2025	IPR002491	ABC transporter periplasmic binding domain	-	-
+5mSIPHEX1_0-scaffold_12_c2_106	23818b06e369e52a2988efa73037b66f	310	CDD	cd01140	FatB	38	306	1.81739E-105	T	08-04-2025	IPR033870	FatB domain	-	-
+5mSIPHEX1_0-scaffold_12_c2_106	23818b06e369e52a2988efa73037b66f	310	Gene3D	G3DSA:3.40.50.1980	Nitrogenase molybdenum iron protein domain	35	288	9.6E-78	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_106	23818b06e369e52a2988efa73037b66f	310	ProSiteProfiles	PS50983	Iron siderophore/cobalamin periplasmic-binding domain profile.	51	310	36.254742	T	08-04-2025	IPR002491	ABC transporter periplasmic binding domain	-	-
+5mSIPHEX1_0-scaffold_12_c2_106	23818b06e369e52a2988efa73037b66f	310	PANTHER	PTHR30532	IRON III  DICITRATE-BINDING PERIPLASMIC PROTEIN	10	309	4.5E-59	T	08-04-2025	IPR051313	Bacterial iron-siderophore binding	-	-
+5mSIPHEX1_0-scaffold_12_c2_106	23818b06e369e52a2988efa73037b66f	310	Gene3D	G3DSA:3.40.50.1980	Nitrogenase molybdenum iron protein domain	179	282	9.6E-78	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	ProSitePatterns	PS00211	ABC transporters family signature.	399	413	-	T	08-04-2025	IPR017871	ABC transporter-like, conserved site	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	ProSiteProfiles	PS50893	ATP-binding cassette, ABC transporter-type domain profile.	256	499	15.439653	T	08-04-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	PANTHER	PTHR43790	CARBOHYDRATE TRANSPORT ATP-BINDING PROTEIN MG119-RELATED	4	498	0.0	T	08-04-2025	IPR050107	ABC transporter carbohydrate import ATP-binding proteins	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	ProSiteProfiles	PS50893	ATP-binding cassette, ABC transporter-type domain profile.	7	243	23.249405	T	08-04-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	260	485	2.18E-39	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	SMART	SM00382	AAA_5	281	478	2.0	T	08-04-2025	IPR003593	AAA+ ATPase domain	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	SMART	SM00382	AAA_5	31	250	7.4E-8	T	08-04-2025	IPR003593	AAA+ ATPase domain	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	5	230	1.25E-56	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	CDD	cd03215	ABC_Carb_Monos_II	259	477	2.62881E-74	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	Gene3D	G3DSA:3.40.50.300	-	246	499	5.0E-41	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	Gene3D	G3DSA:3.40.50.300	-	2	245	3.1E-57	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	CDD	cd03216	ABC_Carb_Monos_I	7	224	3.1168E-73	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	Pfam	PF00005	ABC transporter	22	172	2.3E-26	T	08-04-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+5mSIPHEX1_0-scaffold_1104_c1_2	608c2d9eb51012aa8ed7df4251e64eca	504	Pfam	PF00005	ABC transporter	273	426	7.4E-14	T	08-04-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+5mSIPHEX1_0-scaffold_1104_c1_5	3ab8bbb6d8119d2b9c4b45df6cc80333	366	CDD	cd09269	deoxyribose_mutarotase	48	341	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_5	3ab8bbb6d8119d2b9c4b45df6cc80333	366	Gene3D	G3DSA:2.70.98.10	-	24	365	2.8E-63	T	08-04-2025	IPR014718	Glycoside hydrolase-type carbohydrate-binding	-	-
+5mSIPHEX1_0-scaffold_1104_c1_5	3ab8bbb6d8119d2b9c4b45df6cc80333	366	SUPERFAMILY	SSF74650	Galactose mutarotase-like	41	342	6.91E-8	T	08-04-2025	IPR011013	Galactose mutarotase-like domain superfamily	-	-
+5mSIPHEX1_0-scaffold_1104_c1_5	3ab8bbb6d8119d2b9c4b45df6cc80333	366	Pfam	PF14486	Domain of unknown function (DUF4432)	35	339	8.8E-15	T	08-04-2025	IPR027839	Protein of unknown function DUF4432	-	-
+5mSIPHEX1_0-scaffold_1104_c1_3	e909578e67d6c238cfb612bde9d06cba	325	PANTHER	PTHR32196	ABC TRANSPORTER PERMEASE PROTEIN YPHD-RELATED-RELATED	6	322	2.6E-67	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_3	e909578e67d6c238cfb612bde9d06cba	325	Pfam	PF02653	Branched-chain amino acid transport system / permease component	35	313	2.5E-33	T	08-04-2025	IPR001851	ABC transporter, permease	-	-
+5mSIPHEX1_0-scaffold_1104_c1_3	e909578e67d6c238cfb612bde9d06cba	325	CDD	cd06579	TM_PBP1_transp_AraH_like	42	316	1.33548E-54	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	Pfam	PF00873	AcrB/AcrD/AcrF family	4	1012	0.0	T	08-04-2025	IPR001036	Acriflavin resistance protein	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	SUPERFAMILY	SSF82693	Multidrug efflux transporter AcrB pore domain; PN1, PN2, PC1 and PC2 subdomains	136	321	1.03E-16	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	SUPERFAMILY	SSF82693	Multidrug efflux transporter AcrB pore domain; PN1, PN2, PC1 and PC2 subdomains	40	135	2.44E-20	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	Gene3D	G3DSA:3.30.2090.10	Multidrug efflux transporter AcrB TolC docking domain; DN and DC subdomains	180	272	0.0	T	08-04-2025	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	SUPERFAMILY	SSF82714	Multidrug efflux transporter AcrB TolC docking domain; DN and DC subdomains	185	262	3.01E-6	T	08-04-2025	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	Gene3D	G3DSA:1.20.1640.10	Multidrug efflux transporter AcrB transmembrane domain	499	1010	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	Gene3D	G3DSA:3.30.70.1430	Multidrug efflux transporter AcrB pore domain	40	810	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	PANTHER	PTHR32063	-	1	1014	0.0	T	08-04-2025	IPR001036	Acriflavin resistance protein	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	SUPERFAMILY	SSF82866	Multidrug efflux transporter AcrB transmembrane domain	797	1017	9.02E-42	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	PRINTS	PR00702	Acriflavin resistance protein family signature	10	34	5.9E-20	T	08-04-2025	IPR001036	Acriflavin resistance protein	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	PRINTS	PR00702	Acriflavin resistance protein family signature	38	56	5.9E-20	T	08-04-2025	IPR001036	Acriflavin resistance protein	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	PRINTS	PR00702	Acriflavin resistance protein family signature	330	353	5.9E-20	T	08-04-2025	IPR001036	Acriflavin resistance protein	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	PRINTS	PR00702	Acriflavin resistance protein family signature	384	408	5.9E-20	T	08-04-2025	IPR001036	Acriflavin resistance protein	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	PRINTS	PR00702	Acriflavin resistance protein family signature	462	485	5.9E-20	T	08-04-2025	IPR001036	Acriflavin resistance protein	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	Gene3D	G3DSA:3.30.2090.10	Multidrug efflux transporter AcrB TolC docking domain; DN and DC subdomains	704	802	0.0	T	08-04-2025	IPR027463	Multidrug efflux transporter AcrB TolC docking domain, DN/DC subdomains	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	SUPERFAMILY	SSF82866	Multidrug efflux transporter AcrB transmembrane domain	290	489	5.62E-36	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	Gene3D	G3DSA:3.30.70.1430	Multidrug efflux transporter AcrB pore domain	553	651	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	Coils	Coil	Coil	676	696	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	Gene3D	G3DSA:1.20.1640.10	Multidrug efflux transporter AcrB transmembrane domain	12	494	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	Gene3D	G3DSA:3.30.70.1320	Multidrug efflux transporter AcrB pore domain like	136	325	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	21	5.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_108	4813a54256883e01fdb529064c798ba1	1026	Gene3D	G3DSA:3.30.70.1440	Multidrug efflux transporter AcrB pore domain	652	862	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_102	dda950d4a4e9d93f084343d4bab74d31	312	SUPERFAMILY	SSF53335	S-adenosyl-L-methionine-dependent methyltransferases	20	308	1.35E-7	T	08-04-2025	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase superfamily	-	-
+5mSIPHEX1_0-scaffold_12_c2_102	dda950d4a4e9d93f084343d4bab74d31	312	PANTHER	PTHR43397	ERGOTHIONEINE BIOSYNTHESIS PROTEIN 1	10	302	3.5E-68	T	08-04-2025	IPR051128	EgtD Methyltransferase Superfamily	-	-
+5mSIPHEX1_0-scaffold_12_c2_102	dda950d4a4e9d93f084343d4bab74d31	312	NCBIfam	TIGR03438	L-histidine N(alpha)-methyltransferase	11	308	1.9E-113	T	08-04-2025	IPR035094	Histidine N-alpha-methyltransferase	-	-
+5mSIPHEX1_0-scaffold_12_c2_102	dda950d4a4e9d93f084343d4bab74d31	312	Gene3D	G3DSA:3.40.50.150	Vaccinia Virus protein VP39	38	215	1.3E-46	T	08-04-2025	IPR029063	S-adenosyl-L-methionine-dependent methyltransferase superfamily	-	-
+5mSIPHEX1_0-scaffold_12_c2_102	dda950d4a4e9d93f084343d4bab74d31	312	Pfam	PF10017	Histidine-specific methyltransferase, SAM-dependent	12	310	9.4E-106	T	08-04-2025	IPR019257	Histidine-specific methyltransferase, SAM-dependent	-	-
+5mSIPHEX1_0-scaffold_12_c2_102	dda950d4a4e9d93f084343d4bab74d31	312	PIRSF	PIRSF018005	UCP018005	1	312	1.2E-114	T	08-04-2025	IPR017804	Methyltransferase EgtD-like	-	-
+5mSIPHEX1_0-scaffold_12_c2_103	76947f742c2c8ed193f085f6ae82693b	271	FunFam	G3DSA:3.40.50.300:FF:000134	Iron-enterobactin ABC transporter ATP-binding protein	1	249	6.8E-66	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_103	76947f742c2c8ed193f085f6ae82693b	271	SMART	SM00382	AAA_5	26	215	1.5E-12	T	08-04-2025	IPR003593	AAA+ ATPase domain	-	-
+5mSIPHEX1_0-scaffold_12_c2_103	76947f742c2c8ed193f085f6ae82693b	271	ProSiteProfiles	PS50893	ATP-binding cassette, ABC transporter-type domain profile.	2	238	21.895536	T	08-04-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+5mSIPHEX1_0-scaffold_12_c2_103	76947f742c2c8ed193f085f6ae82693b	271	SUPERFAMILY	SSF52540	P-loop containing nucleoside triphosphate hydrolases	1	229	5.32E-57	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_0-scaffold_12_c2_103	76947f742c2c8ed193f085f6ae82693b	271	CDD	cd03214	ABC_Iron-Siderophores_B12_Hemin	3	220	4.59373E-67	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_103	76947f742c2c8ed193f085f6ae82693b	271	Gene3D	G3DSA:3.40.50.300	-	1	249	1.2E-62	T	08-04-2025	IPR027417	P-loop containing nucleoside triphosphate hydrolase	-	-
+5mSIPHEX1_0-scaffold_12_c2_103	76947f742c2c8ed193f085f6ae82693b	271	PANTHER	PTHR42771	IRON(3+)-HYDROXAMATE IMPORT ATP-BINDING PROTEIN FHUC	2	253	1.3E-72	T	08-04-2025	IPR051535	Bacterial siderophore ABC transporter ATP-binding	-	-
+5mSIPHEX1_0-scaffold_12_c2_103	76947f742c2c8ed193f085f6ae82693b	271	Pfam	PF00005	ABC transporter	17	164	2.3E-27	T	08-04-2025	IPR003439	ABC transporter-like, ATP-binding domain	-	-
+5mSIPHEX1_0-scaffold_12_c2_104	c200b9b36aa1de3fa4723868f4d0982e	328	PANTHER	PTHR30472	FERRIC ENTEROBACTIN TRANSPORT SYSTEM PERMEASE PROTEIN	42	325	2.0E-38	T	08-04-2025	IPR000522	ABC transporter, permease protein, BtuC-like	-	-
+5mSIPHEX1_0-scaffold_12_c2_104	c200b9b36aa1de3fa4723868f4d0982e	328	Pfam	PF01032	FecCD transport family	45	324	4.7E-42	T	08-04-2025	IPR000522	ABC transporter, permease protein, BtuC-like	-	-
+5mSIPHEX1_0-scaffold_12_c2_104	c200b9b36aa1de3fa4723868f4d0982e	328	Gene3D	G3DSA:1.10.3470.10	ABC transporter involved in vitamin B12 uptake, BtuC	14	326	5.5E-49	T	08-04-2025	IPR037294	ABC transporter, BtuC-like	-	-
+5mSIPHEX1_0-scaffold_12_c2_104	c200b9b36aa1de3fa4723868f4d0982e	328	SUPERFAMILY	SSF81345	ABC transporter involved in vitamin B12 uptake, BtuC	14	324	4.05E-47	T	08-04-2025	IPR037294	ABC transporter, BtuC-like	-	-
+5mSIPHEX1_0-scaffold_12_c2_105	8800ad2cb2db1cca9e5e71dccf088763	313	Gene3D	G3DSA:1.10.3470.10	ABC transporter involved in vitamin B12 uptake, BtuC	2	307	3.0E-59	T	08-04-2025	IPR037294	ABC transporter, BtuC-like	-	-
+5mSIPHEX1_0-scaffold_12_c2_105	8800ad2cb2db1cca9e5e71dccf088763	313	Pfam	PF01032	FecCD transport family	17	303	6.9E-54	T	08-04-2025	IPR000522	ABC transporter, permease protein, BtuC-like	-	-
+5mSIPHEX1_0-scaffold_12_c2_105	8800ad2cb2db1cca9e5e71dccf088763	313	SUPERFAMILY	SSF81345	ABC transporter involved in vitamin B12 uptake, BtuC	4	303	9.55E-61	T	08-04-2025	IPR037294	ABC transporter, BtuC-like	-	-
+5mSIPHEX1_0-scaffold_12_c2_105	8800ad2cb2db1cca9e5e71dccf088763	313	CDD	cd06550	TM_ABC_iron-siderophores_like	43	303	2.09099E-31	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_105	8800ad2cb2db1cca9e5e71dccf088763	313	PANTHER	PTHR30472	FERRIC ENTEROBACTIN TRANSPORT SYSTEM PERMEASE PROTEIN	13	304	4.4E-51	T	08-04-2025	IPR000522	ABC transporter, permease protein, BtuC-like	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	MobiDBLite	mobidb-lite	consensus disorder prediction	487	508	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	FunFam	G3DSA:3.40.309.10:FF:000012	Betaine aldehyde dehydrogenase	267	454	1.5E-59	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	PIRSF	PIRSF036490	Aldedh_dupl	1	787	0.0	T	08-04-2025	IPR011408	Aldehyde dehydrogenase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	PANTHER	PTHR11699	ALDEHYDE DEHYDROGENASE-RELATED	35	482	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	Gene3D	G3DSA:3.40.605.10	Aldehyde Dehydrogenase; Chain A, domain 1	507	786	3.0E-47	T	08-04-2025	IPR016162	Aldehyde dehydrogenase, N-terminal	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	Gene3D	G3DSA:3.40.605.10	Aldehyde Dehydrogenase; Chain A, domain 1	48	481	0.0	T	08-04-2025	IPR016162	Aldehyde dehydrogenase, N-terminal	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	FunFam	G3DSA:3.40.605.10:FF:000007	NAD/NADP-dependent betaine aldehyde dehydrogenase	37	283	1.5E-79	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	SUPERFAMILY	SSF53720	ALDH-like	512	755	1.7E-41	T	08-04-2025	IPR016161	Aldehyde/histidinol dehydrogenase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	Pfam	PF00171	Aldehyde dehydrogenase family	48	481	0.0	T	08-04-2025	IPR015590	Aldehyde dehydrogenase domain	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	Pfam	PF00171	Aldehyde dehydrogenase family	546	754	6.6E-33	T	08-04-2025	IPR015590	Aldehyde dehydrogenase domain	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	SUPERFAMILY	SSF53720	ALDH-like	33	481	0.0	T	08-04-2025	IPR016161	Aldehyde/histidinol dehydrogenase	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	ProSitePatterns	PS00687	Aldehyde dehydrogenases glutamic acid active site.	263	270	-	T	08-04-2025	IPR029510	Aldehyde dehydrogenase, glutamic acid active site	-	-
+5mSIPHEX1_0-scaffold_1104_c1_8	b19904a461b07a1d93b53fbd6c9e2c51	787	Gene3D	G3DSA:3.40.309.10	Aldehyde Dehydrogenase; Chain A, domain 2	267	454	0.0	T	08-04-2025	IPR016163	Aldehyde dehydrogenase, C-terminal	-	-
+5mSIPHEX1_0-scaffold_12_c2_100	ee3df4b82e9346259cffaa1435918e33	423	Pfam	PF09375	Imelysin	44	397	2.9E-79	T	08-04-2025	IPR018976	Imelysin-like domain	-	-
+5mSIPHEX1_0-scaffold_12_c2_100	ee3df4b82e9346259cffaa1435918e33	423	CDD	cd14657	Imelysin_IrpA-like	38	394	1.50978E-128	T	08-04-2025	-	-	-	-
+5mSIPHEX1_0-scaffold_12_c2_100	ee3df4b82e9346259cffaa1435918e33	423	Gene3D	G3DSA:1.20.1420.20	M75 peptidase, HXXE motif	19	402	5.7E-80	T	08-04-2025	IPR038352	Imelysin-like domain superfamily	-	-

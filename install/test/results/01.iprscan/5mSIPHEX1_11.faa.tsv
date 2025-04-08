@@ -1,0 +1,148 @@
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	Pfam	PF01207	Dihydrouridine synthase (Dus)	20	323	3.9E-82	T	08-04-2025	IPR035587	DUS-like, FMN-binding domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	Gene3D	G3DSA:3.20.20.70	Aldolase class I	14	256	5.9E-82	T	08-04-2025	IPR013785	Aldolase-type TIM barrel	-	-
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	NCBIfam	NF008774	tRNA dihydrouridine(20/20a) synthase DusA	11	331	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	PIRSF	PIRSF006621	Dus	6	330	1.3E-78	T	08-04-2025	IPR001269	tRNA-dihydrouridine synthase	-	-
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	ProSitePatterns	PS01136	Uncharacterized protein family UPF0034 signature.	99	117	-	T	08-04-2025	IPR018517	tRNA-dihydrouridine synthase, conserved site	-	-
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	NCBIfam	TIGR00742	tRNA dihydrouridine(20/20a) synthase DusA	16	330	8.0E-129	T	08-04-2025	IPR004653	tRNA-dihydrouridine(20/20a) synthase	-	-
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	Hamap	MF_02041	tRNA-dihydrouridine(20/20a) synthase [dusA].	12	330	47.618683	T	08-04-2025	IPR004653	tRNA-dihydrouridine(20/20a) synthase	-	-
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	CDD	cd02801	DUS_like_FMN	17	256	9.02991E-94	T	08-04-2025	IPR035587	DUS-like, FMN-binding domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	Gene3D	G3DSA:1.20.120.1460	-	260	331	2.7E-21	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	PANTHER	PTHR42907	FMN-LINKED OXIDOREDUCTASES SUPERFAMILY PROTEIN	13	332	3.3E-125	T	08-04-2025	IPR004653	tRNA-dihydrouridine(20/20a) synthase	-	-
+5mSIPHEX1_11-scaffold_103_c1_102	a45e6084447bdda6850d938286e1dfb6	332	SUPERFAMILY	SSF51395	FMN-linked oxidoreductases	17	311	9.16E-74	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_12	463b5bcbdd515e23740e3f51ffb2dede	351	Gene3D	G3DSA:3.80.30.30	-	95	309	8.8E-24	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_12	463b5bcbdd515e23740e3f51ffb2dede	351	SFLD	SFLDG01084	Uncharacterised Radical SAM Subgroup 2	30	324	0.0	T	08-04-2025	IPR040086	Protein MJ0683-like	-	-
+5mSIPHEX1_11-scaffold_103_c1_12	463b5bcbdd515e23740e3f51ffb2dede	351	SMART	SM00729	MiaB	53	278	2.2E-4	T	08-04-2025	IPR006638	Elp3/MiaA/NifB-like, radical SAM core domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_12	463b5bcbdd515e23740e3f51ffb2dede	351	CDD	cd01335	Radical_SAM	57	274	3.34884E-11	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_12	463b5bcbdd515e23740e3f51ffb2dede	351	SFLD	SFLDS00029	Radical SAM	30	324	0.0	T	08-04-2025	IPR007197	Radical SAM	-	-
+5mSIPHEX1_11-scaffold_103_c1_12	463b5bcbdd515e23740e3f51ffb2dede	351	NCBIfam	NF033668	PA0069 family radical SAM protein	22	343	8.5E-128	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_12	463b5bcbdd515e23740e3f51ffb2dede	351	SUPERFAMILY	SSF102114	Radical SAM enzymes	56	285	7.72E-13	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_12	463b5bcbdd515e23740e3f51ffb2dede	351	ProSiteProfiles	PS51918	Radical SAM core domain profile.	49	286	12.976837	T	08-04-2025	IPR007197	Radical SAM	-	-
+5mSIPHEX1_11-scaffold_103_c1_12	463b5bcbdd515e23740e3f51ffb2dede	351	PANTHER	PTHR43432	SLR0285 PROTEIN	33	332	2.9E-92	T	08-04-2025	IPR040086	Protein MJ0683-like	-	-
+5mSIPHEX1_11-scaffold_103_c1_12	463b5bcbdd515e23740e3f51ffb2dede	351	Pfam	PF04055	Radical SAM superfamily	57	236	7.9E-13	T	08-04-2025	IPR007197	Radical SAM	-	-
+5mSIPHEX1_11-scaffold_103_c1_10	9d305c284e9e084a038b3de1135214cf	104	Pfam	PF10052	Protein of unknown function (DUF2288)	11	99	8.4E-29	T	08-04-2025	IPR018741	Protein of unknown function DUF2288	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	ProSitePatterns	PS00178	Aminoacyl-transfer RNA synthetases class-I signature.	9	20	-	T	08-04-2025	IPR001412	Aminoacyl-tRNA synthetase, class I, conserved site	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	FunFam	G3DSA:3.40.50.620:FF:000045	Glutamate--tRNA ligase, mitochondrial	1	328	0.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	SUPERFAMILY	SSF52374	Nucleotidylyl transferase	3	307	9.12E-108	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	Gene3D	G3DSA:3.40.50.620	HUPs	1	328	0.0	T	08-04-2025	IPR014729	Rossmann-like alpha/beta/alpha sandwich fold	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	Hamap	MF_00022	Glutamate--tRNA ligase [gltX].	2	470	29.170265	T	08-04-2025	IPR004527	Glutamate-tRNA ligase, bacterial/mitochondrial	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	CDD	cd00808	GluRS_core	2	327	0.0	T	08-04-2025	IPR033910	Glutamyl-tRNA synthetase	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	SUPERFAMILY	SSF48163	An anticodon-binding domain of class I aminoacyl-tRNA synthetases	313	471	2.75E-36	T	08-04-2025	IPR008925	Aminoacyl-tRNA synthetase, class I, anticodon-binding superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	Pfam	PF19269	Anticodon binding domain	332	470	1.6E-29	T	08-04-2025	IPR045462	Aminoacyl-tRNA synthetase, class I, anticodon-binding	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	NCBIfam	TIGR00464	glutamate--tRNA ligase	2	470	2.3E-126	T	08-04-2025	IPR004527	Glutamate-tRNA ligase, bacterial/mitochondrial	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	Pfam	PF00749	tRNA synthetases class I (E and Q), catalytic domain	3	319	3.1E-100	T	08-04-2025	IPR020058	Glutamyl/glutaminyl-tRNA synthetase, class Ib, catalytic domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	PANTHER	PTHR43311	GLUTAMATE--TRNA LIGASE	2	473	0.0	T	08-04-2025	IPR049940	Glutamyl-Q tRNA(Asp) synthetase/Glutamate--tRNA ligase	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	PRINTS	PR00987	Glutamyl-tRNA synthetase signature	6	18	1.2E-21	T	08-04-2025	IPR000924	Glutamyl/glutaminyl-tRNA synthetase	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	PRINTS	PR00987	Glutamyl-tRNA synthetase signature	20	31	1.2E-21	T	08-04-2025	IPR000924	Glutamyl/glutaminyl-tRNA synthetase	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	PRINTS	PR00987	Glutamyl-tRNA synthetase signature	35	48	1.2E-21	T	08-04-2025	IPR000924	Glutamyl/glutaminyl-tRNA synthetase	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	PRINTS	PR00987	Glutamyl-tRNA synthetase signature	192	202	1.2E-21	T	08-04-2025	IPR000924	Glutamyl/glutaminyl-tRNA synthetase	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	PRINTS	PR00987	Glutamyl-tRNA synthetase signature	208	216	1.2E-21	T	08-04-2025	IPR000924	Glutamyl/glutaminyl-tRNA synthetase	-	-
+5mSIPHEX1_11-scaffold_103_c1_108	64343ef3228d35c8fae613f661e67960	495	Gene3D	G3DSA:1.10.10.350	-	370	493	8.3E-27	T	08-04-2025	IPR020751	Aminoacyl-tRNA synthetase, class I, anticodon-binding domain, subdomain 2	-	-
+5mSIPHEX1_11-scaffold_103_c1_101	9aaedc3f79530515580fa02db4a9f540	324	CDD	cd00957	Transaldolase_TalAB	10	318	0.0	T	08-04-2025	IPR004730	Transaldolase type 1	-	-
+5mSIPHEX1_11-scaffold_103_c1_101	9aaedc3f79530515580fa02db4a9f540	324	Gene3D	G3DSA:3.20.20.70	Aldolase class I	3	322	1.9E-106	T	08-04-2025	IPR013785	Aldolase-type TIM barrel	-	-
+5mSIPHEX1_11-scaffold_103_c1_101	9aaedc3f79530515580fa02db4a9f540	324	PANTHER	PTHR10683	TRANSALDOLASE	9	321	2.9E-83	T	08-04-2025	IPR001585	Transaldolase/Fructose-6-phosphate aldolase	-	-
+5mSIPHEX1_11-scaffold_103_c1_101	9aaedc3f79530515580fa02db4a9f540	324	Pfam	PF00923	Transaldolase/Fructose-6-phosphate aldolase	21	316	5.7E-81	T	08-04-2025	IPR001585	Transaldolase/Fructose-6-phosphate aldolase	-	-
+5mSIPHEX1_11-scaffold_103_c1_101	9aaedc3f79530515580fa02db4a9f540	324	ProSitePatterns	PS01054	Transaldolase signature 1.	38	46	-	T	08-04-2025	IPR018225	Transaldolase, active site	-	-
+5mSIPHEX1_11-scaffold_103_c1_101	9aaedc3f79530515580fa02db4a9f540	324	SUPERFAMILY	SSF51569	Aldolase	10	320	7.22E-93	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	Pfam	PF21073	Glutamate dehydrogenase, helical motif 1	338	397	3.2E-19	T	08-04-2025	IPR049059	NAD-glutamate dehydrogenase, helical motif 1	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	Pfam	PF21077	Glutamate dehydrogenase, ACT3 domain	563	618	2.4E-10	T	08-04-2025	IPR049064	NAD-glutamate dehydrogenase, ACT3 domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	PANTHER	PTHR43403	NAD-SPECIFIC GLUTAMATE DEHYDROGENASE	7	1601	0.0	T	08-04-2025	IPR007780	NAD-glutamate dehydrogenase, bacteria	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	Pfam	PF21079	Glutamate dehydrogenase, helical motif 2	502	541	2.6E-7	T	08-04-2025	IPR049058	NAD-glutamate dehydrogenase, helical motif 2	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	Pfam	PF21075	Glutamate dehydrogenase, ACT1 domain	35	171	6.4E-20	T	08-04-2025	IPR024727	NAD-glutamate dehydrogenase, N-terminal ACT1 domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	Pfam	PF05088	Bacterial NAD-glutamate dehydrogenase, catalytic domain	725	1218	0.0	T	08-04-2025	IPR028971	NAD-glutamate dehydrogenase, catalytic domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	Pfam	PF21074	Glutamate dehydrogenase, C-terminal	1263	1598	3.4E-98	T	08-04-2025	IPR048381	NAD-specific glutamate dehydrogenase, C-terminal	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	SUPERFAMILY	SSF53223	Aminoacid dehydrogenase-like, N-terminal domain	754	939	3.36E-26	T	08-04-2025	IPR046346	Aminoacid dehydrogenase-like, N-terminal domain superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	Pfam	PF21076	Glutamate dehydrogenase, ACT2 domain	402	489	1.4E-19	T	08-04-2025	IPR049062	NAD-glutamate dehydrogenase, ACT2 domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	Pfam	PF21078	Glutamate dehydrogenase, helical motif 3	642	707	1.1E-22	T	08-04-2025	IPR049056	NAD-glutamate dehydrogenase, helical motif 3	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	SUPERFAMILY	SSF51735	NAD(P)-binding Rossmann-fold domains	944	1219	1.08E-28	T	08-04-2025	IPR036291	NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	Gene3D	G3DSA:3.40.50.720	-	937	1211	1.1E-7	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_11	f6c3c4f47cd4dc9b85860b075ba29b1f	1603	PIRSF	PIRSF036761	GDH_Mll4104	3	1603	0.0	T	08-04-2025	IPR007780	NAD-glutamate dehydrogenase, bacteria	-	-
+5mSIPHEX1_11-scaffold_103_c1_19	6fc2ab42656380a4c09d42a304fd37de	157	Pfam	PF14539	Domain of unknown function (DUF4442)	19	149	2.6E-52	T	08-04-2025	IPR027961	Protein of unknown function DUF4442	-	-
+5mSIPHEX1_11-scaffold_103_c1_19	6fc2ab42656380a4c09d42a304fd37de	157	CDD	cd03443	PaaI_thioesterase	41	144	1.65323E-10	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_19	6fc2ab42656380a4c09d42a304fd37de	157	Gene3D	G3DSA:3.10.129.10	Hotdog Thioesterase	8	152	8.3E-37	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_19	6fc2ab42656380a4c09d42a304fd37de	157	SUPERFAMILY	SSF54637	Thioesterase/thiol ester dehydrase-isomerase	11	149	5.52E-24	T	08-04-2025	IPR029069	HotDog domain superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_14	6b4ed7b7b9369c9b48e6a52d28d924cd	205	Pfam	PF17929	Tetracyclin repressor-like, C-terminal domain	89	200	2.4E-26	T	08-04-2025	IPR041483	Tetracyclin repressor-like, C-terminal domain 34	-	-
+5mSIPHEX1_11-scaffold_103_c1_14	6b4ed7b7b9369c9b48e6a52d28d924cd	205	PRINTS	PR00455	TetR bacterial regulatory protein HTH signature	22	35	1.3E-9	T	08-04-2025	IPR001647	DNA-binding HTH domain, TetR-type	-	-
+5mSIPHEX1_11-scaffold_103_c1_14	6b4ed7b7b9369c9b48e6a52d28d924cd	205	PRINTS	PR00455	TetR bacterial regulatory protein HTH signature	43	66	1.3E-9	T	08-04-2025	IPR001647	DNA-binding HTH domain, TetR-type	-	-
+5mSIPHEX1_11-scaffold_103_c1_14	6b4ed7b7b9369c9b48e6a52d28d924cd	205	FunFam	G3DSA:1.10.10.60:FF:000141	TetR family transcriptional regulator	15	66	6.9E-17	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_14	6b4ed7b7b9369c9b48e6a52d28d924cd	205	ProSiteProfiles	PS50977	TetR-type HTH domain profile.	16	76	24.465191	T	08-04-2025	IPR001647	DNA-binding HTH domain, TetR-type	-	-
+5mSIPHEX1_11-scaffold_103_c1_14	6b4ed7b7b9369c9b48e6a52d28d924cd	205	PANTHER	PTHR30055	HTH-TYPE TRANSCRIPTIONAL REGULATOR RUTR	7	167	6.0E-20	T	08-04-2025	IPR050109	HTH-type, TetR-like transcriptional regulator	-	-
+5mSIPHEX1_11-scaffold_103_c1_14	6b4ed7b7b9369c9b48e6a52d28d924cd	205	Gene3D	G3DSA:1.10.357.10	Tetracycline Repressor, domain 2	13	205	4.0E-51	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_14	6b4ed7b7b9369c9b48e6a52d28d924cd	205	SUPERFAMILY	SSF46689	Homeodomain-like	10	77	3.17E-18	T	08-04-2025	IPR009057	Homedomain-like superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_14	6b4ed7b7b9369c9b48e6a52d28d924cd	205	Pfam	PF00440	Bacterial regulatory proteins, tetR family	22	66	2.3E-11	T	08-04-2025	IPR001647	DNA-binding HTH domain, TetR-type	-	-
+5mSIPHEX1_11-scaffold_103_c1_1	2a427e1130094e3522f17dfd561ac032	127	ProSiteProfiles	PS50937	MerR-type HTH domain profile.	1	69	24.690092	T	08-04-2025	IPR000551	MerR-type HTH domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_1	2a427e1130094e3522f17dfd561ac032	127	Coils	Coil	Coil	81	108	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_1	2a427e1130094e3522f17dfd561ac032	127	SMART	SM00422	merrmega3	1	70	8.9E-16	T	08-04-2025	IPR000551	MerR-type HTH domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_1	2a427e1130094e3522f17dfd561ac032	127	SUPERFAMILY	SSF46955	Putative DNA-binding domain	1	110	2.05E-25	T	08-04-2025	IPR009061	Putative DNA-binding domain superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_1	2a427e1130094e3522f17dfd561ac032	127	Gene3D	G3DSA:1.10.1660.10	-	1	125	1.1E-27	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_1	2a427e1130094e3522f17dfd561ac032	127	PRINTS	PR00040	MerR bacterial regulatory protein HTH signature	2	13	1.9E-5	T	08-04-2025	IPR000551	MerR-type HTH domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_1	2a427e1130094e3522f17dfd561ac032	127	PRINTS	PR00040	MerR bacterial regulatory protein HTH signature	13	26	1.9E-5	T	08-04-2025	IPR000551	MerR-type HTH domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_1	2a427e1130094e3522f17dfd561ac032	127	PRINTS	PR00040	MerR bacterial regulatory protein HTH signature	37	57	1.9E-5	T	08-04-2025	IPR000551	MerR-type HTH domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_1	2a427e1130094e3522f17dfd561ac032	127	Pfam	PF13411	MerR HTH family regulatory protein	1	69	1.8E-13	T	08-04-2025	IPR000551	MerR-type HTH domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_1	2a427e1130094e3522f17dfd561ac032	127	PANTHER	PTHR30204	REDOX-CYCLING DRUG-SENSING TRANSCRIPTIONAL ACTIVATOR SOXR	1	109	2.4E-17	T	08-04-2025	IPR047057	MerR transcriptional regulator	-	-
+5mSIPHEX1_11-scaffold_103_c1_107	186304f24bb2580faeb8b48df70d05a7	177	Pfam	PF14347	Domain of unknown function (DUF4399)	86	177	3.2E-35	T	08-04-2025	IPR025512	Domain of unknown function DUF4399	-	-
+5mSIPHEX1_11-scaffold_103_c1_107	186304f24bb2580faeb8b48df70d05a7	177	MobiDBLite	mobidb-lite	consensus disorder prediction	40	62	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_107	186304f24bb2580faeb8b48df70d05a7	177	MobiDBLite	mobidb-lite	consensus disorder prediction	40	59	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_107	186304f24bb2580faeb8b48df70d05a7	177	ProSiteProfiles	PS51257	Prokaryotic membrane lipoprotein lipid attachment site profile.	1	23	6.0	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	SUPERFAMILY	SSF51735	NAD(P)-binding Rossmann-fold domains	4	247	1.25E-52	T	08-04-2025	IPR036291	NAD(P)-binding domain superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	Pfam	PF00106	short chain dehydrogenase	3	192	8.6E-42	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	Coils	Coil	Coil	28	48	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	Gene3D	G3DSA:3.40.50.720	-	2	227	2.3E-54	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	3	20	1.5E-16	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	78	89	1.5E-16	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	125	141	1.5E-16	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	151	170	1.5E-16	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	PRINTS	PR00081	Glucose/ribitol dehydrogenase family signature	172	189	1.5E-16	T	08-04-2025	IPR002347	Short-chain dehydrogenase/reductase SDR	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	PIRSF	PIRSF000126	11-beta-HSD1	1	253	7.2E-70	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	PANTHER	PTHR44196	DEHYDROGENASE/REDUCTASE SDR FAMILY MEMBER 7B	3	248	5.8E-49	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_13	c3082ea715e07aa82ff96db083bbea54	253	SMART	SM00822	This enzymatic domain is part of bacterial polyketide synthases and catalyses the first step in the reductive modification of the beta-carbonyl centres in the growing polyketide chain. It uses NADPH to reduce the keto group to a hydroxy group.	2	182	2.2E-4	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_18	d04ec209f5d586d01f80faf1b56624d3	440	Gene3D	G3DSA:1.20.1540.10	-	100	287	2.9E-37	T	08-04-2025	IPR035952	Rhomboid-like superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_18	d04ec209f5d586d01f80faf1b56624d3	440	SUPERFAMILY	SSF144091	Rhomboid-like	13	294	2.49E-35	T	08-04-2025	IPR035952	Rhomboid-like superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_18	d04ec209f5d586d01f80faf1b56624d3	440	PANTHER	PTHR43731	RHOMBOID PROTEASE	21	299	1.6E-25	T	08-04-2025	IPR050925	Rhomboid protease S54	-	-
+5mSIPHEX1_11-scaffold_103_c1_18	d04ec209f5d586d01f80faf1b56624d3	440	Pfam	PF01694	Rhomboid family	141	287	5.0E-25	T	08-04-2025	IPR022764	Peptidase S54, rhomboid domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_17	c8bf70e6ff1b1b645ea9e21252467582	278	Gene3D	G3DSA:1.25.40.10	Tetratricopeptide repeat domain	73	278	7.9E-10	T	08-04-2025	IPR011990	Tetratricopeptide-like helical domain superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_17	c8bf70e6ff1b1b645ea9e21252467582	278	SUPERFAMILY	SSF48452	TPR-like	98	237	9.36E-7	T	08-04-2025	IPR011990	Tetratricopeptide-like helical domain superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_100	def37129a755b9c7428a140194da04c3	146	CDD	cd07313	terB_like_2	32	128	3.7419E-26	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_100	def37129a755b9c7428a140194da04c3	146	SUPERFAMILY	SSF158682	TerB-like	3	143	2.49E-28	T	08-04-2025	IPR029024	TerB-like	-	-
+5mSIPHEX1_11-scaffold_103_c1_100	def37129a755b9c7428a140194da04c3	146	Gene3D	G3DSA:1.10.3680.10	-	9	136	5.6E-24	T	08-04-2025	IPR029024	TerB-like	-	-
+5mSIPHEX1_11-scaffold_103_c1_100	def37129a755b9c7428a140194da04c3	146	MobiDBLite	mobidb-lite	consensus disorder prediction	1	20	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_100	def37129a755b9c7428a140194da04c3	146	Pfam	PF05099	Tellurite resistance protein TerB	24	139	1.3E-33	T	08-04-2025	IPR007791	Co-chaperone DjlA, N-terminal	-	-
+5mSIPHEX1_11-scaffold_103_c1_103	9990cacd6ea42eaacc60cbd570b90fca	494	PANTHER	PTHR43310	SULFATE TRANSPORTER YBAR-RELATED	10	488	6.5E-111	T	08-04-2025	IPR052706	Membrane-associated Transporter-like	-	-
+5mSIPHEX1_11-scaffold_103_c1_103	9990cacd6ea42eaacc60cbd570b90fca	494	ProSitePatterns	PS01130	SLC26A transporters signature.	42	63	-	T	08-04-2025	IPR018045	Sulphate anion transporter, conserved site	-	-
+5mSIPHEX1_11-scaffold_103_c1_103	9990cacd6ea42eaacc60cbd570b90fca	494	Gene3D	G3DSA:3.30.750.24	STAS domain	385	482	6.8E-32	T	08-04-2025	IPR036513	STAS domain superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_103	9990cacd6ea42eaacc60cbd570b90fca	494	ProSiteProfiles	PS50801	STAS domain profile.	403	494	10.304139	T	08-04-2025	IPR002645	STAS domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_103	9990cacd6ea42eaacc60cbd570b90fca	494	CDD	cd07042	STAS_SulP_like_sulfate_transporter	407	485	7.84503E-11	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_103	9990cacd6ea42eaacc60cbd570b90fca	494	Pfam	PF00916	Sulfate permease family	14	143	5.7E-24	T	08-04-2025	IPR011547	SLC26A/SulP transporter domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_103	9990cacd6ea42eaacc60cbd570b90fca	494	Pfam	PF00916	Sulfate permease family	155	354	1.3E-26	T	08-04-2025	IPR011547	SLC26A/SulP transporter domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_103	9990cacd6ea42eaacc60cbd570b90fca	494	SUPERFAMILY	SSF52091	SpoIIaa-like	396	482	5.89E-10	T	08-04-2025	IPR036513	STAS domain superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_103	9990cacd6ea42eaacc60cbd570b90fca	494	Pfam	PF01740	STAS domain	397	484	4.4E-6	T	08-04-2025	IPR002645	STAS domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_106	dff5bb0d66fe637a81fb1072e3b28b7d	111	NCBIfam	NF002586	YnfA family protein	4	109	1.6E-44	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_106	dff5bb0d66fe637a81fb1072e3b28b7d	111	SUPERFAMILY	SSF103481	Multidrug resistance efflux transporter EmrE	10	107	1.96E-6	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_106	dff5bb0d66fe637a81fb1072e3b28b7d	111	Hamap	MF_00010	UPF0060 membrane protein YnfA [ynfA].	4	108	25.123642	T	08-04-2025	IPR003844	Uncharacterised protein family UPF0060	-	-
+5mSIPHEX1_11-scaffold_103_c1_106	dff5bb0d66fe637a81fb1072e3b28b7d	111	PANTHER	PTHR36116	UPF0060 MEMBRANE PROTEIN YNFA	6	109	8.6E-34	T	08-04-2025	IPR003844	Uncharacterised protein family UPF0060	-	-
+5mSIPHEX1_11-scaffold_103_c1_106	dff5bb0d66fe637a81fb1072e3b28b7d	111	Pfam	PF02694	Uncharacterised BCR, YnfA/UPF0060 family	6	108	4.0E-35	T	08-04-2025	IPR003844	Uncharacterised protein family UPF0060	-	-
+5mSIPHEX1_11-scaffold_103_c1_15	083300c157f3fdc49a7fabfa09a7d768	212	Gene3D	G3DSA:3.40.50.1820	alpha/beta hydrolase	12	190	6.6E-29	T	08-04-2025	IPR029058	Alpha/Beta hydrolase fold	-	-
+5mSIPHEX1_11-scaffold_103_c1_15	083300c157f3fdc49a7fabfa09a7d768	212	PANTHER	PTHR13136	TESTIS DEVELOPMENT PROTEIN PRTD	13	194	2.2E-26	T	08-04-2025	IPR026555	KAT8 regulatory NSL complex subunit 3/Testis-expressed sequence 30 protein	-	-
+5mSIPHEX1_11-scaffold_103_c1_15	083300c157f3fdc49a7fabfa09a7d768	212	Pfam	PF20408	Alpha/beta hydrolase domain	12	205	5.7E-75	T	08-04-2025	IPR046879	KANL3/Tex30, alpha/beta hydrolase-like domain	-	-
+5mSIPHEX1_11-scaffold_103_c1_15	083300c157f3fdc49a7fabfa09a7d768	212	SUPERFAMILY	SSF53474	alpha/beta-Hydrolases	9	183	2.06E-30	T	08-04-2025	IPR029058	Alpha/Beta hydrolase fold	-	-
+5mSIPHEX1_11-scaffold_103_c1_105	72b965ba8664d5776d62e333108a4389	114	Coils	Coil	Coil	60	80	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_105	72b965ba8664d5776d62e333108a4389	114	MobiDBLite	mobidb-lite	consensus disorder prediction	20	40	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_105	72b965ba8664d5776d62e333108a4389	114	PANTHER	PTHR33823	RNA POLYMERASE-BINDING TRANSCRIPTION FACTOR DKSA-RELATED	1	113	4.7E-17	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_105	72b965ba8664d5776d62e333108a4389	114	Coils	Coil	Coil	10	30	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_105	72b965ba8664d5776d62e333108a4389	114	ProSitePatterns	PS01102	Prokaryotic dksA C4-type zinc finger.	85	109	-	T	08-04-2025	IPR020458	Zinc finger, DksA/TraR C4-type conserved site	-	-
+5mSIPHEX1_11-scaffold_103_c1_105	72b965ba8664d5776d62e333108a4389	114	SUPERFAMILY	SSF57716	Glucocorticoid receptor-like (DNA-binding domain)	82	114	6.7E-8	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_105	72b965ba8664d5776d62e333108a4389	114	ProSiteProfiles	PS51128	Prokaryotic dksA C4-type zinc finger profiles.	42	114	21.91106	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_105	72b965ba8664d5776d62e333108a4389	114	Pfam	PF01258	Prokaryotic dksA/traR C4-type zinc finger	81	114	8.5E-9	T	08-04-2025	IPR000962	Zinc finger, DksA/TraR C4-type	-	-
+5mSIPHEX1_11-scaffold_103_c1_105	72b965ba8664d5776d62e333108a4389	114	SUPERFAMILY	SSF109635	DnaK suppressor protein DksA, alpha-hairpin domain	1	81	1.05E-5	T	08-04-2025	IPR037187	DksA, N-terminal domain superfamily	-	-
+5mSIPHEX1_11-scaffold_103_c1_105	72b965ba8664d5776d62e333108a4389	114	Gene3D	G3DSA:1.20.120.910	-	1	114	1.2E-29	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	Coils	Coil	Coil	58	78	-	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	Pfam	PF00582	Universal stress protein family	208	282	1.0E-9	T	08-04-2025	IPR006016	UspA	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	Pfam	PF00582	Universal stress protein family	4	157	1.0E-10	T	08-04-2025	IPR006016	UspA	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	CDD	cd00293	USP-like	165	277	5.19479E-19	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	PRINTS	PR01438	Universal stress protein signature	1	17	2.2E-10	T	08-04-2025	IPR006015	Universal stress protein A family	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	PRINTS	PR01438	Universal stress protein signature	242	254	2.2E-10	T	08-04-2025	IPR006015	Universal stress protein A family	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	PRINTS	PR01438	Universal stress protein signature	260	282	2.2E-10	T	08-04-2025	IPR006015	Universal stress protein A family	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	PANTHER	PTHR46268	STRESS RESPONSE PROTEIN NHAX	210	281	1.5E-23	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	SUPERFAMILY	SSF52402	Adenine nucleotide alpha hydrolases-like	164	282	3.93E-22	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	CDD	cd00293	USP-like	4	156	2.18595E-11	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	Gene3D	G3DSA:3.40.50.12370	-	4	282	6.6E-50	T	08-04-2025	-	-	-	-
+5mSIPHEX1_11-scaffold_103_c1_104	bc248ffe6608f293522b699e78ec9123	282	SUPERFAMILY	SSF52402	Adenine nucleotide alpha hydrolases-like	3	158	4.69E-18	T	08-04-2025	-	-	-	-
