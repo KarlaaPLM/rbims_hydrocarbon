@@ -142,6 +142,8 @@ conda install bioconda::blast
 
 ## Running
 
+### InterProScan
+
 🧩 Example: Running InterProScan
 Process all `.faa` protein files from the test dataset and save the results in the specified output directory.
 
@@ -155,11 +157,11 @@ done
 
 🔧 Parameters:
 
-`-i`: Input protein FASTA file (.faa)
+- `-i`: Input protein FASTA file (.faa)
 
-`-cpu 28`: Number of CPU threads (adjust according to your machine)
+- `-cpu 28`: Number of CPU threads (adjust according to your machine)
 
-`-d`: Output directory for the results
+- `-d`: Output directory for the results
 
 Input:
 
@@ -195,3 +197,64 @@ Output formats:
 💡 Tip:
 Adjust the number of CPUs depending on your available resources.
 Make sure the output directory exists before running the script, or use `mkdir -p` to create it.
+
+### KofamScan
+
+🧩 Example: Run KofamScan (exec_annotation) on multiple .faa files
+
+```bash
+# Create output directory for KofamScan results
+mkdir -p test/results/02.kofam
+
+# Run KofamScan on each .faa file in the input directory
+for faa in test/data/faa/*.faa; do
+  echo "Processing $faa ..."
+  exec_annotation -o test/results/02.kofam/$(basename $faa).txt \
+                  "$faa" \
+                  --report-unannotated \
+                  --tmp-dir test/results/02.kofam/$(basename $faa).tmp \
+                  --cpu 28
+done
+
+echo "KofamScan annotation completed. Results are in test/results/02.kofam/"
+
+#remove tmp dir (optional)
+#rm -r test/results/02.kofam/*.tmp/
+```
+
+🔧 Parameters:
+
+- `-o`: Output file for annotation results
+
+- `--report-unannotated`: Include unannotated sequences in the output
+
+- `--tmp-dir`: Temporary directory for intermediate files
+
+- `--cpu 28`: Number of CPU threads (adjust according to your machine)
+
+
+Input:
+
+```bash
+test/data/faa/
+├── sample1.faa
+├── sample2.faa
+├── sample3.faa
+└── ...
+```
+
+Output:
+
+```bash
+test/results/02.kofam/
+├── sample1.faa.txt
+├── sample1.faa.tmp/
+├── sample2.faa.txt
+├── sample2.faa.tmp/
+└── ...
+```
+
+Output formats:
+
+- `.txt`: Annotation results per protein FASTA file
+- `.tmp/`: Temporary directory with intermediate KofamScan files
