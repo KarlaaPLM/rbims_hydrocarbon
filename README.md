@@ -195,7 +195,7 @@ order_taxa_700m <- c(
 #### Plot
 
 ```r
-metadata_5m_renamed <- read_xlsx("5m_metadata_renamed.xlsx")
+metadata_5m_renamed <- read_xlsx("5m_renamed.xlsx")
 bubble_5m <- 
             plot_bubble(important_PFAMS_5m, 
             y_axis=Pfam, 
@@ -208,8 +208,8 @@ bubble_5m <-
             order_bins = order_taxa_5m,
             data_experiment = metadata_5m_renamed,
             color_character = Class)
-metadata_700m_renamed <- read_xlsx("Hidrocaruros/700m_renamed.xlsx")
 
+metadata_700m_renamed <- read_xlsx("Hidrocaruros/700m_renamed.xlsx")
 bubble_700m <- 
             plot_bubble(important_PFAMs_700m, 
             y_axis=Pfam, 
