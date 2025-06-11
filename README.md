@@ -1,4 +1,4 @@
-:technologist: # MAGs for the data analysis of hydrocarbon‑degrading bacteria. 
+# :technologist: MAGs for the data analysis of hydrocarbon‑degrading bacteria. 
 
 In this repository you can find the 42 MAGs used to test rbims and the userguide to replicate our results. The MAGs are submitted under project ID PRJNA816150. 
 But you can download the data directly from the directories here displayed. 
@@ -7,8 +7,8 @@ But you can download the data directly from the directories here displayed.
 - Functional annotation: proteomes annotated with KEGG and InterProScan, ready to be used by rbims in R.
 - Install: Instructions to generate annotations based on Kofamscan, InterproScan, dbCAN and MEROPS using the rbims conda environment: rbimsenv. Make sure to download only the Raw data.
 
-:computer:
-# Replicate our data analysis 
+
+# :computer: Replicate our data analysis 
 ## Install packages
 ```r
 install.packages("devtools")
