@@ -18,6 +18,7 @@ library(tidyverse)
 devtools::install_github("mirnavazquez/RbiMs", force = T)
 library(rbims)
 library(readxl)
+library(dplyr)
 ```
 ## Read data and metadata
 ```r
@@ -72,5 +73,153 @@ interpro_pfam_profile_renamed <- interpro_pfam_profile %>%
 ```
 ## Subset important features
 ```r
-
+important_PFAMs<-get_subset_pca(tibble_rbims=interpro_pfam_profile_renamed, 
+                                    cos2_val=0.97,
+                                    analysis="Pfam")
 ```
+## Plot with the visualization tools
+### Heatmap
+If we set the distance option as TRUE, we can plot to show how the samples could cluster based on the protein domains.
+
+```r
+plot_heatmap(important_PFAMs, 
+             y_axis=Pfam, 
+             analysis = "INTERPRO", 
+             distance = T)
+```
+If we set that to FALSE, we observed the presence and absence of the domains across the genome samples.
+
+```r
+plot_heatmap(important_PFAMs_ind, 
+             y_axis=Pfam, 
+             analysis= "INTERPRO", 
+             distance = F)
+```
+### Bubble plot
+#### Lets order the taxa names and filter per environment. 
+```r
+important_PFAMS_5m <- important_PFAMs_ind %>%
+  select("Pfam","domain_name" ,  
+         "g_Flavobacterium_5m_16",
+             "g_Flavobacterium_5m_26",
+             "g_Henriciella_5m_15",
+             "g_Hyphomonas_5m_32",
+             "g_Hyphomonas_5m_33",
+             "g_Celeribacter_5m_10",
+             "g_Celeribacter_5m_0",
+             "s_Planktomarina_temperata_5m_1",
+             "s_Lentibacter_algarum_5m_13",
+             "s_Lentibacter_algarum_5m_7",
+             "g_Tateyamaria_5m_25",
+             "g_Tateyamaria_5m_8",
+             "o_Pseudomonadales_5m_2",
+             "s_Thalassolituus_oleivorans_5m_5",
+             "s_Thalassolituus_oleivorans_5m_19",
+             "g_Pseudophaeobacter_5m_3",
+             "g_Pseudophaeobacter_5m_37",
+             "g_Glaciecola_5m_9",
+             "g_Alcanivorax_5m_25",
+             "g_Alcanivorax_5m_18",
+             "s_Marinobacter_salarius_5m_14",
+             "s_Marinobacter_salarius_5m_10",
+             "g_Oleibacter_5m_18",
+             "s_Alcanivorax_jadensis_5m_11")
+
+important_PFAMs_700m <- important_PFAMs_ind %>%
+  select("Pfam","domain_name" , 
+         "g_Pseudophaeobacter_700m_8",
+         "g_Pseudophaeobacter_700m_13",
+         "g_Glaciecola_700m_16",
+         "g_Glaciecola_700m_18",
+         "g_Alcanivorax_700m_20",
+         "s_Marinobacter_salarius_700m_3",
+         "s_Marinobacter_salarius_700m_24",
+         "g_Oleibacter_700m_21",
+         "g_Oleibacter_700m_15",
+         "g_Olleya_700m_17",
+         "g_Olleya_700m_14",
+         "g_Dokdonia_700m_23",
+         "g_Dokdonia_700m_12",
+         "g_Paracoccus_700m_9",
+         "g_Paracoccus_700m_1",
+         "g_Sulfitobacter_700m_0",
+         "g_Alteromonas_700m_22",
+         "g_Alteromonas_700m_2")
+
+  order_taxa_5m <- c(
+    "g_Celeribacter_5m_0",
+    "g_Celeribacter_5m_10",
+    "g_Henriciella_5m_15",
+    "g_Hyphomonas_5m_32",
+    "g_Hyphomonas_5m_33",
+    "g_Pseudophaeobacter_5m_3",
+    "g_Pseudophaeobacter_5m_37",
+    "g_Tateyamaria_5m_25",
+    "g_Tateyamaria_5m_8",
+    "s_Lentibacter_algarum_5m_13",
+    "s_Lentibacter_algarum_5m_7",
+    "s_Marinobacter_salarius_5m_10",
+    "s_Marinobacter_salarius_5m_14",
+    "s_Planktomarina_temperata_5m_1",
+    "g_Flavobacterium_5m_16",
+    "g_Flavobacterium_5m_26",
+    "g_Alcanivorax_5m_18",
+    "g_Alcanivorax_5m_25",
+    "g_Glaciecola_5m_9",
+    "g_Oleibacter_5m_18",
+    "o_Pseudomonadales_5m_2",
+    "s_Alcanivorax_jadensis_5m_11",
+    "s_Thalassolituus_oleivorans_5m_19",
+    "s_Thalassolituus_oleivorans_5m_5"
+    )
+order_taxa_700m <- c(  
+  "g_Paracoccus_700m_1",
+  "g_Paracoccus_700m_9",
+  "g_Pseudophaeobacter_700m_13",
+  "g_Pseudophaeobacter_700m_8",
+  "g_Sulfitobacter_700m_0",
+  "s_Marinobacter_salarius_700m_24",
+  "s_Marinobacter_salarius_700m_3",
+  "g_Dokdonia_700m_12",
+  "g_Dokdonia_700m_23",
+  "g_Olleya_700m_14",
+  "g_Olleya_700m_17",
+  "g_Alcanivorax_700m_20",
+  "g_Alteromonas_700m_2",
+  "g_Alteromonas_700m_22",
+  "g_Glaciecola_700m_16",
+  "g_Glaciecola_700m_18",
+  "g_Oleibacter_700m_15",
+  "g_Oleibacter_700m_21")
+```
+#### Plot
+metadata_5m_renamed <- read_xlsx("5m_metadata_renamed.xlsx")
+```r
+bubble_5m <- 
+            plot_bubble(important_PFAMS_5m, 
+            y_axis=Pfam, 
+            x_axis=Bin_name, 
+            calc = "Binary",
+            range_size = 3, 
+            text_x = 9,
+            text_y = 10.5,
+            analysis = "INTERPRO", 
+            order_bins = order_taxa_5m,
+            data_experiment = metadata_5m_renamed,
+            color_character = Class)
+metadata_700m_renamed <- read_xlsx("Hidrocaruros/700m_renamed.xlsx")
+
+bubble_700m <- 
+            plot_bubble(important_PFAMs_700m, 
+            y_axis=Pfam, 
+            x_axis=Bin_name, 
+            range_size = 3,
+            calc = "Binary",
+            text_x = 9,
+            text_y = 10.5,
+            analysis = "INTERPRO", 
+            order_bins = order_taxa_700m,
+            data_experiment = metadata_700m_renamed,
+            color_character = Class) 
+```
+
