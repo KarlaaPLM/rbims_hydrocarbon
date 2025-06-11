@@ -193,8 +193,9 @@ order_taxa_700m <- c(
   "g_Oleibacter_700m_21")
 ```
 #### Plot
-metadata_5m_renamed <- read_xlsx("5m_metadata_renamed.xlsx")
+
 ```r
+metadata_5m_renamed <- read_xlsx("5m_metadata_renamed.xlsx")
 bubble_5m <- 
             plot_bubble(important_PFAMS_5m, 
             y_axis=Pfam, 
