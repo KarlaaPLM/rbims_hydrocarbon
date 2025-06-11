@@ -1,4 +1,4 @@
-# Functional annotation with KEGG
+# :technologist: Functional annotation with KEGG
 
 The raw proteomes were functionally annotated using InterProScan database to retrieve protein families.
 
