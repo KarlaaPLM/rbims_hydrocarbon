@@ -78,25 +78,7 @@ important_PFAMs<-get_subset_pca(tibble_rbims=interpro_pfam_profile_renamed,
                                     analysis="Pfam")
 ```
 ## Plot with the visualization tools
-### Heatmap
-If we set the distance option as TRUE, we can plot to show how the samples could cluster based on the protein domains.
-
-```r
-plot_heatmap(important_PFAMs, 
-             y_axis=Pfam, 
-             analysis = "INTERPRO", 
-             distance = T)
-```
-If we set that to FALSE, we observed the presence and absence of the domains across the genome samples.
-
-```r
-plot_heatmap(important_PFAMs, 
-             y_axis=Pfam, 
-             analysis= "INTERPRO", 
-             distance = F)
-```
-### Bubble plot
-#### Lets order the taxa names and filter per environment. 
+### Lets order the taxa names and filter per environment. 
 ```r
 important_PFAMS_5m <- important_PFAMs %>%
   select("Pfam","domain_name",
@@ -192,7 +174,7 @@ order_taxa_700m <- c(
           "g_Oleibacter_700m_15",
           "g_Oleibacter_700m_21")
 ```
-#### Plot
+#### Bubble plot
 
 ```r
 metadata_5m_renamed <- read_xlsx("5m_renamed.xlsx")
@@ -223,4 +205,20 @@ bubble_700m <-
             data_experiment = metadata_700m_renamed,
             color_character = Class) 
 ```
+#### Heatmap plot
+If we set the distance option as TRUE, we can plot to show how the samples could cluster based on the protein domains.
 
+```r
+plot_heatmap(important_PFAMs, 
+             y_axis=Pfam, 
+             analysis = "INTERPRO", 
+             distance = T)
+```
+If we set that to FALSE, we observed the presence and absence of the domains across the genome samples.
+
+```r
+plot_heatmap(important_PFAMs, 
+             y_axis=Pfam, 
+             analysis= "INTERPRO", 
+             distance = F)
+```
