@@ -336,7 +336,7 @@ order_taxa_700m <- c(
           "g_Oleibacter_700m_15",
           "g_Oleibacter_700m_21")
 ```
-#### Bubble plot
+### Bubble plot
 
 ```r
 metadata_5m_renamed <- read_xlsx("5m_renamed.xlsx")
@@ -367,7 +367,7 @@ bubble_700m <-
             data_experiment = metadata_700m_renamed,
             color_character = Class) 
 ```
-#### Heatmap plot
+### Heatmap plot
 If we set the distance option as TRUE, we can plot to show how the samples could cluster based on the protein domains.
 
 ```r
