@@ -90,7 +90,7 @@ plot_heatmap(important_PFAMs,
 If we set that to FALSE, we observed the presence and absence of the domains across the genome samples.
 
 ```r
-plot_heatmap(important_PFAMs_ind, 
+plot_heatmap(important_PFAMs, 
              y_axis=Pfam, 
              analysis= "INTERPRO", 
              distance = F)
@@ -98,7 +98,7 @@ plot_heatmap(important_PFAMs_ind,
 ### Bubble plot
 #### Lets order the taxa names and filter per environment. 
 ```r
-important_PFAMS_5m <- important_PFAMs_ind %>%
+important_PFAMS_5m <- important_PFAMs %>%
   select("Pfam","domain_name",
          "g_Flavobacterium_5m_16",
          "g_Flavobacterium_5m_26",
@@ -125,7 +125,7 @@ important_PFAMS_5m <- important_PFAMs_ind %>%
          "g_Oleibacter_5m_18",
          "s_Alcanivorax_jadensis_5m_11")
 
-important_PFAMs_700m <- important_PFAMs_ind %>%
+important_PFAMs_700m <- important_PFAMs %>%
   select("Pfam","domain_name", 
          "g_Pseudophaeobacter_700m_8",
          "g_Pseudophaeobacter_700m_13",
