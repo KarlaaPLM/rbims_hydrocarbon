@@ -22,7 +22,7 @@ library(dplyr)
 ```
 # KEGG
 ## Read data and metadata
-
+```r
 ko_hidro_table<-read_ko(data_kofam ="KEGG_hidro/")
 metadata_renamed <- read_excel("metadata_SIPH_renamed.xlsx")
 ko_hidro_table_renamed <- ko_hidro_table %>%
@@ -69,7 +69,9 @@ ko_hidro_table_renamed <- ko_hidro_table %>%
                 Bin_name == "700mSIPHEX1_0" ~  "g_Sulfitobacter_700m_0",
                 Bin_name == "700mSIPHEX2_22" ~  "g_Alteromonas_700m_22",
                 Bin_name == "700mSIPHEX1_2" ~  "g_Alteromonas_700m_2"))
+```
 ## Mapping
+```r
  ko_hidro_mapp_renamed<-mapping_ko(ko_hidro_table_renamed)
             
         
@@ -79,9 +81,10 @@ ko_hidro_table_renamed <- ko_hidro_table %>%
         Energy_metabolisms_hidro_renamed <- ko_hidro_mapp_renamed %>%
           drop_na(rbims_pathway) %>%
           get_subset_pathway(rbims_pathway, Overview) 
-
+```
 ## Plot
 ### Bubble plot (separated by different depths)
+```r
 Energy_metabolisms_hidro_5m_newnames <- Energy_metabolisms_hidro_renamed %>%
   select("Module","Module_description", "Pathway","Pathway_description",
           "Cycle", "Pathway_cycle", "Detail_cycle", "Genes", "rbims_pathway",
@@ -166,7 +169,9 @@ pathways_700m <- plot_bubble(tibble_ko = Energy_metabolisms_hidro_700m_newnames,
                             range_size = c(1,15),
                             y_labs=FALSE,
                             x_labs=FALSE)
+```
 ### Heatmap plot
+```r
 plot_heatmap(tibble_ko=Energy_metabolisms_hidro_renamed,
                          y_axis = Genes,
                          data_experiment = metadata_renamed,
@@ -175,7 +180,7 @@ plot_heatmap(tibble_ko=Energy_metabolisms_hidro_renamed,
                          split_y = T,
                          analysis = "KEGG",
                          calc="Abundance")
-
+```
 # Interpro
 ## Read data and metadata
 ```r
