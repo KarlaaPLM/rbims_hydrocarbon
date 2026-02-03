@@ -25,50 +25,11 @@ library(dplyr)
 ```r
 ko_hidro_table<-read_ko(data_kofam ="KEGG_hidro/")
 metadata_renamed <- read_excel("metadata_SIPH_renamed.xlsx")
+
 ko_hidro_table_renamed <- ko_hidro_table %>%
-    mutate(Bin_name = case_when(
-            Bin_name == "5mSIPHEX2_16" ~  "g_Flavobacterium_5m_16",
-            Bin_name == "5mSIPHEX1_26" ~  "g_Flavobacterium_5m_26",
-            Bin_name == "5mSIPHEX1_15" ~  "g_Henriciella_5m_15",
-            Bin_name == "5mSIPHEX1_32" ~  "g_Hyphomonas_5m_32",
-            Bin_name == "5mSIPHEX1_33" ~  "g_Hyphomonas_5m_33",
-            Bin_name == "5mSIPHEX2_10" ~  "g_Celeribacter_5m_10",
-            Bin_name == "5mSIPHEX1_0" ~  "g_Celeribacter_5m_0",
-            Bin_name == "5mSIPHEX1_1" ~  "s_Planktomarina_temperata_5m_1",
-            Bin_name == "5mSIPHEX1_13" ~  "s_Lentibacter_algarum_5m_13",
-            Bin_name == "5mSIPHEX2_7" ~  "s_Lentibacter_algarum_5m_7",
-            Bin_name == "5mSIPHEX2_25" ~  "g_Tateyamaria_5m_25",
-            Bin_name == "5mSIPHEX1_8" ~  "g_Tateyamaria_5m_8",
-            Bin_name == "5mSIPHEX1_2" ~  "o_Pseudomonadales_5m_2",
-            Bin_name == "5mSIPHEX2_5" ~  "s_Thalassolituus_oleivorans_5m_5",
-            Bin_name == "5mSIPHEX1_19" ~  "s_Thalassolituus_oleivorans_5m_19",
-            Bin_name == "5mSIPHEX2_3" ~  "g_Pseudophaeobacter_5m_3",
-            Bin_name == "5mSIPHEX1_37" ~  "g_Pseudophaeobacter_5m_37",
-            Bin_name == "700mSIPHEX1_8" ~  "g_Pseudophaeobacter_700m_8",
-            Bin_name == "700mSIPHEX2_13" ~  "g_Pseudophaeobacter_700m_13",
-            Bin_name == "5mSIPHEX1_9" ~  "g_Glaciecola_5m_9",
-            Bin_name == "700mSIPHEX2_16" ~  "g_Glaciecola_700m_16",
-            Bin_name == "700mSIPHEX1_18" ~  "g_Glaciecola_700m_18",
-            Bin_name == "5mSIPHEX1_11" ~  "s_Alcanivorax_jadensis_5m_11",
-            Bin_name == "700mSIPHEX1_20" ~  "g_Alcanivorax_700m_20",
-            Bin_name == "5mSIPHEX1_25" ~  "g_Alcanivorax_5m_25",
-            Bin_name == "5mSIPHEX2_18" ~  "g_Alcanivorax_5m_18",
-            Bin_name == "5mSIPHEX2_14" ~  "s_Marinobacter_salarius_5m_14",
-            Bin_name == "700mSIPHEX1_3" ~  "s_Marinobacter_salarius_700m_3",
-            Bin_name == "5mSIPHEX1_10" ~  "s_Marinobacter_salarius_5m_10",
-            Bin_name == "700mSIPHEX2_24" ~  "s_Marinobacter_salarius_700m_24",
-            Bin_name == "5mSIPHEX1_18" ~  "g_Oleibacter_5m_18",
-            Bin_name == "700mSIPHEX2_21" ~  "g_Oleibacter_700m_21",
-            Bin_name == "700mSIPHEX1_15" ~  "g_Oleibacter_700m_15",
-            Bin_name == "700mSIPHEX1_17" ~  "g_Olleya_700m_17",
-            Bin_name == "700mSIPHEX2_14" ~  "g_Olleya_700m_14",
-            Bin_name == "700mSIPHEX2_23" ~  "g_Dokdonia_700m_23",
-            Bin_name == "700mSIPHEX1_12" ~  "g_Dokdonia_700m_12",
-            Bin_name == "700mSIPHEX2_9" ~  "g_Paracoccus_700m_9",
-            Bin_name == "700mSIPHEX1_1" ~  "g_Paracoccus_700m_1",
-            Bin_name == "700mSIPHEX1_0" ~  "g_Sulfitobacter_700m_0",
-            Bin_name == "700mSIPHEX2_22" ~  "g_Alteromonas_700m_22",
-            Bin_name == "700mSIPHEX1_2" ~  "g_Alteromonas_700m_2"))
+  left_join(metadata %>% select(Bin_name, Clean_name), by = "Bin_name") %>%
+  mutate(Bin_name = ifelse(!is.na(Clean_name), Clean_name, Bin_name)) %>%
+  select(-Clean_name)
 ```
 ## Mapping
 Subsetting interesting features: Hydrocarbon degradation pathways
