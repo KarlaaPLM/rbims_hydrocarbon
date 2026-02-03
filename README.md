@@ -24,7 +24,7 @@ library(dplyr)
 ## Read data and metadata
 ```r
 ko_hidro_table<-read_ko(data_kofam ="KEGG_hidro/")
-metadata_renamed <- read_excel("metadata_SIPH_renamed.xlsx")
+metadata_renamed <- read_excel("metadata_SIPH.xlsx")
 
 ko_hidro_table_renamed <- ko_hidro_table %>%
   left_join(metadata %>% select(Bin_name, Clean_name), by = "Bin_name") %>%
