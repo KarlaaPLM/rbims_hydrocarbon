@@ -97,6 +97,7 @@ tar -pxvzf interproscan-5.73-104.0-*-bit.tar.gz
 Create index models
 
 ```python
+cd interproscan-5.73-104.0/
 python3 setup.py -f interproscan.properties
 ```
 
