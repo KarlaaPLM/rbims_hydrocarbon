@@ -104,6 +104,10 @@ python3 setup.py -f interproscan.properties
 Config IprScan inside environment, export PATH
 
 ```bash
+cd
+mkdir -p $CONDA_PREFIX/etc/conda/activate.d
+mkdir -p $CONDA_PREFIX/etc/conda/deactivate.d
+
 # export iprscan to activate environment 
 echo 'export PATH=/PATH to USER Interpro binary directory/DBs/iprscan/interproscan-5.73-104.0:$PATH' > $CONDA_PREFIX/etc/conda/activate.d/interproscan_activate.sh
 
