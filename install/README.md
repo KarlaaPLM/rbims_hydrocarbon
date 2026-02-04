@@ -233,6 +233,7 @@ Make sure the output directory exists before running the script, or use `mkdir -
 
 ```bash
 # Create output directory for KofamScan results
+mkdir -p test/data/faa
 mkdir -p test/results/02.kofam
 
 # Run KofamScan on each .faa file in the input directory
