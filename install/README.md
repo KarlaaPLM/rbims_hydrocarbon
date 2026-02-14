@@ -171,6 +171,13 @@ Please refer to the official manuals for advanced options, detailed explanations
 🧩 Example: Running InterProScan
 Process all `.faa` protein files from the test dataset and save the results in the specified output directory.
 
+Note: Sometimes, annotations previosuly ran with Prokka generate asterisks present at the end of each entry. This is an incompatibility with InterProScan, to remove them use the following command: 
+
+```bash
+cd test/data/faa/
+find . -type f -exec sed -i 's/\*//g' {} +
+```
+
 ```bash
 # Create output directory for InterProScan results
 mkdir -p test/results/01.iprscan
