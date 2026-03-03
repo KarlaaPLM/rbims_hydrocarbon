@@ -391,7 +391,7 @@ for faa in test/data/faa/*.faa; do
     -db "$db" \
     -num_threads 32 \
     -out "test/results/04.merops/${locustag}.txt" \
-    -outfmt 6
+    -outfmt "6 qseqid sseqid stitle pident evalue bitscore"
 done
 
 echo "MEROPS BLASTp analysis completed. Results are in $out/"
