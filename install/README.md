@@ -6,7 +6,7 @@ You can follow the steps below according the follow workflow:
 
 ## Workflow overview
 
-![Workflow diagram](images/workflow.svg)
+![Workflow diagram](images/workflow_updated.svg)
 
 ---
 ## Install
