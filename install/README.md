@@ -8,6 +8,7 @@ You can follow the steps below according the follow workflow:
 
 ![Workflow diagram](images/workflow.svg)
 
+---
 ## Install
 
 ### Step 01. Create database directory
@@ -22,7 +23,7 @@ mkdir -p DBs/{kegg,cazy,merops,iprscan}
 conda  create -n rbimsenv -c conda-forge -c bioconda -c defaults hmmer parallel python=3.8
 conda activate rbimsenv
 ```
-
+---
 ### Step 03. Install KofamScan
 
 ```bash
@@ -71,6 +72,8 @@ parallel: /PATH to/USER/.conda/envs/rbimsenv/bin/parallel
 cpu: 8
 ```
 
+---
+
 ### Step 04. Install InterProScan
 
 Install Java v11
@@ -115,7 +118,9 @@ echo 'export PATH=/PATH to USER Interpro binary directory/DBs/iprscan/interprosc
 echo 'export PATH=$(echo $PATH | sed -e "s|/PATH to USER Interpro binary directory/DBs/iprscan/interproscan-5.73-104.0:||")' > $CONDA_PREFIX/etc/conda/deactivate.d/interproscan_deactivate.sh
 ```
 
-## Step 05. Install dbCAN
+---
+
+### Step 05. Install dbCAN
 
 ```bash
 # Install run_dbcan
@@ -141,6 +146,8 @@ dbcan_build --cpus 8 --db-dir ./db --clean
 
 ```
 
+---
+
 ### Step 06. Install MEROPS
 
 Install blast
@@ -153,12 +160,29 @@ wget https://ftp.ebi.ac.uk/pub/databases/merops/current_release/protease.lib
 makeblastdb -in protease.lib -dbtype prot -out merops_db
 ```
 
-### Step 07. Install RBims
+---
+
+### Step 07. Install PICRUSt2 (for 16S Analysis)
+Aditionally this step allows *rbims* to handle functional predictions derived from 16S rRNA gene sequences (e.g., from QIIME2). PICRUSt2 will predict the presence of functional genes (KEGG Orthologs) which *rbims* can then analyze.
+
+```bash
+# Install PICRUSt2
+conda install -c bioconda -c conda-forge picrust2
+
+# Verify installation
+picrust2_pipeline.py --help
+```
+
+---
+
+### Step 08. Install RBims
 
 ```bash
 Rscript -e "devtools::install_github('mirnavazquez/RbiMs')"
 ```
 
+---
+---
 ## Running
 
 ⚠️ Important Note:
@@ -235,6 +259,7 @@ Output formats:
 Adjust the number of CPUs depending on your available resources.
 Make sure the output directory exists before running the script, or use `mkdir -p` to create it.
 
+---
 ### KofamScan
 
 🧩 Example: Run KofamScan (exec_annotation) on multiple .faa files
@@ -287,6 +312,7 @@ Output formats:
 - `.txt`: Annotation results per protein FASTA file
 - `.tmp/`: Temporary directory with intermediate KofamScan files
 
+---
 ### dbCAN
 
 🧩 Example: Run dbCAN (run_dbcan) on multiple .faa files
@@ -370,6 +396,7 @@ Adjust the number of CPUs and paths according to your environment.
 Make sure to replace `DBs/cazy/run_dbcan/db` with the actual path to your dbCAN database.
 The script will automatically process all `.faa` files in the input folder.
 
+---
 ### MEROPS
 
 🧩 Example: Run MEROPS (BLASTp) on multiple .faa files
@@ -419,3 +446,28 @@ test/results/04.merops/
 ```
 💡 Tip:Adjust the number of CPUs according to your available resources.
 The script will automatically process all .faa files in the input folder.
+
+---
+### PICRUSt2
+🧩 Example: Running PICRUSt2 Pipeline
+
+If you have a Feature Table (.biom) and Representative Sequences (.fna) exported from QIIME2, you can predict the functional profiles with PICRUSt2 to be used in *rbims*.
+
+```bash
+# Create output directory for PICRUSt2 results
+mkdir -p test/results/05.picrust2
+
+# Run the full pipeline
+picrust2_pipeline.py -i test/data/16S/feature_table.biom \
+                     -s test/data/16S/representative_seqs.fna \
+                     -o test/results/05.picrust2/ \
+                     -p 8 
+```
+🔧 Parameters:
+
+ - `-i`: study_observations.biom (Exported from QIIME2)
+ - `-s`: study_seqs.fna (Representative sequences)
+ - `-o`: Output file for results
+ - `-o`: threads
+
+
