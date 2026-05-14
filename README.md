@@ -12,5 +12,5 @@ But you can download the data directly from the directories here displayed.
 1. Download the repository
 2. Download the files from the "Functional annotation" directories and place them in the root of the “rbims_hydrocarbon-main” directory
 3. Create an R project inside the root of the “rbims_hydrocarbon-main” directory
-4. Run or knit the file “rbims hydroacarbon case study.rmd”
+4. Run or knit the file “rbims hydrocarbon case study.rmd”
 5. Check the "results" new directory and explore the figures and tables
