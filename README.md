@@ -7,7 +7,7 @@ But you can download the data directly from the directories here displayed.
 - Functional annotation: proteomes annotated with KEGG and InterProScan, ready to be used by rbims in R.
 - Install: Instructions to generate annotations based on Kofamscan, InterproScan, dbCAN and MEROPS using the rbims conda environment: rbimsenv. Make sure to download only the Raw data.
 
-# :Clipboard: Steps for replicating our analysis
+# 📊 Steps for replicating our analysis
 
 1. Download the repository
 2. Download the files from the "Functional annotation" directories and place them in the root of the “rbims_hydrocarbon-main” directory
